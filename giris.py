@@ -76,42 +76,15 @@ def kredi_grafigi():
     noktalar["tarih_metin"] = noktalar["tarih"].dt.strftime("%d.%m.%Y")
     noktalar["tur"] = ["Ay sonu"] * (len(noktalar) - 1) + ["Son bülten"]
 
-    # Özet rakamlar
-    onceki_ay = ay_sonu.iloc[-1] if not ay_sonu.empty else None
-    gecen_yil = d[d["tarih"] <= son["tarih"] - pd.Timedelta(days=364)]
-    k1, k2, k3, k4 = st.columns(4)
-    k1.metric(f"Son bülten ({son['tarih']:%d.%m.%Y})", f"{tr(son['trilyon'])} trilyon TL")
-    if onceki_ay is not None:
-        k2.metric("Önceki ay sonuna göre", f"%{tr((son['trilyon'] / onceki_ay['trilyon'] - 1) * 100, 1)}",
-                  help=f"{onceki_ay['tarih']:%d.%m.%Y} tarihli bültenle karşılaştırma")
-    if not gecen_yil.empty:
-        gy = gecen_yil.iloc[-1]
-        nominal = son["trilyon"] / gy["trilyon"] - 1
-        k3.metric("Yıllık büyüme (nominal)", f"%{tr(nominal * 100, 1)}",
-                  help=f"{gy['tarih']:%d.%m.%Y} tarihli bültenle karşılaştırma")
-        gy_endeks = ay_endeksi(endeks, gy["tarih"]) if taban_endeks is not None else None
-        if gy_endeks:
-            enflasyon = taban_endeks / gy_endeks - 1
-            reel = (1 + nominal) / (1 + enflasyon) - 1
-            k4.metric("Yıllık büyüme (reel)", f"%{tr(reel * 100, 1)}",
-                      help=f"Aynı dönemde TÜFE artışı %{tr(enflasyon * 100, 1)}; nominal büyümeden arındırıldı.")
+    # Özet rakamlar: anahtar açıksa değişimler enflasyondan arındırılmış hesaplanır
+    def yuzde(x):
+        return f"{'-' if x < 0 else ''}%{tr(abs(x) * 100, 1)}"
 
-    # Grafik
-    sira = list(noktalar["ay"])
-    taban = alt.Chart(noktalar).encode(
-        x=alt.X("ay:N", sort=sira, title=None, axis=alt.Axis(labelAngle=0, labelPadding=8)),
-        y=alt.Y("deger:Q", title=eksen, scale=alt.Scale(zero=False, padding=28),
-                axis=alt.Axis(labelExpr="replace(format(datum.value, '.2f'), '.', ',')", tickCount=5)),
-    )
-    ipucu = [alt.Tooltip("tarih_metin:N", title="Bülten tarihi"),
-             alt.Tooltip("etiket:N", title="Trilyon TL"), alt.Tooltip("tur:N", title="Nokta")]
-    cizgi = taban.mark_line(color=RENK, strokeWidth=2.5)
-    nokta = taban.mark_circle(size=55, color=RENK, opacity=1).encode(tooltip=ipucu)
-    etiket = taban.mark_text(dy=-14, fontSize=12, fontWeight=600).encode(text="etiket:N")
-    son_nokta = alt.Chart(noktalar.tail(1)).mark_circle(size=150, color=VURGU, opacity=1).encode(
-        x=alt.X("ay:N", sort=sira), y="deger:Q", tooltip=ipucu)
-    st.altair_chart((cizgi + nokta + etiket + son_nokta).properties(height=380), width="stretch")
-    st.caption(f"Kaynak: BDDK Haftalık Bülten, sektör toplamı (TP+YP), milyon TL'den trilyon TL'ye çevrilmiştir. "
-               f"Mavi noktalar her ayın son bülteni, turuncu nokta son yayınlanan bülten ({son['tarih']:%d.%m.%Y}). "
-               + ("Enflasyondan arındırma TCMB TÜFE verisiyle yapılmıştır." if arindir
-                  else "Tutarlar nominaldir, enflasyon etkisini içerir."))
+    def degisim_kutusu(kolon, baslik, onceki):
+        degisim = son["trilyon"] / onceki["trilyon"] - 1
+        aciklama = f"{onceki['tarih']:%d.%m.%Y} tarihli bültenle karşılaştırma."
+        onceki_endeks = ay_endeksi(endeks, onceki["tarih"]) if arindir and taban_endeks is not None else None
+        if onceki_endeks:
+            enflasyon = taban_endeks / onceki_endeks - 1
+            degisim = (1 + degisim) / (1 + enflasyon) - 1
+            aciklama += f" Aynı dönemdeki
