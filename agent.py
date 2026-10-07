@@ -1,10 +1,12 @@
 """
 AI agent: Yeni haber başlıklarını okur, içindeki piyasa rakamlarını çıkarır
 ve data/rakamlar.csv dosyasına kaydeder.
-API anahtarı GitHub'ın gizli bilgilerinden (ANTHROPIC_API_KEY) okunur, kodda yer almaz.
+Ücretsiz GitHub Models hizmetini kullanır. Gereken izin (GITHUB_TOKEN) GitHub tarafından
+otomatik verilir; kodda hiçbir şifre veya anahtar yoktur.
 """
 import json
 import os
+import urllib.request
 
 import pandas as pd
 
@@ -12,9 +14,10 @@ HABERLER = "data/haberler.csv"
 RAKAMLAR = "data/rakamlar.csv"
 ISLENEN = "data/islenen_linkler.txt"
 
-MODEL = "claude-haiku-4-5-20251001"
+MODEL = "openai/gpt-4o-mini"
+ADRES = "https://models.github.ai/inference/chat/completions"
 PAKET_BOYUTU = 40      # tek seferde AI'a gönderilen başlık sayısı
-CALISMA_LIMITI = 400   # bir çalışmada en fazla kaç başlık işlensin (maliyet kontrolü)
+CALISMA_LIMITI = 200   # bir çalışmada en fazla kaç başlık işlensin (maliyet kontrolü)
 
 GOSTERGELER = [
     "Perakende satış (yıllık %)", "Perakende satış (aylık %)",
@@ -52,13 +55,26 @@ def json_ayikla(metin: str) -> list:
     return json.loads(metin[bas:son + 1])
 
 
-def paketi_isle(istemci, paket: pd.DataFrame) -> list:
-    satirlar = "\n".join(f"{i + 1}. {b}" for i, b in enumerate(paket["baslik"]))
-    cevap = istemci.messages.create(
-        model=MODEL, max_tokens=4000, system=TALIMAT,
-        messages=[{"role": "user", "content": satirlar}],
+def ai_sor(anahtar: str, metin: str) -> str:
+    istek = urllib.request.Request(
+        ADRES,
+        data=json.dumps({
+            "model": MODEL,
+            "temperature": 0,
+            "messages": [
+                {"role": "system", "content": TALIMAT},
+                {"role": "user", "content": metin},
+            ],
+        }).encode("utf-8"),
+        headers={"Authorization": f"Bearer {anahtar}", "Content-Type": "application/json"},
     )
-    metin = "".join(p.text for p in cevap.content if p.type == "text")
+    with urllib.request.urlopen(istek, timeout=120) as cevap:
+        return json.load(cevap)["choices"][0]["message"]["content"]
+
+
+def paketi_isle(anahtar: str, paket: pd.DataFrame) -> list:
+    satirlar = "\n".join(f"{i + 1}. {b}" for i, b in enumerate(paket["baslik"]))
+    metin = ai_sor(anahtar, satirlar)
     kayitlar = []
     for r in json_ayikla(metin):
         try:
@@ -81,15 +97,13 @@ def paketi_isle(istemci, paket: pd.DataFrame) -> list:
 
 
 def main():
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        print("ANTHROPIC_API_KEY tanımlı değil, agent atlandı.")
+    anahtar = os.environ.get("GITHUB_TOKEN")
+    if not anahtar:
+        print("GITHUB_TOKEN tanımlı değil, agent atlandı.")
         return
     if not os.path.exists(HABERLER):
         print("Haber dosyası yok.")
         return
-
-    from anthropic import Anthropic
-    istemci = Anthropic()
 
     haberler = pd.read_csv(HABERLER)
     islenen = set(open(ISLENEN).read().split()) if os.path.exists(ISLENEN) else set()
@@ -101,9 +115,9 @@ def main():
     for bas in range(0, len(yeni), PAKET_BOYUTU):
         paket = yeni.iloc[bas:bas + PAKET_BOYUTU].reset_index(drop=True)
         try:
-            kayitlar = paketi_isle(istemci, paket)
+            kayitlar = paketi_isle(anahtar, paket)
         except Exception as hata:
-            print(f"AI hatası, kalan haberler sonraki çalışmaya kaldı: {hata}")
+            print(f"AI hatası (ücretsiz limit dolmuş olabilir), kalan haberler sonraki çalışmaya kaldı: {hata}")
             break
         if kayitlar:
             rakamlar = pd.concat([rakamlar, pd.DataFrame(kayitlar, columns=SUTUNLAR)], ignore_index=True)
