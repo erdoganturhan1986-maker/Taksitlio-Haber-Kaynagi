@@ -1,0 +1,70 @@
+name: EVDS kesif
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  kesif:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: EVDS katalogunu tara
+        env:
+          EVDS_API_KEY: ${{ secrets.EVDS_API_KEY }}
+        run: |
+          python - << 'PYEOF'
+          import json, os, re, ssl, urllib.request
+          KLASOR = "data/evds_kesif"
+          os.makedirs(KLASOR, exist_ok=True)
+          ANAHTAR = os.environ.get("EVDS_API_KEY", "").strip()
+          ANA = "https://evds2.tcmb.gov.tr/service/evds/"
+          ESNEK = ssl.create_default_context()
+          ESNEK.check_hostname = False
+          ESNEK.verify_mode = ssl.CERT_NONE
+          ozet = [f"Anahtar tanımlı mı: {'evet' if ANAHTAR else 'HAYIR'} (uzunluk {len(ANAHTAR)})"]
+
+          def al(yol):
+              istek = urllib.request.Request(ANA + yol, headers={"key": ANAHTAR, "User-Agent": "Mozilla/5.0"})
+              son = ""
+              for baglam in (None, ESNEK):
+                  try:
+                      with urllib.request.urlopen(istek, timeout=60, context=baglam) as r:
+                          govde = r.read().decode("utf-8", "replace")
+                      return json.loads(govde)
+                  except Exception as hata:
+                      son = str(hata)[:300]
+              raise RuntimeError(son)
+
+          ARANAN = re.compile(r"(?i)kredi|kart|harcama|kullandır|tüketici|bireysel")
+          try:
+              gruplar = al("datagroups/mode=0&type=json")
+              ozet.append(f"Toplam veri grubu: {len(gruplar)}")
+              json.dump(gruplar, open(f"{KLASOR}/tum_gruplar.json", "w"), ensure_ascii=False)
+              secilen = [g for g in gruplar if ARANAN.search(str(g.get("DATAGROUP_NAME", "")))][:80]
+              ozet.append(f"Eşleşen grup: {len(secilen)}")
+              for g in secilen:
+                  kod = g.get("DATAGROUP_CODE")
+                  ozet.append(f"\n## {kod} | {g.get('DATAGROUP_NAME')} | {g.get('FREQUENCY_STR', '')} | "
+                              f"{g.get('START_DATE', '')} -> {g.get('END_DATE', '')}")
+                  try:
+                      for s in al(f"serieList/type=json&code={kod}")[:60]:
+                          ozet.append(f"   {s.get('SERIE_CODE')} | {s.get('SERIE_NAME')} | "
+                                      f"{s.get('FREQUENCY_STR', '')} | {s.get('END_DATE', '')}")
+                  except Exception as hata:
+                      ozet.append(f"   seri listesi alınamadı: {hata}")
+          except Exception as hata:
+              ozet.append(f"Katalog alınamadı: {hata}")
+          open(f"{KLASOR}/ozet.txt", "w").write("\n".join(ozet))
+          print("\n".join(ozet[:40]))
+          PYEOF
+      - name: Sonuclari kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/evds_kesif
+          git commit -m "EVDS kesif sonuclari" || exit 0
+          git pull --rebase
+          git push
