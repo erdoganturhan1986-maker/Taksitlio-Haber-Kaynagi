@@ -11,54 +11,46 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: EVDS katalogunu tara
+      - name: EVDS adreslerini dene
         env:
           EVDS_API_KEY: ${{ secrets.EVDS_API_KEY }}
         run: |
           python - << 'PYEOF'
-          import json, os, re, ssl, urllib.request
+          import os, ssl, urllib.error, urllib.request
           KLASOR = "data/evds_kesif"
           os.makedirs(KLASOR, exist_ok=True)
           ANAHTAR = os.environ.get("EVDS_API_KEY", "").strip()
-          ANA = "https://evds2.tcmb.gov.tr/service/evds/"
           ESNEK = ssl.create_default_context()
           ESNEK.check_hostname = False
           ESNEK.verify_mode = ssl.CERT_NONE
-          ozet = [f"Anahtar tanımlı mı: {'evet' if ANAHTAR else 'HAYIR'} (uzunluk {len(ANAHTAR)})"]
-
-          def al(yol):
-              istek = urllib.request.Request(ANA + yol, headers={"key": ANAHTAR, "User-Agent": "Mozilla/5.0"})
-              son = ""
+          DENEMELER = [
+              "https://evds2.tcmb.gov.tr/service/evds/categories/type=json",
+              "https://evds2.tcmb.gov.tr/service/evds/datagroups/mode=0&type=json",
+              "https://evds2.tcmb.gov.tr/service/evds/series=TP.DK.USD.A&startDate=01-09-2026&endDate=30-09-2026&type=json",
+              "https://evds2.tcmb.gov.tr/",
+              "https://evds3.tcmb.gov.tr/",
+          ]
+          ozet = [f"Anahtar uzunluğu: {len(ANAHTAR)}"]
+          for i, url in enumerate(DENEMELER):
+              istek = urllib.request.Request(url, headers={"key": ANAHTAR, "User-Agent": "Mozilla/5.0"})
+              sonuc = ""
               for baglam in (None, ESNEK):
                   try:
                       with urllib.request.urlopen(istek, timeout=60, context=baglam) as r:
                           govde = r.read().decode("utf-8", "replace")
-                      return json.loads(govde)
+                          sonuc = f"HTTP {r.status} | {r.headers.get('Content-Type')} | son adres: {r.geturl()}"
+                      break
+                  except urllib.error.HTTPError as hata:
+                      govde = hata.read().decode("utf-8", "replace")
+                      sonuc = f"HTTP {hata.code} | {hata.headers.get('Content-Type')}"
+                      break
                   except Exception as hata:
-                      son = str(hata)[:300]
-              raise RuntimeError(son)
-
-          ARANAN = re.compile(r"(?i)kredi|kart|harcama|kullandır|tüketici|bireysel")
-          try:
-              gruplar = al("datagroups/mode=0&type=json")
-              ozet.append(f"Toplam veri grubu: {len(gruplar)}")
-              json.dump(gruplar, open(f"{KLASOR}/tum_gruplar.json", "w"), ensure_ascii=False)
-              secilen = [g for g in gruplar if ARANAN.search(str(g.get("DATAGROUP_NAME", "")))][:80]
-              ozet.append(f"Eşleşen grup: {len(secilen)}")
-              for g in secilen:
-                  kod = g.get("DATAGROUP_CODE")
-                  ozet.append(f"\n## {kod} | {g.get('DATAGROUP_NAME')} | {g.get('FREQUENCY_STR', '')} | "
-                              f"{g.get('START_DATE', '')} -> {g.get('END_DATE', '')}")
-                  try:
-                      for s in al(f"serieList/type=json&code={kod}")[:60]:
-                          ozet.append(f"   {s.get('SERIE_CODE')} | {s.get('SERIE_NAME')} | "
-                                      f"{s.get('FREQUENCY_STR', '')} | {s.get('END_DATE', '')}")
-                  except Exception as hata:
-                      ozet.append(f"   seri listesi alınamadı: {hata}")
-          except Exception as hata:
-              ozet.append(f"Katalog alınamadı: {hata}")
+                      govde, sonuc = "", f"BAĞLANTI HATASI: {str(hata)[:200]}"
+              govde = govde.replace(ANAHTAR, "***") if ANAHTAR else govde
+              open(f"{KLASOR}/deneme{i}.txt", "w").write(govde[:20000])
+              ozet.append(f"\n[{i}] {url}\n    {sonuc} | {len(govde)} karakter\n    başı: {govde[:300]!r}")
           open(f"{KLASOR}/ozet.txt", "w").write("\n".join(ozet))
-          print("\n".join(ozet[:40]))
+          print("\n".join(ozet))
           PYEOF
       - name: Sonuclari kaydet
         run: |
