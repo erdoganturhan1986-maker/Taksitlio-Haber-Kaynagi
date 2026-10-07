@@ -8,6 +8,7 @@ import pandas as pd
 import streamlit as st
 
 DOSYA = Path(__file__).parent / "data" / "bddk_krediler.csv"
+TUFE = Path(__file__).parent / "data" / "tufe.csv"
 SERILER = ["Tüketici kredileri (toplam)", "İhtiyaç kredileri", "Konut kredileri", "Bireysel kredi kartları"]
 AY = ["Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"]
 RENK, VURGU = "#1d4ed8", "#ea580c"
@@ -28,6 +29,21 @@ def veri():
     return d
 
 
+@st.cache_data(ttl=3600)
+def tufe_verisi():
+    """Ay -> fiyat endeksi eşlemesi. Veri yoksa boş döner."""
+    if not TUFE.exists():
+        return pd.Series(dtype=float)
+    t = pd.read_csv(TUFE)
+    return pd.Series(t["endeks"].values, index=pd.PeriodIndex(t["donem"], freq="M")).sort_index()
+
+
+def ay_endeksi(endeks, tarih):
+    """O ayın endeksi; o ay henüz açıklanmadıysa son açıklanan ay."""
+    onceki = endeks[endeks.index <= tarih.to_period("M")]
+    return onceki.iloc[-1] if not onceki.empty else None
+
+
 def kredi_grafigi():
     d = veri()
     if d.empty:
@@ -43,29 +59,49 @@ def kredi_grafigi():
     noktalar = pd.concat([ay_sonu, d.tail(1)]).copy()
     noktalar["ay"] = [f"{AY[t.month - 1]} {t:%y}" for t in noktalar["tarih"]]
     noktalar.iloc[-1, noktalar.columns.get_loc("ay")] = f"{son['tarih'].day} {AY[son['tarih'].month - 1]} {son['tarih']:%y}"
-    noktalar["etiket"] = noktalar["trilyon"].map(tr)
+    # Enflasyondan arındırma: her tutarı son ayın fiyatlarına çevir
+    endeks = tufe_verisi()
+    taban_endeks = ay_endeksi(endeks, son["tarih"]) if not endeks.empty else None
+    arindir = st.toggle("Enflasyondan Arındır", disabled=taban_endeks is None,
+                        help="Her ayın tutarını son ayın fiyatlarına çevirir (TÜFE ile).")
+    if arindir and taban_endeks is not None:
+        oran = [taban_endeks / (ay_endeksi(endeks, t) or taban_endeks) for t in noktalar["tarih"]]
+        noktalar["deger"] = noktalar["trilyon"] * oran
+        baz_ay = endeks[endeks.index <= son["tarih"].to_period("M")].index[-1]
+        eksen = f"Trilyon TL ({AY[baz_ay.month - 1]} {baz_ay.year} fiyatlarıyla)"
+    else:
+        noktalar["deger"] = noktalar["trilyon"]
+        eksen = "Trilyon TL"
+    noktalar["etiket"] = noktalar["deger"].map(tr)
     noktalar["tarih_metin"] = noktalar["tarih"].dt.strftime("%d.%m.%Y")
     noktalar["tur"] = ["Ay sonu"] * (len(noktalar) - 1) + ["Son bülten"]
 
     # Özet rakamlar
     onceki_ay = ay_sonu.iloc[-1] if not ay_sonu.empty else None
     gecen_yil = d[d["tarih"] <= son["tarih"] - pd.Timedelta(days=364)]
-    k1, k2, k3 = st.columns(3)
+    k1, k2, k3, k4 = st.columns(4)
     k1.metric(f"Son bülten ({son['tarih']:%d.%m.%Y})", f"{tr(son['trilyon'])} trilyon TL")
     if onceki_ay is not None:
         k2.metric("Önceki ay sonuna göre", f"%{tr((son['trilyon'] / onceki_ay['trilyon'] - 1) * 100, 1)}",
                   help=f"{onceki_ay['tarih']:%d.%m.%Y} tarihli bültenle karşılaştırma")
     if not gecen_yil.empty:
         gy = gecen_yil.iloc[-1]
-        k3.metric("Geçen yılın aynı haftasına göre", f"%{tr((son['trilyon'] / gy['trilyon'] - 1) * 100, 1)}",
+        nominal = son["trilyon"] / gy["trilyon"] - 1
+        k3.metric("Yıllık büyüme (nominal)", f"%{tr(nominal * 100, 1)}",
                   help=f"{gy['tarih']:%d.%m.%Y} tarihli bültenle karşılaştırma")
+        gy_endeks = ay_endeksi(endeks, gy["tarih"]) if taban_endeks is not None else None
+        if gy_endeks:
+            enflasyon = taban_endeks / gy_endeks - 1
+            reel = (1 + nominal) / (1 + enflasyon) - 1
+            k4.metric("Yıllık büyüme (reel)", f"%{tr(reel * 100, 1)}",
+                      help=f"Aynı dönemde TÜFE artışı %{tr(enflasyon * 100, 1)}; nominal büyümeden arındırıldı.")
 
     # Grafik
     sira = list(noktalar["ay"])
     taban = alt.Chart(noktalar).encode(
         x=alt.X("ay:N", sort=sira, title=None, axis=alt.Axis(labelAngle=0, labelPadding=8)),
-        y=alt.Y("trilyon:Q", title="Trilyon TL", scale=alt.Scale(zero=False, padding=28),
-                axis=alt.Axis(labelExpr="replace(format(datum.value, '.1f'), '.', ',')", tickCount=5)),
+        y=alt.Y("deger:Q", title=eksen, scale=alt.Scale(zero=False, padding=28),
+                axis=alt.Axis(labelExpr="replace(format(datum.value, '.2f'), '.', ',')", tickCount=5)),
     )
     ipucu = [alt.Tooltip("tarih_metin:N", title="Bülten tarihi"),
              alt.Tooltip("etiket:N", title="Trilyon TL"), alt.Tooltip("tur:N", title="Nokta")]
@@ -73,8 +109,9 @@ def kredi_grafigi():
     nokta = taban.mark_circle(size=55, color=RENK, opacity=1).encode(tooltip=ipucu)
     etiket = taban.mark_text(dy=-14, fontSize=12, fontWeight=600).encode(text="etiket:N")
     son_nokta = alt.Chart(noktalar.tail(1)).mark_circle(size=150, color=VURGU, opacity=1).encode(
-        x=alt.X("ay:N", sort=sira), y="trilyon:Q", tooltip=ipucu)
+        x=alt.X("ay:N", sort=sira), y="deger:Q", tooltip=ipucu)
     st.altair_chart((cizgi + nokta + etiket + son_nokta).properties(height=380), width="stretch")
     st.caption(f"Kaynak: BDDK Haftalık Bülten, sektör toplamı (TP+YP), milyon TL'den trilyon TL'ye çevrilmiştir. "
                f"Mavi noktalar her ayın son bülteni, turuncu nokta son yayınlanan bülten ({son['tarih']:%d.%m.%Y}). "
-               f"Tutarlar nominaldir, enflasyon etkisini içerir.")
+               + ("Enflasyondan arındırma TCMB TÜFE verisiyle yapılmıştır." if arindir
+                  else "Tutarlar nominaldir, enflasyon etkisini içerir."))
