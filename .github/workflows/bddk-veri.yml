@@ -19,6 +19,8 @@ jobs:
       - run: pip install pandas
       - name: BDDK kredi verisini cek
         run: python bddk.py
+      - name: TUFE verisini cek
+        run: python tufe.py
       - name: Kaydet
         run: |
           git config user.name "haber-botu"
