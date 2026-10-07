@@ -1,0 +1,5 @@
+https://www.bddk.org.tr/BultenHaftalik -> HATA -> https://www.bddk.org.tr/BultenHaftalik | 128 karakter | sayfa0.html
+https://www.bddk.org.tr/BultenHaftalik/tr/Home/Gelismis -> HATA -> https://www.bddk.org.tr/BultenHaftalik/tr/Home/Gelismis | 128 karakter | sayfa1.html
+https://www.bddk.org.tr/BultenAylik -> HATA -> https://www.bddk.org.tr/BultenAylik | 128 karakter | sayfa2.html
+https://www.bddk.org.tr/BultenAylik/tr/Home/Gelismis -> HATA -> https://www.bddk.org.tr/BultenAylik/tr/Home/Gelismis | 128 karakter | sayfa3.html
+https://www.bddk.org.tr/BultenAylik/tr/Home/BasitRapor -> HATA -> https://www.bddk.org.tr/BultenAylik/tr/Home/BasitRapor | 128 karakter | sayfa4.html
