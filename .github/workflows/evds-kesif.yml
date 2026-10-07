@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Yeni EVDS adreslerini bul
+      - name: EVDS katalogunu tara
         env:
           EVDS_API_KEY: ${{ secrets.EVDS_API_KEY }}
         run: |
