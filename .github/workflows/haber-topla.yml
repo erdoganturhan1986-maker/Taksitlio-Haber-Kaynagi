@@ -23,7 +23,7 @@ jobs:
       - name: AI agent ile rakamları çıkar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python agent.py
+        run: python kural_agent.py
       - name: Yeni verileri kaydet
         run: |
           git config user.name "haber-botu"
