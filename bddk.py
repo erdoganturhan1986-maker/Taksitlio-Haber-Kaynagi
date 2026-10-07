@@ -2,6 +2,7 @@
 BDDK haftalık bülteninden kredi hacmi geçmişini çeker ve data/bddk_krediler.csv dosyasına yazar.
 Herkese açık veri okunur; şifre veya anahtar gerekmez.
 """
+import html
 import http.cookiejar
 import json
 import os
@@ -22,7 +23,9 @@ SERILER = {
     "1.0.4": "Konut kredileri",
     "1.0.8": "Bireysel kredi kartları",
 }
-GUN_SECENEKLERI = [430, 400, 365]  # 13 aydan fazla geçmiş için
+PARCA_SAYISI = 5   # her parça 13 hafta -> yaklaşık 15 aylık geçmiş
+AYLAR = {"Ocak": 1, "Şubat": 2, "Mart": 3, "Nisan": 4, "Mayıs": 5, "Haziran": 6, "Temmuz": 7,
+         "Ağustos": 8, "Eylül": 9, "Ekim": 10, "Kasım": 11, "Aralık": 12}
 
 # BDDK sertifika zincirini eksik gönderiyor; sadece herkese açık veriyi okumak için esnek mod
 ESNEK = ssl.create_default_context()
@@ -44,16 +47,20 @@ def sayiya(x):
     return float(x)
 
 
-def son_bulten_tarihi():
+def bulten_tarihleri():
+    """Sayfadaki dönem listesinden tüm haftalık bülten tarihlerini (yeniden eskiye) çıkarır."""
     with ACICI.open(ANA, timeout=60) as r:
-        sayfa = r.read().decode("utf-8", "replace")
-    m = re.search(r'"tarih"\s*:\s*\'(\d{2}\.\d{2}\.\d{4})\'', sayfa)
-    if not m:
-        raise RuntimeError("Bülten tarihi sayfada bulunamadı")
-    return m.group(1)
+        sayfa = html.unescape(r.read().decode("utf-8", "replace"))
+    tarihler = []
+    for yil, ay, gun in re.findall(r'class="Yil-(\d{4}) YilDonem"[^>]*>\s*([^/<\s]+)/(\d{1,2})', sayfa):
+        if ay in AYLAR:
+            tarihler.append(f"{int(gun):02d}.{AYLAR[ay]:02d}.{yil}")
+    if not tarihler:
+        raise RuntimeError("Bülten tarihleri sayfada bulunamadı")
+    return tarihler
 
 
-def seri_getir(kimlik, tarih, gun):
+def seri_getir(kimlik, tarih, gun=90):
     veri = urllib.parse.urlencode({
         "dil": "tr", "tarih": tarih, "id": kimlik, "parabirimi": "TRY",
         "sutun": 3, "tarafKodu": "10001", "gun": gun,
@@ -64,7 +71,7 @@ def seri_getir(kimlik, tarih, gun):
     })
     with ACICI.open(istek, timeout=60) as r:
         govde = r.read().decode("utf-8", "replace")
-    with open(f"{HAM}/{kimlik}_{gun}.json", "w") as f:
+    with open(f"{HAM}/{kimlik}_{tarih}.json", "w") as f:
         f.write(govde)
     sonuc = json.loads(govde)
     x = sonuc.get("XEkseni") or []
@@ -76,26 +83,29 @@ def seri_getir(kimlik, tarih, gun):
 
 def main():
     os.makedirs(HAM, exist_ok=True)
-    tarih = son_bulten_tarihi()
-    print(f"Son bülten tarihi: {tarih}")
+    for eski in os.listdir(HAM):  # önceki ham dosyaları temizle
+        os.remove(os.path.join(HAM, eski))
+    tarihler = bulten_tarihleri()
+    secilen = tarihler[0:13 * PARCA_SAYISI:13]  # her 13 haftada bir bülten tarihi
+    print(f"Son bülten: {tarihler[0]} | sorgulanacak tarihler: {secilen}")
     satirlar = []
     for kimlik, ad in SERILER.items():
-        noktalar = []
-        for gun in GUN_SECENEKLERI:
+        adet = 0
+        for tarih in secilen:
             try:
-                noktalar = seri_getir(kimlik, tarih, gun)
-                if noktalar:
-                    break
+                for t, deger in seri_getir(kimlik, tarih):
+                    satirlar.append({"seri": ad, "tarih": t, "milyon_tl": deger})
+                    adet += 1
             except Exception as hata:
-                print(f"{ad} ({gun} gün) alınamadı: {hata}")
-        print(f"{ad}: {len(noktalar)} hafta")
-        for t, deger in noktalar:
-            satirlar.append({"seri": ad, "tarih": t, "milyon_tl": deger})
+                print(f"{ad} ({tarih}) alınamadı: {hata}")
+        print(f"{ad}: {adet} nokta")
     if not satirlar:
         print("Hiç veri alınamadı, mevcut dosya korunuyor.")
         return
     df = pd.DataFrame(satirlar)
     df["tarih"] = pd.to_datetime(df["tarih"], dayfirst=True, errors="coerce").dt.strftime("%Y-%m-%d")
+    if os.path.exists(CIKTI):  # eski geçmişi koru, yenisiyle birleştir
+        df = pd.concat([df, pd.read_csv(CIKTI)], ignore_index=True)
     df = df.dropna().drop_duplicates(["seri", "tarih"]).sort_values(["seri", "tarih"])
     df.to_csv(CIKTI, index=False)
     print(f"{CIKTI} yazıldı: {len(df)} satır, {df['tarih'].min()} -> {df['tarih'].max()}")
