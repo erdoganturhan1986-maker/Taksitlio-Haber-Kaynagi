@@ -42,6 +42,8 @@ if haberler.empty:
 st.caption(f"Son güncelleme: {haberler['tarih'].max():%d.%m.%Y %H:%M}  |  "
            f"{len(haberler)} haber, {len(rakamlar)} rakam")
 
+from giris import kredi_grafigi
+kredi_grafigi()
 sekme_piyasa, sekme_rakip, sekme_haber = st.tabs(["Piyasa rakamları", "Rakipler", "Haberler"])
 
 link_ayari = {"link": st.column_config.LinkColumn("Kaynak", display_text="Habere git")}
