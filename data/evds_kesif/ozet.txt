@@ -1,0 +1,2 @@
+Anahtar tanımlı mı: evet (uzunluk 10)
+Katalog alınamadı: Expecting value: line 1 column 1 (char 0)
