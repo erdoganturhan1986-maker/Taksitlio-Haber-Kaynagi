@@ -87,7 +87,6 @@ def kredi_grafigi():
         if onceki_endeks:
             enflasyon = taban_endeks / onceki_endeks - 1
             degisim = (1 + degisim) / (1 + enflasyon) - 1
-            aciklama += f" Aynı dönemdeki
             aciklama += f" Aynı dönemdeki %{tr(enflasyon * 100, 1)} TÜFE artışı düşülmüştür."
         kolon.metric(baslik, yuzde(degisim), help=aciklama)
 
