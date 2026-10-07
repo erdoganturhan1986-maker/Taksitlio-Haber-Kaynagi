@@ -88,3 +88,34 @@ def kredi_grafigi():
             enflasyon = taban_endeks / onceki_endeks - 1
             degisim = (1 + degisim) / (1 + enflasyon) - 1
             aciklama += f" Aynı dönemdeki
+            aciklama += f" Aynı dönemdeki %{tr(enflasyon * 100, 1)} TÜFE artışı düşülmüştür."
+        kolon.metric(baslik, yuzde(degisim), help=aciklama)
+
+    onceki_ay = ay_sonu.iloc[-1] if not ay_sonu.empty else None
+    gecen_yil = d[d["tarih"] <= son["tarih"] - pd.Timedelta(days=364)]
+    k1, k2, k3 = st.columns(3)
+    k1.metric(f"Son bülten ({son['tarih']:%d.%m.%Y})", f"{tr(son['trilyon'])} trilyon TL")
+    if onceki_ay is not None:
+        degisim_kutusu(k2, "Önceki ay sonuna göre", onceki_ay)
+    if not gecen_yil.empty:
+        degisim_kutusu(k3, "Yıllık büyüme", gecen_yil.iloc[-1])
+
+    # Grafik
+    sira = list(noktalar["ay"])
+    taban = alt.Chart(noktalar).encode(
+        x=alt.X("ay:N", sort=sira, title=None, axis=alt.Axis(labelAngle=0, labelPadding=8)),
+        y=alt.Y("deger:Q", title=eksen, scale=alt.Scale(zero=False, padding=28),
+                axis=alt.Axis(labelExpr="replace(format(datum.value, '.2f'), '.', ',')", tickCount=5)),
+    )
+    ipucu = [alt.Tooltip("tarih_metin:N", title="Bülten tarihi"),
+             alt.Tooltip("etiket:N", title="Trilyon TL"), alt.Tooltip("tur:N", title="Nokta")]
+    cizgi = taban.mark_line(color=RENK, strokeWidth=2.5)
+    nokta = taban.mark_circle(size=55, color=RENK, opacity=1).encode(tooltip=ipucu)
+    etiket = taban.mark_text(dy=-14, fontSize=12, fontWeight=600).encode(text="etiket:N")
+    son_nokta = alt.Chart(noktalar.tail(1)).mark_circle(size=150, color=VURGU, opacity=1).encode(
+        x=alt.X("ay:N", sort=sira), y="deger:Q", tooltip=ipucu)
+    st.altair_chart((cizgi + nokta + etiket + son_nokta).properties(height=380), width="stretch")
+    st.caption(f"Kaynak: BDDK Haftalık Bülten, sektör toplamı (TP+YP), milyon TL'den trilyon TL'ye çevrilmiştir. "
+               f"Mavi noktalar her ayın son bülteni, turuncu nokta son yayınlanan bülten ({son['tarih']:%d.%m.%Y}). "
+               + ("Enflasyondan arındırma TCMB TÜFE verisiyle yapılmıştır." if arindir
+                  else "Tutarlar nominaldir, enflasyon etkisini içerir."))
