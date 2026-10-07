@@ -1,2 +1,21 @@
-Anahtar tanımlı mı: evet (uzunluk 10)
-Katalog alınamadı: Expecting value: line 1 column 1 (char 0)
+Anahtar uzunluğu: 10
+
+[0] https://evds2.tcmb.gov.tr/service/evds/categories/type=json
+    HTTP 200 | text/html; charset=utf-8 | son adres: https://evds3.tcmb.gov.tr/ | 1355 karakter
+    başı: '<!DOCTYPE html>\n<html lang="en">\n  <head>\n    <meta charset="UTF-8" />\n    <link rel="icon" href="/assets/images/favicon-BIeG2SoQ.ico" />\n    <meta name="viewport" content="width=device-width, initial-scale=1.0" />\n<!--      <meta name="viewport" content="width=device-width, initial-scale=1.0, maxim'
+
+[1] https://evds2.tcmb.gov.tr/service/evds/datagroups/mode=0&type=json
+    HTTP 200 | text/html; charset=utf-8 | son adres: https://evds3.tcmb.gov.tr/ | 1355 karakter
+    başı: '<!DOCTYPE html>\n<html lang="en">\n  <head>\n    <meta charset="UTF-8" />\n    <link rel="icon" href="/assets/images/favicon-BIeG2SoQ.ico" />\n    <meta name="viewport" content="width=device-width, initial-scale=1.0" />\n<!--      <meta name="viewport" content="width=device-width, initial-scale=1.0, maxim'
+
+[2] https://evds2.tcmb.gov.tr/service/evds/series=TP.DK.USD.A&startDate=01-09-2026&endDate=30-09-2026&type=json
+    HTTP 200 | text/html; charset=utf-8 | son adres: https://evds3.tcmb.gov.tr/ | 1355 karakter
+    başı: '<!DOCTYPE html>\n<html lang="en">\n  <head>\n    <meta charset="UTF-8" />\n    <link rel="icon" href="/assets/images/favicon-BIeG2SoQ.ico" />\n    <meta name="viewport" content="width=device-width, initial-scale=1.0" />\n<!--      <meta name="viewport" content="width=device-width, initial-scale=1.0, maxim'
+
+[3] https://evds2.tcmb.gov.tr/
+    HTTP 200 | text/html; charset=utf-8 | son adres: https://evds3.tcmb.gov.tr/ | 1355 karakter
+    başı: '<!DOCTYPE html>\n<html lang="en">\n  <head>\n    <meta charset="UTF-8" />\n    <link rel="icon" href="/assets/images/favicon-BIeG2SoQ.ico" />\n    <meta name="viewport" content="width=device-width, initial-scale=1.0" />\n<!--      <meta name="viewport" content="width=device-width, initial-scale=1.0, maxim'
+
+[4] https://evds3.tcmb.gov.tr/
+    HTTP 200 | text/html; charset=utf-8 | son adres: https://evds3.tcmb.gov.tr/ | 1355 karakter
+    başı: '<!DOCTYPE html>\n<html lang="en">\n  <head>\n    <meta charset="UTF-8" />\n    <link rel="icon" href="/assets/images/favicon-BIeG2SoQ.ico" />\n    <meta name="viewport" content="width=device-width, initial-scale=1.0" />\n<!--      <meta name="viewport" content="width=device-width, initial-scale=1.0, maxim'
