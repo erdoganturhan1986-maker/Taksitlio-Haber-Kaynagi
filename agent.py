@@ -15,8 +15,12 @@ HABERLER = "data/haberler.csv"
 RAKAMLAR = "data/rakamlar.csv"
 ISLENEN = "data/islenen_linkler.txt"
 
-MODEL = "openai/gpt-4o-mini"
-ADRES = "https://models.github.ai/inference/chat/completions"
+# Denenecek (adres, model) seçenekleri. İlk çalışan kullanılır.
+SECENEKLER = [
+    ("https://models.github.ai/inference/chat/completions", "openai/gpt-4o-mini"),
+    ("https://models.github.ai/inference/chat/completions", "openai/gpt-4.1-mini"),
+    ("https://models.inference.ai.azure.com/chat/completions", "gpt-4o-mini"),
+]
 PAKET_BOYUTU = 40      # tek seferde AI'a gönderilen başlık sayısı
 CALISMA_LIMITI = 200   # bir çalışmada en fazla kaç başlık işlensin (maliyet kontrolü)
 
@@ -56,11 +60,12 @@ def json_ayikla(metin: str) -> list:
     return json.loads(metin[bas:son + 1])
 
 
-def ai_sor(anahtar: str, metin: str) -> str:
+def ai_sor(anahtar: str, metin: str, adres: str, model: str) -> str:
     istek = urllib.request.Request(
-        ADRES,
+        adres,
+        method="POST",
         data=json.dumps({
-            "model": MODEL,
+            "model": model,
             "temperature": 0,
             "messages": [
                 {"role": "system", "content": TALIMAT},
@@ -72,6 +77,7 @@ def ai_sor(anahtar: str, metin: str) -> str:
             "Content-Type": "application/json",
             "Accept": "application/json",
             "X-GitHub-Api-Version": "2022-11-28",
+            "User-Agent": "haber-takip-agent/1.0",
         },
     )
     try:
@@ -86,9 +92,20 @@ def ai_sor(anahtar: str, metin: str) -> str:
         raise RuntimeError(f"Beklenmeyen cevap (HTTP {durum}): {govde[:500]!r}") from None
 
 
-def paketi_isle(anahtar: str, paket: pd.DataFrame) -> list:
+def calisan_secenegi_bul(anahtar: str):
+    for adres, model in SECENEKLER:
+        try:
+            ai_sor(anahtar, "1. Perakende satışlar yüzde 10 arttı", adres, model)
+            print(f"AI bağlantısı kuruldu: {adres} | {model}")
+            return adres, model
+        except Exception as hata:
+            print(f"Olmadı: {adres} | {model} -> {hata}")
+    return None
+
+
+def paketi_isle(anahtar: str, paket: pd.DataFrame, adres: str, model: str) -> list:
     satirlar = "\n".join(f"{i + 1}. {b}" for i, b in enumerate(paket["baslik"]))
-    metin = ai_sor(anahtar, satirlar)
+    metin = ai_sor(anahtar, satirlar, adres, model)
     try:
         sonuc = json_ayikla(metin)
     except ValueError:
@@ -118,38 +135,3 @@ def paketi_isle(anahtar: str, paket: pd.DataFrame) -> list:
 def main():
     anahtar = os.environ.get("GITHUB_TOKEN")
     if not anahtar:
-        print("GITHUB_TOKEN tanımlı değil, agent atlandı.")
-        return
-    if not os.path.exists(HABERLER):
-        print("Haber dosyası yok.")
-        return
-
-    haberler = pd.read_csv(HABERLER)
-    islenen = set(open(ISLENEN).read().split()) if os.path.exists(ISLENEN) else set()
-    yeni = haberler[~haberler["link"].isin(islenen)].head(CALISMA_LIMITI)
-    print(f"İşlenecek yeni haber: {len(yeni)}")
-
-    rakamlar = pd.read_csv(RAKAMLAR) if os.path.exists(RAKAMLAR) else pd.DataFrame(columns=SUTUNLAR)
-
-    for bas in range(0, len(yeni), PAKET_BOYUTU):
-        paket = yeni.iloc[bas:bas + PAKET_BOYUTU].reset_index(drop=True)
-        try:
-            kayitlar = paketi_isle(anahtar, paket)
-        except Exception as hata:
-            print(f"AI hatası, kalan haberler sonraki çalışmaya kaldı: {hata}")
-            break
-        if kayitlar is None:
-            continue
-        if kayitlar:
-            rakamlar = pd.concat([rakamlar, pd.DataFrame(kayitlar, columns=SUTUNLAR)], ignore_index=True)
-        islenen.update(paket["link"])
-        print(f"{bas + len(paket)} haber işlendi, {len(kayitlar)} rakam bulundu")
-
-    rakamlar = rakamlar.drop_duplicates(subset=["link", "gosterge", "deger"])
-    rakamlar.sort_values("haber_tarihi", ascending=False).to_csv(RAKAMLAR, index=False)
-    with open(ISLENEN, "w") as f:
-        f.write("\n".join(sorted(islenen)))
-
-
-if __name__ == "__main__":
-    main()
