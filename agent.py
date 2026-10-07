@@ -129,7 +129,9 @@ def paketi_isle(anahtar: str, paket: pd.DataFrame, adres: str, model: str) -> li
             })
         except (KeyError, ValueError, IndexError, TypeError):
             continue  # hatalı kaydı atla
-    return kayitlardef main():
+    return kayitlar
+    
+def main():
     anahtar = os.environ.get("GITHUB_TOKEN")
     if not anahtar:
         print("GITHUB_TOKEN tanımlı değil, agent atlandı.")
