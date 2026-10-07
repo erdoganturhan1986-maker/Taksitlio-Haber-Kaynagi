@@ -1,0 +1,29 @@
+name: BDDK verisi
+
+on:
+  schedule:
+    - cron: "30 6 * * *"   # her gün 09:30 (Türkiye saati)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bddk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas
+      - name: BDDK kredi verisini cek
+        run: python bddk.py
+      - name: Kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "BDDK verisi guncellendi" || exit 0
+          git pull --rebase
+          git push
