@@ -6,6 +6,7 @@ otomatik verilir; kodda hiçbir şifre veya anahtar yoktur.
 """
 import json
 import os
+import urllib.error
 import urllib.request
 
 import pandas as pd
@@ -66,17 +67,35 @@ def ai_sor(anahtar: str, metin: str) -> str:
                 {"role": "user", "content": metin},
             ],
         }).encode("utf-8"),
-        headers={"Authorization": f"Bearer {anahtar}", "Content-Type": "application/json"},
+        headers={
+            "Authorization": f"Bearer {anahtar}",
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "X-GitHub-Api-Version": "2022-11-28",
+        },
     )
-    with urllib.request.urlopen(istek, timeout=120) as cevap:
-        return json.load(cevap)["choices"][0]["message"]["content"]
+    try:
+        with urllib.request.urlopen(istek, timeout=120) as cevap:
+            durum, govde = cevap.status, cevap.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as hata:
+        govde = hata.read().decode("utf-8", "replace")
+        raise RuntimeError(f"HTTP {hata.code}: {govde[:500]}") from None
+    try:
+        return json.loads(govde)["choices"][0]["message"]["content"]
+    except (ValueError, KeyError, IndexError, TypeError):
+        raise RuntimeError(f"Beklenmeyen cevap (HTTP {durum}): {govde[:500]!r}") from None
 
 
 def paketi_isle(anahtar: str, paket: pd.DataFrame) -> list:
     satirlar = "\n".join(f"{i + 1}. {b}" for i, b in enumerate(paket["baslik"]))
     metin = ai_sor(anahtar, satirlar)
+    try:
+        sonuc = json_ayikla(metin)
+    except ValueError:
+        print(f"AI cevabı okunamadı, paket atlandı. Cevabın başı: {metin[:300]!r}")
+        return None
     kayitlar = []
-    for r in json_ayikla(metin):
+    for r in sonuc:
         try:
             haber = paket.iloc[int(r["no"]) - 1]
             kayitlar.append({
@@ -117,8 +136,10 @@ def main():
         try:
             kayitlar = paketi_isle(anahtar, paket)
         except Exception as hata:
-            print(f"AI hatası (ücretsiz limit dolmuş olabilir), kalan haberler sonraki çalışmaya kaldı: {hata}")
+            print(f"AI hatası, kalan haberler sonraki çalışmaya kaldı: {hata}")
             break
+        if kayitlar is None:
+            continue
         if kayitlar:
             rakamlar = pd.concat([rakamlar, pd.DataFrame(kayitlar, columns=SUTUNLAR)], ignore_index=True)
         islenen.update(paket["link"])

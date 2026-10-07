@@ -11,6 +11,7 @@ import feedparser
 import pandas as pd
 
 VERI_DOSYASI = "data/haberler.csv"
+SAKLAMA_GUNU = 90  # bundan eski haberler tutulmaz
 SUTUNLAR = ["tarih", "kategori", "baslik", "kaynak", "link", "sorgu", "toplanma_zamani"]
 
 # Kategori -> o kategori için yapılacak aramalar
@@ -74,10 +75,12 @@ def main():
     tumu = pd.concat([eski, yeni], ignore_index=True)
     tumu = tumu.drop_duplicates(subset="link", keep="first")
     tumu = tumu.drop_duplicates(subset=["baslik", "kaynak"], keep="first")
+    sinir = (datetime.now(timezone.utc) - pd.Timedelta(days=SAKLAMA_GUNU)).isoformat()
+    tumu = tumu[tumu["tarih"] >= sinir]
     tumu = tumu.sort_values("tarih", ascending=False)
     tumu.to_csv(VERI_DOSYASI, index=False)
 
-    print(f"Yeni eklenen: {len(tumu) - len(eski)} | Toplam: {len(tumu)}")
+    print(f"Toplam (son {SAKLAMA_GUNU} gün): {len(tumu)} haber")
 
 
 if __name__ == "__main__":
