@@ -12,7 +12,7 @@ from giris import AY, RENK, VURGU, tr
 
 DOSYA = Path(__file__).parent / "data" / "tuketici_guven.csv"
 SERILER = ["Tüketici güven endeksi", "Dayanıklı mal almaya uygunluk", "Dayanıklı mal harcama beklentisi",
-           "Borçla tüketim ihtimali", "Fiyat artış beklentisi"]
+           "Borçla tüketim ihtimali"]
 ACIKLAMA = {
     "Tüketici güven endeksi": "Hanelerin maddi durumları ve genel ekonomiye dair değerlendirme ve beklentilerinin özeti.",
     "Dayanıklı mal almaya uygunluk": "Hanelerin, şu anın beyaz eşya, elektronik, mobilya gibi ürünleri almak için uygun bir "
