@@ -1,0 +1,31 @@
+name: EVDS verisi
+
+on:
+  schedule:
+    - cron: "45 6 * * *"   # her gün 09:45 (Türkiye saati)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  evds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas
+      - name: Kredi faiz oranlarini cek
+        env:
+          EVDS_API_KEY: ${{ secrets.EVDS_API_KEY }}
+        run: python faiz.py
+      - name: Kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "EVDS verisi guncellendi" || exit 0
+          git pull --rebase
+          git push
