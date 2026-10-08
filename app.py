@@ -3,6 +3,8 @@ Taksitlio Haberler - Streamlit dashboard (sayfa yönetimi)
 """
 import streamlit as st
 
+from kayan import kayan_yazi
+
 st.set_page_config(page_title="Taksitlio Haberler", page_icon="📊", layout="wide")
 
 # Yeni sayfa eklemek için bu listeye bir satır eklemek yeterli
@@ -12,6 +14,7 @@ SAYFALAR = [
 
 secili = st.navigation(SAYFALAR, position="hidden")
 
+kayan_yazi()
 st.title("Taksitlio Haberler")
 
 # Sayfa butonları: bulunulan sayfa dolu renkli, diğerleri çerçeveli
