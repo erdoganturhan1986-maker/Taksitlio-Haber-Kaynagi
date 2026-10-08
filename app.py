@@ -1,11 +1,11 @@
 """
-Taksitlio Haberler - Streamlit dashboard (sayfa yönetimi)
+Taksitlio Piyasalar - Streamlit dashboard (sayfa yönetimi)
 """
 import streamlit as st
 
 from kayan import kayan_yazi
 
-st.set_page_config(page_title="Taksitlio Haberler", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Taksitlio Piyasalar", page_icon="📊", layout="wide")
 
 # Yeni sayfa eklemek için bu listeye bir satır eklemek yeterli
 SAYFALAR = [
@@ -15,7 +15,7 @@ SAYFALAR = [
 secili = st.navigation(SAYFALAR, position="hidden")
 
 kayan_yazi()
-st.title("Taksitlio Haberler")
+st.title("Taksitlio Piyasalar")
 
 # Sayfa butonları: bulunulan sayfa dolu renkli, diğerleri çerçeveli
 kolonlar = st.columns([1.4] * len(SAYFALAR) + [8 - len(SAYFALAR)])
