@@ -32,7 +32,7 @@ def faiz_grafigi():
     if d.empty:
         return
     st.subheader("Ağırlıklı Ortalama Tüketici Kredisi Faiz Oranları")
-    seri = st.radio("Faiz türü", SERILER, horizontal=True, label_visibility="collapsed", key="faiz_seri")
+    seri = st.radio("Faiz türü", SERILER, horizontal=True,    index=1, label_visibility="collapsed", key="faiz_seri")
     d = d[d["seri"] == seri].sort_values("tarih")
     if d.empty:
         st.info("Bu seri için veri yok.")
