@@ -1,0 +1,82 @@
+name: BDDK kesif
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  kesif:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Takipteki alacaklar tablosunu incele
+        run: |
+          python - << 'PYEOF'
+          import html, http.cookiejar, os, re, ssl, traceback, urllib.parse, urllib.request
+          KLASOR = "data/bddk_kesif"
+          os.makedirs(KLASOR, exist_ok=True)
+          ANA = "https://www.bddk.org.tr/BultenHaftalik"
+          AYLAR = {"Ocak": 1, "Şubat": 2, "Mart": 3, "Nisan": 4, "Mayıs": 5, "Haziran": 6, "Temmuz": 7,
+                   "Ağustos": 8, "Eylül": 9, "Ekim": 10, "Kasım": 11, "Aralık": 12}
+          ESNEK = ssl.create_default_context()
+          ESNEK.check_hostname = False
+          ESNEK.verify_mode = ssl.CERT_NONE
+          ACICI = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()),
+                                              urllib.request.HTTPSHandler(context=ESNEK))
+          ACICI.addheaders = [("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64)")]
+          ozet = []
+          try:
+              ilk = html.unescape(ACICI.open(ANA, timeout=60).read().decode("utf-8", "replace"))
+              open(f"{KLASOR}/ana_sayfa.html", "w").write(ilk)
+              donemler = re.findall(r'class="Yil-(\d{4}) YilDonem"[^>]*>\s*([^/<\s]+)/(\d{1,2})', ilk)
+              tarih = next(f"{int(g):02d}.{AYLAR[a]:02d}.{y}" for y, a, g in donemler if a in AYLAR)
+              ozet.append(f"Son bülten: {tarih}")
+              # Her formun kendi anahtarı var: tablo değiştirme formunun anahtarını al
+              form = next((f for f in re.findall(r'(?is)<form[^>]*>.*?</form>', ilk) if 'name="tabloId"' in f), "")
+              token = re.search(r'name="__RequestVerificationToken"[^>]*value="([^"]+)"', form)
+              ozet.append(f"Form anahtarı bulundu mu: {'evet' if token else 'HAYIR'}")
+              veri = urllib.parse.urlencode({"__RequestVerificationToken": token.group(1) if token else "",
+                                             "tabloId": "290"}).encode()
+              istek = urllib.request.Request(ANA + "/", data=veri, headers={"Referer": ANA,
+                                             "Content-Type": "application/x-www-form-urlencoded"})
+              sayfa = html.unescape(ACICI.open(istek, timeout=60).read().decode("utf-8", "replace"))
+              open(f"{KLASOR}/tablo290.html", "w").write(sayfa)
+              ozet.append(f"\n## Tablo 290: {len(sayfa)} karakter")
+              for s in re.findall(r"<tr[^>]*>(.*?)</tr>", sayfa, re.S):
+                  kimlik = re.findall(r"ShowModalGraph\('([\d.]+)'", s)
+                  metin = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", s)).strip()
+                  if kimlik:
+                      ozet.append(f"   {kimlik[0]} | {metin[:150]}")
+              satirlar = []
+              for s_ in re.findall(r"<tr[^>]*>(.*?)</tr>", sayfa, re.S):
+                  k = re.findall(r"ShowModalGraph\('([\d.]+)'", s_)
+                  if k:
+                      satirlar.append((k[0], re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", s_)).strip()))
+              aranan = ["Tüketici Kredileri (", "Konut", "Taşıt", "İhtiyaç", "Bireysel Kredi Kartları ("]
+              for anahtar in aranan:
+                  bulunan = next(((k, m) for k, m in satirlar if anahtar in m), None)
+                  if not bulunan:
+                      ozet.append(f"\n{anahtar}: satır bulunamadı")
+                      continue
+                  deneme = urllib.parse.urlencode({"dil": "tr", "tarih": tarih, "id": bulunan[0], "parabirimi": "TRY",
+                                                   "sutun": 3, "tarafKodu": "10001", "gun": 90}).encode()
+                  istek = urllib.request.Request(ANA + "/tr/Home/KiyaslamaJsonGetir", data=deneme, headers={
+                      "X-Requested-With": "XMLHttpRequest", "Referer": ANA,
+                      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"})
+                  cevap = ACICI.open(istek, timeout=60).read().decode("utf-8", "replace")
+                  ozet.append(f"\nSERI {bulunan[0]} | {bulunan[1][:60]}\n   {cevap[:700]}")
+          except Exception:
+              ozet.append("HATA:\n" + traceback.format_exc())
+          open(f"{KLASOR}/ozet.txt", "w").write("\n".join(ozet))
+          print("\n".join(ozet))
+          PYEOF
+      - name: Sonuclari kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/bddk_kesif
+          git commit -m "BDDK kesif sonuclari" || exit 0
+          git pull --rebase
+          git push
