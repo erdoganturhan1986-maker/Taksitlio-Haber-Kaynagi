@@ -1,0 +1,63 @@
+name: BDDK kesif
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  kesif:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Takipteki alacaklar tablosunu incele
+        run: |
+          python - << 'PYEOF'
+          import html, http.cookiejar, json, os, re, ssl, urllib.parse, urllib.request
+          KLASOR = "data/bddk_kesif"
+          os.makedirs(KLASOR, exist_ok=True)
+          ANA = "https://www.bddk.org.tr/BultenHaftalik"
+          ESNEK = ssl.create_default_context()
+          ESNEK.check_hostname = False
+          ESNEK.verify_mode = ssl.CERT_NONE
+          ACICI = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()),
+                                              urllib.request.HTTPSHandler(context=ESNEK))
+          ACICI.addheaders = [("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64)")]
+          ozet = []
+          ilk = ACICI.open(ANA, timeout=60).read().decode("utf-8", "replace")
+          token = re.search(r'name="__RequestVerificationToken" type="hidden" value="([^"]+)"', ilk).group(1)
+          tarih = re.search(r'"tarih"\s*:\s*\'(\d{2}\.\d{2}\.\d{4})\'', ilk).group(1)
+          ozet.append(f"Son bülten: {tarih}")
+          for tablo in ["2"]:
+              veri = urllib.parse.urlencode({"__RequestVerificationToken": token, "tabloId": tablo}).encode()
+              istek = urllib.request.Request(ANA + "/", data=veri, headers={"Referer": ANA,
+                                             "Content-Type": "application/x-www-form-urlencoded"})
+              sayfa = html.unescape(ACICI.open(istek, timeout=60).read().decode("utf-8", "replace"))
+              open(f"{KLASOR}/tablo{tablo}.html", "w").write(sayfa)
+              ozet.append(f"\n## Tablo {tablo}: {len(sayfa)} karakter")
+              for s in re.findall(r"<tr[^>]*>(.*?)</tr>", sayfa, re.S):
+                  kimlik = re.findall(r"ShowModalGraph\('([\d.]+)'", s)
+                  metin = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", s)).strip()
+                  if kimlik:
+                      ozet.append(f"   {kimlik[0]} | {metin[:150]}")
+              ilk_kimlik = re.findall(r"ShowModalGraph\('([\d.]+)'", sayfa)
+              if ilk_kimlik:
+                  deneme = urllib.parse.urlencode({"dil": "tr", "tarih": tarih, "id": ilk_kimlik[0], "parabirimi": "TRY",
+                                                   "sutun": 3, "tarafKodu": "10001", "gun": 90}).encode()
+                  istek = urllib.request.Request(ANA + "/tr/Home/KiyaslamaJsonGetir", data=deneme, headers={
+                      "X-Requested-With": "XMLHttpRequest", "Referer": ANA,
+                      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"})
+                  cevap = ACICI.open(istek, timeout=60).read().decode("utf-8", "replace")
+                  ozet.append(f"\nGrafik servisi denemesi ({ilk_kimlik[0]}): {cevap[:300]}")
+          open(f"{KLASOR}/ozet.txt", "w").write("\n".join(ozet))
+          print("\n".join(ozet))
+          PYEOF
+      - name: Sonuclari kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/bddk_kesif
+          git commit -m "BDDK kesif sonuclari" || exit 0
+          git pull --rebase
+          git push
