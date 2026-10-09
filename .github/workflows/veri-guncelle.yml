@@ -1,0 +1,60 @@
+name: Veri guncelleme
+
+on:
+  schedule:
+    - cron: "30 6 * * *"    # 09:30 (Türkiye saati)
+    - cron: "30 10 * * *"   # 13:30
+    - cron: "30 15 * * *"   # 18:30
+    - cron: "30 19 * * *"   # 22:30
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas
+      - name: BDDK kredi verisi
+        id: bddk
+        continue-on-error: true
+        run: python bddk.py
+      - name: BDDK takipteki alacaklar (NPL)
+        id: npl
+        continue-on-error: true
+        run: python npl.py
+      - name: TUFE verisi
+        id: tufe
+        continue-on-error: true
+        run: python tufe.py
+      - name: Kredi faiz oranlari (TCMB)
+        id: faiz
+        continue-on-error: true
+        env:
+          EVDS_API_KEY: ${{ secrets.EVDS_API_KEY }}
+        run: python faiz.py
+      - name: Tuketici guven endeksi (TCMB)
+        id: guven
+        continue-on-error: true
+        env:
+          EVDS_API_KEY: ${{ secrets.EVDS_API_KEY }}
+        run: python guven.py
+      - name: Kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Veriler guncellendi" || exit 0
+          git pull --rebase
+          git push
+      - name: Hata kontrolu
+        if: steps.bddk.outcome == 'failure' || steps.npl.outcome == 'failure' || steps.tufe.outcome == 'failure' || steps.faiz.outcome == 'failure' || steps.guven.outcome == 'failure'
+        run: |
+          echo "Bir veya daha fazla veri adımı başarısız oldu (diğerleri yine de kaydedildi):"
+          echo "BDDK: ${{ steps.bddk.outcome }} | NPL: ${{ steps.npl.outcome }} | TUFE: ${{ steps.tufe.outcome }} | Faiz: ${{ steps.faiz.outcome }} | Guven: ${{ steps.guven.outcome }}"
+          exit 1
