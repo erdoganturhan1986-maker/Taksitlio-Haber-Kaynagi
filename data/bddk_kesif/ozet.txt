@@ -1,0 +1,28 @@
+Son bülten: 02.10.2026
+Form anahtarı bulundu mu: evet
+
+## Tablo 2: 208436 karakter
+   1.0.1 | 1 Toplam Krediler (2+10) 18.284.199 10.358.097 28.642.296
+   1.0.2 | 2 Tüketici Kredileri ve Bireysel Kredi Kartları (3+7) 7.023.449 12.057 7.035.506
+   1.0.3 | 3 Tüketici Kredileri (4+5+6) 3.501.681 269 3.501.950
+   1.0.4 | 4 a) Konut 842.477 58 842.536
+   1.0.5 | 5 b) Taşıt 42.007 84 42.091
+   1.0.6 | 6 c) İhtiyaç 2.617.196 126 2.617.322
+   1.0.8 | 7 Bireysel Kredi Kartları (8+9) 3.521.768 11.787 3.533.556
+   1.0.9 | 8 a) Taksitli 1.331.342 0 1.331.342
+   1.0.10 | 9 b) Taksitsiz 2.190.426 11.787 2.202.214
+   1.0.12 | 10 Ticari ve Diğer Krediler 11.260.749 10.346.040 21.606.789
+   1.0.13 | 11 Taksitli Tic. Krd. ve Kurumsal Kredi Kartları (12+16) (Bilgi) 4.277.428 1.186.722 5.464.151
+   1.0.14 | 12 Taksitli Ticari Krediler (13+14+15) (Bilgi) 3.133.601 1.185.533 4.319.135
+   1.0.15 | 13 a) İşyeri 36.209 7.706 43.916
+   1.0.16 | 14 b) Taşıt 368.308 35.561 403.870
+   1.0.17 | 15 c) İhtiyaç 2.729.083 1.142.265 3.871.349
+   1.0.19 | 16 Kurumsal Kredi Kartları (17+18) (Bilgi) 1.143.826 1.189 1.145.016
+   1.0.20 | 17 a) Taksitli 281.978 0 281.978
+   1.0.21 | 18 b) Taksitsiz 861.847 1.189 863.037
+   1.0.11 | 19 KOBİ Kredileri (Bilgi) 6.333.896 1.347.210 7.681.106
+   1.0.22 | 20 Döv. Endeksli Krediler (Bilgi) 1.009 0 1.009
+   1.0.23 | 21 Kredili Mevduat Hesapları-Tüketici Kredileri (Bilgi) 945.627 0 945.627
+   1.0.24 | 22 Kredili Mevduat Hesapları-Taksitli Ticari Krediler(Bilgi) 339.527 0 339.527
+
+Grafik servisi denemesi (1.0.1): {"Baslik":"Toplam Krediler (2+10) (TRY) [Toplam] [Sektör]","XEkseni":["10.07.2026","17.07.2026","24.07.2026","31.07.2026","7.08.2026","14.08.2026","21.08.2026","28.08.2026","4.09.2026","11.09.2026","18.09.2026","25.09.2026","2.10.2026"],"YEkseni":[26817337.16168,26749326.18741,26975100.89546,2743443
