@@ -1,0 +1,51 @@
+name: Uygulamayi uyanik tut
+
+on:
+  schedule:
+    - cron: "15 */2 * * *"   # her 2 saatte bir
+  workflow_dispatch:
+
+jobs:
+  ziyaret:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      ADRES: https://taksitlio-piyasalar.streamlit.app
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright && python -m playwright install --with-deps chromium
+      - name: Dashboard'u ziyaret et
+        run: |
+          python - << 'PYEOF'
+          import os, re, sys
+          from playwright.sync_api import sync_playwright
+
+          ADRES = os.environ["ADRES"]
+          with sync_playwright() as p:
+              tarayici = p.chromium.launch()
+              sayfa = tarayici.new_page()
+              sayfa.goto(ADRES, wait_until="domcontentloaded", timeout=90000)
+              sayfa.wait_for_timeout(8000)
+
+              buton = sayfa.get_by_role("button", name=re.compile(r"get this app back up", re.I))
+              if buton.count() > 0:
+                  print("Uygulama uyuyordu, uyandırılıyor...")
+                  buton.first.click()
+                  sayfa.wait_for_timeout(5000)
+              else:
+                  print("Uygulama uyanık.")
+
+              # Uygulama içeriği bir iç çerçevede (iframe) açılabilir; tüm çerçevelerde başlığı ara
+              for _ in range(24):
+                  if any("Taksitlio Piyasalar" in (cerceve.content() or "") for cerceve in sayfa.frames):
+                      print("Başarılı: 'Taksitlio Piyasalar' başlığı görüldü.")
+                      tarayici.close()
+                      sys.exit(0)
+                  sayfa.wait_for_timeout(5000)
+
+              print("UYARI: Başlık 2 dakika içinde görünmedi. Sayfa başlığı:", sayfa.title())
+              tarayici.close()
+              sys.exit(1)
+          PYEOF
