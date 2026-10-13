@@ -1,0 +1,133 @@
+name: Haber kesif
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  kesif:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser googlenewsdecoder
+      - name: Kaynaklari ve Gemini'yi test et
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python - << 'PYEOF'
+          import json, os, re, traceback, urllib.parse, urllib.request
+          import feedparser
+          KLASOR = "data/haber_kesif"
+          os.makedirs(KLASOR, exist_ok=True)
+          ANAHTAR = os.environ.get("GEMINI_API_KEY", "").strip()
+          UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
+          ozet = []
+
+          def yaz(*s):
+              ozet.append(" ".join(str(x) for x in s))
+
+          def al(url, veri=None, basliklar=None):
+              istek = urllib.request.Request(url, data=veri, headers={**UA, **(basliklar or {})})
+              with urllib.request.urlopen(istek, timeout=40) as r:
+                  return r.status, r.read().decode("utf-8", "replace")
+
+          # A) Gemini
+          yaz("=== A) GEMINI ===", f"anahtar uzunluğu: {len(ANAHTAR)}")
+          try:
+              _, govde = al(f"https://generativelanguage.googleapis.com/v1beta/models?key={ANAHTAR}&pageSize=100")
+              modeller = [m["name"] for m in json.loads(govde).get("models", [])
+                          if "generateContent" in m.get("supportedGenerationMethods", [])]
+              yaz("generateContent destekleyen modeller:", [m for m in modeller if "flash" in m or "pro" in m][:25])
+              aday = [m for m in modeller if "flash" in m and "lite" not in m and "preview" not in m and "exp" not in m]
+              aday = sorted(aday, reverse=True)[:3] or modeller[:3]
+              for model in aday:
+                  try:
+                      istem = {"contents": [{"parts": [{"text": "Şu haber başlığını Türkçe tek cümleyle yorumla: "
+                                                         "'Bankalar elektronik alışverişlerde taksitli kredi kampanyalarını yeniledi'"}]}]}
+                      _, cevap = al(f"https://generativelanguage.googleapis.com/v1beta/{model}:generateContent?key={ANAHTAR}",
+                                    json.dumps(istem).encode(), {"Content-Type": "application/json"})
+                      metin = json.loads(cevap)["candidates"][0]["content"]["parts"][0]["text"]
+                      yaz(f"  {model}: BAŞARILI ->", metin.strip()[:300])
+                  except urllib.error.HTTPError as h:
+                      yaz(f"  {model}: HTTP {h.code}", h.read().decode("utf-8", "replace")[:300])
+                  except Exception as h:
+                      yaz(f"  {model}: HATA", str(h)[:300])
+          except Exception:
+              yaz("Gemini HATA:", traceback.format_exc()[-600:].replace(ANAHTAR, "***") if ANAHTAR else traceback.format_exc()[-600:])
+
+          # B, C, D) Google Haberler araması, link çözme, görsel ve özet
+          yaz("\n=== B) GOOGLE HABERLER ARAMASI (son 10 gün) ===")
+          try:
+              from googlenewsdecoder import gnewsdecoder
+          except Exception as h:
+              gnewsdecoder = None
+              yaz("googlenewsdecoder yüklenemedi:", h)
+          cozulen = []
+          for sorgu in ['"Vatan Bilgisayar"', "Teknosa", "Arçelik", '"alışveriş kredisi"', '"Kuveyt Türk"', "Gürgençler", '"Zen Pırlanta"']:
+              try:
+                  adres = "https://news.google.com/rss/search?q=" + urllib.parse.quote(sorgu + " when:10d") + "&hl=tr&gl=TR&ceid=TR:tr"
+                  akis = feedparser.parse(adres)
+                  yaz(f"\n{sorgu}: {len(akis.entries)} haber")
+                  for h in akis.entries[:4]:
+                      yaz("   -", h.get("published", "")[:22], "|", h.get("source", {}).get("title", ""), "|", h.get("title", "")[:110])
+                  if akis.entries and len(cozulen) < 6:
+                      cozulen.append((sorgu, akis.entries[0]))
+              except Exception as h:
+                  yaz(f"{sorgu}: HATA {h}")
+
+          yaz("\n=== C+D) ORİJİNAL LİNK, GÖRSEL VE ÖZET ===")
+          for sorgu, h in cozulen:
+              try:
+                  link = h.get("link", "")
+                  asil = None
+                  if gnewsdecoder:
+                      sonuc = gnewsdecoder(link, interval=1)
+                      asil = sonuc.get("decoded_url") if sonuc.get("status") else None
+                      if not asil:
+                          yaz(f"{sorgu}: link çözülemedi -> {str(sonuc)[:200]}")
+                  if asil:
+                      _, sayfa = al(asil)
+                      og_resim = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', sayfa)
+                      og_ozet = re.search(r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)', sayfa)
+                      paragraf = len(re.findall(r"<p[ >]", sayfa))
+                      yaz(f"{sorgu}: {asil[:110]}\n    görsel: {og_resim.group(1)[:110] if og_resim else 'YOK'}"
+                          f"\n    özet: {og_ozet.group(1)[:160] if og_ozet else 'YOK'}\n    paragraf sayısı: {paragraf}")
+              except Exception as e:
+                  yaz(f"{sorgu}: HATA {str(e)[:200]}")
+
+          # E) Güvenilir kaynakların kendi akışları
+          yaz("\n=== E) KAYNAK AKIŞLARI ===")
+          for ad, adres in [("AA Ekonomi", "https://www.aa.com.tr/tr/rss/default?cat=ekonomi"),
+                            ("Dünya", "https://www.dunya.com/rss"),
+                            ("Bloomberg HT", "https://www.bloomberght.com/rss"),
+                            ("Ekonomim", "https://www.ekonomim.com/rss"),
+                            ("NTV Ekonomi", "https://www.ntv.com.tr/ekonomi.rss"),
+                            ("Habertürk Ekonomi", "https://www.haberturk.com/rss/ekonomi.xml")]:
+              try:
+                  akis = feedparser.parse(adres, agent=UA["User-Agent"])
+                  ilk = akis.entries[0] if akis.entries else {}
+                  resim = bool(ilk.get("media_content") or ilk.get("media_thumbnail") or ilk.get("enclosures")
+                               or re.search(r"<img", str(ilk.get("summary", ""))))
+                  yaz(f"{ad}: {len(akis.entries)} haber | görsel var mı: {resim} | ilk: {ilk.get('title', '')[:90]}")
+              except Exception as e:
+                  yaz(f"{ad}: HATA {str(e)[:150]}")
+
+          metin = "\n".join(ozet)
+          if ANAHTAR:
+              metin = metin.replace(ANAHTAR, "***")
+          open(f"{KLASOR}/ozet.txt", "w").write(metin)
+          print(metin)
+          PYEOF
+      - name: Sonuclari kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/haber_kesif
+          git commit -m "Haber kesif sonuclari" || exit 0
+          git pull --rebase
+          git push
