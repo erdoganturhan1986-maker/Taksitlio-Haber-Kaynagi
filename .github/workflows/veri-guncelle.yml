@@ -1,0 +1,70 @@
+name: Veri guncelleme
+
+on:
+  schedule:
+    - cron: "30 6 * * *"    # 09:30 (Türkiye saati)
+    - cron: "30 10 * * *"   # 13:30
+    - cron: "30 15 * * *"   # 18:30
+    - cron: "30 19 * * *"   # 22:30
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas
+      - name: BDDK kredi verisi
+        id: bddk
+        continue-on-error: true
+        run: python bddk.py
+      - name: BDDK takipteki alacaklar (NPL)
+        id: npl
+        continue-on-error: true
+        run: python npl.py
+      - name: TUFE verisi
+        id: tufe
+        continue-on-error: true
+        run: python tufe.py
+      - name: Kredi faiz oranlari (TCMB)
+        id: faiz
+        continue-on-error: true
+        env:
+          EVDS_API_KEY: ${{ secrets.EVDS_API_KEY }}
+        run: python faiz.py
+      - name: Tuketici guven endeksi (TCMB)
+        id: guven
+        continue-on-error: true
+        env:
+          EVDS_API_KEY: ${{ secrets.EVDS_API_KEY }}
+        run: python guven.py
+      - name: Veri kontrolu
+        id: kontrol
+        if: always()
+        env:
+          ADIM_BDDK: ${{ steps.bddk.outcome }}
+          ADIM_NPL: ${{ steps.npl.outcome }}
+          ADIM_TUFE: ${{ steps.tufe.outcome }}
+          ADIM_FAIZ: ${{ steps.faiz.outcome }}
+          ADIM_GUVEN: ${{ steps.guven.outcome }}
+        run: python kontrol.py
+      - name: Kaydet
+        if: always()
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Veriler guncellendi" || exit 0
+          git pull --rebase
+          git push
+      - name: Alarm
+        if: always() && steps.kontrol.outputs.sorun != 'hayir'
+        run: |
+          echo "Veri kontrolünde sorun bulundu. Ayrıntılar 'Veri kontrolu' adımında."
+          exit 1
