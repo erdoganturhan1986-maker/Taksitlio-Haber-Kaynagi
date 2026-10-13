@@ -1,0 +1,56 @@
+=== A) GEMINI === anahtar uzunluğu: 53
+generateContent destekleyen modeller: ['models/gemini-2.5-flash', 'models/gemini-2.5-pro', 'models/gemini-2.5-flash-preview-tts', 'models/gemini-2.5-pro-preview-tts', 'models/gemini-flash-latest', 'models/gemini-flash-lite-latest', 'models/gemini-pro-latest', 'models/gemini-2.5-flash-lite', 'models/gemini-2.5-flash-image', 'models/gemini-3-flash-preview', 'models/gemini-3.1-pro-preview', 'models/gemini-3.1-pro-preview-customtools', 'models/gemini-3.1-flash-lite-preview', 'models/gemini-3.1-flash-lite', 'models/gemini-3-pro-image-preview', 'models/gemini-3-pro-image', 'models/nano-banana-pro-preview', 'models/gemini-3.1-flash-image-preview', 'models/gemini-3.1-flash-image', 'models/gemini-3.1-flash-lite-image', 'models/gemini-3.5-flash', 'models/gemini-3.5-flash-lite', 'models/gemini-omni-flash-preview', 'models/gemini-omni-1.1-flash', 'models/gemini-3.6-flash']
+  models/gemini-omni-1.1-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota ex
+  models/gemini-flash-latest: BAŞARILI -> Yüksek fiyatlar ve kredi kartı taksit kısıtlamaları nedeniyle teknolojiye erişmekte zorlanan tüketicinin talebini canlı tutmak isteyen bankalar, çözümü alışverişi yeniden krediyle borçlandırarak finanse etmekte buluyor.
+  models/gemini-3.8-flash-tts: HATA 'text'
+
+=== B) GOOGLE HABERLER ARAMASI (son 10 gün) ===
+googlenewsdecoder yüklenemedi: Modest backend is deprecated since selectolax 1.0. It's outdated, not maintained, contains bugs and does not follow modern HTML5 standards. Please use lexbor backend instead: `from selectolax.lexbor import LexborHTMLParser`.
+
+"Vatan Bilgisayar": 1 haber
+   - Mon, 12 Oct 2026 15:02 | Haberler | EBYÜ öğrencisi Arda Songur, TEKNOFEST Küre yarışmasında Türkiye birincisi oldu - Haberler
+
+Teknosa: 21 haber
+   - Wed, 07 Oct 2026 13:00 | Anadolu Ajansı | Teknosa kurulumdan teknik desteğe kadar satış sonrası hizmetler sunuyor - Anadolu Ajansı
+   - Wed, 07 Oct 2026 13:07 | Mall Report | Teknosa Üst Yönetimine İki Yeni İsim Atandı - Mall Report
+   - Wed, 07 Oct 2026 10:36 | DHA | Demirören Haber Ajansı | Teknosa’dan satış sonrası teknoloji hizmetleri - DHA | Demirören Haber Ajansı
+   - Wed, 07 Oct 2026 15:15 | Yeni Şafak | KAP *** TEKNOSA İÇ VE DIŞ TİCARET A.Ş. *** TKNSA *** Özel Durum Açıklaması (Genel) - Yeni Şafak
+
+Arçelik: 41 haber
+   - Thu, 08 Oct 2026 11:38 | Enerji Günlüğü | Arçelik'e 19,5 milyon dolarlık güneş paneli - Enerji Günlüğü
+   - Thu, 08 Oct 2026 06:02 | CNBC-e | Borsadaki enerji şirketi duyurdu: Arçelik ile dev tedarik sözleşmesi imzalandı - CNBC-e
+   - Thu, 08 Oct 2026 06:30 | Paratic Haber | Smart Güneş, Arçelik için güneş paneli üretecek - Paratic Haber
+   - Thu, 08 Oct 2026 06:43 | Gazete Oksijen | Borsadaki enerji şirketi ile Arçelik arasında 19,5 milyon dolarlık güneş paneli anlaşması - Gazete Oksijen
+
+"alışveriş kredisi": 4 haber
+   - Mon, 05 Oct 2026 21:40 | Anadolu Ajansı | Yapı Kredi World 35. yılını kutladı - Anadolu Ajansı
+   - Wed, 07 Oct 2026 08:33 | Para Dergi | Yapı Kredi World, 35 yılda 35 milyon hayata dokundu - Para Dergi
+   - Tue, 06 Oct 2026 12:11 | Platin Dergisi | 35 yılda değişen ödeme alışkanlıklarının izinde - Platin Dergisi
+   - Mon, 05 Oct 2026 12:35 | BT Günlüğü | World 35 Yaşında: 35 Milyon Kişiye Ulaştı, Şimdi Yapay Zekâ Destekli Alışverişe Hazırlanıyor - BT Günlüğü
+
+"Kuveyt Türk": 35 haber
+   - Thu, 08 Oct 2026 16:57 | GZT | KAP *** KUVEYT TÜRK PORTFÖY ENERJİ KATILIM FONU *** KTP *** Portföy Dağılım Raporu - GZT
+   - Thu, 08 Oct 2026 07:12 | Yeni Şafak | KAP *** KUVEYT TÜRK PORTFÖY BİRİNCİ KATILIM (TL) FONU *** KTP *** Fon Toplam Gider Oranı ve Fon Toplam Giderin
+   - Sat, 10 Oct 2026 14:19 | Posta | KUVEYT TÜRK EMEKLİ PROMOSYONU 2026| MAAŞA GÖRE KAÇ TL VERİLİYOR, EK ÖDEME ŞARTLARI NELER? - Posta
+   - Wed, 07 Oct 2026 07:00 | https://www.kirsehirhaber40.com/ | Kuveyt Türk’ten MÜSİAD Kırşehir’e Ziyaret - https://www.kirsehirhaber40.com/
+
+Gürgençler: 0 haber
+
+"Zen Pırlanta": 23 haber
+   - Sat, 03 Oct 2026 18:31 | Sözcü Gazetesi | Zen Pırlanta sahiplerini tehdit etmişlerdi! 'Çirkinler' böyle gözaltına alındı - Sözcü Gazetesi
+   - Sun, 04 Oct 2026 07:00 | Milliyet | Zen Pırlanta yöneticisine tehdit: 2 milyon euro vermezsen öldürürüz - Milliyet
+   - Sat, 03 Oct 2026 18:31 | Rudaw | Zen Pırlanta'nın sahiplerini tehdit eden suç örgütüne operasyon - Rudaw
+   - Sat, 03 Oct 2026 17:32 | Notbir | Zen Pırlanta sahiplerine 'Çirkinler' tehdidi: 5 şüpheli yakalandı - Notbir
+
+=== C+D) ORİJİNAL LİNK, GÖRSEL VE ÖZET ===
+
+=== E) KAYNAK AKIŞLARI ===
+AA Ekonomi: 30 haber | görsel var mı: False | ilk: TÜİK ağustos ayı dış ticaret endekslerini açıkladı
+Dünya: 25 haber | görsel var mı: True | ilk: Survivor 2027 ne zaman başlıyor? Survivor yarışmacıları belli oldu mu? Başvuru nereden yap
+Bloomberg HT: 50 haber | görsel var mı: True | ilk: Dış ticaret hadddinde olumsuz sinyaller sürdü
+Ekonomim: 25 haber | görsel var mı: True | ilk: İran’dan İngiltere’ye RAF Fairford tepkisi: Kanıt gösterin
+NTV Ekonomi: 20 haber | görsel var mı: True | ilk: Online alışverişte sahte yoruma erişim engeli
+Habertürk Ekonomi: 30 haber | görsel var mı: True | ilk: Cari dengede aylık fazla
