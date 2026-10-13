@@ -10,6 +10,7 @@ st.set_page_config(page_title="Taksitlio Piyasalar", page_icon="📊", layout="w
 # Yeni sayfa eklemek için bu listeye bir satır eklemek yeterli
 SAYFALAR = [
     st.Page("sayfalar/finansal_veriler.py", title="Finansal Veriler", icon=":material/monitoring:", default=True),
+    st.Page("sayfalar/haberler_sayfa.py", title="Haberler", icon=":material/newspaper:"),
 ]
 
 secili = st.navigation(SAYFALAR, position="hidden")
