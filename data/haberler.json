@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-13T15:55:17.403601+00:00",
+ "guncelleme": "2026-10-13T16:55:27.185510+00:00",
  "saglayici": "Google Gemini",
  "haberler": [
   {
@@ -157,6 +157,88 @@
    "gundem": false,
    "onem": 3,
    "model": "gemini-flash-lite-latest"
+  },
+  {
+   "id": "ee68b7e4bfcb",
+   "baslik": "Cep telefonu kredi düzenlemesi: BDDK açıkladı! 2026 cep telefonu kredilerinde vade sınırı kaç ay?",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-04T06:03:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Sabah",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG5LNXZJa1d6TElMTk1Bc3RjZGhHR09LUzN1eE12bm5XYlZPTzVzR2pOVnI5VXNSNFJvUUJKZFNqazg1YXMwZXg4VndtSUdFRkkxZWJ1YVg4TjVPUHRLdUpBUWVTWUN1cGVfQTRPaThyQWlMMkFYZGNMYXE0UlhiZkF5Z3ctb1hZMWRYN01GemtobV9ENUkwZXhFZGQxLUxxUEZsZnZxd1N6TzhFOEZBZVJ5VmpiMlNnZEdrTHpJSdIBwgFBVV95cUxPUXBMZVlOWF92QzJqZk1jWGE2aWxBZk11OFdkbDExSUxZeUNuc05DcXlJaTJrVmVrQmViUWRLdkFVbWdFcUtQVnVsVi1ZQS1aU2VyS3ZNSXJtVHJDbGdzVTI3VlVyekQ1c3RYSU15eXBCcG1yMTB5NUJXRG1sLVNranlyeDFWSmRLRFhLUDBsM0V4SWtsb2drbzBzUy1tRlVYUmlfTm5hbjhkSHktVE1HSUFrUWlLMHRoZUFtSlFYLTJuZw?oc=5",
+     "tarih": "2026-10-05T19:23:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haber3",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9sYXlIc3RWY213N0ZNcFdjOTRRRWFxV0IzQm83TTVGS2VBeEVsVk5RTndXSk1QUjEyclNYc1FPQUFTUVVFWnlzWXgybGVCT194WmJaNmlUSFpBMWwtclJmM3Z4cGJEWXdLd2xjT0pHQUI0UzBhd0Z4ZnV5Q1o4cGZBd2lfRUdwemsxRTc1SkhVMTJpNDJJQ0NuVFBLLTg3RVkyTG9BcUJUQ2hfZUpVem8zWG91emZoemczcw?oc=5",
+     "tarih": "2026-10-04T06:03:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bugün Kocaeli Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnRTVzdjRllXRWFTTFRCREY1cmxadGNCZUhzbmdsQXFJU0QtQmtNWmFFalNQQXk1VmpvVHQ0MnRzMkduRVhaTlBSN3V4c3lBb3E0M3hLeTI4RWlYSWpwSk5BRVlXUmthMUxjbXg1Z2diekJkT2JiUjRyLVYtNml3NzQyQmtWaFZ5ZlpLTmU0anpqekw2OWtBYXh6V1Y5MFN0a2YwQXBqQWkxY3hIc3k3UGNjeEE5blF0OFg0Rkxn?oc=5",
+     "tarih": "2026-10-04T14:58:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sanayi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLS14TzVDR0xMcEtmVE10UnUwQV9jTmhGTHdEU181WS01TXBOa01LN054VmhrbFZTUFFVbUd2OVQtRE5CZkFtQUNNYlUwVU9iR1MzSjA0VzdIRU9GTk9lTGxoaHBXUFlyMTd4QnRJMTJRUm5LcE40bWNidXJ5MDJpUVZ1NEQwbVJNVzVuTWRSR243LXZQajNLZWp5WGstd05iVnh6dDA0bUNLWW1uQVhJaFVWQ016akJfUG1HaGtsUnA3cVFBLXhfNFZTaloxbTRRdGd6UGkxcERlclB3WURjYnptc09VSmluX2NsVVVfWTBEUQ?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "birgun.net",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSklQTzMxdWF0WmdlRXQ0MXZ3MGgzTjJDSUk3T0hTREpFeC1PdzAzWURuN1oybjJsZmUzQUJueDQwaDhvUlNJdnctUUZ5SnRPTTBIbDY1M2ltak5mOWFCOXlQMWRkOWMyNTE1RXBGdEZVWm9IbVBsMzg5Tl9xWHJQU1NsTWFrY0l4M3pjX3ZZTE8tM2ZyN3NyRDluM2JTd3BZbUhyQUo5dk9EblJ3Z2w5QXF3WXJIRzlLY21sZFF2TzZwYnIzQ0xrUjFlM0VNSVZsWUp2QzF5c1c?oc=5",
+     "tarih": "2026-10-05T13:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWNSOXNIcWxSWFd1WEstQl9HVkZPTXVZNldVRGhtMm80ZGppcGxUMWExamRZNnJldEhLWDA2WGNfZ3pEMF93TGQ3UHhpT3gyOVJuekk4bU1oTmtudk1rZXJqU2lDZTVDMFZodUhjYm1oSzJ2MHBFZm5qNUFMWWl6X0RPNDcxa3hPZld2OTRvTEhFalF1R0NNUDB0YXlhb1UwVmdPaWdLZFY?oc=5",
+     "tarih": "2026-10-05T13:23:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sabır Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1phUkVBdlN6UF8yWjBPMnV5Q3BIYXF3RGd4clhkUm44MlQ3UUxOVTJIN3Zqbk1UWkhJbGVtb2pZZmxsNWV2cFdJZklKLW16MW55dmppT2JPakNGTEc2LWFmODBUUHhaVU1IZFk4SV8yeTRJRjlJUThCTjlTNGlkV1pvRlRKYVk?oc=5",
+     "tarih": "2026-10-06T21:40:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Taşınmaz Haber",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0hGcFlYRmJuWWdwb0Z5NWk2ZlZhcUhNSzM2VGFrb1VTLXlnZkF3YnFTMUdQeFdtbDFvdk9DbS1tWWFqZmJMWFJ3UThhTm41anFFdXRYTHpkUmJvUFJUaTAzMFZVTV9yVmJrYTBzX2U1aVNsaEx6Qll0N2l3ekx6Sk5acWphdER3aXZPeWhEeFhBU3pqWnJwSTVCa09zQ1RLdjM3WUtVbVFNdXhYMGZ2VnN3?oc=5",
+     "tarih": "2026-10-07T17:59:21+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "GZT",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3J1MzV4aENLd1k0SW4wcF9MUzc2NnFJMGJXa0x4VlpBZjcwMmhIOVQ4cEx4Q1NtNVozaGtrZkpieG9FamZ6N2dvUkpTUzhOcVdHcTczUVNVbzVITGFqdzdPM2hsY2kxOTB5bkpNSHkxdS00RjBqcDNUZ1hvUkNyNjZJN0lvNDhyMS05LWt2TkhRdTJxcXROM05ZenBIaWFXQy1rcGNQWl9ENWtVdDAyOUQtMnVVZjBoYmp3SFlBTWtmWGVUdzlsQ0R3?oc=5",
+     "tarih": "2026-10-09T12:25:01+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Merhaba Yozgat Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaC01ZFRETWpxQmFRUk4xWE53bkRGaGdXaG1JSlFlZm9EZVdmYTdSaXdLSTdrRkd3aWIySVBvSVRhU25tUnRfQVdFMklmYXljSEJpMzhzVmtMWENOZjFTVTlYY2lsVmNFVmdhQ0ZJSjJ2UlluTldYWjM1VUtmWDA0RnZWQzlWbTA1VkFnYlpBM0h6SDZGekdKM2J30gGfAUFVX3lxTE5ONVgwUC1kZEcteEw0NlJ3TWRVSzdPZjVIdWwwdy0yMTc2YVUwWVlnS3ZTMnYybUFYcl92LUtxTnRad2dJc05CYWVEWXNJQWpYaEx4a1UzeHU1SnppRC11d0kzazNLUWpBcm8zcnFLYm9sWnp1WUVkbHZxTWxjekpBOTlhbVZacGZGMkpxd1c2akdMMExYMkxQelQ4djhsMA?oc=5",
+     "tarih": "2026-10-09T13:07:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İnternet Haber",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbmFqZmFHYUVRMTA5bFRZVXlaNHFPZUt6R2tnbXRZcTFUTlUtai05MENlanhsLUdITmI1aVdYaUF5X3g1WTFLNGV3UjNRSkM0VjJLaVVOSGc1c0FNcmdJM25lbHBqdGJNR1FHemk5aF80SURENVZjNEpHSU5TZkRlUDBXVi03cUlnanR5aEw0YkE2dDlGTHhiNEptRGVMemZJTzctV3dROWFoVlRDWV9YWGtWVVB5elAxQjJWWUF4WlpQZjZXbE5jb1B3?oc=5",
+     "tarih": "2026-10-09T16:59:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Bankacılık Düzenleme ve Denetleme Kurumu, cep telefonu alımlarında kullandırılan tüketici kredilerine yönelik vade sınırlarını güncelledi. Düzenleme kapsamında cihaz bedeline göre uygulanabilecek azami kredi vade süreleri yeniden belirlendi.",
+   "neden": "Cep telefonu alışveriş kredilerindeki vade sınırları, tüketicilerin finansman seçeneklerini ve platform üzerinden sunulan taksit imkanlarını doğrudan belirlemektedir.",
+   "gundem": true,
+   "onem": 5,
+   "model": "gemini-flash-latest"
   }
  ]
 }
