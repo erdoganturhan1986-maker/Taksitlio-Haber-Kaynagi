@@ -1,0 +1,40 @@
+{
+ "son_kontrol": "2026-10-13T10:46:08.223838+00:00",
+ "kaynaklar": {
+  "bddk": {
+   "ad": "BDDK krediler",
+   "siklik": "haftalık",
+   "son_veri": "2026-10-02",
+   "durum": "guncel",
+   "adim": "success"
+  },
+  "npl": {
+   "ad": "BDDK takipteki alacaklar",
+   "siklik": "haftalık",
+   "son_veri": "2026-10-02",
+   "durum": "guncel",
+   "adim": "success"
+  },
+  "faiz": {
+   "ad": "TCMB kredi faizleri",
+   "siklik": "haftalık",
+   "son_veri": "2026-10-02",
+   "durum": "guncel",
+   "adim": "success"
+  },
+  "tufe": {
+   "ad": "TÜFE",
+   "siklik": "aylık",
+   "son_veri": "2026-09-01",
+   "durum": "guncel",
+   "adim": "success"
+  },
+  "guven": {
+   "ad": "Tüketici güveni",
+   "siklik": "aylık",
+   "son_veri": "2026-09-01",
+   "durum": "guncel",
+   "adim": "success"
+  }
+ }
+}
