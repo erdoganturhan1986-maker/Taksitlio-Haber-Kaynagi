@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-13T14:57:09.068833+00:00",
+ "guncelleme": "2026-10-13T15:55:17.403601+00:00",
  "saglayici": "Google Gemini",
  "haberler": [
   {
@@ -53,6 +53,28 @@
    "model": "gemini-flash-lite-latest"
   },
   {
+   "id": "a684c73af3e5",
+   "baslik": "Altın sert düşerken alımlarını hızlandırdı",
+   "marka": "Gündem",
+   "kategori": "kuyum",
+   "oncelik": 2,
+   "tarih": "2026-10-13T06:01:27+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/cin-altin-sert-duserken-alimlarini-hizlandirdi-23-aylik-seri-3919256",
+     "tarih": "2026-10-13T06:01:27+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/13/ver1791870924/3919256/jpg/1920x1080",
+   "yorum": "Altın fiyatlarının küresel piyasalarda gerilemesine rağmen merkez bankalarının ve Çinli yatırımcıların alımlarını artırarak devam ettirdiği belirtiliyor. Haberde, özellikle Çin'in rekor düzeydeki altın ithalatı ve uzun süreli alım serisi öne çıkıyor.",
+   "neden": "Altın fiyatlarındaki hareketlilik ve talep, kuyumculuk sektöründeki alışveriş kredisi hacmini doğrudan etkilediği için önemlidir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
    "id": "24d75fb510db",
    "baslik": "Ticaret ve perakende satış hacminde artış",
    "marka": "Gündem",
@@ -72,76 +94,6 @@
    "neden": "Perakende ticaret hacmindeki yıllık artış, tüketicilerin alışveriş eğilimleri ve kredili satış potansiyeli açısından doğrudan bir göstergedir.",
    "gundem": true,
    "onem": 4,
-   "model": "gemini-flash-lite-latest"
-  },
-  {
-   "id": "0299e710dad3",
-   "baslik": "Borsadaki enerji şirketi duyurdu: Arçelik ile dev tedarik sözleşmesi imzalandı",
-   "marka": "Arçelik",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-08T06:02:14+00:00",
-   "kaynaklar": [
-    {
-     "ad": "CNBC-e",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa2tnQl85Y1l3bHRFOUNOVVlPc0pLdVNNRWhxT3ZjSWRqZnQyQ3lsX2NPUkNnT1BoelF2dkk1TGJTaVdRVjUxX2YwNllGT0pBNXFPWlI2WkZpNGx6NkpYckNheWlBTHVrZmwyOUp3TnNZTGpxZ3R5dUg4NFlubGdVanYweDdSb09kTE9ld2wyNVI0eUZ4SVZDVUh5QTZlalRXM0lBZkhFUUFUN04zd3R6UUpn?oc=5",
-     "tarih": "2026-10-08T06:02:14+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Paratic Haber",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13dURDS3dxV3NmcVRNakJOQmpfV2FnS2daVlRHcTZ6NGtfX0dySl9lRkIzNGNrVHNPX1FEZEZRRVdNOWxHaDlnV3h5Tl9maUM2LWh3bWRwTE1Xc0xteVhqQVlsd2FhVnRIUzcwdjEzUWhfZFZmb3c?oc=5",
-     "tarih": "2026-10-08T06:30:11+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Gazete Oksijen",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVy1DUVhJZ1VJRVQ3UzF4WEFPSXRycTVnQ1RTaDFORXFxbERsSHJFUUZDME9hckplSkN6a0ZZa0FLUHZ4anZKdTlpcWhmTk92Zm5JR0xOTTZlOUhaZndIR0xyRTJtTHE1OWtVWTYzX0pVT2dHTHZGaDlnOEhSMGVlalZhcVNSaGZzcVp3Ujc0YzJTaHBTUVd6dENEQlE2RTh3S2s4NUNXVzFpV1VOdGFmQlJRVXkzcU5fTGwzTXFoOWxJV3VUd0piZDRn?oc=5",
-     "tarih": "2026-10-08T06:43:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlh2ODc2TkdNeHMzS01UeUl3UW0zdW5kNWFBemUzOWdZTkVsZ1VDQS1PQk04bzFra19EME5vU0JMbzFaREJTdWFvUy1BcHJXT0cwUFFXM1Etbkd1VDdDQ3dpZ3l3UUhoSFp3MUJ0blJXbU40NXFSTlgzb0YyWTZmN2Z4YnlTNjNKc1VVWnNVa2doYVBaM0xWcXhobTVUTC1kcTdoZzlYMEFZb0lfcXfSAbMBQVVfeXFMT2Y5ZnhKSDhET2pJZzJtMWRUeGJtMmtPS2dJMEZiSkJWVEJFNGFHbXEydXRBanlvZWozMmREMjQ1ZU5XQVB0X0tfR3pybjVlVzJqTGZlVUZQdXRNTnVVZFVCRUxzaExVdkRFTF9Uc254Q3NweUx1N0s5V0Q4SVFhY1RTVXd0clFUbnozenV1WlhoWTMyVmsyS3ozVkxtRU05cHNWdDFSeHZwZDJ0amVGM0dXbkk?oc=5",
-     "tarih": "2026-10-08T09:35:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Finans Hattı",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHF2b3dMb1NnWjVITmV1blpGMXZKOERXN3JqNDNwRWlDblEtZktqMlg1MGlQanVJN2pyenJBWHZoeWg4RWIybUtERzQzTXdaU1NTZy0waUhZcGwzc3pkOXlUV0N0cUVIUDFRb29zMVNwVENNalg2YWxLTW5mMUdjeVBsSzJZNUJoRXBJcHdR?oc=5",
-     "tarih": "2026-10-08T06:22:49+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Forbes Türkiye",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHl0VXVtcmd2OFMzSFl2RDJtQnBPWi1KMHFBZ1JiSG0zQkhKTFdFQTRFUktKaEVZWXM5UHlSTDIzcTV0OTBvNUtlTnk1NnhiVEV2MWpvZ3NkamtaTUJkWFRTVnUyWVlmSjlEUGpNcmpvMUFrNmdtSzdrbnNJUWxnb1lWOE1GOGZ0RV9GODlxaXg3QUV4clNNZ1V4ZGc0ZTNnWVFLM3RRdDQ0Qm5ybV9telFXa1g?oc=5",
-     "tarih": "2026-10-08T07:47:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Investing.com Türkiye",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenFwbng5NEtRYXVuc0xfUUVKT2hkZVNYT1YxalJaV1F3STFmNkhGOVN5cW44YkdjTVVfMElNT3BFcXJlMTJKT25FMl9Kamo1VWVSSEtmNWNSUmdrcmFST3k2QzllZzBXUzd3cHA2bWxDelF0aEx2RUxPWnNIRUpMMS1MWWhKNHhVRUxVVVEyajE3M3lFSUhVVWlnZnFQcjVobWdDRmQ1WU1lWVB6U25tMHVQWmpJelhI?oc=5",
-     "tarih": "2026-10-08T08:48:22+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Enerji Günlüğü",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN01vV0p3ODZ2ZnFrOWdEWUNjLWlXNWUxUW81VmlpOEVXMDFLYXR5NW9nWW9DMWZCQmZGV1FNTFJFM290NGFBTUVHSFk2Q09OTHVEbDZ6QVJyQU5IYkM3SW52cUFHNEFMSThIaG9ENk9OUk5TOFJPZS1RVThoaDk3R3M0MVhxQ0dreFdKbG5iVlI2QdIBogFBVV95cUxQeUhoNlJNcFhjeEVDRjV3MnNhWkV1S3JldlVCV08wTDVlWXFSLUtiZWZZSnVqZVd5dzFWcmoyV2JjODRnX3BwbFZtdWVWengzQjFNVjRUa0ZUX05uMkVvMU50WlI3UXJ3NEN3S3djMUpsRFJpcjB3eXh3dkJVNHhNdDVMYnZMMUdhcWlJQWJOdktpTDJ0V2d0Z21NOGM3VzJvbnc?oc=5",
-     "tarih": "2026-10-08T11:38:31+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Para Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2wxN0Q5ZFR2Q0xPejJQWEVjZ0xNM0tCSnlVTUh5cE5wMjRILWZXX1pqZEpDRnVkWHZrcXVreGtBRmlSQlRpRXYwX2pYNUNsYno5S29Bc3hETHpDMFBuOHcwVTI1UktjTFp4Wmk4amNibXp4bDBBT1dHYnh1cEtaRThJd3hxaU5Vd3lIUjZkeG9zaXpqNTA0MUtSRk9OVGpfbk1fZ3NDR2EyRTc4N0hkeXlKakpab0NY?oc=5",
-     "tarih": "2026-10-09T08:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Borsada işlem gören bir enerji şirketi ile Arçelik arasında büyük ölçekli bir tedarik sözleşmesi imzalandığı duyuruldu. Anlaşma kapsamında şirketin üretim süreçleri ve enerji altyapısına yönelik tedarik gerçekleştirilecek.",
-   "neden": "Şirketler arası büyük tedarik anlaşmaları, üreticinin finansal yapısını ve operasyonel hacmini desteklemesi açısından dolaylı önem taşır.",
-   "gundem": false,
-   "onem": 2,
    "model": "gemini-flash-lite-latest"
   },
   {
@@ -179,52 +131,6 @@
    "model": "gemini-flash-lite-latest"
   },
   {
-   "id": "8043f2843216",
-   "baslik": "Beko evcil hayvanlarla yaşam için yeni teknolojilerini tanıttı",
-   "marka": "Arçelik",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-07T12:21:11+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGlHd0xxTW1aNWVWSG1XU21IOXNLNnlQN21NcWdGd1FOekg0R3BiVHBlMFNlaXFsUXdsUUl2VDhFUEhmTzFzc0szSzBPUkZtTVFKSnp2Q3I3OFlvYnhvaUczSUF3QzBrSDZNUTZaSTZEVGE0YTlfamtYUzYtQnJoU2tkTkUxMnRjTWFQbl9IbmV2X1kteG9lTFJyQ3ZlQ0RvZWdwSmlCbHo5MmsxdnNr?oc=5",
-     "tarih": "2026-10-07T13:29:38+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Bandırma Manşet",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFo0dEppT0NkYkl0N3VWLWVfNEZyN3NaM3E1M2pwWDZuLUVZNXd1UldlRDE0SDU5WndRR2tHM2o4SzBrdUl2dTJ3NUFNdllId01HX25CZUl2TDJmRzV2R2h4SndTME1XUEdscGZnRkNhS1RQM1NqalVBSUxuZFo5R0NnQnloUU45TnB1WEJLYThNcVlyckRN0gGcAUFVX3lxTE9ncW53cm5ZSU1tMlVfMVl0b2E3MWN0OXdFdVpyRnlRNjlwdTAtejhwZ2NNeEZFWkNTOENBWTJlZUxTV1dhanhXWGExRkRTdXQwQnMyYndHTmNra3B5RkpNNW1BbzRiNHVKRk9mWmU5UmlmNm90SEw3SlJ4TTdtOUhMM2hwWE5uX1RzSnhkZExtQnJMT29fZXpNZnpJcA?oc=5",
-     "tarih": "2026-10-07T12:21:11+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Türkiye Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVhBOVNIR3J0WVpUcU16N0hTNEhJcnh4MXR1b1hXYUFDUmhnWF9zbFRVRDc3Mnlxak83N2NBTU1JSE50RHN1S1J6YkFZTVRHZlFVWEFSTTkzNmE3UHoyY3ktaWVoVnhzZFdReDhqVmMwTnI2MW5rZVE5TEo1UHlua2U3aWJpTF9abWhBU0hEc3Y4RUYxaHY0NFNWV3k4Wk1fNEctRjh2cXhzMktTZVZra3A5RW5aanZPbGZJSVpB?oc=5",
-     "tarih": "2026-10-07T23:36:54+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Kütahya Ekspres",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzlsdXpMSlh3bzVoMWtYX1I1ZXVwSExZaDgycEJlV2tsWUw2MjZ4VjEwVGZkeXprT1o2UlRLczduYWFKd0pmOUptcy1lMGgtOF8wYzVuUXllaGc3bGNpQWdsTlpWMXFCMHFSTHdNa29HVENZSHA0UDMtOEJ1NWYwaXBLMnI5ZE5TdWtfWjc4c0VfeTQ?oc=5",
-     "tarih": "2026-10-10T06:45:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Ekonomi Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUFRMlVlNzNmN0hVME1aRmdad1M1M2NWVElmX2JPQ0x6TGthZUlKNld2eXkxdWJNZmJwbUdfWFZCVW9UOVRLQnh3MnZLeEJwMGpmbS1PbVdrSDZRaEdmLUFFYnhReHBNSFcxeWx2LVNvdGY5QWNJTFZ6MkNZOHVrTmRKQWZpTXJfSjg4aktvOU05b18tZ29qanZGNFJTU2VKb2h4VVRwa21qdktFYWRRbU9wZDkwR09rNDc5UU9IbXgtaV9TLU9fdTBPcw?oc=5",
-     "tarih": "2026-10-12T08:38:01+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Arçelik bünyesindeki Beko markası, evcil hayvan sahiplerinin yaşamını kolaylaştırmaya yönelik geliştirdiği yeni ürün ve teknolojilerini kamuoyuna tanıttı. Tanıtılan çözümler, evcil hayvan tüyleri ve hijyen odaklı yenilikçi özellikler içeriyor.",
-   "neden": "Beyaz eşya segmentindeki yeni ürün ve teknolojiler, tüketicilerin alışveriş kredisiyle yapacağı talepleri dolaylı olarak etkileyebilir.",
-   "gundem": false,
-   "onem": 2,
-   "model": "gemini-flash-lite-latest"
-  },
-  {
    "id": "e80424827c58",
    "baslik": "Teknosa’dan satış sonrası teknoloji hizmetleri",
    "marka": "Teknosa",
@@ -250,34 +156,6 @@
    "neden": "Elektronik perakende sektöründeki hizmet çeşitliliği, Taksitlio'nun iş ortakları arasındaki faaliyetlerin takibi açısından faydalıdır.",
    "gundem": false,
    "onem": 3,
-   "model": "gemini-flash-lite-latest"
-  },
-  {
-   "id": "6c10d1a76d12",
-   "baslik": "Daikin Türkiye'den mimari projelere bütüncül iklimlendirme çözümü",
-   "marka": "Daikin",
-   "kategori": "iklim",
-   "oncelik": 3,
-   "tarih": "2026-10-05T10:42:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjlLWk9DOHZhMFI4SE9EdWRaeld6ZC1NRmk1Mnlqelc4a3dIRTI0ZDQzS25jekRpM1ltNXJwa0JES19OaXVlLUgzNjNJQ3k5Rkd3YUUtNkgwX2Zob2Ffa1ZIdjJaSmF4Y0RPRE1PcU9GTGRHN3p2a1JzUmtMOUNCY1JrVTZsN2NCN0IyZ2wzZUZkUzY2NGtGc0dhZXpadXkyQW1TSW9JcWkzTERaRm5oYnhB?oc=5",
-     "tarih": "2026-10-05T14:20:17+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Diriliş Postası",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWE91NjBhYy15b0lfUGtTbEJsbW1LUGdDM20waGIwUTVJQkVoaGZiLWEwamRTWkFsS044VW9jcjVueEtkTl80UnFXT3hTdkRia1VMMVhINURuMmlWRFBuQlN6UTdiNGY0QVZsTzZmU09xdnNVNDdWUWg4T2Y4am1lQjZlcHFsY1Q2bS1zbU1MY0lXZ9IBlwFBVV95cUxNVk4zUlM2YXI3YThNRDNsTjE4QVVNc2JmR01RTW4wdWhJR0xDcnYtSGZuNWtTU1FCU04zUnh6THZ2Uk95VDhFNVpsVVlZM2xZeGYxdzdLOTA5NC1US21wNThMWC0ybGVNQThmYU9ybHdrU0ZVTXpsNXlnTDBXVlZBN1drX0Vfc0JxNy1UWE1GXzJ4Um1UYkxv?oc=5",
-     "tarih": "2026-10-05T10:42:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Daikin Türkiye, mimari projeler için geliştirdiği bütüncül iklimlendirme sistemleri ve çözümlerini sektör profesyonellerine sundu. Şirket, büyük ölçekli projelerde enerji verimliliği sağlayan sistemleriyle öne çıkıyor.",
-   "neden": "İklimlendirme sektöründeki projeler ve çözümler, ev ve yapı yatırımlarında kullanılan tüketici kredisi hacmini etkileyebilir.",
-   "gundem": false,
-   "onem": 2,
    "model": "gemini-flash-lite-latest"
   }
  ]
