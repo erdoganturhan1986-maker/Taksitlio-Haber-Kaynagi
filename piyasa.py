@@ -56,7 +56,7 @@ def main():
     if "EUR" in ham:
         ekle("Euro", *ham["EUR"], "TL")
     if "BRENT" in ham:
-        ekle("Brent Petrol", ham["BRENT"][0] * usd, ham["BRENT"][1] * usd_onceki, "TL/varil")
+        ekle("Brent Petrol", ham["BRENT"][0], ham["BRENT"][1], "$/varil")
     if "BIST" in ham:
         ekle("BIST 100", *ham["BIST"], "puan")
 
