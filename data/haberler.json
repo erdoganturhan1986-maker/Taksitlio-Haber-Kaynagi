@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-13T09:01:24.141378+00:00",
+ "guncelleme": "2026-10-13T09:54:38.846823+00:00",
  "saglayici": "Google Gemini",
  "haberler": [
+  {
+   "id": "fa4b48326fa4",
+   "baslik": "Merkez Bankası faiz kararı bu hafta mı, ne zaman? TCMB faiz kararı tarihi ve saati...",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-13T09:17:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-bu-hafta-mi-ne-zaman-tcmb-faiz-karari-tarihi-ve-saati-haberi-843671",
+     "tarih": "2026-10-13T09:17:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/13/merkez-bankasi-yurn_cover.jpg",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası'nın yaklaşan faiz kararı toplantısının tarihi ve saati yatırımcılar ve vatandaşlar tarafından takip ediliyor. Piyasalar faiz kararının yönünü ve olası indirim beklentilerini araştırmaya devam ediyor.",
+   "neden": "Merkez Bankası faiz kararları, tüketici kredisi maliyetlerini ve alışveriş kredisi faiz oranlarını doğrudan etkilediği için kritik önem taşır.",
+   "gundem": true,
+   "onem": 5,
+   "model": "gemini-flash-lite-latest"
+  },
   {
    "id": "b358f96b3045",
    "baslik": "Ekonomistlerin TCMB faiz beklentileri netleşti",
