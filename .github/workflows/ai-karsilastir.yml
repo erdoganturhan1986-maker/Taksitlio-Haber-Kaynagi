@@ -1,0 +1,92 @@
+name: AI karsilastirma
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  karsilastir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ayni haberleri Groq ve Gemini ile degerlendir
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python - << 'PYEOF'
+          import json, os, time, urllib.error, urllib.request
+          import ai
+          UA = {"User-Agent": "Mozilla/5.0", "Content-Type": "application/json"}
+          onbellek = json.load(open("data/haber_onbellek.json"))
+          haberler = sorted(onbellek.values(), key=lambda v: v["tarih"], reverse=True)[:10]
+          girdi = "\n\n".join(f"{i}. Başlık: {h['baslik']}\n   Marka/kurum: {'Genel gündem' if h['marka'] == 'Gündem' else h['marka']}"
+                              f"\n   Kaynaklar: {', '.join(k['ad'] for k in h['kaynaklar'])}" for i, h in enumerate(haberler, 1))
+          rapor = ["# AI karşılaştırması: aynı 10 haber", ""]
+
+          def groq():
+              anahtar = os.environ.get("GROQ_API_KEY", "").strip()
+              if not anahtar:
+                  return "GROQ_API_KEY tanımlı değil", None
+              istek = urllib.request.Request("https://api.groq.com/openai/v1/models",
+                                             headers={**UA, "Authorization": f"Bearer {anahtar}"})
+              modeller = [m["id"] for m in json.load(urllib.request.urlopen(istek, timeout=30))["data"]]
+              rapor.append(f"Groq'ta açık modeller: {', '.join(sorted(modeller))}\n")
+              tercih = ["openai/gpt-oss-120b", "llama-3.3-70b-versatile", "moonshotai/kimi-k2-instruct", "qwen/qwen3-32b"]
+              model = next((m for m in tercih if m in modeller), modeller[0])
+              govde = {"model": model, "temperature": 0.2,
+                       "messages": [{"role": "system", "content": ai.TALIMAT}, {"role": "user", "content": girdi}]}
+              istek = urllib.request.Request("https://api.groq.com/openai/v1/chat/completions", data=json.dumps(govde).encode(),
+                                             headers={**UA, "Authorization": f"Bearer {anahtar}"})
+              basla = time.time()
+              yazi = json.load(urllib.request.urlopen(istek, timeout=120))["choices"][0]["message"]["content"]
+              return f"Groq ({model}, {time.time() - basla:.1f} sn)", json.loads(yazi[yazi.find("["):yazi.rfind("]") + 1])
+
+          def gemini():
+              anahtar = os.environ.get("GEMINI_API_KEY", "").strip()
+              for model in ai.modelleri_bul(anahtar)[:4]:
+                  try:
+                      basla = time.time()
+                      kararlar = ai._iste(anahtar, model, girdi)
+                      return f"Gemini ({model}, {time.time() - basla:.1f} sn)", kararlar
+                  except Exception as hata:
+                      rapor.append(f"Gemini {model}: {str(hata)[:120]}")
+              return "Gemini: hiçbir model cevap vermedi", None
+
+          sonuclar = {}
+          for ad, islev in (("groq", groq), ("gemini", gemini)):
+              try:
+                  etiket, kararlar = islev()
+              except Exception as hata:
+                  etiket, kararlar = f"{ad}: HATA {str(hata)[:200]}", None
+              sonuclar[ad] = (etiket, {int(k.get("no", 0)): k for k in (kararlar or [])})
+              rapor.append(f"**{etiket}**\n")
+
+          def ozet(k):
+              if not k:
+                  return "_cevap yok_"
+              durum = "GÖSTERİLİR" if k.get("marka_dogru") and k.get("ilgili") and not k.get("suc_asayis") else "ELENİR"
+              return (f"{durum} | marka: {k.get('marka_dogru')} | ilgili: {k.get('ilgili')} | kategori: {k.get('kategori')} | "
+                      f"önem: {k.get('onem')}\n\n> {k.get('yorum') or '-'}\n>\n> _Neden:_ {k.get('neden') or '-'}")
+
+          for i, h in enumerate(haberler, 1):
+              rapor += [f"\n---\n## {i}. {h['baslik']}", f"_{h['marka']} | {', '.join(k['ad'] for k in h['kaynaklar'][:3])}_\n",
+                        f"**Groq:** {ozet(sonuclar['groq'][1].get(i))}\n", f"**Gemini:** {ozet(sonuclar['gemini'][1].get(i))}"]
+          os.makedirs("data", exist_ok=True)
+          open("data/ai_karsilastirma.md", "w").write("\n".join(rapor))
+          print("\n".join(rapor[:12]))
+          PYEOF
+      - name: Sonucu kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ai_karsilastirma.md
+          git commit -m "AI karsilastirma sonucu" || exit 0
+          git pull --rebase
+          git push
