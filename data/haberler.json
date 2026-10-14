@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-14T15:06:30.113826+00:00",
+ "guncelleme": "2026-10-14T16:11:09.773272+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "0af9b100d594",
+   "baslik": "Ali Ağaoğlu’ndan faiz mesajı: Merkez Bankası’nın faiz indirimi için yeri var",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-14T15:30:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/ali-agaoglundan-faiz-mesaji-merkez-bankasinin-faiz-indirimi-icin-yeri-var-haberi-924715",
+     "tarih": "2026-10-14T15:30:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/14/ali-agaoglundan-faiz-mesaji-merkez-bankasinin-faiz-indirimi-icin-yeri-var-axpr_cover.jpg",
+   "yorum": "Ali Ağaoğlu, Merkez Bankası’nın faiz oranlarını düşürmesi gerektiğini belirtti. Ağaoğlu, mevcut yüksek faiz seviyelerinin ekonomik aktiviteyi olumsuz etkilediğini vurguladı. Açıklamasında, faiz indiriminin tüketicilerin kredi kullanımını artıracağını ifade etti.",
+   "neden": "Faiz oranlarındaki olası düşüş, tüketici kredisi maliyetlerini azaltarak Taksitlio üzerinden yapılan alışveriş kredilerinin talebini artırabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "b1ca8fd31ab7",
    "baslik": "Uzmanından ekonomi analizi: TCMB 22 Ekim'de 100 baz puanlık faiz indirimine gidebilir",
