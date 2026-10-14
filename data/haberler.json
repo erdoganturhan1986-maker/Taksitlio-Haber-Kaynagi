@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-14T11:05:22.041100+00:00",
+ "guncelleme": "2026-10-14T12:04:58.253386+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -932,6 +932,88 @@
    "neden": "Kampanyanın geniş müşteri kitlesine ulaşması, telefon satışlarını ve dolayısıyla taksitli kredi başvurularını artırabilir.",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d064bbf8512b",
+   "baslik": "BDDK’dan cep telefonu kredileri ve kredi kartlarına yeni düzenleme! 2026 Cep telefonu ve kredi kartı asgari ödemesi ne kadar oldu?",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-02T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeVd1Yk95OTZJanNvWjBpRHpPcVlYQVRhOTA1bFRWLXU5VDlodXBVT2pLNG5BRS1Kb0NHLVVVb19RZ2djYlpDakNwemphSU5XeFV1M0d5U0JobmlZc2I2LW9QMzlzMDIteXdSU19iUWhMVE96Q3doN0NBb3RlNFVUaGU4WVIxT1l3SGZwMGtUcWdiMnI5ZjBmem1ZRDA5LTVFU1VFN09URUJrelBaY2swcnNqSkFUUkZNS0g3bnRmM0JMeXVVRXRhSGQyaUtDZEI5X3lIUFo2RDRHc2pIOTNma1JpaGpISWtnZU9GdVJadVVrLVhKVDBrNGxjRQ?oc=5",
+     "tarih": "2026-10-03T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Sabah",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG5LNXZJa1d6TElMTk1Bc3RjZGhHR09LUzN1eE12bm5XYlZPTzVzR2pOVnI5VXNSNFJvUUJKZFNqazg1YXMwZXg4VndtSUdFRkkxZWJ1YVg4TjVPUHRLdUpBUWVTWUN1cGVfQTRPaThyQWlMMkFYZGNMYXE0UlhiZkF5Z3ctb1hZMWRYN01GemtobV9ENUkwZXhFZGQxLUxxUEZsZnZxd1N6TzhFOEZBZVJ5VmpiMlNnZEdrTHpJSdIBwgFBVV95cUxPUXBMZVlOWF92QzJqZk1jWGE2aWxBZk11OFdkbDExSUxZeUNuc05DcXlJaTJrVmVrQmViUWRLdkFVbWdFcUtQVnVsVi1ZQS1aU2VyS3ZNSXJtVHJDbGdzVTI3VlVyekQ1c3RYSU15eXBCcG1yMTB5NUJXRG1sLVNranlyeDFWSmRLRFhLUDBsM0V4SWtsb2drbzBzUy1tRlVYUmlfTm5hbjhkSHktVE1HSUFrUWlLMHRoZUFtSlFYLTJuZw?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Yeni Şafak",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeEJMMjZkRFlmXzF6b3FCUXlxN01nZ2RwUWJsbWFTRzZTZHc2VEJYR3JDRzgyQmFzdXdmY2pNVE5jRXdzX240RDZOUGQ4bzFxX0ZFVExETDRDaWVQTEswMVhrRXdvMFdjU09XcTRLamo4dWZoN25kX2ctR2dwU2ZraVVPUjBjaW51bnR4a2tDczV0YjRMMWU0bHVGWkpCemV5QUljLUwwNnVZSVBadnV5OUZTSUFVOHdnM21yb0ppbDQzU0I5NWlvMERfTUhoQVRnM25Nd05ENWk0amxuVXlWelhvNjA?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Herbir Emlak",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFNBRFFsdURsSUp3MXRFaWswa1BnT3RBVndjZHBWWlI0MG5XZDVPQlFTRGVPM1RIamdSdFN4cFdTQXhXV20zcHZaMHFQMDdXUXNrUEs5aWdkbGJTRXBhX3NhcHc4QjFlendfQm8zdEt4UUpaZW9LeUZXOXlONUN6SUZrOXR0a0p6QkVtWjFFLTlPejFhRzBkSTl1T042MElkRjlxRURJR0FNYVM3QUdJQXFnQ180RkE?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "24 Saat Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDJJeWoyRGlpcEFuWl9yUjNJNmFwb19DMXAxT0lVb3k1cmdOaHh5dmZJdm9HZHNLbkoyeDFyNElYd3l6RlQ3Y3hHQzI5dVdmVldXRkZvUHptdTlZeWF1bjdxODZwd0ozMVNhMTlHbWY0Wmk2Z0k2M0g5NVA1VnY0dDNaalNFUTNhUVlDb3NIdmlpRmlEOHYxdzVSSjRhS0hzOTFmSWxzbVBMcGZmcVIyNjFn?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber32",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWtKVHd5TFhlUDFTWENVZHJJU09JMmVRWjF4VUVzSkdfTEZqa0RwWHk0WlFuUTR3cVdIMDJ0c0xmdHVSZjNfQlU2UVdrajdEMDRlU3pJYTF2Vk0zcGpaTkh0aVd4WEtvb1lqcGxwVTR3Tk5neDRuaUI1bndPTDlicHN3US1CalJ6dF9Z?oc=5",
+     "tarih": "2026-10-02T17:56:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Medyaradar",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaGV1U0UwanZWSFp0NzBlV2tueDVTaTZib2U5bm1aQmplSVFQSUpiSTVqcEhYazBHSUItd1RXUm1GQTFQclF4b1A4TzhRMHFsSzdpQW5lZUlZbHlPTGZfSUZ6TXUwa3hFeDdTZGdMQ21XcVI2a25SaGRwLTE0Y2lFRzcwSmVGdjBCQ2xkVXdyTWJ1NVVjOTFzRXdhdHN2cXdQcUVETU1Bb2JNZXBTeE9hR3p0UjdOU3cxQTB1bnFKckJSZlYxX0FRMFlDNU1mZkU?oc=5",
+     "tarih": "2026-10-03T14:51:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber3",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9sYXlIc3RWY213N0ZNcFdjOTRRRWFxV0IzQm83TTVGS2VBeEVsVk5RTndXSk1QUjEyclNYc1FPQUFTUVVFWnlzWXgybGVCT194WmJaNmlUSFpBMWwtclJmM3Z4cGJEWXdLd2xjT0pHQUI0UzBhd0Z4ZnV5Q1o4cGZBd2lfRUdwemsxRTc1SkhVMTJpNDJJQ0NuVFBLLTg3RVkyTG9BcUJUQ2hfZUpVem8zWG91emZoemczcw?oc=5",
+     "tarih": "2026-10-04T06:03:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bugün Kocaeli Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnRTVzdjRllXRWFTTFRCREY1cmxadGNCZUhzbmdsQXFJU0QtQmtNWmFFalNQQXk1VmpvVHQ0MnRzMkduRVhaTlBSN3V4c3lBb3E0M3hLeTI4RWlYSWpwSk5BRVlXUmthMUxjbXg1Z2diekJkT2JiUjRyLVYtNml3NzQyQmtWaFZ5ZlpLTmU0anpqekw2OWtBYXh6V1Y5MFN0a2YwQXBqQWkxY3hIc3k3UGNjeEE5blF0OFg0Rkxn?oc=5",
+     "tarih": "2026-10-04T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sanayi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLS14TzVDR0xMcEtmVE10UnUwQV9jTmhGTHdEU181WS01TXBOa01LN054VmhrbFZTUFFVbUd2OVQtRE5CZkFtQUNNYlUwVU9iR1MzSjA0VzdIRU9GTk9lTGxoaHBXUFlyMTd4QnRJMTJRUm5LcE40bWNidXJ5MDJpUVZ1NEQwbVJNVzVuTWRSR243LXZQajNLZWp5WGstd05iVnh6dDA0bUNLWW1uQVhJaFVWQ016akJfUG1HaGtsUnA3cVFBLXhfNFZTaloxbTRRdGd6UGkxcERlclB3WURjYnptc09VSmluX2NsVVVfWTBEUQ?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sabır Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1phUkVBdlN6UF8yWjBPMnV5Q3BIYXF3RGd4clhkUm44MlQ3UUxOVTJIN3Zqbk1UWkhJbGVtb2pZZmxsNWV2cFdJZklKLW16MW55dmppT2JPakNGTEc2LWFmODBUUHhaVU1IZFk4SV8yeTRJRjlJUThCTjlTNGlkV1pvRlRKYVk?oc=5",
+     "tarih": "2026-10-06T21:40:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "BDDK, cep telefonu kredileri ve kredi kartlarına ilişkin yeni düzenlemeleri açıkladı. 2026 yılı için asgari ödeme tutarları belirlendi ve kredi koşullarında sınırlamalar getirildi. Bu düzenlemeler, tüketicilerin telefon alımlarını taksitli krediyle finanse etme süreçlerini doğrudan etkiliyor.",
+   "neden": "Yeni BDDK düzenlemesi, telefon kredisi ve kredi kartı taksit koşullarını değiştireceği için Taksitlio'nun kredi aracılık hizmetlerine doğrudan yansıyacak.",
+   "gundem": true,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
