@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-14T09:09:00.461848+00:00",
+ "guncelleme": "2026-10-14T10:07:14.547351+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -36,6 +36,12 @@
      "ad": "Bloomberg HT",
      "url": "https://www.bloomberght.com/tcmb-baskani-karahan-fon-cikislari-yerlesiklerin-tl-varlik-tercihini-kayda-deger-olcude-zayiflatmadi-3791298",
      "tarih": "2026-10-14T05:12:40+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-bangkokta-turkiyede-makroekonomik-gorunum-ve-para-politikasi-baslikli-sunum-yapti/4088205",
+     "tarih": "2026-10-14T08:41:10+00:00",
      "guvenilir": true
     }
    ],
@@ -878,6 +884,12 @@
      "ad": "Son Dakika",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVhUSTdtdE96alJjYWQtLXVhdlFxdHRYcEhaeDc0a1huSHF3dmlmVzdYVm1FU0dMYmNEXzgwaVVFMWF2cEtKM0Fhd1Z0Q2RRWC1CblFhZndIalhWRzdzd242NkJlNEVCWFFLcEdyc1p4d2I1QmFKamZ0SUNIOHVsWDlWYUFPYWxtWFRCQl9WUVTSAY4BQVVfeXFMUHhGMS1zcDNHQ1BnNHJrTV9pbXBxeUxsekFfTDRwR0dKdFlxQ0FqbXdjWmJRTUtjTW1GUndZSXdXenVRMTltOWZBTE1ENXpWTkRmcUVybFZvM1pNbi1JbkxqM0x1WU1xQmFLVDY2M3NjOW5VT3MwbW0zQ3EzMTB3S1NyaXVFdFNkcjRLM2wwZw?oc=5",
      "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber32",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWtKVHd5TFhlUDFTWENVZHJJU09JMmVRWjF4VUVzSkdfTEZqa0RwWHk0WlFuUTR3cVdIMDJ0c0xmdHVSZjNfQlU2UVdrajdEMDRlU3pJYTF2Vk0zcGpaTkh0aVd4WEtvb1lqcGxwVTR3Tk5neDRuaUI1bndPTDlicHN3US1CalJ6dF9Z?oc=5",
+     "tarih": "2026-10-02T17:56:00+00:00",
      "guvenilir": false
     }
    ],
