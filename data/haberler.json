@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-14T16:11:09.773272+00:00",
+ "guncelleme": "2026-10-14T17:08:57.669420+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "0342680ff823",
+   "baslik": "Bloomberg'in 'devalüasyon' haberine toplantıya katılan ekonomistten itiraz!",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-14T16:35:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/gundem/bloombergin-devaluasyon-haberine-toplantiya-katilan-ekonomistten-itiraz-haberi-924719",
+     "tarih": "2026-10-14T16:35:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/13/merkez-bankasinin-ekim-ayi-faiz-karari-icin-beklentiler-belli-oldu-ezcl_cover.jpg",
+   "yorum": "Bir ekonomist, Bloomberg'in devalüasyon haberine ilişkin açıklamalara bir toplantıda itiraz etti. Ekonomistin görüşleri, haberin doğruluğu ve olası etkileri üzerine odaklandı. Toplantıda devalüasyonun ekonomik göstergeler üzerindeki yansımaları tartışıldı.",
+   "neden": "Devalüasyon, döviz kurları ve enflasyon üzerinden tüketicilerin alım gücünü etkileyerek taksitli kredi talebini ve perakende satışları doğrudan etkileyebilir.",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "0af9b100d594",
    "baslik": "Ali Ağaoğlu’ndan faiz mesajı: Merkez Bankası’nın faiz indirimi için yeri var",
@@ -729,6 +751,12 @@
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFFmSDdKY2JNRDFjZWFieV82UUVOS0dfLURORkY0bEc4VUZTLS1Pby03S19KaDR2VGJwdmZ1a2h5UDM3aHJUdk5qanJUSjhDdDBwc1NsTGxxSW1fdDd3SGwyeWRFM0FnUXE3S0luZUI2NXh5cDF0X2s2bnRoRUllWkFpa3cxbjA?oc=5",
      "tarih": "2026-10-07T15:02:48+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNF9Kb2k2V0hOdm5nV05FQnlqSUpVVXI5ZmwyTXlrMDRXZ3hSbzVodjQxc18yRGt1RWtuTGFtanpmSWRDRHBpbmVBLUhyVlpLZmpTOWNFVzB1OGxlUUN1dlZoNnhIODJLcG12MEFZbi1mb1ZOVENHNDJEMVk1ZHc2bnNkbDgxdjM0RWc?oc=5",
+     "tarih": "2026-10-07T13:56:52+00:00",
+     "guvenilir": true
     }
    ],
    "gorsel": null,
@@ -1040,6 +1068,18 @@
      "ad": "Sabır Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1phUkVBdlN6UF8yWjBPMnV5Q3BIYXF3RGd4clhkUm44MlQ3UUxOVTJIN3Zqbk1UWkhJbGVtb2pZZmxsNWV2cFdJZklKLW16MW55dmppT2JPakNGTEc2LWFmODBUUHhaVU1IZFk4SV8yeTRJRjlJUThCTjlTNGlkV1pvRlRKYVk?oc=5",
      "tarih": "2026-10-06T21:40:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWNSOXNIcWxSWFd1WEstQl9HVkZPTXVZNldVRGhtMm80ZGppcGxUMWExamRZNnJldEhLWDA2WGNfZ3pEMF93TGQ3UHhpT3gyOVJuekk4bU1oTmtudk1rZXJqU2lDZTVDMFZodUhjYm1oSzJ2MHBFZm5qNUFMWWl6X0RPNDcxa3hPZld2OTRvTEhFalF1R0NNUDB0YXlhb1UwVmdPaWdLZFY?oc=5",
+     "tarih": "2026-10-05T13:23:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Taşınmaz Haber",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0hGcFlYRmJuWWdwb0Z5NWk2ZlZhcUhNSzM2VGFrb1VTLXlnZkF3YnFTMUdQeFdtbDFvdk9DbS1tWWFqZmJMWFJ3UThhTm41anFFdXRYTHpkUmJvUFJUaTAzMFZVTV9yVmJrYTBzX2U1aVNsaEx6Qll0N2l3ekx6Sk5acWphdER3aXZPeWhEeFhBU3pqWnJwSTVCa09zQ1RLdjM3WUtVbVFNdXhYMGZ2VnN3?oc=5",
+     "tarih": "2026-10-07T17:59:21+00:00",
      "guvenilir": false
     }
    ],
