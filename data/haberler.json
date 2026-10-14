@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-14T06:03:50.871345+00:00",
- "saglayici": "Google Gemini",
+ "guncelleme": "2026-10-14T06:33:18.108561+00:00",
+ "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "b1ca8fd31ab7",
+   "baslik": "Uzmanından ekonomi analizi: TCMB 22 Ekim'de 100 baz puanlık faiz indirimine gidebilir",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-14T06:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/uzmanindan-ekonomi-analizi-tcmb-22-ekimde-100-baz-puanlik-faiz-indirimine-gidebilir-haberi-924535",
+     "tarih": "2026-10-14T06:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/14/uzmanindan-ekonomi-analizi-tcmb-22-ekimde-100-baz-puanlik-faiz-indirimine-gidebilir-nou1_cover.jpg",
+   "yorum": "An economist quoted by Ekonomim predicts that the Central Bank of the Republic of Turkey could cut its policy rate by 100 basis points on 22 October. The forecast reflects recent inflation data and the bank’s monetary‑policy stance. No official announcement has been made yet.",
+   "neden": "A possible rate cut would likely lower consumer‑loan interest rates, directly affecting the cost of shopping‑credit offered through Taksitlio.",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "1dd987117f0e",
    "baslik": "TCMB Başkanı Karahan: Fon çıkışları, yerleşiklerin TL varlık tercihini kayda değer ölçüde zayıflatmadı",
