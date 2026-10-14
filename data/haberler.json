@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-14T06:41:53.363242+00:00",
+ "guncelleme": "2026-10-14T07:18:20.039242+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -867,6 +867,12 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0hGcFlYRmJuWWdwb0Z5NWk2ZlZhcUhNSzM2VGFrb1VTLXlnZkF3YnFTMUdQeFdtbDFvdk9DbS1tWWFqZmJMWFJ3UThhTm41anFFdXRYTHpkUmJvUFJUaTAzMFZVTV9yVmJrYTBzX2U1aVNsaEx6Qll0N2l3ekx6Sk5acWphdER3aXZPeWhEeFhBU3pqWnJwSTVCa09zQ1RLdjM3WUtVbVFNdXhYMGZ2VnN3?oc=5",
      "tarih": "2026-10-07T17:59:21+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Son Dakika",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVhUSTdtdE96alJjYWQtLXVhdlFxdHRYcEhaeDc0a1huSHF3dmlmVzdYVm1FU0dMYmNEXzgwaVVFMWF2cEtKM0Fhd1Z0Q2RRWC1CblFhZndIalhWRzdzd242NkJlNEVCWFFLcEdyc1p4d2I1QmFKamZ0SUNIOHVsWDlWYUFPYWxtWFRCQl9WUVTSAY4BQVVfeXFMUHhGMS1zcDNHQ1BnNHJrTV9pbXBxeUxsekFfTDRwR0dKdFlxQ0FqbXdjWmJRTUtjTW1GUndZSXdXenVRMTltOWZBTE1ENXpWTkRmcUVybFZvM1pNbi1JbkxqM0x1WU1xQmFLVDY2M3NjOW5VT3MwbW0zQ3EzMTB3S1NyaXVFdFNkcjRLM2wwZw?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -1047,6 +1053,12 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzZ5bGEwVkJnYTB0ZExVc1BoMDl3TU9JaG40c1kyN2t2MU8wcEhNRm03XzV3cndpM3hXTXRZaXRmcExJelRCZzBON2JCU0hoaXhCY3BWMm9hcVdwaFFmblpUSUItbWJNeEh6YVJMeDJvTXl3NDREVzBHNFlWc2tmNWcyTTNRLTY2clBhWktjZ203NGxBbEdoeW1JMlRFUdIBowFBVV95cUxNeFAxSmotbDJkRlA4azFpSDBUQ3NvdVZzLUVhVTJxZ2xXYzZmeUZhQ2V6dy1xR3ZzdU5JQzNISkdURDJIX1BiOHpCVEhYY3dNaWJVVENHM185V080cXlWWG1rMzFLYktrNXRfS1g0LThFaVNiRmhpUW1iQ0c0RGQxVUFPS2VLUllOR0NvR0JyMGtiWkQ1RS13N0UwM3lzdG43T19B?oc=5",
      "tarih": "2026-10-06T00:34:32+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "FinansTaksi",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZU12ODdLZ2ppNFZjenVUdkxNbGVvYnNDSGlGbkJUNlJwWmpTUXVfTG1EU0ZKdW1aYXB0NU4wU0lyMTNtRDZEcXNYaWt2dlBvT3lZSWkxSGl2cllUeUV0SkVuaHY0cGFkU1hwVEl4bVAwclBRemJwWHdRQXlIV2lZZTFjYUTSAYoBQVVfeXFMT0Roalo1LXV1djFHMEJFMlZYVnRpZXozbjVBSFd2VXl4d3FHSTJpdXlzMTVDOGswTWlXeHV6ZktZWXBWSjhNM2ZQOVZPYUhseUlHNWtJU0NnY0JXa3QyV3AxZGZQV3ZDTTlCeHVjczMyb3pLZDBhdWROTFBfMk9FVHdxZFJhWnl6M1dR?oc=5",
+     "tarih": "2026-10-05T11:23:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -1134,62 +1146,6 @@
    "neden": "Birleşme, mobilya ve yatak ürünlerinin taksitli satış potansiyelini artırarak Taksitlio’nun iş hacmine olumlu yansıyabilir.",
    "gundem": false,
    "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "425a0e7ea707",
-   "baslik": "Ucuz telefon pazarı küçülüyor: 230 milyon cihazlık pazar riskte",
-   "marka": "Sektör: cep telefonu",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-09-24T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0RJNDhPWWxhQnhQdUZVSTB1RHBMVlJ4WWJzU0lwR0JFTGJaLWhUUnNXcFE1VENGQ0w5LXdHUXJRbXkySUVSWEE4QUxlOXBYOFMtbDkwbnV2N1oyZmVDV0FYNFdJZDdVRlhuNWVrbjI4UEVMTzIwa3hJQ3FCRVdHRFhEWTlpLUc1YXNaWVNadVEyOVNqSExZZndZbVJBek5nZm1XcUxic2I2NmczUFZSZzdJTDlveXdrS2c?oc=5",
-     "tarih": "2026-09-24T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "GZT",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEl1S19OUkU1Ny1zVF9Pd1J6ZkdnaV9qTXVWSVhvOU53OXFEcDRLNUdrUkM2V0pDS19DbThyV081OWR4R045aVJtZlNYOHduQWQ3QW1yN3RCb041TzFJXzhuLXZiU01PMloxU1N0TEdIMlZ6NWFMUldXVnYwaUxINlNaYzJ1MzZnX3N4RW9wSXFNeW9neVFyV25Mbl9DdWhOUUNtekJIMmloSGRfOFdXMGJ0RHk2c0g1dEN0VkxOeGhXTy1FUk1mTl9Raw?oc=5",
-     "tarih": "2026-09-24T07:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Ucuz telefon segmentindeki pazar daralıyor ve 230 milyon cihazlık potansiyel pazar risk altında. Bu durum, düşük fiyatlı akıllı telefonların satış hızının yavaşladığını gösteriyor.",
-   "neden": "Pazarın küçülmesi, düşük maliyetli telefonların taksitli satışlarını azaltarak Taksitlio'nun ilgili segmentteki hacmini olumsuz etkileyebilir.",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b4894a60e20d",
-   "baslik": "Xiaomi’den dev adım: 3 günlük pil ömrü sunan REDMI Note 17 Serisi tanıtıldı",
-   "marka": "Xiaomi",
-   "kategori": "telefon",
-   "oncelik": 3,
-   "tarih": "2026-09-24T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Sabah",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHVVOXB4Z1VZUjNoa3pXcFR5TWZnZk4tS1Fka2RucS0xU2VJODNDenFEQ3RHcHY5eUZhN0MyTUJRNmtWQllVR0FSSmVjaHU2NERIbnl5WHhDNU10QVJxYjJiLTdXdE1hVzlnOFJ3ekY2cnBtb0RQTVJVNTZXalo0OUE0MEc3dFNhN09rc19uNXNCd1hHQ25wSHVuTUlWUmJhWDFhY05kZ3JEbGd6Z2JuSUFBNVROMmhrMWRF0gG-AUFVX3lxTE1PM2ZYTmJITVRvZEdiWjM4RVR1WFpuSkdkOVMtZ1pIWmN6MXhGVURmZGtjN2xEMnVsdlpBeTRZTXpQOWFUM0hqY2tEUERUOUZZb0dvQzR5QWVZT2QzbjJ0d3JGc3pIVWpWcTdLdFlsQ2lTTktQYl84QUVGYTVjYmhyZHIyVHVFRkRDSU9EdGFRbW9XOUNtMUNJbXZLdk9wc2dWR2FfTUx5Vl9qNFE3dU5KZDEybEhxYUhIOEtvX1E?oc=5",
-     "tarih": "2026-09-24T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Hürriyet",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcENUbUZ0R2x3RGVOMXV0MGRhTzlRd29NZmFDa25iWkhTNGUwNi1ZZHFweXJ3bHlScUNNckY5cFpVOWQwNHF6TWdWSkhYcjZJcjhkZ3NndFJ2c01WSDhzYUZ5SGxHeUMxYjNlYTNpQUZ5djlLTk51dTFhVF90RWpiRURHOUdXUF9kamwzSUp3ejR6QjZjZUJZOXBMMlN6Z1Vz?oc=5",
-     "tarih": "2026-09-28T07:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Xiaomi, Redmi Note 17 serisini tanıttı ve cihazların üç günlük pil ömrü sunacağını duyurdu. Şirket, yeni modelin yüksek batarya performansı sayesinde kullanıcıların daha uzun süre telefonlarını kullanabileceğini vurguladı. Tanıtım, markanın orta segment akıllı telefon pazarındaki rekabet gücünü artırmayı hedefledi.",
-   "neden": "Yeni telefon modeli, tüketicilerin taksitli alışveriş talebini artırarak Taksitlio platformunun işlem hacmini yükseltebilir.",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
