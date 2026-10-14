@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-14T20:06:26.721219+00:00",
+ "guncelleme": "2026-10-14T21:04:22.508169+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -42,6 +42,34 @@
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/14/ali-agaoglundan-faiz-mesaji-merkez-bankasinin-faiz-indirimi-icin-yeri-var-axpr_cover.jpg",
    "yorum": "Ali Ağaoğlu, Merkez Bankası’nın faiz oranlarını düşürmesi gerektiğini belirtti. Ağaoğlu, mevcut yüksek faiz seviyelerinin ekonomik aktiviteyi olumsuz etkilediğini vurguladı. Açıklamasında, faiz indiriminin tüketicilerin kredi kullanımını artıracağını ifade etti.",
    "neden": "Faiz oranlarındaki olası düşüş, tüketici kredisi maliyetlerini azaltarak Taksitlio üzerinden yapılan alışveriş kredilerinin talebini artırabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "80fc09795246",
+   "baslik": "Mobilya sektörü İngiltere ihracatını artıracak",
+   "marka": "Sektör: mobilya",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-10-14T07:42:53+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0l1X1ZqY3VDWlgtVEZpVURXcXVxV2w1M3pIdm9DNkppTkpVYUpYZFBFelVrUXlTbFNZbW91Q25lQzJhWXAtcFdfRWRhbmNfMTg1SHB1a1pnUHNxTlFWYlFDekt1TWtEZlhYMEUzQUJwdVhOQzNESENJZnJSOWtKUWE1SjZTakNZMkhNblFWcDBkZDNMM2pN?oc=5",
+     "tarih": "2026-10-14T21:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Turkchem.net",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnpidFhFVFgtOHN0Qy1FeWJvT0pqbE9CdXM3aW51R3BZLXdSdmw1QzZqNDJvanZFWTBQV1dZbkMwZk1ZbFh4Z1Z2dVY3YTB6UXhlVVN2azdIRUZRR3pqbTVOWXQwVGpoY2RkQjFuMGI2aXZWdkg2b1lhWHc3a1p4dmk1MGRISXRvYjFpTGV3OUphelo4eE0ycExKNXo3VTlkbjNOX1VsQXpuUQ?oc=5",
+     "tarih": "2026-10-14T07:42:53+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Türk mobilya sektörü, Birleşik Krallık pazarına ihracatını artırma planlarını duyurdu. Bu gelişme Dünya Gazetesi ve Turkchem.net tarafından haberleştirildi. Açıklamada somut rakamlar yer almadı.",
+   "neden": "İhracat artışı, yerli mobilya üretiminin güçlenmesine ve perakende satışların yükselmesine yol açarak taksitli kredi talebini artırabilir.",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
