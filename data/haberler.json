@@ -1,7 +1,35 @@
 {
- "guncelleme": "2026-10-14T05:05:25.790902+00:00",
+ "guncelleme": "2026-10-14T06:03:50.871345+00:00",
  "saglayici": "Google Gemini",
  "haberler": [
+  {
+   "id": "1dd987117f0e",
+   "baslik": "TCMB Başkanı Karahan: Fon çıkışları, yerleşiklerin TL varlık tercihini kayda değer ölçüde zayıflatmadı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-14T05:12:40+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-baskani-karahan-fon-cikislari-yerlesiklerin-tl-varlik-tercihini-kayda-deger-olcude-zayiflatmadi-3791298",
+     "tarih": "2026-10-14T05:12:40+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/tcmb-baskani-karahan-fon-cikislari-tl-tercihini-zayiflatmadi-haberi-924530",
+     "tarih": "2026-10-14T05:18:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/14/ver1791954787/3791298/jpg/1280x720",
+   "yorum": "TCMB Başkanı Fatih Karahan, fon çıkışlarına rağmen yerleşiklerin TL varlık tercihinin güçlü kaldığını ve sıkı para politikasının fiyat istikrarı sağlanana kadar sürdürüleceğini açıkladı. Karahan, enflasyon ana eğiliminin gerilediğini ancak beklentilerin ihtiyat gerektirdiğini vurguladı.",
+   "neden": "Sıkı para politikası duruşu, tüketici kredisi faizlerini ve alışveriş kredisi maliyetlerini doğrudan etkilediği için önem taşır.",
+   "gundem": true,
+   "onem": 4,
+   "model": "gemini-flash-lite-latest"
+  },
   {
    "id": "47d141016704",
    "baslik": "Konya’da mücevher tutkunlarına 5 günlük özel fırsat! Özboyacı Altın’da EMA Jewelry rüzgârı",
@@ -528,19 +556,13 @@
    "marka": "Sektör: cep telefonu",
    "kategori": "telefon",
    "oncelik": 2,
-   "tarih": "2026-10-04T06:03:00+00:00",
+   "tarih": "2026-10-04T14:58:00+00:00",
    "kaynaklar": [
     {
      "ad": "Sabah",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG5LNXZJa1d6TElMTk1Bc3RjZGhHR09LUzN1eE12bm5XYlZPTzVzR2pOVnI5VXNSNFJvUUJKZFNqazg1YXMwZXg4VndtSUdFRkkxZWJ1YVg4TjVPUHRLdUpBUWVTWUN1cGVfQTRPaThyQWlMMkFYZGNMYXE0UlhiZkF5Z3ctb1hZMWRYN01GemtobV9ENUkwZXhFZGQxLUxxUEZsZnZxd1N6TzhFOEZBZVJ5VmpiMlNnZEdrTHpJSdIBwgFBVV95cUxPUXBMZVlOWF92QzJqZk1jWGE2aWxBZk11OFdkbDExSUxZeUNuc05DcXlJaTJrVmVrQmViUWRLdkFVbWdFcUtQVnVsVi1ZQS1aU2VyS3ZNSXJtVHJDbGdzVTI3VlVyekQ1c3RYSU15eXBCcG1yMTB5NUJXRG1sLVNranlyeDFWSmRLRFhLUDBsM0V4SWtsb2drbzBzUy1tRlVYUmlfTm5hbjhkSHktVE1HSUFrUWlLMHRoZUFtSlFYLTJuZw?oc=5",
-     "tarih": "2026-10-05T19:23:00+00:00",
+     "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": true
-    },
-    {
-     "ad": "Haber3",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9sYXlIc3RWY213N0ZNcFdjOTRRRWFxV0IzQm83TTVGS2VBeEVsVk5RTndXSk1QUjEyclNYc1FPQUFTUVVFWnlzWXgybGVCT194WmJaNmlUSFpBMWwtclJmM3Z4cGJEWXdLd2xjT0pHQUI0UzBhd0Z4ZnV5Q1o4cGZBd2lfRUdwemsxRTc1SkhVMTJpNDJJQ0NuVFBLLTg3RVkyTG9BcUJUQ2hfZUpVem8zWG91emZoemczcw?oc=5",
-     "tarih": "2026-10-04T06:03:00+00:00",
-     "guvenilir": false
     },
     {
      "ad": "Bugün Kocaeli Gazetesi",
@@ -549,15 +571,15 @@
      "guvenilir": false
     },
     {
-     "ad": "Sanayi Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLS14TzVDR0xMcEtmVE10UnUwQV9jTmhGTHdEU181WS01TXBOa01LN054VmhrbFZTUFFVbUd2OVQtRE5CZkFtQUNNYlUwVU9iR1MzSjA0VzdIRU9GTk9lTGxoaHBXUFlyMTd4QnRJMTJRUm5LcE40bWNidXJ5MDJpUVZ1NEQwbVJNVzVuTWRSR243LXZQajNLZWp5WGstd05iVnh6dDA0bUNLWW1uQVhJaFVWQ016akJfUG1HaGtsUnA3cVFBLXhfNFZTaloxbTRRdGd6UGkxcERlclB3WURjYnptc09VSmluX2NsVVVfWTBEUQ?oc=5",
+     "ad": "birgun.net",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSklQTzMxdWF0WmdlRXQ0MXZ3MGgzTjJDSUk3T0hTREpFeC1PdzAzWURuN1oybjJsZmUzQUJueDQwaDhvUlNJdnctUUZ5SnRPTTBIbDY1M2ltak5mOWFCOXlQMWRkOWMyNTE1RXBGdEZVWm9IbVBsMzg5Tl9xWHJQU1NsTWFrY0l4M3pjX3ZZTE8tM2ZyN3NyRDluM2JTd3BZbUhyQUo5dk9EblJ3Z2w5QXF3WXJIRzlLY21sZFF2TzZwYnIzQ0xrUjFlM0VNSVZsWUp2QzF5c1c?oc=5",
      "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": false
     },
     {
-     "ad": "birgun.net",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSklQTzMxdWF0WmdlRXQ0MXZ3MGgzTjJDSUk3T0hTREpFeC1PdzAzWURuN1oybjJsZmUzQUJueDQwaDhvUlNJdnctUUZ5SnRPTTBIbDY1M2ltak5mOWFCOXlQMWRkOWMyNTE1RXBGdEZVWm9IbVBsMzg5Tl9xWHJQU1NsTWFrY0l4M3pjX3ZZTE8tM2ZyN3NyRDluM2JTd3BZbUhyQUo5dk9EblJ3Z2w5QXF3WXJIRzlLY21sZFF2TzZwYnIzQ0xrUjFlM0VNSVZsWUp2QzF5c1c?oc=5",
-     "tarih": "2026-10-05T13:00:00+00:00",
+     "ad": "Sanayi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLS14TzVDR0xMcEtmVE10UnUwQV9jTmhGTHdEU181WS01TXBOa01LN054VmhrbFZTUFFVbUd2OVQtRE5CZkFtQUNNYlUwVU9iR1MzSjA0VzdIRU9GTk9lTGxoaHBXUFlyMTd4QnRJMTJRUm5LcE40bWNidXJ5MDJpUVZ1NEQwbVJNVzVuTWRSR243LXZQajNLZWp5WGstd05iVnh6dDA0bUNLWW1uQVhJaFVWQ016akJfUG1HaGtsUnA3cVFBLXhfNFZTaloxbTRRdGd6UGkxcERlclB3WURjYnptc09VSmluX2NsVVVfWTBEUQ?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": false
     },
     {
@@ -598,11 +620,11 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Bankacılık Düzenleme ve Denetleme Kurumu, cep telefonu alımlarında kullandırılan tüketici kredilerine yönelik vade sınırlarını güncelledi. Düzenleme kapsamında cihaz bedeline göre uygulanabilecek azami kredi vade süreleri yeniden belirlendi.",
-   "neden": "Cep telefonu alışveriş kredilerindeki vade sınırları, tüketicilerin finansman seçeneklerini ve platform üzerinden sunulan taksit imkanlarını doğrudan belirlemektedir.",
+   "yorum": "BDDK tarafından cep telefonu alımlarında uygulanan kredilere ilişkin vade sınırları ve düzenlemeler güncellendi. Açıklanan yeni kurallar, telefon alışverişlerinde kullanılan tüketici kredisi koşullarını belirliyor.",
+   "neden": "Cep telefonu alışveriş kredilerinin vade sınırlarını belirlediği için Taksitlio'nun telefon kategorisindeki aracılık faaliyetlerini doğrudan ilgilendirir.",
    "gundem": true,
    "onem": 5,
-   "model": "gemini-flash-latest"
+   "model": "gemini-flash-lite-latest"
   }
  ]
 }
