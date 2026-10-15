@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-15T18:03:48.485393+00:00",
+ "guncelleme": "2026-10-15T19:12:39.263247+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -662,6 +662,24 @@
      "ad": "Taka Gazete",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjVLaXB0YU5wcC1yaGQxTWJJX0pLamlYLWZBbDNwYzFhcExCUXdjVk51QXZSMGhOX0ZaSkRsalJMVF9kZkZlbEJjdFoxVXlZejJYZVNaTndTOWoyLTdmYThQZmpXeV84TTVDeFV1a3ladkxFc1BEa3Vxa2lsNEsxVVI3LWJxMGkwOVYxNzFSa2JFd20wbm5UX0loNUFhZFE?oc=5",
      "tarih": "2026-10-15T15:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İnegöl Online",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3N6bnBkMVNIQ2FkMTI0S21fWDRNV2lOVjB6NElaV0ZHcm1LNVc4MXlaRm9kX0c5b3poT2dxOVlTaXh6TmJDWWZEMVQzUGx4RFEyVTNEZ0pNTE9Ba0hybjJ6LVhwWmxpQ21DekxKR1B6dk1zZDdyNk9pUWhucVlsYg?oc=5",
+     "tarih": "2026-10-15T16:33:39+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "kayserihaber.com",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYl9oWnJsM0ZSaGZ5U1lzb2JHNW55dUI1WHU1bU4xcDVjUGFEYndQR3NsQnIzQzhoNkZYTUZlX3FoSy1CRmNSQXY0V3JmRlAzSEZwbnVETnRQVlE0XzFjRFdQN1dkQVFSd19VRThCcGFsWkhNWWY3cnFQelZ1QWZpbzFsWTMwdw?oc=5",
+     "tarih": "2026-10-15T18:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "www.sivasirade.com",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZV9Sa1RnYlgzeVF1ZV9ZSllFVkpIRXpxN0laSm1kYWhCMm1YRGhubGpXQlhEdm9VRjduUlNZdTNxa1V1VmFlemtPLXZTNkNUcDc2aUdPUDZnM2ItbXhtcU9LS3I4dVFvUnRTWEd2S1pkY2RuYmcwOTdTRVZTZWt0YmNmNGlQUkYzbng3UEVDUnNhQnV3MzNQYXZLUWN0Tml1UDZTZW9pUVM0bjdtaW5TWFpJQUdTRGNtNXc?oc=5",
+     "tarih": "2026-10-15T18:33:20+00:00",
      "guvenilir": false
     }
    ],
