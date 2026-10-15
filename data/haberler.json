@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-15T13:18:33.425225+00:00",
+ "guncelleme": "2026-10-15T14:14:28.105119+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "991c114dcf98",
+   "baslik": "BİM’DE DEV FIRSAT: BEYAZ EŞYA KAMPANYASI BAŞLIYOR! (BİM 21-27 EKİM)",
+   "marka": "Gündem",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-15T13:57:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/foto-galeri/aktuel/bimde-dev-firsat-beyaz-esya-kampanyasi-basliyor-bim-21-27-ekim-s1-galeri-924967",
+     "tarih": "2026-10-15T13:57:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/bimde-dev-firsat-beyaz-esya-kampanyasi-basliyor-bim-21-27-ekim-pcu0_cover.jpg",
+   "yorum": "BİM, 21‑27 Ekim tarihleri arasında beyaz eşya ürünlerinde büyük bir kampanya başlattı. Kampanya kapsamında buzdolabı, çamaşır makinesi ve bulaşık makinesi gibi temel beyaz eşya ürünlerinde indirimli fiyatlar sunuluyor. Mağazalar, kampanyayı haftanın belirli günlerinde yoğunlaştırarak tüketicilerin ilgisini çekmeyi hedefliyor.",
+   "neden": "Beyaz eşya kampanyaları, tüketicilerin taksitli alışveriş talebini artırarak Taksitlio’nun kredi hacmini ve işlem hacmini yükseltebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d8d60e425ca1",
+   "baslik": "Bloomberg HT'nin Ekim ayı faiz anketi sonuçlandı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-15T13:46:23+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/bloomberg-ht-nin-ekim-ayi-faiz-anketi-sonuclandi-3791499",
+     "tarih": "2026-10-15T13:46:23+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/15/ver1792072062/3791499/jpg/1280x720",
+   "yorum": "Bloomberg HT, 17 kurumun katıldığı bir anketle Türkiye Cumhuriyet Merkez Bankası’nın 22 Ekim toplantısında politika faizini %36 seviyesine indirmesini beklediğini bildirdi. Anket sonuçlarına göre en yüksek beklenti %36, en düşük %35,5 olarak kaydedildi. Katılımcıların büyük çoğunluğu faizde 100 baz puanlık bir indirim öngörürken, iki kurum 150 baz puanlık bir düşüş tahmin etti.",
+   "neden": "Politika faizindeki olası değişiklik, tüketici kredisi ve taksit faiz oranlarını doğrudan etkileyerek Taksitlio’nun kredi maliyetlerini ve tekliflerini şekillendirebilir.",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "c4bc4df13874",
    "baslik": "Bankaların takipteki alacakları büyüyor!",
@@ -43,6 +87,66 @@
      "url": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-taksitli-satislarda-sure-ve-kisitlamalari-belirleyebilecek/4089479",
      "tarih": "2026-10-15T09:19:43+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "İhlas Haber Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUxudHFaUk96RDFrQzVVXzhENVpyZ3hzbGhSa3VQT2RYcktrZTY5Z0ZTNVkyZG5UZEdVc3VpVS1GXzh0bzdzT1k1dzZVMGx2cmNOMXZvNGY2d1hiMkhlUldPcVZtLVctUWpGWjVIZmJ3UXlqd3UtSmZGWVowbkV6eGhDeFFvd1Bwa3BGWkxyYWxpTURySnU4VjhROTYtSGppRDl6Zllvak9yTGR6ZG9RYUtB?oc=5",
+     "tarih": "2026-10-15T13:34:20+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haber Global",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmNPMlZyaTlKZTNva3FIX05DREtSblZKRXUwRzNMRXlQRnA4TTdTSnZZMHVEa2ZjT3ZicHRsam9tRk1QdklmdTZSbHZTSHlZa3c4TXpicEU1VkJOUk14eFpyMXRncmdXRDZCelNlcmJoR2RJUmVJdnZIU0EwbXJIcXJVWmhQdndSNUtIVUlCVEFrRFVSV1JnRDdYZlJiLU5IZmp4X0tVekFxcmUwbjlrNWNReUFEMlhjNk1aOGI5QTBKYjlJSDBHeVFVTdIB0AFBVV95cUxNNlNsQlZYNWhGbURQcTFvU3FQZFZXT1NwVW1JWDJPdzBGcnVKeWotV1lnV3BYUTc5YmNrSkRuYVpEYU1PQTdtaVlfbkRiSFFub09jd0J4R3dQWDRyVTFfeEg4RkFTcjYwTXN2VTA2U2xKaUxxVXdXczBsTjhIQkRrWEFFUFVuejlRcExvTzlSTW1HbVBOVU1BbXY2VGlPUVlydXQwT0tVRUgxMVJQN0JtWFlVdlNFSHRiNGZSekhySi1XTUdmSXhIZmV1ZHB2LTUz?oc=5",
+     "tarih": "2026-10-15T06:28:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Şafak",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWWtxMVRaSExVVnJKcFBJVlRaZ2pnM1BzS1B1cXkwbDJGamdHMV9VSVNLcHhQdHhqbEJVUGJJR2tibFhXTWtIaVJGRmtuZlZ0QVl1TDRDQnQwbnB3WDZMNy13R3g1MGk4WktpOVFjbkJMSDJtdnRQOFBPOHFDVFBUZjNhUHJPU3JlNE9TWmJhUmFCZUxwTGZUWi1keE5NM25oT0JRNFZJRFJPc0lWNG44dnFYRXJMQWtZQzdrNmhVLWVLR0RJMEFPdjJkQ1RLbzVPNTR1Um5LZ3ZrbWRwYUFxWjBiT3h3VTQ0d1RuQkxn?oc=5",
+     "tarih": "2026-10-15T07:02:11+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hunat TV",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWpBN3hMcjFRaldncHUtZFVJa3V0dXdzMThOdDczbVVzV0NJbU04Y1pMMVZ3cnpVRDhPWUlnTGVDRDQ5RWlUNUM5QVYxWXozZ29KSmZ0U3QzcUwtVUJpZkNPRXAxQXNsOTFFYjh2NWUzLU1YNURlTURRUk9FSkxJODRkRFUxQ0ppdS01UVJLZ2VUb0FjWk9vV2Z2dExGVzV1cTRrMERuYU1OZW5WS1JSRmJRaw?oc=5",
+     "tarih": "2026-10-15T07:25:17+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Hürriyeti",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3RrUk1zcmx4UkVjVUNxaEVyaGU5R1FxTHFzZFI3S0xoLVN1MVdxRXVBUlZnTm41My1mOWIxYW9QOWNSSElDX0ozVVR5cUZFLThDNGY3THRSNnlUeFlXcWRPYmRoX3NNM2wxelFBb1pBN1U4N0FXd3M1U0szRXpHT3pWZ1ZrNzRKeUhHQzNNOTZpc1VzczNrQnV4UVVtdzZxRDF4TVBNZlZZT1F2bmpLV1JmRnMxSmhpZWVR0gG7AUFVX3lxTE5TdGtSTXNybHhSRWNVQ3FoRXJoZTlHUXFMcXNkUjdLTGgtU3UxV3FFdUFSVmdObjUzLWY5YjFhb1A5Y1JISUNfSjNVVHlxRkUtOEM0ZjdMdFI2eVR4WVdxZE9iZGhfc00zbDF6UUFvWkE3VTg3QVd3czVTSzNFekdPelZnVms3NEp5SEdDM005NmlzVXNzM2tCdXhRVW13NnFEMXhNUE1mVllPUXZuaktXUmZGczFKaGllZVE?oc=5",
+     "tarih": "2026-10-15T09:15:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "ShiftDelete.Net",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vVXBuMG1kYmdTbkFvZWNOYy1HOEhhMFdvYUtyRExUc05qV1dXSnY3aXY0RzdtUGFWNmxRRFJaMk9tZlA1ZXlSMUtwTEl5THdFSlFhazcxdWNmZlQtRng2S0ZIbkZCWGxOU19nRThES1YtdDhlX1huWFEwVdIBgwFBVV95cUxOemJNbVFYNVZvVmczOWI4VFFGMmtPRk9KR0RzaXhEQ0NtbldJVmRidjZDQ1B4SEhkZ21qUE1tTjI5MEgxUkNwcC1yc3F5dVloTDdwYTE4WDgteG8xbTNPY1dJWWpWV2VCVEhESVAwRnNCLUNBWEZIc19YT0E2MDRCQm9iWQ?oc=5",
+     "tarih": "2026-10-15T10:45:31+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Malatya Söz",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGc2UldwQTA3a1k1RktlZDA2YUdLSzBGRjRHOG5saHpBUUxqdzB5cXNJdVBERUV4ZzhTTWJRYV9QYktRc090dnVldENPUnh4aVpiYXRYVUQ4QmY0S0pybzhsV09IVDE0Y0FQSlVQZ1VWUTFMaHJSS3hLUFI2MEtfOVlNelI5d1Qtd0J6dS1BUVM1QllGeUFkQ1V1U1NnQQ?oc=5",
+     "tarih": "2026-10-15T10:57:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kayseri Anadolu Haber",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkZ6d0Nfbkd1SHdTQ3pwQjlmWE1kVDd0MjIxRmNVQm5rVEwxeVp3aHN6dmZMdm9SVnA3VldoZ3BhcnJqaWRwMlBsQTl4c0gzWGNyUmdKZkcwN0c1S0RvOHQzUU15YjJDam82SUM5dUZ6UW1rME1fd2J2TXZZdjBtcHpyX01PaHZrMk9RS21VWHAtMjFhYjg2bTZpX2ZDZmZYcktMVHBRbDNIdl9BbGFOX2xualh2VlJBaEE?oc=5",
+     "tarih": "2026-10-15T11:58:52+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Doğayı Dinle",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTVkNDVzaXZiXzhKNEFGcUJlZmxWTGVLcVA3bzFtVmNiZklQdG5PcHY4SXFIOTF5OTh4SG5TNDBmN0lLd3RfbFhBZXA1czFBMHFTcG11WW1GQ0JkODlvVTRXYmdtaVRHbkhVVjJGd0xMaEhnMTZjTGN5XzVFbzlJWFdsbzQxSFdnZGQwNE5rYm5sLWo3VzNRSFViYUQ1SW9JcUVsSmFfR0YxbFlQQW1scVpCMWMyWXRfWF9vLW0ydWJTZFRyQmc?oc=5",
+     "tarih": "2026-10-15T12:08:19+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Teknoloji haberleri - LOG",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3l0dU8wblVlWHdwek9GdHVJMUgzdnRyN1B1ZXY3STJkN1JtdHhjbkN2YUdxUjZwU3F2NF9jZ18tcXh4cDBXT3VfVjdSb2czM0JxZ25IVTJzdFNqU1FmczJVeXNmOEk0cEpIRzNTSG1PYzdNYm5jbGQyXzFNcEI5NmUtUGhJTHVKTWtlMUlFXzVhcTFiQ3B0dHE2VVRNaEl1UkMtbHBLOEwycWw1aTJwZzNB?oc=5",
+     "tarih": "2026-10-15T13:52:30+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/15/ver1792056856/3791451/jpg/1280x720",
@@ -87,6 +191,60 @@
      "url": "https://www.haberturk.com/ekonomi/alisveriste-12-ay-taksit-siniri-kaldirildi-3919840",
      "tarih": "2026-10-15T06:10:32+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/sifir-cep-telefonlarinda-taksit-siniri-40-bin-liraya-yukseltildi-3791486",
+     "tarih": "2026-10-15T13:24:57+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/cep-telefonu-alacaklara-yeni-taksit-duzenlemesi-sinir-iki-katina-cikti-haberi-924961",
+     "tarih": "2026-10-15T13:32:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "ekotürk",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkgyMk9FODVXVlZrZGVzbTVUMFlaWEhrU1lONF9aY1N1R0NZSEFoMUJudzJzWXIzOG4xRlJxM0YwYTJsRllZSEZtbFdiMndZcXVpWEFoNTFJRnJYaDMtLWgxcElHeWZsdEljLW1EYUNJM3hZSTc2U3UwVGl1aDdaUm9wcGFVdGxKeERR?oc=5",
+     "tarih": "2026-10-15T13:24:31+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVdRTnMzcTFWLXVsNllsU29va3ozZGp2R1BiY2dULXhndl9aSk1LYnc2TFVycGtSaXJlcDNmTGhpRXU3V3hWcFB6RXRiNEEtcEFDa2YxYTBxUVF6YmlPanFTYW9PVjFBdlgtTy1DYWQ4TUV6X3M1ZS1icEZDVTJpZ1NwZmxTaXpjVXRHb0pHMjNwNEFocThBRk5nQnVIVFlPQTVCOFRlcXdURVAtSkt3b18wdkNERU9FT01MaTRSYTFIVTBKQWFn?oc=5",
+     "tarih": "2026-10-15T13:27:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Mersin Haber",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2xlekhVczRwZ1p5QkdKZDJGQVF0WGxOYVRjZldFY2ZpekdBUFNCdHRyWTVfbFdUcUU3NnMxZy1EODBsNnN0MEJlNGRMYTFNR0NyUU5vcEhaa1M1S2c1eWVsWjN2WmwxT0cxMXR1YXVFSFd6aXM5TGJxRzhpbVR3WWdIQXQ2TEZpR2xVbVFMNzVDUVYxNjh3Sk11X2NnSzhmSTVpWmVJRVBhREpYSklzUDRMQmRPQdIBV0FVX3lxTE02bnNybVNqY3pWVGoxVHNpSm1JR1NOb1dVS0p4YmdSMl9Iajh3U1l1VnFfcGEwdkZ4WndfUEVfWldaSkZjSG1yWDlEeW10MDl3bnBnSXVjbw?oc=5",
+     "tarih": "2026-10-15T13:34:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Paranın Yönü",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1RDd2Q3aVEyeUs0YmozOGZ4eTdacGgyWVoxemVvckRtUnUyYlFYWHU0a01odE80UUxsT080NjNGcUZZbzR6MEc2NFViUUh3NUU4cWZWbzRDZ1R6MHV4SEk0S2ttR3RTNkdleDBnRDdoRWxNNHZERFJic2VBUk9QRFRCbVlncE5od2Y0?oc=5",
+     "tarih": "2026-10-15T13:37:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Banka Dünyası",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xU0VNQnFseEZQSVpQMzhfTXdNdFBTUUtsNGpJV1g4bHdyWHBwa05WeW5uU284UTJjTG9LbjZFWE1OeUJ2ZDZEOVRZQk5vVEVEQzdWUVRPMVNheUZaZWdESE5rSWF4YW1lc3BOeE5qelN6dw?oc=5",
+     "tarih": "2026-10-15T13:50:24+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Gazetecin",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjBUUWJra01qTmRESEZ1RnMxc25hZEdrcUNHd1ByOVMtQU5KSGNyTGptOVdxU2JrV0puWlRGVWYzRV84eHhVYWFSNW5ySXBrZ2FaemZpN3FxbjRoS2VGTXRGclJZNUVyTTlLcUNhX1ZMZzlId0ZPbmNJWDJvLVZqbmNUSDRybHlPVDhwakhCVQ?oc=5",
+     "tarih": "2026-10-15T14:00:10+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "CNN Türk",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2VyOVJ3cW1JZXpoQmZVNGVxZjZmMnVLM2NiazBZamNuLWZWSVdhSEhaQU1oQnJCMlRsVFNab1NOUmdfdDhKTnlMREdZdWY2MEFrY3o5OF9WbG9wZGVzTFdxTjdCakMtM3BlclNxRjJUcnA5RGlnVzZpNDVvLURXUTl5YmRSR3ZfVV9SUVo4NGZPWFpCblprQ04wUjZRd3g4ZkRaUXlvSk1ndkp6M2RZ?oc=5",
+     "tarih": "2026-10-15T14:03:56+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/15/ver1792044573/3919840/jpg/1920x1080",
