@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-15T07:18:34.854729+00:00",
+ "guncelleme": "2026-10-15T08:10:21.148202+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -22,6 +22,28 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "60c0021490bd",
+   "baslik": "Alışverişte 12 ay taksit sınırı kaldırıldı",
+   "marka": "Gündem",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-10-15T06:10:32+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/alisveriste-12-ay-taksit-siniri-kaldirildi-3919840",
+     "tarih": "2026-10-15T06:10:32+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/15/ver1792044573/3919840/jpg/1920x1080",
+   "yorum": "Ticaret Bakanlığı, perakende taksitli satışları düzenleyen yönetmeliği değiştirerek 12 ay taksit sınırını kaldırdı. Yeni düzenleme, konut dışı mal ve hizmet alımlarında sabit taksit süresi kısıtlamasını ortadan kaldırıyor ve sektörlere özel taksit süreleri de iptal ediliyor. Elektronik, beyaz eşya, mobilya gibi ürün gruplarında taksit süresi artık bakanlığın kararına bağlı olacak. Bu değişiklik, perakende kredi ve taksit politikalarını yeniden şekillendirebilir.",
+   "neden": "Taksitlio, taksit süresi esnekliğinin artmasıyla yeni kredi ürünleri ve kampanyalar geliştirebilir, bu da platformun kullanımını artırabilir.",
+   "gundem": true,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
