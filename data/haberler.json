@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-15T11:05:49.046787+00:00",
+ "guncelleme": "2026-10-15T12:05:17.349211+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "c4bc4df13874",
+   "baslik": "Bankaların takipteki alacakları büyüyor!",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-15T11:22:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/bankalarin-takipteki-alacaklari-buyuyor-haberi-843997",
+     "tarih": "2026-10-15T11:22:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/15/yeni-proje-13-zepk_cover.jpg",
+   "yorum": "Bankacılık sektörünün toplam kredi hacmi 9 Ekim haftasında 5,5 milyar lira azalarak 28,6 trilyon liraya geriledi. Aynı dönemde tüketici kredileri artış gösterirken bireysel kredi kartı alacakları 61,7 milyar lira azaldı. Takipteki alacakların ise 928,8 milyar lira seviyesine yükseldiği bildirildi.",
+   "neden": "Tüketici kredilerindeki artış, Taksitlio'nun alışveriş kredisi aracılığıyla satış yapma potansiyelini doğrudan etkiler.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "1e9f36769e77",
    "baslik": "Ticaret Bakanlığı taksitli satışlarda süre ve kısıtlamaları belirleyebilecek",
