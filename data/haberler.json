@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-14T21:04:22.508169+00:00",
+ "guncelleme": "2026-10-15T05:03:28.618562+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "b03e0a29be72",
+   "baslik": "BİM'den sürpriz teknoloji hamlesi: Yeni şirket kuruluyor",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-15T04:48:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sirketler/bimden-surpriz-teknoloji-hamlesi-yeni-sirket-kuruluyor-haberi-924772",
+     "tarih": "2026-10-15T04:48:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/bimde-alisveris-listeleri-yeniden-yaziliyor-iste-yeni-haftanin-one-cikanlari-bim-16-22-ekim-ajey_cover.jpg",
+   "yorum": "BİM, perakende sektöründeki varlığını genişletmek amacıyla yeni bir teknoloji şirketi kuracağını duyurdu. Şirket, dijital hizmetler ve altyapı geliştirmeye odaklanacak. Bu girişim, BİM'in mevcut mağaza ve e‑ticaret ağını desteklemek üzere planlandı.",
+   "neden": "Yeni teknoloji şirketi, BİM'in dijital satış kanallarını güçlendirebilir ve Taksitlio'nun bu kanallara kredi hizmeti sunma fırsatını artırabilir.",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "7efa6b3419c4",
+   "baslik": "Ürün ve hizmet alımında 12 ay taksit sınırı kaldırıldı!",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-14T21:35:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/12-ay-taksit-siniri-kaldirildi-bakanlik-sure-ve-tutar-siniri-belirleyebilecek-haberi-924747",
+     "tarih": "2026-10-14T21:35:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/12-ay-taksit-siniri-kaldirildi-bakanlik-sure-ve-tutar-siniri-belirleyebilecek-eqjh_cover.jpg",
+   "yorum": "Ürün ve hizmet alımlarında uygulanan 12 ay taksit sınırı kaldırıldı. Yeni düzenleme, tüketicilerin daha uzun vadeli taksit seçenekleriyle alışveriş yapabilmesine olanak tanıyor. Karar, ilgili mevzuat ve uygulama koşullarıyla birlikte yürürlüğe konuldu.",
+   "neden": "Daha uzun taksit seçenekleri, tüketicilerin kredi kullanımını artırarak Taksitlio platformunun işlem hacmini yükseltebilir.",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "0342680ff823",
    "baslik": "Bloomberg'in 'devalüasyon' haberine toplantıya katılan ekonomistten itiraz!",
@@ -600,6 +644,12 @@
      "ad": "Mardin Life",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1pFUjBiTGhmeFpaSTc5c09aaXlyUWpWSEVfczBXdGVGVzZtbnpoekszVFZneDIxWXlET2ZwR2FZRGRXSloycGE1TFNMZUhGZWtrdndrMjNYcE02ckdhTk9fUDh4OUZCNnhSWFhES1cwRVJDeWdqbUMtMFpVa0Jrc2lOaGVaUWJQeTVfNnVnRVdDbWhN0gGaAUFVX3lxTE5nNm1hOWxnY0Ftb1VxWlg5QmRQV1dkdUpfeC1ULWtzekV3d1lGVkJDanBmX25ZaE1ZSVBnZ2JLdXh3OVBIU0V4SmV1UWlLT2k4bmpBWVN2MjVqX2pWQUF2TzJMandkZElLcU5vQlhuLUlJSy1GRGRVTlB6UGNsX24taElQQ1IwMGRNZUlIS3UwZTdGMjVtOTdrRFE?oc=5",
      "tarih": "2026-10-12T08:15:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomist",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTWNCTHVab2hDbGpxQ3hqY0xYd1FrdzV6RkRzajIzd19zdWd5NWkwMlFNZUhLTlZTNXFsN1FUV0lWcEhPZXFxVjI4UkZTcVRpUDd6aEotVGlfdHoyMy1QVmwtTGVjRTE2XzRMaFhYT0xPMUVNT285alAzRmYxTmszcUo4YWcyM3Z4bzFTa0JfU194NWFCcmxCeDJDNmdxb1Y5dzAyY1F2ZUpieVNUTDU3NFZJWFpDcndiSUdyXzdURU1XTTZ1ekxmd2ZCdTZTSjJ4ZGlGRzFCQkxOQQ?oc=5",
+     "tarih": "2026-10-12T08:44:29+00:00",
      "guvenilir": false
     }
    ],
