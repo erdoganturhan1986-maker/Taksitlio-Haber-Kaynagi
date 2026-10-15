@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-15T15:09:48.239393+00:00",
+ "guncelleme": "2026-10-15T16:08:10.191954+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -532,6 +532,66 @@
      "ad": "BARTIN HALK GAZETESİ",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xMkthSHNmRFpxLTlzXzhIZTVZWElIZ1ZpdzJwcXFqVWtjeFhIR3p2X3l3UzA4Tm4tMEJhWUJlQ2xtZHJBWEtxTHVHcTZJRERFemQwdE9xRWJDVlZzZUl2VUw2VHNiVWFsZU53YlUtelJKMUxwVXk4?oc=5",
      "tarih": "2026-10-15T15:04:10+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sözcü Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFFLSkZkRTh3MzBiLWRaUGF5blNUT0VtNlRfNlVtdWpQOUxtWWtkcjQ3U3RoV1h5c1BKYUNCcGNpVmJhYjRJY2dYdm9xSF9razl0TFRhNGhxQmtqbWVfMTNpZFM2bTlybHBVeXg2MGhtUHdBZGRZck80a3c1QjlGVmdCOUViaFptOE03M01sNEdkY0tzYmg2N25jMm5oYWFxRl9j?oc=5",
+     "tarih": "2026-10-15T13:49:34+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "www.ajansflash.com",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXJUUGNzUWlwZjlQVkU2dDNMT2JrV2stNnI5SjZWT0RWVWJZVkFldGROSXQ4VjMycUZHSl82eHd6Y1lQeWNzcGNTOEdpX3hwNHlScmdBTk5HZFRUdDBXbGR0RmVFbE15bHVRT0xfMmttQ05QRXBnZk5YOWVocjNpbU1uaVVJaTBWVzk0dFI0eXRzNUZYZHIyNg?oc=5",
+     "tarih": "2026-10-15T12:27:54+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "TRT Haber",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZU50c0NjZUJxRzAwTTRBMFRWY0V2S2lXWWVjT29idnRyOEhOWGdpc2JiNFVpazRPR0N0anZneEx0ZUluOXVRS194aFlPQVNmVE9yT09zSURzcEFKUVhhMVQ0UktWdE9OckRRb2lETE04VnJfWUFkZnAzelA3aHBQOXBpT2dUdkRkak9jdFcxY2drMWhob2hKWl9qbm5QT3JROEVWSQ?oc=5",
+     "tarih": "2026-10-15T14:06:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İş'te Mersin",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV1VlbGp2bG52ZkhpaFpEZW1SLWNGc0VUQUxvUlp3S3hVQTA5QVBfWWlFR0JIbkFBM0pTb0JhcFd4YXBsNDNneHVaTVVFY0RUMG10cllQQ1JxOVhmTjM2dDFSdmxEQzlfU0FpbmNLRE91TTRKZTRkdlgybE1DZlQydkFJOEZNaGE5aEI0TnVoS3c1VDEwQ2dLbzFIcVRyR19uRTFSTjBrNVbSAagBQVVfeXFMTldVZWxqdmxudmZIaWhaRGVtUi1jRnNFVEFMb1Jad0t4VUEwOUFQX1lpRUdCSG5BQTNKU29CYXBXeGFwbDQzZ3h1Wk1VRWNEVDBtdHJZUENScTlYZk4zNnQxUnZsREM5X1NBaW5jS0RPdU00SmU0ZHZYMmxNQ2ZUMnZBSThGTWhhOWhCNE51aEt3NVQxMENnS28xSHFUckdfbkUxUk4wazVW?oc=5",
+     "tarih": "2026-10-15T14:13:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ülke TV",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS1hEaERtMEh6Qi1aRC00c3V6alhZYWlKODAzckNOdmNzUEltTE5zVlRod2ZFSXBsQnFodzdoNUlVWFlubk1MYnRKUzZZRm0wOG1abkpaeUlLV05HZFktOXlfUlRGMkJzNkJ1RXUtRVZUZE12NzBzYUVJeDFNNjhkUEtUZFrSAYQBQVVfeXFMUEtYRGhEbTBIekItWkQtNHN1empYWWFpSjgwM3JDTnZjc1BJbUxOc1ZUaHdmRUlwbEJxaHc3aDVJVVhZbm5NTGJ0SlM2WUZtMDhtWm5KWnlJS1dOR2RZLTl5X1JURjJCczZCdUV1LUVWVGRNdjcwc2FFSXgxTTY4ZFBLVGRa?oc=5",
+     "tarih": "2026-10-15T14:34:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "ABC Haber",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDdzV3JSNnhlaVBpOGVhU3pHcGRvMGRxLV9ZbjVad0xGOVhQTWdtc0RNTnA1UGJIUDluZ09SbGtQZUFfUk9KTkgyOUsxTU5KUlFFUWRaMVROUV8ycXJzd1NuZVZ1V282VXlLUjZIMHE3aWx4d2hvWFF0cUFzZmt1a29RaS1ieHEzZXVneGRvMGI3X3JWNHJrWGVxY09LYjNRMmduTEdEYWZVQi01?oc=5",
+     "tarih": "2026-10-15T15:27:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Boyoz Haber",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ec0pMbEV5MUo0MVN5SmNRMmZjMEZ3amZiTjVDOUFXUUNsV3FuSE01dWNub05LZWZzT2c0Q0VzbHo5OWpUSFNEWHZ0Y05ZcHJMSU1qdDltT0J6ampYMTFGQVRYdDF1YXE4cHQ2Yl9GWkR1Q0MyWnQyQ2hodUIxZGs?oc=5",
+     "tarih": "2026-10-15T15:29:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "TeknoTalk",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aTkRnSE5YY2NXNFZicHlmZEl2OGgwRWFEejFrZ2hjcUhjcGpKSVFtNTJMNW1qN3NMZnFaWVNLVlluNWJIVnFBSWNaRnJKejNZdmQyemhoYlhoSU9GM29pcEE4MnVhbEdXdUw5R1FBTFVlTzVxaXNmazY5ZkFUUQ?oc=5",
+     "tarih": "2026-10-15T15:30:37+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yüksekova Halkın Sesi",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmRCR1h0ejhzd2hKVWdKcnV5bFg4SmFZZVpYN2dRVC1KWm5lTkd1V0lvVzBYZ2w0Z0FjLVRUM0g3X3ptdEh6ekx6djJINWNuY2JtVEdtRGdzdnFDVHM0azBVa29nLTMydDBEdjRocHNIUTNzMU5pNGRyU0Q0NFBQTTZzdkxUWWp4VEo2Q3pvWGVWTkl3dFFpekZDQVJySzNodkJoY1dmaW1wQQ?oc=5",
+     "tarih": "2026-10-15T15:45:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Malatya Mega Haber",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0NYTEtBZXE5R0ZRRDQ4N3pPWlBYTWkzUkRVUTFOemxfU1N2djJOMzlObkpKMVNibVZ4SjdDc2tzOUFTZ3pVTVc3U2JXQzA3WFFoV05vYjhrd3BqUl8xc1VZMjdNa3BBb2V1UFdRaVhFVVZ0ekZZUzB1ODd5WW44SmllTHozT0FTUy1CT1RiUWtnb19uTmdjTlVMWnFqaGdDNVZ0UGZnNA?oc=5",
+     "tarih": "2026-10-15T16:00:08+00:00",
      "guvenilir": false
     }
    ],
@@ -1790,6 +1850,70 @@
    "neden": "Yeni BDDK düzenlemesi, telefon kredisi ve kredi kartı taksit koşullarını değiştireceği için Taksitlio'nun kredi aracılık hizmetlerine doğrudan yansıyacak.",
    "gundem": true,
    "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "e4eddefbfab5",
+   "baslik": "Cep telefonlarında tüketici kredisi limitleri güncellendi",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-02T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "NTV Haber",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlZUdFhTRHhnb2JzLXdaMUpydW5XNnBWZjAycnNyQWFuaUlaOG43WU81ZlNIRGtPQUF1TjVjNlpydkFvMm54UUxVb1NoNmJjRGF6TGlsbmU0aXNiVGdvSTlSemY5d3h1bXJrT0prMUJpUEtUcUlHeEJDVS04bjg0Ykd2UDJOdVFOWkYtQ3NFZ3VlRVdteHB0U1gwNTBrZmQx?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Sabah",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG5LNXZJa1d6TElMTk1Bc3RjZGhHR09LUzN1eE12bm5XYlZPTzVzR2pOVnI5VXNSNFJvUUJKZFNqazg1YXMwZXg4VndtSUdFRkkxZWJ1YVg4TjVPUHRLdUpBUWVTWUN1cGVfQTRPaThyQWlMMkFYZGNMYXE0UlhiZkF5Z3ctb1hZMWRYN01GemtobV9ENUkwZXhFZGQxLUxxUEZsZnZxd1N6TzhFOEZBZVJ5VmpiMlNnZEdrTHpJSdIBwgFBVV95cUxPUXBMZVlOWF92QzJqZk1jWGE2aWxBZk11OFdkbDExSUxZeUNuc05DcXlJaTJrVmVrQmViUWRLdkFVbWdFcUtQVnVsVi1ZQS1aU2VyS3ZNSXJtVHJDbGdzVTI3VlVyekQ1c3RYSU15eXBCcG1yMTB5NUJXRG1sLVNranlyeDFWSmRLRFhLUDBsM0V4SWtsb2drbzBzUy1tRlVYUmlfTm5hbjhkSHktVE1HSUFrUWlLMHRoZUFtSlFYLTJuZw?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Herbir Emlak",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFNBRFFsdURsSUp3MXRFaWswa1BnT3RBVndjZHBWWlI0MG5XZDVPQlFTRGVPM1RIamdSdFN4cFdTQXhXV20zcHZaMHFQMDdXUXNrUEs5aWdkbGJTRXBhX3NhcHc4QjFlendfQm8zdEt4UUpaZW9LeUZXOXlONUN6SUZrOXR0a0p6QkVtWjFFLTlPejFhRzBkSTl1T042MElkRjlxRURJR0FNYVM3QUdJQXFnQ180RkE?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Medyaradar",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaGV1U0UwanZWSFp0NzBlV2tueDVTaTZib2U5bm1aQmplSVFQSUpiSTVqcEhYazBHSUItd1RXUm1GQTFQclF4b1A4TzhRMHFsSzdpQW5lZUlZbHlPTGZfSUZ6TXUwa3hFeDdTZGdMQ21XcVI2a25SaGRwLTE0Y2lFRzcwSmVGdjBCQ2xkVXdyTWJ1NVVjOTFzRXdhdHN2cXdQcUVETU1Bb2JNZXBTeE9hR3p0UjdOU3cxQTB1bnFKckJSZlYxX0FRMFlDNU1mZkU?oc=5",
+     "tarih": "2026-10-03T14:51:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber3",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9sYXlIc3RWY213N0ZNcFdjOTRRRWFxV0IzQm83TTVGS2VBeEVsVk5RTndXSk1QUjEyclNYc1FPQUFTUVVFWnlzWXgybGVCT194WmJaNmlUSFpBMWwtclJmM3Z4cGJEWXdLd2xjT0pHQUI0UzBhd0Z4ZnV5Q1o4cGZBd2lfRUdwemsxRTc1SkhVMTJpNDJJQ0NuVFBLLTg3RVkyTG9BcUJUQ2hfZUpVem8zWG91emZoemczcw?oc=5",
+     "tarih": "2026-10-04T06:03:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bugün Kocaeli Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnRTVzdjRllXRWFTTFRCREY1cmxadGNCZUhzbmdsQXFJU0QtQmtNWmFFalNQQXk1VmpvVHQ0MnRzMkduRVhaTlBSN3V4c3lBb3E0M3hLeTI4RWlYSWpwSk5BRVlXUmthMUxjbXg1Z2diekJkT2JiUjRyLVYtNml3NzQyQmtWaFZ5ZlpLTmU0anpqekw2OWtBYXh6V1Y5MFN0a2YwQXBqQWkxY3hIc3k3UGNjeEE5blF0OFg0Rkxn?oc=5",
+     "tarih": "2026-10-04T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sanayi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLS14TzVDR0xMcEtmVE10UnUwQV9jTmhGTHdEU181WS01TXBOa01LN054VmhrbFZTUFFVbUd2OVQtRE5CZkFtQUNNYlUwVU9iR1MzSjA0VzdIRU9GTk9lTGxoaHBXUFlyMTd4QnRJMTJRUm5LcE40bWNidXJ5MDJpUVZ1NEQwbVJNVzVuTWRSR243LXZQajNLZWp5WGstd05iVnh6dDA0bUNLWW1uQVhJaFVWQ016akJfUG1HaGtsUnA3cVFBLXhfNFZTaloxbTRRdGd6UGkxcERlclB3WURjYnptc09VSmluX2NsVVVfWTBEUQ?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sabır Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1phUkVBdlN6UF8yWjBPMnV5Q3BIYXF3RGd4clhkUm44MlQ3UUxOVTJIN3Zqbk1UWkhJbGVtb2pZZmxsNWV2cFdJZklKLW16MW55dmppT2JPakNGTEc2LWFmODBUUHhaVU1IZFk4SV8yeTRJRjlJUThCTjlTNGlkV1pvRlRKYVk?oc=5",
+     "tarih": "2026-10-06T21:40:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Kredi kuruluşları, cep telefonu alımlarında kullanılabilecek tüketici kredisi limitlerini güncelledi. Yeni limitler, tüketicilerin telefon satın alırken taksitli kredi başvurularında daha yüksek ya da daha düşük tutarları kapsayacak şekilde belirlendi. Bu değişiklik, bankaların kredi politikalarına ve ilgili düzenleyici kurumun açıklamalarına dayanıyor.",
+   "neden": "Güncellenen kredi limitleri, Taksitlio üzerinden telefon satın almak isteyen tüketicilerin finansman imkanlarını doğrudan etkiler.",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
