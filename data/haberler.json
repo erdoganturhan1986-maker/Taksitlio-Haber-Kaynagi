@@ -1,7 +1,35 @@
 {
- "guncelleme": "2026-10-15T10:07:28.969909+00:00",
+ "guncelleme": "2026-10-15T11:05:49.046787+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "1e9f36769e77",
+   "baslik": "Ticaret Bakanlığı taksitli satışlarda süre ve kısıtlamaları belirleyebilecek",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-15T08:54:55+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/taksitli-satislarda-ticaret-bakanligina-yetki-3791451",
+     "tarih": "2026-10-15T08:54:55+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-taksitli-satislarda-sure-ve-kisitlamalari-belirleyebilecek/4089479",
+     "tarih": "2026-10-15T09:19:43+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/15/ver1792056856/3791451/jpg/1280x720",
+   "yorum": "Ticaret Bakanlığı, perakende sektöründe taksitli mal ve hizmet satışlarına ilişkin yeni bir yönetmelik değişikliği yürürlüğe koydu. Bu düzenleme, konut satışları dışındaki tüm perakende ürünlerde taksit süresi ve sınırlamaları belirleme yetkisini bakanlığa verdi. Ayrıca, BDDK’nın kredi kartı, alışveriş kredisi ve tüketici finansmanı kararlarıyla uyumlu hâle getirilmesi hedefleniyor.",
+   "neden": "Yeni düzenleme, bankalar ve perakendecilerin taksitli satış koşullarını doğrudan etkileyerek Taksitlio’nun kredi aracılık süreçlerini şekillendirebilir.",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "270a7c0b2e41",
    "baslik": "BDDK Başkanı Kavcıoğlu'ndan fon krizi açıklaması",
