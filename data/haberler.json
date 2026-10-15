@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-15T16:08:10.191954+00:00",
+ "guncelleme": "2026-10-15T17:09:29.645822+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "891a37c10248",
+   "baslik": "İş Yatırım/Şekerci açıkladı: Dolar ve faizde yıl sonunda ne bekleniyor?",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-15T16:51:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/is-yatirimsekerciden-yil-sonu-dolar-ve-faiz-tahmini-haberi-924992",
+     "tarih": "2026-10-15T16:51:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/is-yatirimsekerciden-yil-sonu-dolar-ve-faiz-tahmini-2hef_cover.jpg",
+   "yorum": "İş Yatırım ve Şekerci, yıl sonu için dolar kuru ve faiz oranı beklentilerini açıkladı. Açıklamada, döviz piyasasındaki hareketlilik ve merkez bankasının para politikası çerçevesinde öngörülen seviyeler değerlendirildi. Bu tahminler, ekonomik aktörlerin gelecek döneme yönelik planlamalarına ışık tutmayı amaçladı.",
+   "neden": "Faiz oranı ve döviz beklentileri, tüketici kredisi maliyetlerini ve taksitli alışveriş koşullarını doğrudan etkilediği için Taksitlio'nun kredi aracılığı iş modeline önemlidir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "991c114dcf98",
    "baslik": "BİM’DE DEV FIRSAT: BEYAZ EŞYA KAMPANYASI BAŞLIYOR! (BİM 21-27 EKİM)",
@@ -592,6 +614,42 @@
      "ad": "Malatya Mega Haber",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0NYTEtBZXE5R0ZRRDQ4N3pPWlBYTWkzUkRVUTFOemxfU1N2djJOMzlObkpKMVNibVZ4SjdDc2tzOUFTZ3pVTVc3U2JXQzA3WFFoV05vYjhrd3BqUl8xc1VZMjdNa3BBb2V1UFdRaVhFVVZ0ekZZUzB1ODd5WW44SmllTHozT0FTUy1CT1RiUWtnb19uTmdjTlVMWnFqaGdDNVZ0UGZnNA?oc=5",
      "tarih": "2026-10-15T16:00:08+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Gazete İlk Sayfa",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFVFaDQtRlBoOUhpQUxDQkpGdk5PT1h6ejlGNkVHM0R2ckFuTVlxU24wTk9ORnRFbVB4ZG9DbjZCdXFKR2JOTnhWbHVFLVRUaWJhRkJkN0NaWlFxLXNrM0Y2dThCbGZuaHNlVHdFT1dUSnpIOWY2T2w2VFBMN2l3UDk3b2FMYkgtS0k2V1dzSm9kQkE?oc=5",
+     "tarih": "2026-10-15T10:47:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "CozumPark",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUhwY0ZjdVBVVVNmZUZuS3lwRGJfdFM4b1otMk5zOUdMV0lmVlJqdTJ1blhjNml2bkszVUlXYVVrUHRiTU9Yd3UxVDNVb1ljcXNiTjUzeXJjWHF4UERUT1M3Y1BGcjRlMmc4a3ZWdXBuYndqb3BXSkhmWkJQZko1Ri1qV2NsSE5JOWIzUkp1cUwzVEg1X0JxZlUtQTVLTUdkZ1E?oc=5",
+     "tarih": "2026-10-15T11:34:57+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kayseri Haber",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0RWLXlzazRMRFJlWEx4Wm5lRUszNnJGS0FlU095U3lmM0NRQUc5QjRqVUhQTHJ1WUVCa2l6TnZoNjNWNF94NWhBLTVZNlEyVTIyQXZkUWxjM21kcDFpdkhUWldleGJzRUNDSmlBaWpQdDB3d3NrNWwxa1kyUU00N01lZWxoYUR5amNKWmRB?oc=5",
+     "tarih": "2026-10-15T12:06:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Şehrivan",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2xpbWZsUThvUnhnbjVqeXBTb2xMSzlhSTVCTFdlUXVnRFNrOG1BbnZoLVNNOFl3SkZyWTFZeWpNSzdLM1dlR1FOeEZxNkxhcTVsZ1VsV3ZmSW5EbFNJZEFIa0gxdENGMFhzeklISzlISjZyOEhlQk1pRVN1cWQ0WTBTSVRUU2pLZndrOUV2MzlsQ1VqeXc?oc=5",
+     "tarih": "2026-10-15T14:47:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Manisa Kulis Haber",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzlfWTRReDA2Sjk5S04zSkJJMHQ0UWoxVVdOLUF3cjlSbGRzRlo0TW5saVRVSDJtYVJpdnJWUUhlZ3pxOXRnemJvUkZDMlpndmt4SDdwNUl0am0wZndPVUl2WkVaelBHZExsX3pTR0g5R2JNMmRVcnM5VEpVWGpFdVZNLWRady1aYkdOTmRrbWN4alNRc0s0?oc=5",
+     "tarih": "2026-10-15T16:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Anka Haber",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjdzZkZUV2FMb09lSlN3RjNZR2lGQ05sSkpKSVEtWDdBcU1ocmRmX1NxU1hqTC03OUt5OVI0YU4tNk52eEpya01FU0VSY2NLTGY2Z0hnelpQaVFNWVB5RnFocjFRNHhwbkZMTWU0a2kzQlZQeU1IelVHTGxlTjNDMnRKZF9ZWFlTOG5GbHNOU2JFMkxDT29SX1hWSEVvcENGX1M5N1lLSk95ZXg3XzVua2dkbnY?oc=5",
+     "tarih": "2026-10-15T16:47:12+00:00",
      "guvenilir": false
     }
    ],
