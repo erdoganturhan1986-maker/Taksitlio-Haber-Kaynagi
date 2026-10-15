@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-15T12:05:17.349211+00:00",
+ "guncelleme": "2026-10-15T13:18:33.425225+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -1042,6 +1042,34 @@
    "gorsel": null,
    "yorum": "Teknosa, müşterilerine kurulum, tamir ve bakım gibi satış sonrası teknoloji hizmetleri sunacağını duyurdu.",
    "neden": "Satış sonrası hizmetlerin genişletilmesi, tüketicilerin yüksek fiyatlı elektronik ürünleri taksitli almasını destekleyebilir.",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "643268be9e6f",
+   "baslik": "Teknosa kurulumdan teknik desteğe kadar satış sonrası hizmetler sunuyor",
+   "marka": "Teknosa",
+   "kategori": "elektronik",
+   "oncelik": 1,
+   "tarih": "2026-10-07T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWDBkN3VQUC1JVU9NTW1mR29BVUR4TVhEQUFlTU8wSzZkUjV1NzRFQXVMUVFaeTZkNjQxRTdiUExNWTVZX0F5WDktaDRtSVlaNXlrdnBWUzJEeURRM3hxa19kc0JtWVNNZTgwZnBkd3doWWs0X0pjR1J6aGxmMFVva3FMUGFmaVM0dmhlSFAza0JFVmctUUxKYThHNjVsRnNZZmt5VUVtMDJJR25wQ2RDcXNnazU3cnZNOGhsQ0w5Sl8?oc=5",
+     "tarih": "2026-10-07T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUUtZDBna0tQU1ZsV05aTEdIZHdhLXRCOHNob2thRklHa1hyaWtLcUZDeG5uSGJ3NFJ5bGtQeWdyNHluX2RNVmtVYUxtdGJhSk95T0ZsZXhJZGtySTdPUHJtaU1HVWJ5eTBVSGFqdHN5WFBfUVZ2NnVoN3RjNTdfYUNIY3lUcGVER1dYQTRycTNjbXZhQlZZd2tTZUxfSmZyX1E?oc=5",
+     "tarih": "2026-10-07T10:36:09+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Teknosa, müşterilerine ürün kurulumundan teknik desteğe kadar kapsamlı satış sonrası hizmetler sunacağını duyurdu. Şirket, bu hizmetleri tüm mağazalarında ve çevrimiçi satış kanallarında sağlayacağını belirtti. Yeni hizmet paketi, müşterilerin satın aldıkları elektronik cihazların kurulum ve bakım süreçlerini kolaylaştırmayı hedefliyor.",
+   "neden": "Satış sonrası hizmetlerin genişletilmesi, tüketicilerin yüksek tutarlı elektronik ürün alımlarını teşvik ederek taksitli kredi kullanımını artırabilir.",
    "gundem": false,
    "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
