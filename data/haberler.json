@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-15T05:03:28.618562+00:00",
+ "guncelleme": "2026-10-15T06:03:53.464858+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "253896451ff7",
+   "baslik": "Taksitli alışverişte yeni dönem: Ticaret Bakanlığı'na yeni yetki",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-15T05:39:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/taksitli-alisveriste-yeni-donem-ticaret-bakanligina-yeni-yetki-haberi-843939",
+     "tarih": "2026-10-15T05:39:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/15/yeni-proje-2026-10-15t084418-l8ty_cover.jpg",
+   "yorum": "Resmi Gazete'de yayımlanan yeni yönetmelik, Ticaret Bakanlığı'na konut dışındaki mal ve hizmet satışlarında taksit sürelerini belirleme ve ek koşullar koyma yetkisi tanıyor. Bu düzenleme, taksitli alışverişin yasal çerçevesini genişleterek sektördeki uygulamaları yeniden şekillendirecek.",
+   "neden": "Taksitlio'nun sunduğu alışveriş kredileri, yeni taksit süresi ve koşul düzenlemelerinden doğrudan etkilenecek, bu da ürün ve hizmet tekliflerinin yapılandırılmasını değiştirebilir.",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "b03e0a29be72",
    "baslik": "BİM'den sürpriz teknoloji hamlesi: Yeni şirket kuruluyor",
