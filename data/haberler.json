@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-15T06:03:53.464858+00:00",
+ "guncelleme": "2026-10-15T07:18:34.854729+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "270a7c0b2e41",
+   "baslik": "BDDK Başkanı Kavcıoğlu'ndan fon krizi açıklaması",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-15T06:14:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/bddk-baskani-kavcioglundan-fon-krizi-aciklamasi-haberi-843946",
+     "tarih": "2026-10-15T06:14:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/15/yeni-proje-prsm_cover.jpg",
+   "yorum": "BDDK Başkanı Şahap Kavcıoğlu, İktisat Katılım Bankası'nın faaliyet izninin fon piyasasındaki gelişmeler nedeniyle bekletildiğini açıkladı; bankanın henüz faaliyete başlamadığını ve kamu riski oluşturmadığını belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "253896451ff7",
    "baslik": "Taksitli alışverişte yeni dönem: Ticaret Bakanlığı'na yeni yetki",
@@ -14,6 +36,12 @@
      "ad": "Dünya",
      "url": "https://www.dunya.com/ekonomi/taksitli-alisveriste-yeni-donem-ticaret-bakanligina-yeni-yetki-haberi-843939",
      "tarih": "2026-10-15T05:39:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/alisveriste-12-ay-taksit-siniri-kaldirildi-3919840",
+     "tarih": "2026-10-15T06:10:32+00:00",
      "guvenilir": true
     }
    ],
@@ -1343,47 +1371,35 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
-   "id": "268481f49c35",
-   "baslik": "Beyaz eşyada iç pazar büyüdü, ihracat daraldı",
+   "id": "8de1342f658d",
+   "baslik": "Beyaz eşya sektöründe daralma sürüyor: İhracat yüzde 18 düştü",
    "marka": "Sektör: beyaz eşya",
    "kategori": "beyaz",
    "oncelik": 2,
-   "tarih": "2026-09-25T07:00:00+00:00",
+   "tarih": "2026-09-28T07:00:00+00:00",
    "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2JEWWIxdmxSdC1fQmtFT0labVprdXdwN2MzX2puMXNIWTZKRVRGaE40OFhrSTR1eFQxM3Y0ekZDUkN1dUhDSEJBdDVIMWtQdmYwek9DUmtuWVpHYWpFU21sLXVTVmF3bFhYZjQzOV9Yek1JdXV0YjVNd284SlY4cjhEMV81R2dfeFU4c2dnUnpHNU5yWUHSAZsBQVVfeXFMT1ZIdmZaamlNMUJwam40Z3VUUlZtRVF5YXZVdnZzTnJObEZtZW5naTJsUlhidFFMZ3U4LTdDTEMwa0RLMDlDRTB4ZFF6TnBwTUdFMFBpdkVoWW5oRGxJNEVZNzFpcG9WVm51cDk2dEhBUV9BcTIybkk5cVVhTHJLZmttd3I2TC1Oc0pkRDNhdDJzWVB4VnZSZ1VGekE?oc=5",
-     "tarih": "2026-09-25T07:00:00+00:00",
-     "guvenilir": true
-    },
     {
      "ad": "Dünya Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVZnQU02RW85NlFqaFpMRXhzTlZid1BoSWZrOHBGRE9LZG9GN3JJdW0tMUxPSU9lNUlmdkFsU09CT3cyRDQ1MzduN3hKS1Q0ZW5RajZJdmNycmhVcUpyZFhxSURBRU43aWRMdmNIR1dGQ2JNV3dUMzJsZ3I1S3BpcXRVMGNRSl9VNnJSQjE4QUhjOWdDSURMWTBNZG05aWhBVUh4ZVFTbw?oc=5",
-     "tarih": "2026-09-28T06:08:00+00:00",
+     "tarih": "2026-09-28T07:00:00+00:00",
      "guvenilir": true
     }
    ],
    "gorsel": null,
-   "yorum": "Beyaz eşya sektöründe iç pazar büyürken, ihracat hacmi daralmış durumda. Yerli talebin artışı, sektördeki satışların yükselmesine yol açıyor.",
-   "neden": "İç pazardaki büyüme, beyaz eşya alımlarının taksitli kredi kullanımını artırarak Taksitlio'nun işlem hacmini olumlu etkileyebilir.",
+   "yorum": "Beyaz eşya sektöründe ihracatın yüzde 18 düşmesi, sektörün daraldığını gösteriyor; ihracat azalması sektörel satışların ve üretimin gerilemesine işaret ediyor.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
-   "id": "867962c31b1d",
-   "baslik": "Yataş Yatak ve Vivense birleşmesi rafa kalktı",
+   "id": "0026ff43513b",
+   "baslik": "Yataş ve Vivense'nin birleşme görüşmeleri sonlandırıldı",
    "marka": "Yataş",
    "kategori": "mobilya",
    "oncelik": 3,
-   "tarih": "2026-09-25T07:00:00+00:00",
+   "tarih": "2026-09-27T07:00:00+00:00",
    "kaynaklar": [
-    {
-     "ad": "Paratic Haber",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VVTRNQVdRSzFHNWdONWVLZFBEX3huVmxlc2E1b2NyZDkwLVlQVW5xWkMyeXRUakJYQ296WFVuUGJYbEZiRFMtMUk0UTdPWDE0d09nSzl2WkxnVzlNYk1EVXNpczJTY0x3U3F1cjlHaWVDU09R?oc=5",
-     "tarih": "2026-09-25T07:00:00+00:00",
-     "guvenilir": true
-    },
     {
      "ad": "Ekonomim",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzN6SkxEdFkycHBTaHZxNk9RY3d6alRxeEtxYUxwNFVYaWw5SUs1bU5pb2t1T1loYU5WdWMwaUwwQ253Yldic3BUZ1oxNXZ5YnhfSXJRUzJQb0gyTDBldjFtM0dmUUtwdXdNNmsyeDBkUWZNVkVzQzJHQzl5OXJ6NnV3LWc0RFJiTGRRV0xYTzJYNktCcUpKaFc1WTNzdDBtUFYzSmJ30gGrAUFVX3lxTFBZN0dlMnpBRlFBaVZ1SGFYMDJtcUlFWnF4ZGhDY3cweUF1TUIxNXdud2NodDBMcWJNN0l3NjBJbGp1UElObE9jcEF4OHRvTmxsZ0w4aDNVdkNKRVZPOFVXYXExcWM1OVoxOGpEX05Dd2pfZkRHdFNJQkRJU2JnV0loRFVRWjNkOVZOR0sxUExXUjVBYUpMai1IdEc4cjR5NjJJRzM3QzhWVlFKdw?oc=5",
@@ -1391,21 +1407,9 @@
      "guvenilir": true
     },
     {
-     "ad": "Patronlar Dünyası",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQVNBVkpPMzJKNWNlY3BYNjNoMnE5UVdmVUROM2p6YUkyX1FPc2xYMl9YVjdOMFVZZWlTMlpCVTNMd1MzbVNTU29RSkxvV0Y1M1FNQ2c5Z21HMjl6T3JTTVBCUmpfUjZHMTZnYUdPdGdQSFZZOWxKR25NeFVzWGs1Ng?oc=5",
-     "tarih": "2026-09-25T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
      "ad": "GZT",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1NfRDFmS1VvRkRfeFZfZmItdUZqS0p1U2Y5bENiQW14YlJ2WWZIOGhTNWlwUXloU2paMFF6QnZ6YThveDhmNnhYa3FWNXJobV9NVVBfSTU4RlBic3VoVWllT1M2OC1pZTRGWnh2SndrVjVyZnhVMmhKaTJyODN2UW54T19UN2tNYUwzYTdzT1hnRmp2dFhCNUF4dzViQzU0VjAyMFhJaw?oc=5",
      "tarih": "2026-09-27T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Doviz.com",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejR3U2hZaXRDZzVCUG14ZzAtQ0xvb09rd3B6WnZRTHZXakFmQlVqdHlLTDNId21veTRjWXZfYjEzSHhjX0FRaEdrNVNwRDU3MkFLdjUxRmpSam1mQW1TRWFaSjNTZ1ZKcklLVXg1amp6Q1VxaGpUVk05Zk9xM3dOUVo0eGZEcG45bkhLTFFvRk0xOWRESU5KVDA4YWpqUW05Z2RJ0gGrAUFVX3lxTE9RWjQ2YjdEY3dfMGpqd3k0NFRWQ25TczlTNzhLaXYwQjk1SG8ta1diUlpDYUVfVGR5akNWVVBMTVpCM01odzlNaUxvVE12bkM2RlY2SGdtOERwMW1jcHR6VThDUmtTSnBGc1VnWEVMN2I3NGg3Z1FaTDFqbVRTRjJac3puTDBoLWVUVG5kbGZXbDhTQmtlS2lGSGNKM2d3d3BWcjYwam5ZazZRMA?oc=5",
-     "tarih": "2026-09-27T12:22:08+00:00",
      "guvenilir": false
     },
     {
@@ -1416,10 +1420,10 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Yataş Yatak ve e-ticaret platformu Vivense, birleşme sürecini başlattı. İki şirket, ortak bir yapı altında daha geniş ürün yelpazesi ve dağıtım ağı oluşturmayı hedefliyor. Birleşme, sektördeki rekabeti ve tüketicilere sunulan seçenekleri çeşitlendirecek.",
-   "neden": "Birleşme, mobilya ve yatak ürünlerinin taksitli satış potansiyelini artırarak Taksitlio’nun iş hacmine olumlu yansıyabilir.",
+   "yorum": "Yataş ve Vivense arasındaki birleşme görüşmelerinin sonlandırıldığı bildirildi; iki mobilya perakendecisi ortaklık planlarını iptal etti.",
+   "neden": "",
    "gundem": false,
-   "onem": 2,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
