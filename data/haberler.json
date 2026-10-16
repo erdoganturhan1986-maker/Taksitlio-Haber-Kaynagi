@@ -1,7 +1,75 @@
 {
- "guncelleme": "2026-10-16T11:04:54.015284+00:00",
+ "guncelleme": "2026-10-16T12:04:10.964627+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "55dacdeab1ab",
+   "baslik": "Merkez Bankası faiz indirecek mi? Ekonomistlerden ortak tahmin",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-16T11:05:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-indirecek-mi-ekonomistlerden-ortak-tahmin-haberi-844151",
+     "tarih": "2026-10-16T11:05:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/16/faiz-indirimi-beklentisi-ve-piyasal-cpzs_cover.jpg",
+   "yorum": "Merkez Bankası’nın 22 Ekim’de açıklayacağı faiz kararına ilişkin beklentileri değerlendiren ekonomistler, 20’sinin 100 baz puanlık bir indirim öngördüğünü bildirdi. Uzmanlar, politika faizinin düşürülmesinin enflasyonla mücadeleye katkı sağlayacağını ve kredi maliyetlerini hafifleteceğini düşündüklerini ifade etti. Anket sonuçları, faiz indirimi ihtimalinin yüksek olduğunu gösteriyor.",
+   "neden": "Olası faiz indirimi, tüketici kredisi ve taksit maliyetlerini düşürerek Taksitlio üzerinden yapılan alışverişlerin cazibesini artırabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "2795d1d8ac6c",
+   "baslik": "Teknosa ve Samsung yeni iş birliğini duyurdu",
+   "marka": "Teknosa",
+   "kategori": "elektronik",
+   "oncelik": 1,
+   "tarih": "2026-10-16T10:39:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmQ2NzJpSWxRUVFrOUg4OFRUMFlscGVUbURqMHdkMWdFVGZIeC1ZTUk3OTVsOGRGSDhSYmpjTTFrNm1YVWx6WkY4cGp3dUZqTks5SXBPQ3VPRE1wdERFX0NRam5hSWE0UWN0eS02bUgzbW5KZ080ZzZTTDRIU19HTHN6NVNVcVg0eFRmRThqaG41RVhGanRlMUx0RndWYlZP?oc=5",
+     "tarih": "2026-10-16T10:57:59+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Platin Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUVMeVdFU0I0QkpNYl8zMkJpZUlrS3hlWUo5cGZjblNlamduUUpIbmhJRnNIenpjdjMxeVZuelh0Z25pd1N2Zmszb251bU9abXpueWlDYS1QTFBubGF5T1VEQ0Z6NWNHMDk0VzBDVGM5RnhUcldLWkd2WVpBNEFNY09PbTF2V1BzSGVSc3Z3?oc=5",
+     "tarih": "2026-10-16T10:39:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Muhalif",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2s4UHhpOHFLNEdGbVpFdExnSUN1a1JzUTF0Z1pzUXVJTS1EdnduNmlvX1RnMldfSGl5ZzZ0TEc4bEN1aGh5S241ckNvTy1Qa28tOEpVQlhhRU1DSnU3S0VVd1NqS0F1QTB6dXhfdlozWVJJS1YyRWsycTgyOWd4SzlTN1pVWVVVUUZwSWh3YW8xeGRXYng2TjQ4ODI1dkREYUppOEd5bWgyQTZQR0VIZmtPZ0hFVTlkZkNNUEl0bThOdGc?oc=5",
+     "tarih": "2026-10-16T11:04:36+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Çağrı Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMndHNkxkcGJ1RG9QM2VKS2JVLVNKQzVvNXFmOHd0MW1zYk4xOGh0VkdwUkxqUUttYzVDblhzZlpKQTlQVU5XNHV3RjhwOS1MdFZBNllmMHh4OXFrdFNSYk5yTF8yVkhTVHBfVkdEbC1OcFg3QUZ0ZGdoMzY0ZEtDZ01ZRkdfMVJzWHBpTW9xeDczREY40gGaAUFVX3lxTE9zSHdULUhON0p5SjM3cEZtSnZZNW16ZE5MN0J3UVpqZmg4MkpFSmhoRXJuZ2VsVDVNa3JHTllqYWlMekNGeVJYaXFIQ3dvNXlQRHNrTkR6d21wZm91aVN0Y2hIbVp1Q0tKd1p6TnB3d1NJSzlFOHVwRXVEOWMyUmFseGlJb1lhY1cxY2YzZEJUWFJFMmVjTHpXUHc?oc=5",
+     "tarih": "2026-10-16T11:08:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "www.teknoport.com",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlpnb3NTZjBteWR0b1g2Ri1NbUdTU3R4cWJheDRRZ0dHVVBGMWtQeTV0SF9XeTA2WUpMMXQwOGxteUZBc1lRN2FRMU12bHEyQzhLWVhOcHo0Rm82QlJKcVV2WFNjakF2VU8tNW85YjBxcENUNnhHTXh2bllZSHoxMEY3OC11S0IzTWRfQ3FEcEJyQm5vN3BTX2JPTElLZnFOMnVoRWZoeVd4VmdEMUxuczJBWlhoLXQ5aHlOSzRkSTd2TlJVN1RtUVR6RQ?oc=5",
+     "tarih": "2026-10-16T11:12:09+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Teknosa, Samsung ile yeni bir iş birliği başlattığını duyurdu. İş birliği kapsamında Samsung’un yeni akıllı telefon ve elektronik ürünleri Teknosa mağazalarında özel kampanyalar ve finansman seçenekleriyle satışa sunulacak. İki şirket, ortak pazarlama ve satış stratejileriyle tüketicilere daha cazip taksit imkanları sağlamayı hedefliyor.",
+   "neden": "Yeni Samsung ürünlerinin Teknosa’da satılması, taksitli satış hacmini artırarak Taksitlio’nun işlem hacmine olumlu yansıyabilir.",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "24e8ce50c833",
    "baslik": "Online alışverişi değiştiren Türk girişimi Loops AI global yolculuğa çıkıyor",
@@ -1970,6 +2038,12 @@
      "ad": "Ereğli Önder Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkJZX2FoS3d1bUJtVjRXX3M4S2RpY25vMVFmbEtjX0hBRHltX2F6M2ZXS0tTdy1UZzBud01Wb1FxRW9DTjhoa1hua05kUXE1dEhCMGlRR0dvZWVkWGlPTXFsRmZPMEFoUmUwcVNjaXBUR0FTRXZiRG93cjJqdy0wd3dVMUpLWldMS2c?oc=5",
      "tarih": "2026-10-12T08:47:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Üreten Ankara",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ1ZtOFlkM1UtYlpqTy1WakdyVHJNalJ3UXRVeGVMMTRDdGVVTzhrY3otQlI3OFR0TkoyendjRkNHRkk2S000U0sxWlhka2tCQm1ZdmNEelBmSmh6Rk1ZZ085VWd6eGo1WTZTYnNJT1o3c2o0ck1oUk5XSVZva2dYbXFXVGRlczNZQkxlNG9Pano?oc=5",
+     "tarih": "2026-10-12T14:35:21+00:00",
      "guvenilir": false
     }
    ],
