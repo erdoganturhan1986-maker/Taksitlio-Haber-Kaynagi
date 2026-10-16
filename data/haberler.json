@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-16T15:06:27.414360+00:00",
+ "guncelleme": "2026-10-16T16:07:33.724190+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -192,6 +192,70 @@
    "neden": "Yeni Samsung ürünlerinin Teknosa’da satılması, taksitli satış hacmini artırarak Taksitlio’nun işlem hacmine olumlu yansıyabilir.",
    "gundem": false,
    "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "98892c269758",
+   "baslik": "Teknosa ve Samsung'dan katlanabilir cihaz deneyimi için işbirliği",
+   "marka": "Teknosa",
+   "kategori": "elektronik",
+   "oncelik": 1,
+   "tarih": "2026-10-16T10:39:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTlzMlFtYW55RHdFd045WEpJTVNaVmZsRTRBZTc3ZS1SSXN1NEFLa3doSjVxMk1WbHlTSE0xRS1WclBSZlM0TWozNUxsQUJaXzdPRS0zblhLeDBESGdtemZXeTc4RzQyZmZlVXJnYzdvWDRMQ1JkUTlKLVdtcVVzR21QbVZoY1ZCQTJPQTdCNEdPOG9TXzB3ZUtvQWY5eERIVkhNMFRpMWxGcmFrSW9qamVIalY2T2M?oc=5",
+     "tarih": "2026-10-16T11:42:38+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKOEhqUllvNldMS1RHNWZ4UWRXSVVLODF6QUxUWFBWQlQweThydURQdFU3OWEyTEtZdVhvVUgtMlo1c1M5M2NtV0JLT3VlUlZOZElyTXFuRGVVd0JMcnNnRDh1ZzBRd3R5aFF1M05xc0hZZDd5RHp3a052SDhCOTQ?oc=5",
+     "tarih": "2026-10-16T11:52:56+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Platin Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUVMeVdFU0I0QkpNYl8zMkJpZUlrS3hlWUo5cGZjblNlamduUUpIbmhJRnNIenpjdjMxeVZuelh0Z25pd1N2Zmszb251bU9abXpueWlDYS1QTFBubGF5T1VEQ0Z6NWNHMDk0VzBDVGM5RnhUcldLWkd2WVpBNEFNY09PbTF2V1BzSGVSc3Z3?oc=5",
+     "tarih": "2026-10-16T10:39:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Muhalif",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2s4UHhpOHFLNEdGbVpFdExnSUN1a1JzUTF0Z1pzUXVJTS1EdnduNmlvX1RnMldfSGl5ZzZ0TEc4bEN1aGh5S241ckNvTy1Qa28tOEpVQlhhRU1DSnU3S0VVd1NqS0F1QTB6dXhfdlozWVJJS1YyRWsycTgyOWd4SzlTN1pVWVVVUUZwSWh3YW8xeGRXYng2TjQ4ODI1dkREYUppOEd5bWgyQTZQR0VIZmtPZ0hFVTlkZkNNUEl0bThOdGc?oc=5",
+     "tarih": "2026-10-16T11:04:36+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "www.teknoport.com",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlpnb3NTZjBteWR0b1g2Ri1NbUdTU3R4cWJheDRRZ0dHVVBGMWtQeTV0SF9XeTA2WUpMMXQwOGxteUZBc1lRN2FRMU12bHEyQzhLWVhOcHo0Rm82QlJKcVV2WFNjakF2VU8tNW85YjBxcENUNnhHTXh2bllZSHoxMEY3OC11S0IzTWRfQ3FEcEJyQm5vN3BTX2JPTElLZnFOMnVoRWZoeVd4VmdEMUxuczJBWlhoLXQ5aHlOSzRkSTd2TlJVN1RtUVR6RQ?oc=5",
+     "tarih": "2026-10-16T11:12:09+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Tirebolu Haber",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlExU0Mwb3lYbEM4Zl92cENxV2czSExKSU5YZzdlVC1HeGhsdE1va3lQYTBpUHJxWWZKX2haT0F6M1gwaVU3U09DaEYyV281dERqTGhseDdJU0ljVGtZcXFCRW9CbEtQaHZncWZKUko2NzkzRXV1QjZLVDlGNjRZYUtfSEhWSWp1dFdpRGwxN3EzcjAzVFlUOGJvWDB3X0xKcktmV0RKNzlIV3pTcHNUWFRhV2w1QW04?oc=5",
+     "tarih": "2026-10-16T12:59:02+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ayancık Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTk3MEtNdmJycXg5QzhMRmczc0FNOVg3OVFxQ1MwVVdEQVJMaXMxeThjRE9RcW9XTVVKYTFFMy1nUXZpNFU5NF9oNXVSdHlwSEQ5VGZ5OGNDSjlwUFo2Ml9ua1Z6WHNya0NocUhRMDlla1E1bXFqNFRpVEpsb2xwd2JGWHdwbDgyR2NaeC1ZNFlnWUR1OEJrTnMzUDNaTlpOcUY5RWthdU5ydmI0TDFwQnpITQ?oc=5",
+     "tarih": "2026-10-16T12:59:04+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "N24",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzUwZUs2SlpuMVQyQ0RCc00zNFhlN2pVS0FNNDVuR25vT1dEYmZHTFlsNEdmNG5qYi1QYnkxSnIxUEdFeTIySnpOUXcxUzNpMUkwV0Z1amdrSjV3eERXd1BNS2c1RFZNVmpRbThhSXhiVkNRZUxaeEdYeEM1QWpiUmFRMlZMVENpVzBka0IxYTZrUUNx?oc=5",
+     "tarih": "2026-10-16T14:21:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Teknosa, Samsung ile ortak bir etkinlik düzenleyerek katlanabilir akıllı telefonların mağaza içinde deneyimlenmesini sağlayacak. İşbirliği, tüketicilerin bu yeni nesil cihazları denemesine ve satın alma kararlarını hızlandırmasına yönelik bir adım olarak tanıtıldı. Etkinlik, belirli mağazalarda belirli bir süre boyunca gerçekleşecek.",
+   "neden": "Katlanabilir telefonların tanıtımı, yüksek fiyatlı cihazların satışını artırabilir ve bu da tüketicilerin taksitli kredi talebini yükseltebilir.",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
