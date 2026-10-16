@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-16T16:07:33.724190+00:00",
+ "guncelleme": "2026-10-16T17:06:12.192698+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "f60eea1bdcd9",
+   "baslik": "Tasarruf finansmanında sözleşmeler değişmeyecek",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-16T16:55:08+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/katilimevim-ve-birevim-in-emlak-katilim-a-devrinde-mevcut-sozlesmeler-korunacak-3920305",
+     "tarih": "2026-10-16T16:55:08+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792169459/3920305/jpg/1920x1080",
+   "yorum": "Emlak Katılım, Katılımevim ve Birevim, 30 Eylül'de Rekabet Kurumu'na devir başvurusunda bulundu. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, devir sonrası vatandaşların mevcut sözleşme ve ödeme koşullarının değişmeyeceğini belirtti. Katılımevim ile sözleşmesi olan 50 binin üzerindeki müşterinin IBAN ve hesap bilgileri aynı kalacak, taksit sayısı ve tutarları korunacak.",
+   "neden": "Taksitlio'nun ortaklarından Katılımevim'in sözleşme ve taksit koşullarının sabit kalması, tüketicilerin alışveriş kredisi ödemelerinde kesintisiz devam etmelerini sağlar.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "85e38383121c",
    "baslik": "Bireysel kredilerde takip alarmı: İhtiyaç kredilerinde oran rekor seviyeye çıktı",
