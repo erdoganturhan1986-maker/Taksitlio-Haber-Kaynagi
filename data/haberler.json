@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-16T13:17:02.464025+00:00",
+ "guncelleme": "2026-10-16T14:11:23.274974+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "85e38383121c",
+   "baslik": "Bireysel kredilerde takip alarmı: İhtiyaç kredilerinde oran rekor seviyeye çıktı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-16T13:10:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/bireysel-kredilerde-takip-alarmi-ihtiyac-kredilerinde-oran-rekor-seviyeye-cikti-haberi-925191",
+     "tarih": "2026-10-16T13:10:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/16/bireysel-kredilerde-takip-alarmi-ihtiyac-kredilerinde-oran-rekor-seviyeye-cikti-s6on_cover.jpg",
+   "yorum": "Ekonomim haberine göre, ihtiyaç kredisi faiz oranları rekor seviyelere ulaştı ve bireysel kredi maliyetleri artış gösterdi. Bu durum, tüketicilerin krediye erişimini zorlaştırabilir ve kredi kullanımını sınırlayabilir.",
+   "neden": "Faiz oranlarındaki artış, tüketicilerin taksitli alışveriş için kredi talebini azaltarak Taksitlio’nun işlem hacmini düşürebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "b45ec5dfc254",
+   "baslik": "Tüketici kredilerinde sert gerileme",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-16T13:04:03+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tuketici-kredilerinde-sert-gerileme-3791681",
+     "tarih": "2026-10-16T13:04:03+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792155944/3791681/jpg/1280x720",
+   "yorum": "BDDK ve Macrohub verilerine göre, 9 Ekim itibarıyla tüketici kredilerinin yıllık büyüme oranı %14,5’e geriledi. Aynı dönemde ticari krediler %23,6 büyüme kaydetti. Tüketici kredilerindeki büyüme, önceki yüksek seviyelerinden belirgin bir düşüş gösterdi.",
+   "neden": "Tüketici kredilerindeki yavaşlama, taksitli alışveriş talebini ve Taksitlio üzerinden verilen kredi hacmini olumsuz etkileyebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "df2dd8ce8f6f",
    "baslik": "Fon krizi sonrası ihtiyaç kredilerinde takibe dönüşüm oranı zirve yaptı",
@@ -122,6 +166,12 @@
      "ad": "Tirebolu Haber",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlExU0Mwb3lYbEM4Zl92cENxV2czSExKSU5YZzdlVC1HeGhsdE1va3lQYTBpUHJxWWZKX2haT0F6M1gwaVU3U09DaEYyV281dERqTGhseDdJU0ljVGtZcXFCRW9CbEtQaHZncWZKUko2NzkzRXV1QjZLVDlGNjRZYUtfSEhWSWp1dFdpRGwxN3EzcjAzVFlUOGJvWDB3X0xKcktmV0RKNzlIV3pTcHNUWFRhV2w1QW04?oc=5",
      "tarih": "2026-10-16T12:59:02+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "RayHaber",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZkhHZzNtdlUxUDFxWHRfOExhNV9tdDRnb2FtWURKa1JoV3B3OFJZMmx2WmM2M2hnOEhXNHNKZWtLXzhKZXlDZGdKMFJtalk0c25mQnFwS3dxQzdnU3hDQkNZc1o5WVMwRGdfSHpIbW9JNF9LT2doVzRkZzFjbXlDNVJjWTR2ZXFZZm5mVnZmeVltb1djRGlhN0JGYjRwWWVlZjZ3b0p6dw?oc=5",
+     "tarih": "2026-10-16T13:26:35+00:00",
      "guvenilir": false
     }
    ],
