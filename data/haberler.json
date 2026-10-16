@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-16T09:08:08.528248+00:00",
+ "guncelleme": "2026-10-16T10:07:36.912344+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "24e8ce50c833",
+   "baslik": "Online alışverişi değiştiren Türk girişimi Loops AI global yolculuğa çıkıyor",
+   "marka": "Gündem",
+   "kategori": "ev",
+   "oncelik": 2,
+   "tarih": "2026-10-16T09:53:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sirketler/online-alisverisi-degistiren-turk-girisimi-loops-ai-global-yolculuga-cikiyor-haberi-925145",
+     "tarih": "2026-10-16T09:53:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/16/online-alisverisi-degistiren-turk-girisimi-loops-ai-global-yolculuga-cikiyor-6f98_cover.gif",
+   "yorum": "Türk girişimi Loops AI, online alışveriş deneyimini iyileştirmek amacıyla global pazara açılacağını duyurdu. Şirket, yapay zeka destekli çözümlerle e-ticaret süreçlerini dönüştürmeyi hedefliyor.",
+   "neden": "Yeni bir e-ticaret platformunun globalleşmesi, Taksitlio'nun iş ortakları için potansiyel satış hacmini artırabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "7785c7ca8467",
+   "baslik": "TL mevduat faizi yüzde 36,4'e geriledi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-16T09:34:15+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tl-mevduat-faizi-yuzde-36-4e-geriledi-3791650",
+     "tarih": "2026-10-16T09:34:15+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792143300/3791650/jpg/1280x720",
+   "yorum": "TCMB verilerine göre, 9 Ekim haftasında TL mevduat faizleri yüzde 36,4'e geriledi; aynı dönemde ortalama ticari kredi faizi yüzde 39 olarak gerçekleşti. Bankanın ağırlıklı ortalama fonlama maliyeti yüzde 37 seviyesine indi.",
+   "neden": "Düşen kredi faizleri, tüketicilerin taksitli alışveriş kredisi maliyetini azaltarak Taksitlio üzerinden kredi kullanımını teşvik edebilir.",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "a747235a215d",
    "baslik": "“Hedefimiz, Türkiye’nin Tasarım Gücünü Dünyaya Taşıyan Mücevher Markası Olmak”",
