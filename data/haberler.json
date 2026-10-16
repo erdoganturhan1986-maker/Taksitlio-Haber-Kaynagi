@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-16T06:04:22.634276+00:00",
+ "guncelleme": "2026-10-16T07:16:38.431342+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "160f5725e272",
+   "baslik": "Enflasyon beklentilerinde ılımlı yükseliş",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-16T07:02:03+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/enflasyon-beklentilerinde-ilimli-yukselis-3791574",
+     "tarih": "2026-10-16T07:02:03+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792134146/3791574/jpg/1280x720",
+   "yorum": "Bloomberg HT, Türkiye Cumhuriyet Merkez Bankası’nın enflasyon beklenti anketinin sonuçlarını paylaştı. Ekim ayı itibarıyla 12 ay sonrası enflasyon beklentisi %23,89’a yükselirken, bir önceki dönemde %23,70 idi. Yıl sonu tüketici fiyatı (TÜFE) beklentisi ise %29,63 seviyesinde sabit kaldı ve politika faizi beklentisi %36 olarak kaydedildi. Anket ayrıca döviz kuru ve GSYİH büyüme beklentilerine de yer verdi.",
+   "neden": "Artan enflasyon beklentileri, tüketici kredisi faiz oranlarını yükseltebilir ve taksitli satışların maliyetini etkileyebilir, bu da Taksitlio'nun kredi tekliflerini ve talebi şekillendirebilir.",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "891a37c10248",
    "baslik": "İş Yatırım/Şekerci açıkladı: Dolar ve faizde yıl sonunda ne bekleniyor?",
