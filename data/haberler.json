@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-16T08:09:27.887520+00:00",
+ "guncelleme": "2026-10-16T09:08:08.528248+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "a747235a215d",
+   "baslik": "“Hedefimiz, Türkiye’nin Tasarım Gücünü Dünyaya Taşıyan Mücevher Markası Olmak”",
+   "marka": "Sektör: kuyum",
+   "kategori": "kuyum",
+   "oncelik": 3,
+   "tarih": "2026-10-16T08:14:13+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Mall Report",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnVCS24wR1I4UDZaMGpOZ2pvb1JUZDdKbktodkZxZTg2TEM2WTJiRWF1Z2s4R3dubENzaUtaMTNTNHRxWkpoSXVLUmRVTzAwUldBVXUwdkVDWC1KVGdXcG16bGt4eklUaFJDU3B2NENzdjU3RDU1Tm0yc3BYZE5yNmR0TjZuNWFZcUxVblk5SGI1UHJvcTdQZHlVRjFTYlN2R1Nv?oc=5",
+     "tarih": "2026-10-16T08:14:13+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Bir mücevher markası, Türkiye'nin tasarım gücünü uluslararası pazarlara taşıma hedefini duyurdu. Şirket, yerli tasarımcıları destekleyerek yeni koleksiyonlar geliştirecek ve ihracat odaklı bir strateji izlemeyi planlıyor. Bu açıklama, markanın büyüme vizyonu ve sektördeki konumunu güçlendirme çabalarını yansıtıyor.",
+   "neden": "Markanın ihracata yönelmesi, tüketicilerin yüksek değerli mücevherleri taksitli krediyle satın alma talebini artırabilir.",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "160f5725e272",
    "baslik": "Enflasyon beklentilerinde ılımlı yükseliş",
@@ -80,6 +102,12 @@
      "ad": "Bloomberg HT",
      "url": "https://www.bloomberght.com/bloomberg-ht-nin-ekim-ayi-faiz-anketi-sonuclandi-3791499",
      "tarih": "2026-10-15T13:46:23+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/tcmbnin-ekim-ayi-piyasa-katilimcilari-anketi-yayimlandi/4090688",
+     "tarih": "2026-10-16T08:14:42+00:00",
      "guvenilir": true
     }
    ],
@@ -2014,6 +2042,34 @@
    "gorsel": null,
    "yorum": "Bir enerji şirketi, Arçelik ile büyük bir tedarik sözleşmesi imzaladığını açıkladı. Sözleşme kapsamında Arçelik'in üretim tesislerine enerji çözümleri ve hammadde temini sağlanacak. Taraflar, uzun vadeli iş birliğinin her iki şirketin de rekabet gücünü artıracağını belirtti.",
    "neden": "Bu büyük tedarik anlaşması, Arçelik'in üretim kapasitesini ve satış potansiyelini yükseltecek, dolayısıyla tüketicilerin bu ürünleri taksitli krediyle alma ihtimalini artıracaktır.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "b94a51e7b0e1",
+   "baslik": "Samsung'dan iki Galaxy modeli için kötü haber: Güncelleme desteği bitti",
+   "marka": "Samsung",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-07T15:19:01+00:00",
+   "kaynaklar": [
+    {
+     "ad": "CNBC-e",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWFSc0VmTEotV09jRDlzYWxhQkw0dTBLbEF1QTJral84TmZXY2hQZmM5Y3UyREtvWWduTTVPVWNNbk15bjlYQ0E0RFRBXzVnSEoxaWM1WjJ2UmE1a1BJcGlSeFM1X0w2emhLa1dtVFczWkVqanY1TnpTclZRS3RwbUhRTWUwd1lGOVk4ZnVOTUZPZE84dEVxSktGZlBWclpxZjVJVEg1R05maWxL?oc=5",
+     "tarih": "2026-10-08T10:19:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Türkiye Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2lxX3B5UkpaaEdDdG1XdmhhaHVITnh0NU1VbWRKZkc1T1BLUWdoQmRwYkVUTHI1NXUwV1NhNFcyTU8tb29wWGs2ZlZITHo2R2VZWDBTVWFNOVZFYmw3WjZvbE9RXzFldGIybzlvcHFVSU1XaUpKM2xCS1BOdl9GaVhGb2YxeDg5blU4Q1dPZHF4MlJpWldjZTc4X3Q2a1p3bDlBZVF0UmNfWFRtSmZENF8tRnhVQ2wzWFVBcXBka1I1dw?oc=5",
+     "tarih": "2026-10-07T15:19:01+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Samsung, iki Galaxy modelinin artık yazılım güncellemesi ve güvenlik desteği almayacağını duyurdu. Bu modeller için yeni işletim sistemi sürümleri ve güvenlik yamaları sağlanmayacak.",
+   "neden": "Güncelleme desteğinin sona ermesi, tüketicilerin bu telefonları taksitli alırken tercihlerini etkileyebilir ve satış hacmini düşürebilir.",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
