@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-16T12:04:10.964627+00:00",
+ "guncelleme": "2026-10-16T13:17:02.464025+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "df2dd8ce8f6f",
+   "baslik": "Fon krizi sonrası ihtiyaç kredilerinde takibe dönüşüm oranı zirve yaptı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-16T12:51:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/fon-krizi-sonrasi-ihtiyac-kredilerinde-takibe-donusum-orani-zirve-yapti-3791680",
+     "tarih": "2026-10-16T12:51:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792155111/3791680/jpg/1280x720",
+   "yorum": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) verilerine göre, 9 Ekim itibarıyla ihtiyaç kredilerinde takibe dönüşüm oranı %6,83'e yükselerek önceki %6,66 seviyesini aştı. Bireysel kredi kartlarındaki takip oranı %5,9 seviyesinde, sektör genelindeki takip oranı ise %3,2 olarak kaydedildi.",
+   "neden": "İhtiyaç kredilerindeki takibe dönüşüm artışı, tüketici kredi riskinin yükseldiğini gösterdiği için Taksitlio'nun kredi değerlendirme ve risk yönetiminde dikkate alması gereken bir gelişmedir.",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "9f27822d1965",
+   "baslik": "YENİ KATALOG: BİM’E ÇAMAŞIR KURUTMA MAKİNESİ GELİYOR! (BİM 21-27 EKİM)",
+   "marka": "Gündem",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-16T12:18:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/foto-galeri/aktuel/yeni-katalog-bime-camasir-kurutma-makinesi-geliyor-bim-21-27-ekim-s1-galeri-925180",
+     "tarih": "2026-10-16T12:18:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/16/yeni-katalog-bime-camasir-kurutma-makinesi-geliyor-bim-21-27-ekim-dwvt_cover.gif",
+   "yorum": "BİM, 21‑27 Ekim tarihleri arasında yeni bir çamaşır kurutma makinesi kataloğu yayınladı. Bu ürün perakende mağazalarında satışa sunulacak ve tüketicilerin satın alması hedefleniyor.",
+   "neden": "Yeni bir beyaz eşya ürünü piyasaya çıktığında Taksitlio, bu ürün için taksitli alışveriş kredisi sunarak satışları artırabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "55dacdeab1ab",
    "baslik": "Merkez Bankası faiz indirecek mi? Ekonomistlerden ortak tahmin",
@@ -60,6 +104,24 @@
      "ad": "www.teknoport.com",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlpnb3NTZjBteWR0b1g2Ri1NbUdTU3R4cWJheDRRZ0dHVVBGMWtQeTV0SF9XeTA2WUpMMXQwOGxteUZBc1lRN2FRMU12bHEyQzhLWVhOcHo0Rm82QlJKcVV2WFNjakF2VU8tNW85YjBxcENUNnhHTXh2bllZSHoxMEY3OC11S0IzTWRfQ3FEcEJyQm5vN3BTX2JPTElLZnFOMnVoRWZoeVd4VmdEMUxuczJBWlhoLXQ5aHlOSzRkSTd2TlJVN1RtUVR6RQ?oc=5",
      "tarih": "2026-10-16T11:12:09+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTlzMlFtYW55RHdFd045WEpJTVNaVmZsRTRBZTc3ZS1SSXN1NEFLa3doSjVxMk1WbHlTSE0xRS1WclBSZlM0TWozNUxsQUJaXzdPRS0zblhLeDBESGdtemZXeTc4RzQyZmZlVXJnYzdvWDRMQ1JkUTlKLVdtcVVzR21QbVZoY1ZCQTJPQTdCNEdPOG9TXzB3ZUtvQWY5eERIVkhNMFRpMWxGcmFrSW9qamVIalY2T2M?oc=5",
+     "tarih": "2026-10-16T11:42:38+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKOEhqUllvNldMS1RHNWZ4UWRXSVVLODF6QUxUWFBWQlQweThydURQdFU3OWEyTEtZdVhvVUgtMlo1c1M5M2NtV0JLT3VlUlZOZElyTXFuRGVVd0JMcnNnRDh1ZzBRd3R5aFF1M05xc0hZZDd5RHp3a052SDhCOTQ?oc=5",
+     "tarih": "2026-10-16T11:52:56+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Tirebolu Haber",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlExU0Mwb3lYbEM4Zl92cENxV2czSExKSU5YZzdlVC1HeGhsdE1va3lQYTBpUHJxWWZKX2haT0F6M1gwaVU3U09DaEYyV281dERqTGhseDdJU0ljVGtZcXFCRW9CbEtQaHZncWZKUko2NzkzRXV1QjZLVDlGNjRZYUtfSEhWSWp1dFdpRGwxN3EzcjAzVFlUOGJvWDB3X0xKcktmV0RKNzlIV3pTcHNUWFRhV2w1QW04?oc=5",
+     "tarih": "2026-10-16T12:59:02+00:00",
      "guvenilir": false
     }
    ],
