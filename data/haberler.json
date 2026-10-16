@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-15T21:05:31.074812+00:00",
+ "guncelleme": "2026-10-16T05:05:42.990533+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -716,6 +716,48 @@
      "ad": "Toros Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaVRDOE5WVEhlX3dhTUQ1MGxSa2F3M0cyd2xlSnhkQ01HdV93NldObF9YMmpOb1VpajBSMlJITkczRFJRVThxLTRMUHRRc3BuRDJnbU92UnpoQWtsYk40SUdiaEVCdEdYaDc4OWtwVV90OTU3UVEwNmlyZXQyam9TRVQxN29pbDZWX25mUjVRd1Y2bjJWb2hyNQ?oc=5",
      "tarih": "2026-10-15T20:11:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sabah",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUZWM21wYm1EdHhXSTNwZUVWWEk3OEdVY3BCZE9WMENCY1lLOUF5QUZsdVdiYjlqSHVlSkg4WlYxSDJOWE1pQjdfZWxpV1pqVDNuZTlqWFVHQlMtemswck1PQzhtYjhPYUFMaklKMFlqbC1ZN0V2TnMzZWJzWDMzWUMtT2FIVGx2ekkxXzE1UHM1ek5jY2dWRjFKRWdsRWpZaTBFbjY2Q0bSAagBQVVfeXFMTm1GVjNtcGJtRHR4V0kzcGVFVlhJNzhHVWNwQmRPVjBDQmNZSzlBeUFGbHVXYmI5akh1ZUpIOFpWMUgyTlhNaUI3X2VsaVdaalQzbmU5alhVR0JTLXprMHJNT0M4bWI4T2FBTGpJSjBZamwtWTdFdk5zM2Vic1gzM1lDLU9hSFRsdnpJMV8xNVBzNXpOY2NnVkYxSkVnbEVqWWkwRW42NkNG?oc=5",
+     "tarih": "2026-10-16T04:00:11+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Telgraf Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pUTdjeGpDUFZpYkp1OGFuTVU0YXlFWkllaEdqZTQzYjlRODg2MXRKQ3M0QVhqWHd5VklBa0lqekMxWW5UcC1kS1ZtUDhwWDdJMUg0aDZ1Smt1VWJHMmxZMVRDbVBxektmVDZKcjNWUVRpSVBSckRaR2ZOa0w?oc=5",
+     "tarih": "2026-10-15T16:10:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Milli İrade Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmVkUml6S21ISXJFTllRdjdMV05rZ2RoSl9kdy1EYWpzX1UtR0hyaWJRUEdjOW9keWlEU2tKcURDaDdmWVdBTndwOF9FZUdHbFFFdElHM2hJMkJyV09zWXBLVkdDTjBGOGNKbk1HN1lEQlFCS2Jnb1E4cVBJaGVmQUZuOHRaUQ?oc=5",
+     "tarih": "2026-10-15T18:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sivas İrade",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZV9Sa1RnYlgzeVF1ZV9ZSllFVkpIRXpxN0laSm1kYWhCMm1YRGhubGpXQlhEdm9VRjduUlNZdTNxa1V1VmFlemtPLXZTNkNUcDc2aUdPUDZnM2ItbXhtcU9LS3I4dVFvUnRTWEd2S1pkY2RuYmcwOTdTRVZTZWt0YmNmNGlQUkYzbng3UEVDUnNhQnV3MzNQYXZLUWN0Tml1UDZTZW9pUVM0bjdtaW5TWFpJQUdTRGNtNXc?oc=5",
+     "tarih": "2026-10-15T18:33:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İLKHABER-Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHFnT0c4ZWlud1FaVDlxNHVjdHdadHFzVHJKUER5QmdLWXpaVjRRQWZVbUZBMnhoS0FVOHkzUDVlOHpubVFBRHBsYlFWYUdYVDZyXzNpcXZwdGlqY180cXVCOE54V01SVVYtVXgxWmk5OXRobEZLeklkTU96eTFtZTNVRVFFanROSC0zQW1mVWRHcDdGY3IwdjlSOHFkUHlyZFR3NWd2ZnB0UUhqcDBrZ1FLQnA5SWc?oc=5",
+     "tarih": "2026-10-15T19:36:08+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sabır Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWtMWWV1dV9Qa1huOXIybU01QUdwX2F1UVRscWtNVmJwbTR5SExFTzMzdmk5d3lSak1wZnB1TlF3UW8tbi1aUENMUUNnN25KMmc3ZkkwU3Z3Yi1xMXlYaF84RmhrZ1RqZy03VUFyUGl4N25PNGdxbS16eFdrT0Z4Rjl6eVZjNjA?oc=5",
+     "tarih": "2026-10-15T21:35:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Andırın Postası",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWNkMzgtcWVOOU1OdnBiZmFfX1g4UFZFNXJHc0Izcjk5TG5JalUtWVRySlhOdS1CSkFhQ1FzRC1xOXc0Y05iRDB0VXJXLVpDbk9iME5zcTktR2dFSTEzMGVjY2toVHRsZ2NGREotYUlGLXJ3cXFEOTI2MUMtc0RQWXFZVjdvaWRRRU91NkFDV3ZiM1FBc2pKM25ub0NKX2NLVVJSakR5NTNqb2_SAasBQVVfeXFMUC1jZDM4LXFlTjlNTnZwYmZhX19YOFBWRTVyR3NCM3I5OUxuSWpVLVlUckpYTnUtQkpBYUNRc0QtcTl3NGNOYkQwdFVyVy1aQ25PYjBOc3E5LUdnRUkxMzBlY2NraFR0bGdjRkRKLWFJRi1yd3FxRDkyNjFDLXNEUFlxWVY3b2lkUUVPdTZBQ1d2YjNRQXNqSjNubm9DSl9jS1VSUmpEeTUzam9v?oc=5",
+     "tarih": "2026-10-15T22:00:27+00:00",
      "guvenilir": false
     }
    ],
