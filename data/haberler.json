@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-17T05:01:09.505863+00:00",
+ "guncelleme": "2026-10-17T05:59:40.811499+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "1081487c3967",
+   "baslik": "Yemeden içmeden kesildik",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-16T18:40:03+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/fondan-kaybettik-haracama-freni-yaptik-3920306",
+     "tarih": "2026-10-16T18:40:03+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792175939/3920306/jpg/1920x1080",
+   "yorum": "Yatırım fonlarındaki likidite sıkıntısı, tüketicilerin harcamalarını kısıtlamasına yol açtı. Bu durum, kredi kartı harcamalarının haftalık 708 milyar liradan 648 milyar liraya düşmesiyle kendini gösterdi. İnternetten yapılan alışverişlerde 30 milyar liralık bir azalma ve yemek harcamalarında %6'lık düşüş rapor edildi.",
+   "neden": "Kredi kartı harcamalarındaki belirgin düşüş, taksitli alışveriş talebinin azalabileceğini gösterdiği için Taksitlio'nun kredi hacmi üzerinde etkili olabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "f60eea1bdcd9",
    "baslik": "Tasarruf finansmanında sözleşmeler değişmeyecek",
