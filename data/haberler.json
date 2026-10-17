@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-17T10:58:09.543512+00:00",
+ "guncelleme": "2026-10-17T11:57:31.521290+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "67f90154f43b",
+   "baslik": "BİM’E CASPER M45 CEP TELEFONU GELİYOR! (BİM 18-24 EKİM)",
+   "marka": "Gündem",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-17T10:51:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/foto-galeri/aktuel/bime-casper-m45-cep-telefonu-geliyor-bim-18-24-ekim-s1-galeri-925317",
+     "tarih": "2026-10-17T10:51:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/17/bime-casper-m45-cep-telefonu-geliyor-bim-18-24-ekim-kb9j_cover.gif",
+   "yorum": "BİM, 18‑24 Ekim tarihleri arasında mağazalarında Casper marka M45 cep telefonunu satışa sunacağını duyurdu. Ürün, BİM’in uygun fiyatlı teknoloji segmentindeki yeni eklemesi olarak tanıtıldı.",
+   "neden": "BİM’in yeni telefon modeli satışı, tüketicilerin bu ürünü taksitli krediyle alabilmesi için Taksitlio’nun kampanya ve iş ortaklığı fırsatlarını değerlendirmesine olanak tanır.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "6220b6e7170c",
    "baslik": "Kredi kartıyla yemeğe fren yaptık",
