@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-16T21:04:04.474591+00:00",
+ "guncelleme": "2026-10-17T05:01:09.505863+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -288,6 +288,12 @@
      "ad": "RayHaber",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZkhHZzNtdlUxUDFxWHRfOExhNV9tdDRnb2FtWURKa1JoV3B3OFJZMmx2WmM2M2hnOEhXNHNKZWtLXzhKZXlDZGdKMFJtalk0c25mQnFwS3dxQzdnU3hDQkNZc1o5WVMwRGdfSHpIbW9JNF9LT2doVzRkZzFjbXlDNVJjWTR2ZXFZZm5mVnZmeVltb1djRGlhN0JGYjRwWWVlZjZ3b0p6dw?oc=5",
      "tarih": "2026-10-16T13:40:57+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yorumla",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNVY0ZRWjJwZGtyRmNYaWNBdXJ4aVFPUEF2a0tyNGxTV0F3NFlsMWxNMUt4MG1qNWxtal96elhXMnhmLS1KalRiMXhyV1BNMDUySnJJSzhNSWVFaG9GaFpGNTdUb3M2bUtaLWpWVVRiT1NGZFViV3lLdUdZV0lwNEQtQ2VGdlNiVkRISA?oc=5",
+     "tarih": "2026-10-17T01:43:50+00:00",
      "guvenilir": false
     }
    ],
@@ -1719,6 +1725,12 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnpidFhFVFgtOHN0Qy1FeWJvT0pqbE9CdXM3aW51R3BZLXdSdmw1QzZqNDJvanZFWTBQV1dZbkMwZk1ZbFh4Z1Z2dVY3YTB6UXhlVVN2azdIRUZRR3pqbTVOWXQwVGpoY2RkQjFuMGI2aXZWdkg2b1lhWHc3a1p4dmk1MGRISXRvYjFpTGV3OUphelo4eE0ycExKNXo3VTlkbjNOX1VsQXpuUQ?oc=5",
      "tarih": "2026-10-14T07:42:53+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Ege'de Sonsöz",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVVvQl92Q0FpZ3d0d3hwb2dBUS1DNVNhNjdoZEdTc3FySW5oMVlNdWNtbWZNTjd4bU1TVml1czZNck44MHNJMEZKZ2lBbUV3UjdnM2c5RVRDblpWRlB2ZVV5d1lkZ0l5Yk16dnVVTE0taExSbG4zZGM3bnc2ZzAtZWpxWU5XdXliZG5SWHpB?oc=5",
+     "tarih": "2026-10-14T07:37:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -3101,6 +3113,28 @@
    ],
    "gorsel": null,
    "yorum": "Beyaz eşya sektöründe ihracatın yüzde 18 düşmesi, sektörün daraldığını gösteriyor; ihracat azalması sektörel satışların ve üretimin gerilemesine işaret ediyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "bcdd9c857d05",
+   "baslik": "Teknosa, LEC’in Türkiye resmi tedarikçisi oldu",
+   "marka": "Teknosa",
+   "kategori": "elektronik",
+   "oncelik": 1,
+   "tarih": "2026-09-28T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVU0xanY0SnZfMVRhYWZhRGxta1lLMHBKcXA0T1lTUGZJOVJaenJwbmp6WTMzTHBoSmFhbnhISldoZ1RQMXN4ZU5kTkhhb0tvbEE5ZXZ1Rmo0emlqY1BpcXJqdVl0MVFyN1ZISjNkMHFVbXk1RXZhRzZyOG91M1BZbjBtLXNZV2tka2tF?oc=5",
+     "tarih": "2026-09-28T07:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Teknosa, LEC markasının Türkiye’deki resmi tedarikçisi olduğunu duyurdu. Bu karar kapsamında LEC ürünleri, Teknosa’nın tüm mağaza ve online kanallarında satışa sunulacak. Şirket, tedarik zincirini güçlendirmek ve ürün çeşitliliğini artırmak amacıyla bu iş birliğini gerçekleştirdi.",
    "neden": "",
    "gundem": false,
    "onem": 3,
