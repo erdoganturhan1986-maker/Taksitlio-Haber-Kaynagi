@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-17T05:59:40.811499+00:00",
+ "guncelleme": "2026-10-17T07:12:33.273674+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3157,40 +3157,6 @@
    ],
    "gorsel": null,
    "yorum": "Teknosa, LEC markasının Türkiye’deki resmi tedarikçisi olduğunu duyurdu. Bu karar kapsamında LEC ürünleri, Teknosa’nın tüm mağaza ve online kanallarında satışa sunulacak. Şirket, tedarik zincirini güçlendirmek ve ürün çeşitliliğini artırmak amacıyla bu iş birliğini gerçekleştirdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "0026ff43513b",
-   "baslik": "Yataş ve Vivense'nin birleşme görüşmeleri sonlandırıldı",
-   "marka": "Yataş",
-   "kategori": "mobilya",
-   "oncelik": 3,
-   "tarih": "2026-09-27T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzN6SkxEdFkycHBTaHZxNk9RY3d6alRxeEtxYUxwNFVYaWw5SUs1bU5pb2t1T1loYU5WdWMwaUwwQ253Yldic3BUZ1oxNXZ5YnhfSXJRUzJQb0gyTDBldjFtM0dmUUtwdXdNNmsyeDBkUWZNVkVzQzJHQzl5OXJ6NnV3LWc0RFJiTGRRV0xYTzJYNktCcUpKaFc1WTNzdDBtUFYzSmJ30gGrAUFVX3lxTFBZN0dlMnpBRlFBaVZ1SGFYMDJtcUlFWnF4ZGhDY3cweUF1TUIxNXdud2NodDBMcWJNN0l3NjBJbGp1UElObE9jcEF4OHRvTmxsZ0w4aDNVdkNKRVZPOFVXYXExcWM1OVoxOGpEX05Dd2pfZkRHdFNJQkRJU2JnV0loRFVRWjNkOVZOR0sxUExXUjVBYUpMai1IdEc4cjR5NjJJRzM3QzhWVlFKdw?oc=5",
-     "tarih": "2026-09-27T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "GZT",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1NfRDFmS1VvRkRfeFZfZmItdUZqS0p1U2Y5bENiQW14YlJ2WWZIOGhTNWlwUXloU2paMFF6QnZ6YThveDhmNnhYa3FWNXJobV9NVVBfSTU4RlBic3VoVWllT1M2OC1pZTRGWnh2SndrVjVyZnhVMmhKaTJyODN2UW54T19UN2tNYUwzYTdzT1hnRmp2dFhCNUF4dzViQzU0VjAyMFhJaw?oc=5",
-     "tarih": "2026-09-27T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Investing.com Türkiye",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHFIU3ZfbUJvUFNoZVNQUXA1YkJFRzRLZnJvLTBKcnZNU3owOU5KbGRvWVFXOG9Sc1c4SkRnQXV6dlhvTDJJMWdFOEVibEFmQnZMT25nOEtkUnZzMG5UVDNYUHlQZFlOd0hyY0ZRZUFieUFWQS1pZFNXMWpqZFNjWmF4OUNpNTVPbnlsUTdZYTF4bVZURGpCTW42VFhfOHY2UENyTFduZmxJemRsZjFxUHdDamRtcm03eGc?oc=5",
-     "tarih": "2026-09-28T07:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Yataş ve Vivense arasındaki birleşme görüşmelerinin sonlandırıldığı bildirildi; iki mobilya perakendecisi ortaklık planlarını iptal etti.",
    "neden": "",
    "gundem": false,
    "onem": 3,
