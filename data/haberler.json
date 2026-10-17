@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-17T08:00:26.676221+00:00",
+ "guncelleme": "2026-10-17T09:00:09.359758+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "cf4872802329",
+   "baslik": "CAM SİLME DERDİNE SON! BİM’E KİWİ CAM TEMİZLEME ROBOTU GELİYOR! (BİM 21-27 EKİM)",
+   "marka": "Gündem",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-10-17T08:11:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/foto-galeri/aktuel/cam-silme-derdine-son-bime-kiwi-cam-temizleme-robotu-geliyor-bim-21-27-ekim-s1-galeri-925294",
+     "tarih": "2026-10-17T08:11:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/17/cam-silme-derdine-son-bime-kiwi-cam-temizleme-robotu-geliyor-bim-21-27-ekim-fn44_cover.gif",
+   "yorum": "BİM, 21-27 Ekim tarihleri arasında mağazalarında KiWi cam temizleme robotunu satışa sunacağını duyurdu. Robot, cam yüzeyleri otomatik olarak temizlemek üzere tasarlanmış bir elektronik cihaz. Ürün, BİM'in geniş perakende ağı üzerinden tüketicilere ulaşacak.",
+   "neden": "Yeni bir elektronik ürünün büyük bir perakende zincirinde satışa girmesi, Taksitlio'nun taksitli kredi hizmetleri için potansiyel bir talep yaratabilir.",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "1081487c3967",
    "baslik": "Yemeden içmeden kesildik",
