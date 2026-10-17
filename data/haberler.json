@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-17T09:00:09.359758+00:00",
+ "guncelleme": "2026-10-17T10:00:14.556161+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "6220b6e7170c",
+   "baslik": "Kredi kartıyla yemeğe fren yaptık",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-17T09:37:23+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/kredi-kartiyla-yemege-fren-yaptik-3920306",
+     "tarih": "2026-10-17T09:37:23+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792229387/3920306/jpg/1920x1080",
+   "yorum": "Son dönemde kredi kartı harcamalarında belirgin bir düşüş yaşandığı bildirildi. Haftalık toplam harcama 708 milyar liradan 648 milyar liraya geriledi; internet alışverişleri 216 milyardan 192 milyara, yemek harcamaları ise 44 milyardan 41 milyara düştü.",
+   "neden": "Tüketici harcamalarındaki azalma, taksitli alışveriş talebini ve dolayısıyla Taksitlio platformunun işlem hacmini olumsuz etkileyebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "cf4872802329",
    "baslik": "CAM SİLME DERDİNE SON! BİM’E KİWİ CAM TEMİZLEME ROBOTU GELİYOR! (BİM 21-27 EKİM)",
@@ -338,6 +360,12 @@
      "ad": "Yorumla",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNVY0ZRWjJwZGtyRmNYaWNBdXJ4aVFPUEF2a0tyNGxTV0F3NFlsMWxNMUt4MG1qNWxtal96elhXMnhmLS1KalRiMXhyV1BNMDUySnJJSzhNSWVFaG9GaFpGNTdUb3M2bUtaLWpWVVRiT1NGZFViV3lLdUdZV0lwNEQtQ2VGdlNiVkRISA?oc=5",
      "tarih": "2026-10-17T01:43:50+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "https://www.bursa.news/",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkhLVDBHUEktbjgzWUVKdUhoQU00X0hFdjV0LVVWTlBMZG1YcGRNbTQwZlFNcXRwTUhtZ0tNaFNILWxGUG82V0NSZzNnaFVfeHVLNDFzTlNDUDV3WGtpWnFfVFZfTXN4V2lIcEVoS3lBZ28zQ3lQVDhiLUhtRmtJVkJBbFRqTTNYQ0FxVlE4amNwLWY3S2pOSnoxY19OU2duTEJ5UmN6YjZfVjVFZ2dKTkNBbw?oc=5",
+     "tarih": "2026-10-17T08:46:56+00:00",
      "guvenilir": false
     }
    ],
