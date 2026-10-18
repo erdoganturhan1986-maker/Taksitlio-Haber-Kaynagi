@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-18T16:59:59.724133+00:00",
+ "guncelleme": "2026-10-18T17:55:49.037631+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "1cad7b538685",
+   "baslik": "Küresel elektronik üretiminde dengeler değişti! Türkiye'nin küresel payı belli oldu",
+   "marka": "Gündem",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-10-18T17:06:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/foto-galeri/teknoloji/kuresel-elektronik-uretiminde-dengeler-degisti-turkiyenin-kuresel-payi-belli-oldu-galeri-925471",
+     "tarih": "2026-10-18T17:06:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/18/kuresel-elektronik-uretiminde-dengeler-degisti-turkiyenin-kuresel-payi-belli-oldu-fcgx_cover.jpg",
+   "yorum": "Ekonomim haberine göre, küresel elektronik üretiminde dengeler değişmiş ve Türkiye'nin bu alandaki payı ortaya konulmuş. Makale, Türkiye'nin dünya çapındaki elektronik üretim oranının yeni bir seviyeye ulaştığını vurguluyor.",
+   "neden": "Türkiye'nin elektronik üretimindeki artan payı, yerli ürünlerin arzını ve fiyatlarını etkileyerek tüketicilerin taksitli kredi talebini şekillendirebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "f9c9e5fb7dba",
    "baslik": "Piyasaların gözü TCMB'nin faiz kararında: Ekonomistler ne bekliyor?",
