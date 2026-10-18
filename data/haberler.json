@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T13:59:32.019904+00:00",
+ "guncelleme": "2026-10-18T14:58:18.098423+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3292,6 +3292,12 @@
      "ad": "Hardware Plus",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU2N3WDZuUE4xQjVNTFBHYUxZbnNBN2NPN2xGTndjT0F5N2NtNG8zc0VHdFJReE5jUzJ2eGRhZ29JOWdNTzkyaVRRNDlRQUVfQ2czRGswSm1SWHFMNU9SWlZfcXJlRDZjNXMxX2ZSM1VjRll3TTMtZXVxa0tnV2p6X0thUGhVY1RXdHc?oc=5",
      "tarih": "2026-09-30T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kocaeli TV",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJoem5jZC10VnhHV3JoZk5PUF9ScllTM2VZNUtSbHljclpLNV9EalBTaXF6Z0MxbXQ4NjVLN01feVpUeHh3ZUUxWks2WjBXakNfcVcxeW9iNExuVDNZM1dFanB2RU1mdVVYUlpCMjlBVTNfMVZ3NVUxWGx0eFMxNDZNanF3V2M5VVdGN0ZQWTJPQzNQcnVxNFh5NA?oc=5",
+     "tarih": "2026-10-06T06:25:00+00:00",
      "guvenilir": false
     }
    ],
