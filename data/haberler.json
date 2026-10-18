@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-18T08:00:42.398792+00:00",
+ "guncelleme": "2026-10-18T09:00:29.704897+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "f9c9e5fb7dba",
+   "baslik": "Piyasaların gözü TCMB'nin faiz kararında: Ekonomistler ne bekliyor?",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-18T07:51:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/piyasalarin-gozu-tcmbnin-faiz-kararinda-ekonomistler-ne-bekliyor-haberi-925418",
+     "tarih": "2026-10-18T07:51:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/07/tcmb-faiz-indirecek-mi-prof-dr-binhan-elif-yilmazdan-kritik-degerlendirme-ceie_cover.jpg",
+   "yorum": "Ekonomistler, Merkez Bankası’nın yaklaşan faiz kararını yakından izliyor ve olası bir artış ya da düşüş senaryolarını değerlendiriyor. Piyasalarda, kararın enflasyon hedeflerine uyum sağlayıp sağlamayacağı ve kredi maliyetlerini nasıl etkileyeceği üzerine spekülasyonlar sürüyor. Kararın açıklanması, hem tüketici kredileri hem de perakende satışların finansman koşullarını doğrudan şekillendirecek.",
+   "neden": "TCMB faiz kararı, tüketici kredilerinin maliyetini belirlediği için taksitli alışverişlerdeki faiz oranlarını ve talebi doğrudan etkiler.",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "67f90154f43b",
    "baslik": "BİM’E CASPER M45 CEP TELEFONU GELİYOR! (BİM 18-24 EKİM)",
@@ -412,6 +434,12 @@
      "ad": "Önce Körfez",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQmV0ZTF2dlFxWl9MakdmeXdJVUptdWgxdUNDZlNINnlEN3JPZ1pUb20zbmViNGpxRFRQelVVemhBblV0YU96SDFWVXhLcnJTbDV3TDR3MEduYTJyMzAzQkdhb0x2YVU1R25WVU1OTk1mQWRhVkU5QzdZdnRVanZQcW1KSGw5bFlTY2t6aGo4TE1uS2gzcDRoWXI0WmFnMUdyLTZFRDZzN2JqSUd2Tng4bG9YbS1rWmJocU1PWA?oc=5",
      "tarih": "2026-10-17T09:14:57+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kütahya Ekspres",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV3B0cS1iUWlkLWNQY3dxQUUxMG1jLWRPekE3dGlTMTZZX1dEY0RkaFNLR1pXUGt6UVFQR2NrU1lPWmFnbUZOZ05ZZm5JMXJrTGlJRVVaLVRTMEI0ci1NY0kwcFN4Rm5xNERiaGJPRnJmeXVMYUlCS0drQUU1N09wMGhtcw?oc=5",
+     "tarih": "2026-10-18T08:51:25+00:00",
      "guvenilir": false
     }
    ],
@@ -3240,6 +3268,12 @@
      "ad": "Tamindir",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
      "tarih": "2026-10-08T06:30:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "CozumPark",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWm81NkoxMm85OThqM2thN29qRGpFeUVReG82NzZmdGs1b0ZhSlpPRkNlWFRLM0FaUjc0Ym5GOHZKWENWT1BabGtGYWZSMGNfc0NJTjRweWo2Z3lndVdCSHlGc0NIZk9HeW5JeDBDUDNjcjlSTnRuTHpjYUQ4SEh4ZFhkd1lpZVJXQjFzeGxVTHE1ZHN2UjJRT0xfc25oYlZ1?oc=5",
+     "tarih": "2026-10-02T11:04:27+00:00",
      "guvenilir": false
     }
    ],
