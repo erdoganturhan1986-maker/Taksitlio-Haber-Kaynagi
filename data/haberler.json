@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T05:02:31.616141+00:00",
+ "guncelleme": "2026-10-18T05:59:31.182272+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -2633,6 +2633,12 @@
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNF9Kb2k2V0hOdm5nV05FQnlqSUpVVXI5ZmwyTXlrMDRXZ3hSbzVodjQxc18yRGt1RWtuTGFtanpmSWRDRHBpbmVBLUhyVlpLZmpTOWNFVzB1OGxlUUN1dlZoNnhIODJLcG12MEFZbi1mb1ZOVENHNDJEMVk1ZHc2bnNkbDgxdjM0RWc?oc=5",
      "tarih": "2026-10-07T13:56:52+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "hibya.com",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GWEFaZ2oxUWUweGNVX2F4bmo5WEdscXM3N1pYWXdzbGFkY2VscFpPLWJlY3BHZTZxZWNYY2plVlI0aVctVVVxdU1aSTRmcmxjSnpGMmlNQlJvUkdwdG9EMXNJMWU2M1NBQ3c0OTZaUkkzdl9qTTN4aw?oc=5",
+     "tarih": "2026-10-07T12:39:01+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
