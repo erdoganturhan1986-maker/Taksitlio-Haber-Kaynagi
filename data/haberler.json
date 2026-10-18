@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T15:58:39.950215+00:00",
+ "guncelleme": "2026-10-18T16:59:59.724133+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3298,6 +3298,12 @@
      "ad": "Kocaeli TV",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJoem5jZC10VnhHV3JoZk5PUF9ScllTM2VZNUtSbHljclpLNV9EalBTaXF6Z0MxbXQ4NjVLN01feVpUeHh3ZUUxWks2WjBXakNfcVcxeW9iNExuVDNZM1dFanB2RU1mdVVYUlpCMjlBVTNfMVZ3NVUxWGx0eFMxNDZNanF3V2M5VVdGN0ZQWTJPQzNQcnVxNFh5NA?oc=5",
      "tarih": "2026-10-06T06:25:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "R10.net",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNFBEZzNnTjlkdVREdEJVWDJaUW9uTHcxZmthMktObWNVWEctS3hDZzRQZ3ZfTlZyNzdqc3NmZnEtZjZoZXBKYTZWUWlDa0FmSzREa1Z5VHFhNVJzYldtWFFfeTQ0VGJnNHFpNDdSbTE1d3FJSWFNclNXMkFIQjRQa0haWFMtbEswNk9R?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
      "guvenilir": false
     }
    ],
