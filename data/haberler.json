@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T05:59:31.182272+00:00",
+ "guncelleme": "2026-10-18T07:12:14.259506+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3246,50 +3246,6 @@
    "gorsel": null,
    "yorum": "Samsung, Türkiye'de Galaxy S26 serisinin fiyatlarını iki hafta içinde ikinci kez artırdığını duyurdu. Yeni fiyatlar, önceki zamdan daha yüksek seviyelerde belirlenmiş ve tüketicilerin satın alma maliyetini yükseltiyor.",
    "neden": "Fiyat artışı, tüketicilerin taksitli kredi tutarını ve aylık ödemelerini etkileyerek Taksitlio'nun kredi talebini doğrudan etkileyebilir.",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "8de1342f658d",
-   "baslik": "Beyaz eşya sektöründe daralma sürüyor: İhracat yüzde 18 düştü",
-   "marka": "Sektör: beyaz eşya",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-09-28T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVZnQU02RW85NlFqaFpMRXhzTlZid1BoSWZrOHBGRE9LZG9GN3JJdW0tMUxPSU9lNUlmdkFsU09CT3cyRDQ1MzduN3hKS1Q0ZW5RajZJdmNycmhVcUpyZFhxSURBRU43aWRMdmNIR1dGQ2JNV3dUMzJsZ3I1S3BpcXRVMGNRSl9VNnJSQjE4QUhjOWdDSURMWTBNZG05aWhBVUh4ZVFTbw?oc=5",
-     "tarih": "2026-09-28T07:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Beyaz eşya sektöründe ihracatın yüzde 18 düşmesi, sektörün daraldığını gösteriyor; ihracat azalması sektörel satışların ve üretimin gerilemesine işaret ediyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "bcdd9c857d05",
-   "baslik": "Teknosa, LEC’in Türkiye resmi tedarikçisi oldu",
-   "marka": "Teknosa",
-   "kategori": "elektronik",
-   "oncelik": 1,
-   "tarih": "2026-09-28T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVU0xanY0SnZfMVRhYWZhRGxta1lLMHBKcXA0T1lTUGZJOVJaenJwbmp6WTMzTHBoSmFhbnhISldoZ1RQMXN4ZU5kTkhhb0tvbEE5ZXZ1Rmo0emlqY1BpcXJqdVl0MVFyN1ZISjNkMHFVbXk1RXZhRzZyOG91M1BZbjBtLXNZV2tka2tF?oc=5",
-     "tarih": "2026-09-28T07:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Teknosa, LEC markasının Türkiye’deki resmi tedarikçisi olduğunu duyurdu. Bu karar kapsamında LEC ürünleri, Teknosa’nın tüm mağaza ve online kanallarında satışa sunulacak. Şirket, tedarik zincirini güçlendirmek ve ürün çeşitliliğini artırmak amacıyla bu iş birliğini gerçekleştirdi.",
-   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
