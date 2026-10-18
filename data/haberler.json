@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T09:00:29.704897+00:00",
+ "guncelleme": "2026-10-18T09:59:49.864256+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3274,6 +3274,12 @@
      "ad": "CozumPark",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWm81NkoxMm85OThqM2thN29qRGpFeUVReG82NzZmdGs1b0ZhSlpPRkNlWFRLM0FaUjc0Ym5GOHZKWENWT1BabGtGYWZSMGNfc0NJTjRweWo2Z3lndVdCSHlGc0NIZk9HeW5JeDBDUDNjcjlSTnRuTHpjYUQ4SEh4ZFhkd1lpZVJXQjFzeGxVTHE1ZHN2UjJRT0xfc25oYlZ1?oc=5",
      "tarih": "2026-10-02T11:04:27+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hardware Plus",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU2N3WDZuUE4xQjVNTFBHYUxZbnNBN2NPN2xGTndjT0F5N2NtNG8zc0VHdFJReE5jUzJ2eGRhZ29JOWdNTzkyaVRRNDlRQUVfQ2czRGswSm1SWHFMNU9SWlZfcXJlRDZjNXMxX2ZSM1VjRll3TTMtZXVxa0tnV2p6X0thUGhVY1RXdHc?oc=5",
+     "tarih": "2026-09-30T07:00:00+00:00",
      "guvenilir": false
     }
    ],
