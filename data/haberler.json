@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-19T11:06:48.524228+00:00",
+ "guncelleme": "2026-10-19T12:09:11.481556+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -36,6 +36,12 @@
      "ad": "Habertürk",
      "url": "https://www.haberturk.com/ekonomi/faiz-indirimi-beklentisi-dengeleri-degistiriyor-3920802",
      "tarih": "2026-10-19T09:54:21+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/tcmbnin-22-ekim-faiz-karari-icin-kritik-beklenti-yuzde-37-degisecek-mi-haberi-925631",
+     "tarih": "2026-10-19T11:28:00+00:00",
      "guvenilir": true
     }
    ],
