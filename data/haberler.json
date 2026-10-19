@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-19T15:15:02.266966+00:00",
+ "guncelleme": "2026-10-19T16:07:53.910447+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "b9e5563a4544",
+   "baslik": "Alaattin Aktaş: Merkez Bankası bu iki adımı atarsa işe yarayabilir",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-19T16:02:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/aktas-merkez-bankasi-bu-iki-adimi-atarsa-ise-yarayabilir-haberi-925685",
+     "tarih": "2026-10-19T16:02:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/19/aktas-merkez-bankasi-bu-iki-adimi-atarsa-ise-yarayabilir-rozo_cover.jpg",
+   "yorum": "Ekonomi analisti Alaattin Aktaş, Merkez Bankası'nın iki belirli adımı atması durumunda enflasyonla mücadelede daha etkili olabileceğini savundu. Bu adımlar arasında politika faizinin yeniden yapılandırılması ve likidite yönetimi yer alıyor. Aktaş, bu hamlelerin kredi piyasalarına ve tüketici harcamalarına olumlu yansıyabileceğini belirtti.",
+   "neden": "Merkez Bankası'nın politika değişiklikleri, doğrudan tüketici kredisi koşullarını ve taksitli satışların maliyetini belirlediği için Taksitlio'nun iş modelini etkileyebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "c6ee2f515aab",
+   "baslik": "Fintables/Gözen “makul senaryoyu” açıkladı: Fed ekimde nasıl bir karar alacak?",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-19T15:21:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/fintablesgozen-makul-senaryoyu-acikladi-fed-ekimde-nasil-bir-karar-alacak-haberi-925680",
+     "tarih": "2026-10-19T15:21:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/19/fintablesgozen-makul-senaryoyu-acikladi-fed-ekimde-nasil-bir-karar-alacak-wstp_cover.jpg",
+   "yorum": "Ekonomistler, Fed'in ekim ayında alacağı faiz kararı üzerine senaryolar ortaya koydu. Fed'in olası faiz artırımı, küresel likidite koşullarını ve dolayısıyla Türkiye'deki kredi maliyetlerini etkileyebilir. Makale, bu kararın piyasalar üzerindeki muhtemel yansımalarını değerlendirdi.",
+   "neden": "Fed'in kararının küresel faiz ortamını şekillendirmesi, Türkiye'deki tüketici kredisi ve taksit maliyetlerini dolaylı olarak etkileyebilir.",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "0ad1cd0d72b4",
    "baslik": "Dünyanın en büyük mücevher fabrikası açıldı: 7 bin kişiyi istihdam edecek",
