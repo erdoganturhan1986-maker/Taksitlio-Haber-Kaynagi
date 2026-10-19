@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-19T13:21:53.386700+00:00",
+ "guncelleme": "2026-10-19T14:18:31.235743+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -2774,6 +2774,12 @@
      "ad": "Ekonomi Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUThrZUtZb1c2dWRONjFodWs1ZUhqR1dJTldkSTM4TU05SmhxOGxueGYzV2E3dXAxR1RVdTFmRUtuXzl2RkNjRUFLNDlxUEFhbUkxREI0QThsVGN0Z0ZCVEJBelpaQmplZmcwR0h1bFgyZndFazN6X25oXy1iT2xSNWs5SEN6MV9nbVFv?oc=5",
      "tarih": "2026-10-07T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsatek",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1NKaUJfR2FyS0ZWUU5XT21MRU9NRzNQcVQyU3dNeFNEbG4xbDRtYldNdGxlRUVJLU9hLWpwWldiSW54ZGVIWm9EcUZENkFZb05LTFdBRTZxUlR0RFc1Uw?oc=5",
+     "tarih": "2026-10-07T12:17:16+00:00",
      "guvenilir": false
     }
    ],
