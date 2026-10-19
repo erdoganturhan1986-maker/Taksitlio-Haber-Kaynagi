@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-19T09:14:36.648544+00:00",
+ "guncelleme": "2026-10-19T10:12:05.865947+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "955407be5a75",
+   "baslik": "\"Faiz indirimi beklentisi dengeleri değiştiriyor\"",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-19T09:54:21+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/faiz-indirimi-beklentisi-dengeleri-degistiriyor-3920802",
+     "tarih": "2026-10-19T09:54:21+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/19/ver1792403661/3920802/jpg/1920x1080",
+   "yorum": "Türkiye’de enflasyonun yüzde 30’un altına düşmesi, bireysel finansmanda faiz indirimi beklentilerini artırdı. TCMB’nin 22 Ekim toplantısı öncesinde kredi ve mevduat piyasalarında fonlama maliyetlerinde düşüş gözlemlenirken, kredi faizlerine etkisi sınırlı kaldı. BDDK verilerine göre tüketici kredileri yılbaşından bu yana %18,7 artarak 3,49 trilyon TL’ye ulaştı ve taksitli ödemelere yönelim sürdü.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "1cad7b538685",
    "baslik": "Küresel elektronik üretiminde dengeler değişti! Türkiye'nin küresel payı belli oldu",
