@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-19T06:06:53.161262+00:00",
+ "guncelleme": "2026-10-19T07:26:50.471289+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3206,7 +3206,7 @@
    "marka": "Samsung",
    "kategori": "telefon",
    "oncelik": 2,
-   "tarih": "2026-09-29T07:00:00+00:00",
+   "tarih": "2026-09-30T07:00:00+00:00",
    "kaynaklar": [
     {
      "ad": "Ekonomim",
@@ -3216,14 +3216,8 @@
     },
     {
      "ad": "Webtekno",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnRmZ01oSjRJNGg1RGxPdnAyamFud0VVNXRBejB6S3JXM2JVN1plVUVWM0l0YTVybXdBeVYxLTNlTDVlS3lvb0NyRDIzcTItdUE3NktsU2xCUkxJR0ZNekwySUlMX3RnMVZ2aEsxbHJhR28tczZLckJyY1FkeTRvZjIzR0tWRjIwSFVF?oc=5",
-     "tarih": "2026-09-29T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Teknolojioku",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblJ2dUlicG9xSXhHd1U2cl9ucjY2SWhFVnMzZVVFNmJ5WHlkbEx1VDV2eEI5bkVLMjgtTlJ5Qzl4UmRCTEZEQ1otdG9rSXU3TV8zUjFfcEV4ZnFTUW5LTFJnNE9zd2hKVjlTZmFodWhfc3p0WUFWM09MNWZyLWR0R19VaUFSdm9ibktBUlZQSktpOVd3Ymh6UjR1LXhUY2V6VVU3RWtJSFlQZw?oc=5",
-     "tarih": "2026-09-29T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmtPOVNxZmMwWWFEaE5lQkVRTWctTjg0SnZzRkpZM3FfQnF5S1VVYTlzVmNxUTdwcXhxTWNRMDBjblRsZUNOQVRmcE80Y19yXzVWVnBvLTJOOFdJbDk2amVRNnd4RVd0ekJTVEFDVjJwcWF0QzhUNVBobUFZQncxM3NuZm9lTExERzROdmZ4NGM1T0M3WHlubDExUkZZSXc?oc=5",
+     "tarih": "2026-09-30T07:00:00+00:00",
      "guvenilir": false
     },
     {
@@ -3281,6 +3275,12 @@
      "guvenilir": false
     },
     {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlplUG9KUWJJUFhJMkNldFZsak5TZjVXX0V0c1ota1BKNVJweUxvME91OUhaZW04NWFIRFNsUEVKeDlmZy0tU2hsQTNOem1fMWNnZkt6eWEzeWJtU2hjMk5yNFU2R0FhSldrUzFkdzRLQUxrZjRuZ2tTR1IwNU5PZ25KREY4Zw?oc=5",
+     "tarih": "2026-10-02T20:22:36+00:00",
+     "guvenilir": false
+    },
+    {
      "ad": "Yeni Alanya",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcHU4M3phRExPM2Q2SzVjbGo4Z3M4cE9FWl82VmhWWWxhdFRsVzB0cS1TSlpJZGFWYldFTElDOEo0ZDdsY3Izelo0TUZqYmIxT2IxVmRjcjNxckhMMkxzNVEybUdfcjlaQ1Brbm10TTdoX0dOcDVlb1J3c3QzUi1wa2xuRF9pSFVqRzlr?oc=5",
      "tarih": "2026-10-03T05:13:00+00:00",
@@ -3311,29 +3311,23 @@
      "guvenilir": false
     },
     {
-     "ad": "Tamindir",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
-     "tarih": "2026-10-08T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Finans Hattı",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlplUG9KUWJJUFhJMkNldFZsak5TZjVXX0V0c1ota1BKNVJweUxvME91OUhaZW04NWFIRFNsUEVKeDlmZy0tU2hsQTNOem1fMWNnZkt6eWEzeWJtU2hjMk5yNFU2R0FhSldrUzFkdzRLQUxrZjRuZ2tTR1IwNU5PZ25KREY4Zw?oc=5",
-     "tarih": "2026-10-02T20:22:36+00:00",
-     "guvenilir": false
-    },
-    {
      "ad": "Kocaeli TV",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJoem5jZC10VnhHV3JoZk5PUF9ScllTM2VZNUtSbHljclpLNV9EalBTaXF6Z0MxbXQ4NjVLN01feVpUeHh3ZUUxWks2WjBXakNfcVcxeW9iNExuVDNZM1dFanB2RU1mdVVYUlpCMjlBVTNfMVZ3NVUxWGx0eFMxNDZNanF3V2M5VVdGN0ZQWTJPQzNQcnVxNFh5NA?oc=5",
      "tarih": "2026-10-06T07:00:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Tamindir",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
-   "yorum": "Samsung, Türkiye pazarında Galaxy S26 serisinin fiyatlarını iki hafta içinde ikinci kez yükseltti ve yeni satış fiyatları önceki seviyelerden daha yüksek oldu.",
-   "neden": "Fiyat artışı, tüketicilerin kredi tutarlarını ve taksit tercihlerini etkileyebileceği için Taksitlio'nun kredi aracılığı iş modeline doğrudan yansır.",
+   "yorum": "Samsung, Galaxy S26 serisinin Türkiye fiyatlarını iki hafta içinde ikinci kez artırdığını duyurdu. Yeni fiyat değişikliği, cihazların perakende satış fiyatlarını yükseltti.",
+   "neden": "Fiyat artışı, tüketicilerin taksitli alım kararlarını ve Taksitlio üzerinden sunulan kredi koşullarını etkileyebilir.",
    "gundem": false,
-   "onem": 3,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
