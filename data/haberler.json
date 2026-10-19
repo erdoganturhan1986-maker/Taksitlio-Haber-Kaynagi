@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-19T10:12:05.865947+00:00",
+ "guncelleme": "2026-10-19T11:06:48.524228+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "0ad1cd0d72b4",
+   "baslik": "Dünyanın en büyük mücevher fabrikası açıldı: 7 bin kişiyi istihdam edecek",
+   "marka": "Sektör: kuyum",
+   "kategori": "kuyum",
+   "oncelik": 3,
+   "tarih": "2026-10-19T10:30:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGVlU2E2QTZMNWdFS0xfLXRWWG9Ib1VqVndjWlBGNGhXZ3B0YTdNdXNIdUd1ZG1Ea0hEOUtkUTF1eWlvdUhxeVhHQXZzZTR6elhTNzBWMGd3MGhVdEE3RnJkYkJjWWdQOTdMLWFHRm9keU5GSTE2cWxHZDRfU1ZMYlI0UmRzc2lySnBYRlFNU0Rfa0tacHVPY2pxSzlfVWF3cUVGMms0UWhoSmpaRW5aTGVHQ0dBa2VsOTk1eHhn0gHDAUFVX3lxTE12bXRKTC1GZXJBYmxpY0hZNTQzajNvX3Y2UFd2R1FjeFhWWkswSGlfb3U0Q280eG52emdyd3lZRHdpekc0dVdxVllRSmpib2VSQjBCTFJ3QV9oVFRBUkxjQ0N2QkNnVmtQQU5kQ1ZCQWpYN0RORV96WVNRRmh1ejhvR0oxbHd4aWFKVGVsQ3kwYUdRdHJ4OWtYeXduUGtUWjVKQ2ZoTGFYOWpUZTd0OU1OU29PNFVXVHh6bzFfNnEtVWFPbw?oc=5",
+     "tarih": "2026-10-19T10:30:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Dünyanın en büyük mücevher fabrikası hizmete açıldı. Fabrika, yıllık 7 bin kişilik istihdam sağlayacak ve sektörde üretim kapasitesini önemli ölçüde artıracak. Açılış, yeni üretim hatları ve modern teknolojilerle gerçekleştirildi.",
+   "neden": "Büyük bir mücevher üretim tesisinin açılması, kuyum sektöründeki ürün arzını ve fiyat dinamiklerini etkileyerek Taksitlio üzerinden verilen taksitli kredi taleplerine yansıyabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "955407be5a75",
    "baslik": "\"Faiz indirimi beklentisi dengeleri değiştiriyor\"",
