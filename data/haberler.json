@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T20:58:47.933810+00:00",
+ "guncelleme": "2026-10-19T05:11:18.653163+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -2477,6 +2477,12 @@
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHlDVkxjcENuSXBYN3VyTi1leEJyUWhPb3Y3MjRQRGRtUl9DdkM1dW9ta1dJWmNCcnBMRmV0aEwtcWg4SGwyQ3B1bDdxYUd2cjZJdk9EUEdBUGxjdXkxLTBjR3czWUF4RVNjYjlRdldKQjNQbEVGZ0pjMHhHVThLUXhtWUNOay04VFE?oc=5",
      "tarih": "2026-10-12T07:35:50+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVGZQVF82andISFJRS0lNOThGdDlyR0lfbXRKTXd5NC00ajJRczNhcS1xRE1RcXowbjE2V3I5aWhVeGNYRHpYNDl3NXN3X05HRHJrT19iUHV3djh1WVdRdzczbG1MR1FvcVRkMU5SXzR3WUhYbUR6bmVoVjBDYzhjT2d3c1FkcXgt?oc=5",
+     "tarih": "2026-10-12T07:06:26+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -2694,6 +2700,12 @@
      "ad": "hibya.com",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GWEFaZ2oxUWUweGNVX2F4bmo5WEdscXM3N1pYWXdzbGFkY2VscFpPLWJlY3BHZTZxZWNYY2plVlI0aVctVVVxdU1aSTRmcmxjSnpGMmlNQlJvUkdwdG9EMXNJMWU2M1NBQ3c0OTZaUkkzdl9qTTN4aw?oc=5",
      "tarih": "2026-10-07T12:39:01+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUThrZUtZb1c2dWRONjFodWs1ZUhqR1dJTldkSTM4TU05SmhxOGxueGYzV2E3dXAxR1RVdTFmRUtuXzl2RkNjRUFLNDlxUEFhbUkxREI0QThsVGN0Z0ZCVEJBelpaQmplZmcwR0h1bFgyZndFazN6X25oXy1iT2xSNWs5SEN6MV9nbVFv?oc=5",
+     "tarih": "2026-10-07T07:00:00+00:00",
      "guvenilir": false
     }
    ],
@@ -3194,7 +3206,7 @@
    "marka": "Samsung",
    "kategori": "telefon",
    "oncelik": 2,
-   "tarih": "2026-09-29T03:32:00+00:00",
+   "tarih": "2026-09-29T07:00:00+00:00",
    "kaynaklar": [
     {
      "ad": "Ekonomim",
@@ -3203,15 +3215,27 @@
      "guvenilir": true
     },
     {
-     "ad": "Teknolojioku",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblJ2dUlicG9xSXhHd1U2cl9ucjY2SWhFVnMzZVVFNmJ5WHlkbEx1VDV2eEI5bkVLMjgtTlJ5Qzl4UmRCTEZEQ1otdG9rSXU3TV8zUjFfcEV4ZnFTUW5LTFJnNE9zd2hKVjlTZmFodWhfc3p0WUFWM09MNWZyLWR0R19VaUFSdm9ibktBUlZQSktpOVd3Ymh6UjR1LXhUY2V6VVU3RWtJSFlQZw?oc=5",
-     "tarih": "2026-09-29T03:32:00+00:00",
-     "guvenilir": false
-    },
-    {
      "ad": "Webtekno",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnRmZ01oSjRJNGg1RGxPdnAyamFud0VVNXRBejB6S3JXM2JVN1plVUVWM0l0YTVybXdBeVYxLTNlTDVlS3lvb0NyRDIzcTItdUE3NktsU2xCUkxJR0ZNekwySUlMX3RnMVZ2aEsxbHJhR28tczZLckJyY1FkeTRvZjIzR0tWRjIwSFVF?oc=5",
      "tarih": "2026-09-29T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Teknolojioku",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblJ2dUlicG9xSXhHd1U2cl9ucjY2SWhFVnMzZVVFNmJ5WHlkbEx1VDV2eEI5bkVLMjgtTlJ5Qzl4UmRCTEZEQ1otdG9rSXU3TV8zUjFfcEV4ZnFTUW5LTFJnNE9zd2hKVjlTZmFodWhfc3p0WUFWM09MNWZyLWR0R19VaUFSdm9ibktBUlZQSktpOVd3Ymh6UjR1LXhUY2V6VVU3RWtJSFlQZw?oc=5",
+     "tarih": "2026-09-29T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Teknoblog",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGNEY1VMU2E0LWFQc3U4OFVoTDVmWHRvSWNxa0xXeVhaRjdmUDZLeklPVENFM2JkdkVwYkg5VEJzamRiSXRYN1RWYzZIVEJ3bHJJdWhYRl81bmc3cHd3VV9lS0FfZXdnVVdMRkxDczhoOEItdHVSYUY1M1ZQM1liLXpoN1pranNlU1JNeU5fQVY?oc=5",
+     "tarih": "2026-09-30T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hardware Plus",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU2N3WDZuUE4xQjVNTFBHYUxZbnNBN2NPN2xGTndjT0F5N2NtNG8zc0VHdFJReE5jUzJ2eGRhZ29JOWdNTzkyaVRRNDlRQUVfQ2czRGswSm1SWHFMNU9SWlZfcXJlRDZjNXMxX2ZSM1VjRll3TTMtZXVxa0tnV2p6X0thUGhVY1RXdHc?oc=5",
+     "tarih": "2026-09-30T07:00:00+00:00",
      "guvenilir": false
     },
     {
@@ -3221,8 +3245,20 @@
      "guvenilir": false
     },
     {
+     "ad": "PC Hocası",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0h0Y3lLVkVTX20wTEFmTVJHNWowck1tSWoteHN5amVic29nMHdfZE9uS1dETGtLc1g0Nl80Mk1xS3hBcU5rYWtzT2xMbFNYaWM0Q2F0UGlGNU1JekJpeG9JSWE4eE5nQjQ5a3ZCN2hTeWdjdllSRU1uTlhRM2lidHhqQzZuWWNfd0FOd2NsMk1BR2Rkc1Y0VkFUR0JRQUU?oc=5",
+     "tarih": "2026-10-01T22:50:49+00:00",
+     "guvenilir": false
+    },
+    {
      "ad": "DonanımHaber",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHpKaVBjUFh2ZVAta195bHBUenVTcURHQzlhTVJobDkyeWxPb1I2VHRDYUpTOUlaYXdsNVNPclVjeW1HRmpoeTVnRGNSbnlDaVdFUUFBX0tpeVFPV0Uwd3F5Zi1fZGNaT1ZBdlNHRF80czZ6Zm5mdFpLVEFQN3p5NzdhSzg0OElwM2ItWDF2OUFSb3dmdVF6NVczSTczN3dfM1pR?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "CozumPark",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWm81NkoxMm85OThqM2thN29qRGpFeUVReG82NzZmdGs1b0ZhSlpPRkNlWFRLM0FaUjc0Ym5GOHZKWENWT1BabGtGYWZSMGNfc0NJTjRweWo2Z3lndVdCSHlGc0NIZk9HeW5JeDBDUDNjcjlSTnRuTHpjYUQ4SEh4ZFhkd1lpZVJXQjFzeGxVTHE1ZHN2UjJRT0xfc25oYlZ1?oc=5",
      "tarih": "2026-10-02T07:00:00+00:00",
      "guvenilir": false
     },
@@ -3233,15 +3269,15 @@
      "guvenilir": false
     },
     {
-     "ad": "ShiftDelete.Net",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUdEbFJRTFp3XzZlQVM2dm1aUW1Vc2NzM2VQYzJTdXRIclRMVjlTdURTSzFYRUNqT3RYRF9QTzlUczAwaGVJN1dYSGZPTlY2NC1pWjVVdERZX0pvNnpOaTN1bC1PdkdNQlBhN29wc3FGR0o4UkEzRXlHZ1dNNTBUZmgxVnhzbWszenRxdk5tVXRPNVB1ZkJKZdIBoAFBVV95cUxQSkZ1OTlKdEEtamU4NUt0OV9ZdmdVbGdGSkJBOUozdGtVWWM2S1dSSjBWQmJkcE9xY3h5N1hNQjlQM3I2UVJEQjJnTW93QlltdmtyNFlpN093VmFPNWhfRW1TUlEyRUE2LWRtbDNVMUJmSld4c1ctdjZTeTdfaTlWdHhmYWx6WDVzbnJaWXpaSHZSWEt5RVZKUy1SNXNBN1BV?oc=5",
+     "ad": "R10.net",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNFBEZzNnTjlkdVREdEJVWDJaUW9uTHcxZmthMktObWNVWEctS3hDZzRQZ3ZfTlZyNzdqc3NmZnEtZjZoZXBKYTZWUWlDa0FmSzREa1Z5VHFhNVJzYldtWFFfeTQ0VGJnNHFpNDdSbTE1d3FJSWFNclNXMkFIQjRQa0haWFMtbEswNk9R?oc=5",
      "tarih": "2026-10-02T07:00:00+00:00",
      "guvenilir": false
     },
     {
-     "ad": "Finans Hattı",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlplUG9KUWJJUFhJMkNldFZsak5TZjVXX0V0c1ota1BKNVJweUxvME91OUhaZW04NWFIRFNsUEVKeDlmZy0tU2hsQTNOem1fMWNnZkt6eWEzeWJtU2hjMk5yNFU2R0FhSldrUzFkdzRLQUxrZjRuZ2tTR1IwNU5PZ25KREY4Zw?oc=5",
-     "tarih": "2026-10-02T20:22:36+00:00",
+     "ad": "ShiftDelete.Net",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUdEbFJRTFp3XzZlQVM2dm1aUW1Vc2NzM2VQYzJTdXRIclRMVjlTdURTSzFYRUNqT3RYRF9QTzlUczAwaGVJN1dYSGZPTlY2NC1pWjVVdERZX0pvNnpOaTN1bC1PdkdNQlBhN29wc3FGR0o4UkEzRXlHZ1dNNTBUZmgxVnhzbWszenRxdk5tVXRPNVB1ZkJKZdIBoAFBVV95cUxQSkZ1OTlKdEEtamU4NUt0OV9ZdmdVbGdGSkJBOUozdGtVWWM2S1dSSjBWQmJkcE9xY3h5N1hNQjlQM3I2UVJEQjJnTW93QlltdmtyNFlpN093VmFPNWhfRW1TUlEyRUE2LWRtbDNVMUJmSld4c1ctdjZTeTdfaTlWdHhmYWx6WDVzbnJaWXpaSHZSWEt5RVZKUy1SNXNBN1BV?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
      "guvenilir": false
     },
     {
@@ -3251,39 +3287,21 @@
      "guvenilir": false
     },
     {
-     "ad": "Teknoblog",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTBnUWN5STkxN3ZMQjBlYkt0WFZPd3lPUUVNOS1EV0FsVURzdDNheHNYYnBvSXhWbFZlQVFhNnhWbUVWVFNrQ0ZoaXQwdzZ3SGY2Y3ZwcXNFZzNMbFM2bTNmeVUyeDNJRlFIbTdVeWE5aTNyNUQ0UzQ0bmNHSVZLNVZraUtPbURm?oc=5",
-     "tarih": "2026-10-04T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Medyafaresi",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlJmVGhvLXhMSHFrVUNlaE1ZQVFYNVljcmtwTmVOYmxTMk5hNk5JOVBFakFuUW1JZHlabENzaVF5Zmt5UVFJMHFXR0NHbGJnazdfZGg2bXZWeTJ3Q1FDNmhsRnZISlZhWkRodm56cFZaRjczVlVULURqeUdhUDl2OVVXY1k1OW85NFA1QTJGV1V1Q0RK0gGaAUFVX3lxTFBBZnVvNUdmTUlQY0FqR2NJMDg1YVJYb2t5VVN3ZzRJek9yWm5hLUpVX3o4dFN2OGdINFdlQWY1eGstam9EVjhDbjhrQ0ZaQXc1QWJrQmZ3U2t1MFZVRllXeXFxd0JDS3BIRzlQX1dHU2syOE9XRmI0Z2FhajdlYllkRWlNZnZVQkNLR3hDaHl1NXlUaXRXa013R2c?oc=5",
-     "tarih": "2026-10-04T07:21:00+00:00",
-     "guvenilir": false
-    },
-    {
      "ad": "Genç Gazete",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFpkbXRUYXY4Q1c2dzBDNW0wMXhRN1dnNGVuOG5hYmhEbjY3MGlJQ1A0Q0VaNUY5TFBWdG5KSkpkN3RERDBkY05vVE9SazFKOXFyYkNIbGpSZGQyb1JzSE10RXZVMF9VVk1ibDY0bG5OUENMZEdlR2xzd3IwX21kdTQ5V3p6VDd1VzlJTzQ2OEExQ2pTV2R4M092TGJ5Ul9hUGt1eVJ3?oc=5",
-     "tarih": "2026-10-05T00:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "PC Hocası",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmV5UzVyM1JqRmM1NDdmRGlRUXlZRF9yV0JkM1BwWkFpTWhSSjZwY3htZ21RcEtocVRLTjJaY3Z2UTN1dW5TZFJGU2tnbHNVMFZHRC1TNVplbnJadlo0N3Z2TkRpRWxVaWt5VmJvQWdudmhEQ2pST0lWaG9Idm9aRUoybGlKUDNpNEozNHFzZjVINmptdkZ0dA?oc=5",
      "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": false
     },
     {
      "ad": "Ensonhaber",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXpuYVVFMDdDMm9TNmZTZVFlQTRLajFoVTcwTTMwYTN5NThaeDNpYUxmelkxN1FEb2dPN21Pb3ZyanJzYW4zRzR2Y0ZWbTN0SFUwSURjZml4dWVtNDFxZmdJZGlqYm9RTGNwd2ZtTmdDSTRFQ2xRMFJrcTVyRGNScFR1MHRuTkNkdTdFYlZGYWZnVVJ1eS0zMTIwYlFRdjg?oc=5",
-     "tarih": "2026-10-05T07:05:22+00:00",
+     "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": false
     },
     {
      "ad": "Yeni Bakış Gazetesi İzmir",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1VNYTNPa0E4QkFiVVRvSG5ScmUwRUtNQVp6SklNblh6OFJOTHVLRVF5ZFhVemZDOExzOG9PVzhhRC1Bd25SaWVjN3hYVWZzdW1SWHVpTW9QSWZlX1pVcGI4VXk1ZzVtdUpSeGJ6WkJFbS1ZZEtQMHYwQmpxQld6WklVeFphTXV6VlNaemNmZ1U4dw?oc=5",
-     "tarih": "2026-10-05T07:28:00+00:00",
+     "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": false
     },
     {
@@ -3293,45 +3311,15 @@
      "guvenilir": false
     },
     {
-     "ad": "FinansTaksi",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZU12ODdLZ2ppNFZjenVUdkxNbGVvYnNDSGlGbkJUNlJwWmpTUXVfTG1EU0ZKdW1aYXB0NU4wU0lyMTNtRDZEcXNYaWt2dlBvT3lZSWkxSGl2cllUeUV0SkVuaHY0cGFkU1hwVEl4bVAwclBRemJwWHdRQXlIV2lZZTFjYUTSAYoBQVVfeXFMT0Roalo1LXV1djFHMEJFMlZYVnRpZXozbjVBSFd2VXl4d3FHSTJpdXlzMTVDOGswTWlXeHV6ZktZWXBWSjhNM2ZQOVZPYUhseUlHNWtJU0NnY0JXa3QyV3AxZGZQV3ZDTTlCeHVjczMyb3pLZDBhdWROTFBfMk9FVHdxZFJhWnl6M1dR?oc=5",
-     "tarih": "2026-10-05T11:23:00+00:00",
-     "guvenilir": false
-    },
-    {
      "ad": "Tamindir",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
-     "tarih": "2026-10-08T06:30:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "CozumPark",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWm81NkoxMm85OThqM2thN29qRGpFeUVReG82NzZmdGs1b0ZhSlpPRkNlWFRLM0FaUjc0Ym5GOHZKWENWT1BabGtGYWZSMGNfc0NJTjRweWo2Z3lndVdCSHlGc0NIZk9HeW5JeDBDUDNjcjlSTnRuTHpjYUQ4SEh4ZFhkd1lpZVJXQjFzeGxVTHE1ZHN2UjJRT0xfc25oYlZ1?oc=5",
-     "tarih": "2026-10-02T11:04:27+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Hardware Plus",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU2N3WDZuUE4xQjVNTFBHYUxZbnNBN2NPN2xGTndjT0F5N2NtNG8zc0VHdFJReE5jUzJ2eGRhZ29JOWdNTzkyaVRRNDlRQUVfQ2czRGswSm1SWHFMNU9SWlZfcXJlRDZjNXMxX2ZSM1VjRll3TTMtZXVxa0tnV2p6X0thUGhVY1RXdHc?oc=5",
-     "tarih": "2026-09-30T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Kocaeli TV",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJoem5jZC10VnhHV3JoZk5PUF9ScllTM2VZNUtSbHljclpLNV9EalBTaXF6Z0MxbXQ4NjVLN01feVpUeHh3ZUUxWks2WjBXakNfcVcxeW9iNExuVDNZM1dFanB2RU1mdVVYUlpCMjlBVTNfMVZ3NVUxWGx0eFMxNDZNanF3V2M5VVdGN0ZQWTJPQzNQcnVxNFh5NA?oc=5",
-     "tarih": "2026-10-06T06:25:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "R10.net",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNFBEZzNnTjlkdVREdEJVWDJaUW9uTHcxZmthMktObWNVWEctS3hDZzRQZ3ZfTlZyNzdqc3NmZnEtZjZoZXBKYTZWUWlDa0FmSzREa1Z5VHFhNVJzYldtWFFfeTQ0VGJnNHFpNDdSbTE1d3FJSWFNclNXMkFIQjRQa0haWFMtbEswNk9R?oc=5",
-     "tarih": "2026-10-02T07:00:00+00:00",
+     "tarih": "2026-10-08T07:00:00+00:00",
      "guvenilir": false
     }
    ],
    "gorsel": null,
-   "yorum": "Samsung, Türkiye'de Galaxy S26 serisinin fiyatlarını iki hafta içinde ikinci kez artırdığını duyurdu. Yeni fiyatlar, önceki zamdan daha yüksek seviyelerde belirlenmiş ve tüketicilerin satın alma maliyetini yükseltiyor.",
-   "neden": "Fiyat artışı, tüketicilerin taksitli kredi tutarını ve aylık ödemelerini etkileyerek Taksitlio'nun kredi talebini doğrudan etkileyebilir.",
+   "yorum": "Samsung, Türkiye pazarında Galaxy S26 serisinin fiyatlarını iki hafta içinde ikinci kez yükseltti ve yeni satış fiyatları önceki seviyelerden daha yüksek oldu.",
+   "neden": "Fiyat artışı, tüketicilerin kredi tutarlarını ve taksit tercihlerini etkileyebileceği için Taksitlio'nun kredi aracılığı iş modeline doğrudan yansır.",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
