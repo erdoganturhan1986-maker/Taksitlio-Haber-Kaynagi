@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-20T12:05:05.464827+00:00",
+ "guncelleme": "2026-10-20T13:19:16.597013+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "9a32804ce962",
+   "baslik": "İzmir Haberleri - İngilizlerin mobilyası Ege’den - Yerel Haberler",
+   "marka": "Sektör: mobilya",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-10-20T11:52:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Hürriyet",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORjhUSTBSVDRFUzB6RDRmY3JHYUtIT2hYOTFnMGlabk96Y05Sam9lTWZwVV9wYjJna0dRcmYxQ0YxWXRxNk4wU2tlTVlUazM1ajh4QTR2bmpTd3NZY2I2bW5seXdMZWtsWW9MMnF2aFFmVVBsa29OQjBNUDAxZm54X1ZtNDBOcjc4Ry0zSlp5eE0?oc=5",
+     "tarih": "2026-10-20T11:52:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Haberde, İngiliz mobilya markalarının Ege bölgesinden temin ettiği ürünler ve bu üretimin bölge ekonomisine katkısı ele alınıyor. Yerel üreticilerin kalite ve maliyet avantajları vurgulanıyor.",
+   "neden": "Yerel mobilya üretiminin artması, tüketicilerin taksitli krediyle satın alabilecekleri ürün çeşitliliğini ve fiyat rekabetini artırabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "c2761c38a391",
    "baslik": "OMAC’a E-İhracatta Başarı Ödülü",
@@ -726,6 +748,12 @@
      "ad": "Kütahya Ekspres",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV3B0cS1iUWlkLWNQY3dxQUUxMG1jLWRPekE3dGlTMTZZX1dEY0RkaFNLR1pXUGt6UVFQR2NrU1lPWmFnbUZOZ05ZZm5JMXJrTGlJRVVaLVRTMEI0ci1NY0kwcFN4Rm5xNERiaGJPRnJmeXVMYUlCS0drQUU1N09wMGhtcw?oc=5",
      "tarih": "2026-10-18T05:30:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Marmara Yaşam",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMkNIUnJReDM5Vkd2QUFYVnVrRG9WdUdHMHVsd2V2aUJSRy01dmdOQlA1bmV6VGxicUFxaEpycklJUTlnOVh1Q3dWblVCZkIzYmxjcG8xcDVQdFNpV1E4dDh4cWRtSjl4VUJzU0d4S0RwaHVxNzFZMlFYNkRfN0NPcDVsMjA3QnA5ems3T0E4Vk5nX01UM1hrYVRfNDVGZktrX01tVndVUl91N2tkTnpoRWRweTNfOGYzYlQ5VTJqN20?oc=5",
+     "tarih": "2026-10-17T08:56:59+00:00",
      "guvenilir": false
     }
    ],
