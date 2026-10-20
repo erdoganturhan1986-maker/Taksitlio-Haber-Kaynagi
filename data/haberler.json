@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-20T18:05:01.765882+00:00",
+ "guncelleme": "2026-10-20T19:13:30.626556+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "b038bfb79468",
+   "baslik": "TCMB'nin faiz kararı öncesi uzmanların beklentisi ne? Aralık için görüşler ayrışıyor",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-20T18:32:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/tcmbnin-faiz-karari-oncesi-uzmanlarin-beklentisi-ne-aralik-icin-gorusler-ayrisiyor-haberi-925956",
+     "tarih": "2026-10-20T18:32:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/tcmbnin-faiz-karari-oncesi-uzmanlarin-beklentisi-ne-aralik-icin-gorusler-ayrisiyor-g2yl_cover.jpg",
+   "yorum": "Ekonomim haberine göre, TCMB'nin Aralık ayı faiz kararı öncesinde uzmanlar arasında beklentiler bölünmüş. Bazı analistler faiz indirimi öngörürken, diğerleri mevcut seviyenin korunacağını tahmin ediyor. Karar tarihine kadar piyasa bu belirsizlikle işlem görüyor.",
+   "neden": "Faiz oranlarındaki olası değişiklik, tüketicilerin alışveriş kredisi maliyetlerini doğrudan etkileyerek Taksitlio üzerinden yapılan taksitli alışverişlerin talebini şekillendirebilir.",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "46c010bf0e45",
    "baslik": "Vestel'den eurobond sahiplerine iki seçenekli yapılandırma teklifi",
@@ -3670,6 +3692,12 @@
      "ad": "Tamindir",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
      "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "FinansTaksi",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZU12ODdLZ2ppNFZjenVUdkxNbGVvYnNDSGlGbkJUNlJwWmpTUXVfTG1EU0ZKdW1aYXB0NU4wU0lyMTNtRDZEcXNYaWt2dlBvT3lZSWkxSGl2cllUeUV0SkVuaHY0cGFkU1hwVEl4bVAwclBRemJwWHdRQXlIV2lZZTFjYUTSAYoBQVVfeXFMT0Roalo1LXV1djFHMEJFMlZYVnRpZXozbjVBSFd2VXl4d3FHSTJpdXlzMTVDOGswTWlXeHV6ZktZWXBWSjhNM2ZQOVZPYUhseUlHNWtJU0NnY0JXa3QyV3AxZGZQV3ZDTTlCeHVjczMyb3pLZDBhdWROTFBfMk9FVHdxZFJhWnl6M1dR?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": false
     }
    ],
