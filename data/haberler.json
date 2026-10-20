@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-19T21:04:03.887875+00:00",
+ "guncelleme": "2026-10-20T05:06:34.123215+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -570,6 +570,82 @@
    "neden": "Katlanabilir telefonların tanıtımı, yüksek fiyatlı cihazların satışını artırabilir ve bu da tüketicilerin taksitli kredi talebini yükseltebilir.",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "783d0a1ea6c7",
+   "baslik": "Samsung ve Teknosa’dan iş birliği",
+   "marka": "Teknosa",
+   "kategori": "elektronik",
+   "oncelik": 1,
+   "tarih": "2026-10-16T10:39:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKOEhqUllvNldMS1RHNWZ4UWRXSVVLODF6QUxUWFBWQlQweThydURQdFU3OWEyTEtZdVhvVUgtMlo1c1M5M2NtV0JLT3VlUlZOZElyTXFuRGVVd0JMcnNnRDh1ZzBRd3R5aFF1M05xc0hZZDd5RHp3a052SDhCOTQ?oc=5",
+     "tarih": "2026-10-16T11:52:56+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Platin Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUVMeVdFU0I0QkpNYl8zMkJpZUlrS3hlWUo5cGZjblNlamduUUpIbmhJRnNIenpjdjMxeVZuelh0Z25pd1N2Zmszb251bU9abXpueWlDYS1QTFBubGF5T1VEQ0Z6NWNHMDk0VzBDVGM5RnhUcldLWkd2WVpBNEFNY09PbTF2V1BzSGVSc3Z3?oc=5",
+     "tarih": "2026-10-16T10:39:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Muhalif",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2s4UHhpOHFLNEdGbVpFdExnSUN1a1JzUTF0Z1pzUXVJTS1EdnduNmlvX1RnMldfSGl5ZzZ0TEc4bEN1aGh5S241ckNvTy1Qa28tOEpVQlhhRU1DSnU3S0VVd1NqS0F1QTB6dXhfdlozWVJJS1YyRWsycTgyOWd4SzlTN1pVWVVVUUZwSWh3YW8xeGRXYng2TjQ4ODI1dkREYUppOEd5bWgyQTZQR0VIZmtPZ0hFVTlkZkNNUEl0bThOdGc?oc=5",
+     "tarih": "2026-10-16T11:04:36+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Teknoport",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlpnb3NTZjBteWR0b1g2Ri1NbUdTU3R4cWJheDRRZ0dHVVBGMWtQeTV0SF9XeTA2WUpMMXQwOGxteUZBc1lRN2FRMU12bHEyQzhLWVhOcHo0Rm82QlJKcVV2WFNjakF2VU8tNW85YjBxcENUNnhHTXh2bllZSHoxMEY3OC11S0IzTWRfQ3FEcEJyQm5vN3BTX2JPTElLZnFOMnVoRWZoeVd4VmdEMUxuczJBWlhoLXQ5aHlOSzRkSTd2TlJVN1RtUVR6RQ?oc=5",
+     "tarih": "2026-10-16T11:12:09+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Tirebolu Haber",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlExU0Mwb3lYbEM4Zl92cENxV2czSExKSU5YZzdlVC1HeGhsdE1va3lQYTBpUHJxWWZKX2haT0F6M1gwaVU3U09DaEYyV281dERqTGhseDdJU0ljVGtZcXFCRW9CbEtQaHZncWZKUko2NzkzRXV1QjZLVDlGNjRZYUtfSEhWSWp1dFdpRGwxN3EzcjAzVFlUOGJvWDB3X0xKcktmV0RKNzlIV3pTcHNUWFRhV2w1QW04?oc=5",
+     "tarih": "2026-10-16T12:59:02+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yorumla",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNVY0ZRWjJwZGtyRmNYaWNBdXJ4aVFPUEF2a0tyNGxTV0F3NFlsMWxNMUt4MG1qNWxtal96elhXMnhmLS1KalRiMXhyV1BNMDUySnJJSzhNSWVFaG9GaFpGNTdUb3M2bUtaLWpWVVRiT1NGZFViV3lLdUdZV0lwNEQtQ2VGdlNiVkRISA?oc=5",
+     "tarih": "2026-10-17T01:43:50+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "N24",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzUwZUs2SlpuMVQyQ0RCc00zNFhlN2pVS0FNNDVuR25vT1dEYmZHTFlsNEdmNG5qYi1QYnkxSnIxUEdFeTIySnpOUXcxUzNpMUkwV0Z1amdrSjV3eERXd1BNS2c1RFZNVmpRbThhSXhiVkNRZUxaeEdYeEM1QWpiUmFRMlZMVENpVzBka0IxYTZrUUNx?oc=5",
+     "tarih": "2026-10-17T01:49:21+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "bursa.news",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGVabW02Yl9mSmNhQmNJOVBQNVp3aGlQb2FxWGRZbDhsSU1hZFVvRFhqa25Ccm53ZTVlUzhPbmFraWVlVFNHV0M5WnB6aTlkT0w3WTF4WlFOR2IzSjFMOVFRYjg2OFRDTi10bUd6RDV4T0tLcmZaaGhvTHVZd3AzWmNkeFVuclo1TUxkUXZXeXpEQ1JBVHZtSmlfUXZJNXpza1dpVTl3YXczbVZiblliTndGTTJrYjNq?oc=5",
+     "tarih": "2026-10-17T09:32:46+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Ege",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYl9iWmxKWldhZUV6YUxEY210UVNNTG1ETkhEYjZmU3hvWWc4RWZiaWE2MXpleFF6cGxxeVAxTXdkSlM0T09hNFNqVkp4UlRocEhkX1daWTAxblpMU2VubnVyU1Y2YVN3eExSRWlrSVZ6U1VnWW1kQmxNeldXSlhONmdIRDdtLTRHV2s3c01hc3o4b2JCVmlmdlNjVVNuSndHYk93eUE1XzJ3d2luazQ1dnN3?oc=5",
+     "tarih": "2026-10-17T09:33:27+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kütahya Ekspres",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV3B0cS1iUWlkLWNQY3dxQUUxMG1jLWRPekE3dGlTMTZZX1dEY0RkaFNLR1pXUGt6UVFQR2NrU1lPWmFnbUZOZ05ZZm5JMXJrTGlJRVVaLVRTMEI0ci1NY0kwcFN4Rm5xNERiaGJPRnJmeXVMYUlCS0drQUU1N09wMGhtcw?oc=5",
+     "tarih": "2026-10-18T05:30:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Samsung ve Teknosa, ortak bir iş birliği gerçekleştireceklerini duyurdu. İş birliğiyle ilgili detaylar henüz açıklanmadı.",
+   "neden": "Bu iş birliği, Samsung ürünlerinin Türkiye’deki perakende erişimini artırarak Taksitlio üzerinden taksitli satış hacmini yükseltebilir.",
+   "gundem": false,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -2010,6 +2086,12 @@
      "ad": "Gözlem Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQU8zaTBrbURIWlczSWk0LV9OUGNKSU9mTGpEbjA3Nl8wRFB6QlNCcEFjUllRZlJFNmdtTWdCY1NJWnZNdWRZSW5uZnNpVHpReklJMjdFTjJVdTkxOVZVS1V0d3NmSWVRZk85b0MxZEhibWNBSTZSTHNkaDlUM2FyelNqdmc5RHRhMzZrSzVyY29ZRVJLS0Z6dmVYaHJ2VkpoX1VMbnlPbTladVkt?oc=5",
      "tarih": "2026-10-17T18:49:15+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Fuar Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkl2UWpxX0MxNjRCY1pYTGlncXViWnZreEtpU25KTmZnX24zdEJDMzhBYnE4UFFDOFJtcUpVX3V2WnJLUWlBZzVCeEx4c1cxMFI4X09RUWY1M1ZQU190Y2pfRU1kUEVxdWNfUUtTQzBLeEVMWi03c0pEbDBJdXJZWDg2TFlna3d5QmJLbXFGRmlOeFk2Sl9QZW1uR0VHS1R6MXhR?oc=5",
+     "tarih": "2026-10-14T08:17:06+00:00",
      "guvenilir": false
     }
    ],
