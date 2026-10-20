@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-20T09:10:50.013654+00:00",
+ "guncelleme": "2026-10-20T10:07:13.157303+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "c2761c38a391",
+   "baslik": "OMAC’a E-İhracatta Başarı Ödülü",
+   "marka": "Gündem",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-10-20T09:25:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sehirler/omaca-e-ihracatta-basari-odulu-haberi-925855",
+     "tarih": "2026-10-20T09:25:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/omaca-e-ihracatta-basari-odulu-rlyd_cover.jpg",
+   "yorum": "OMAC, e‑ihracat performansı nedeniyle bir başarı ödülü aldı. Ödül, şirketin yurt dışı satış kanallarındaki büyümesini ve dijital ticaret başarısını takdir ediyor. Bu gelişme, OMAC’ın perakende ağının güçlenmesine işaret ediyor.",
+   "neden": "OMAC’ın e‑ihracattaki başarısı, online satışların artmasıyla taksitli kredi talebinin yükselmesine katkı sağlayabilir.",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "af7b81cf56db",
+   "baslik": "Yataş’ın 3Ç26 kârında yüzde 70’lik düşüş bekleniyor",
+   "marka": "Yataş",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-10-20T08:35:14+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Paratic Haber",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HSk5NWlpIdWVNX0Y0c2c5Z2NXVkhwVllSdDl2cDMzYnMwVUQzdXFfc3cyZGg0bW1zTnlhRDBDckNZNXUtWVhKX3R0UHBaRGE4WGcwZ3lMQmtTZ2RRWTBKb3g2ZFlfOHRRVEZiVGJyVmZ1Ni1obXB4RnlB?oc=5",
+     "tarih": "2026-10-20T08:35:14+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Yataş’ın 2026 üçüncü çeyrek karının bir önceki çeyreğe göre yüzde 70 düşmesi bekleniyor. Analistlerin bu tahmini, şirketin satış hacmindeki azalma ve maliyet artışlarına dayanıyor. Kar düşüşü, Yataş’ın finansal performansını olumsuz etkileyebilir.",
+   "neden": "Kar düşüşü, mobilya alımlarının azalmasına ve dolayısıyla taksitli kredi talebinin gerilemesine yol açabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "01aa60d0057a",
    "baslik": "TEPAV’dan faiz mesajı: Fon krizi nedeniyle politika faizi yüzde 37’de tutulmalı",
