@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-20T17:12:27.107933+00:00",
+ "guncelleme": "2026-10-20T18:05:01.765882+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "46c010bf0e45",
+   "baslik": "Vestel'den eurobond sahiplerine iki seçenekli yapılandırma teklifi",
+   "marka": "Gündem",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-10-20T17:42:32+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/vestel-den-eurobond-sahiplerine-iki-secenekli-yapilandirma-teklifi-3792011",
+     "tarih": "2026-10-20T17:42:32+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/20/ver1792518179/3792011/jpg/1280x720",
+   "yorum": "Vestel Elektronik, 2029 vadeli 500 milyon dolarlık eurobondlarının yeniden yapılandırılması için yatırımcılara iki alternatif sunacağını bildirdi. İlk seçenek, tahvillerin vadesinin 2035'e uzatılması ve yıllık faiz oranının %9,75'ten %4'e düşürülmesini içeriyor; anapara kesintisi yapılmayacak. İkinci seçenek ise mevcut tahvillerin %55'ine karşılık yeni tahvillerle değiştirilmesini öngörüyor. Şirket, bu adımın bilançosunu sürdürülebilir kılmayı hedeflediğini açıkladı.",
+   "neden": "Vestel'in finansal yapısını güçlendirmesi, perakende satış kapasitesini ve Taksitlio'nun taksitli satış fırsatlarını olumlu yönde etkileyebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "9a32804ce962",
    "baslik": "İzmir Haberleri - İngilizlerin mobilyası Ege’den - Yerel Haberler",
