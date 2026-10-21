@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-20T21:05:54.529228+00:00",
+ "guncelleme": "2026-10-21T05:07:38.979626+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "616425dea935",
+   "baslik": "Garanti BBVA Genel Müdürü Mahmut Akten: Faiz indirimi bekliyoruz, fonlardan ciddi çıkış yok",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T04:47:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/garanti-bbva-genel-muduru-mahmut-akten-faiz-indirimi-bekliyoruz-fonlardan-ciddi-cikis-yok-haberi-926005",
+     "tarih": "2026-10-21T04:47:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/garanti-bbva-genel-muduru-mahmut-akten-faiz-indirimi-bekliyoruz-fonlardan-ciddi-cikis-yok-u5ns_cover.jpg",
+   "yorum": "Garanti BBVA Genel Müdürü Mahmut Akten, önümüzdeki dönemde faiz indirimi beklentilerini dile getirerek bankanın kredi politikalarında gevşeme olasılığını vurguladı. Fon çıkışlarının ciddi olmadığını belirtti, bu da bankanın likidite durumunun stabil olduğunu gösteriyor.",
+   "neden": "Bankanın faiz indirimi beklentisi, tüketici kredilerinin faiz oranlarını düşürerek Taksitlio üzerinden yapılan taksitli satışların cazibesini artırabilir.",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "0359a3dfb188",
+   "baslik": "TCMB'nin faiz kararı belli oluyor! Ekonomistlerin beklentisi açıklandı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T04:23:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/tcmbnin-faiz-karari-belli-oluyor-ekonomistlerin-beklentisi-aciklandi-haberi-925999",
+     "tarih": "2026-10-21T04:23:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/tcmbnin-faiz-karari-belli-oluyor-ekonomistlerin-beklentisi-aciklandi-ue8r_cover.jpg",
+   "yorum": "Ekonomistlerin analizlerine göre TCMB'nin faiz kararı yaklaşıyor. Uzmanlar, Merkez Bankası'nın politika faizini sabit tutma ya da artırma ihtimalini farklı oranlarda değerlendiriyor. Kararın kesinleşmesi, tüketici kredileri ve taksitli satışların maliyetini doğrudan etkileyebilir.",
+   "neden": "Faiz seviyesi, alışveriş kredilerinin faiz oranlarını belirlediği için Taksitlio'nun kredi maliyet ve talep tahminlerini etkiler.",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "b038bfb79468",
    "baslik": "TCMB'nin faiz kararı öncesi uzmanların beklentisi ne? Aralık için görüşler ayrışıyor",
@@ -3080,6 +3124,24 @@
      "ad": "Alparslan Diyarı",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON09EcGRaOWVBMlJhdU5xWHAxU1YtVDRZRmYyWlpGSUVSTGtFT0ZZelM5ZnY0NlFYai1zZVBKRUNHRjhBZldMYnktVk9FWFNEODZncUV3MWNIWktrb042cy1OeGNBRTFSOUdEYjBzbENnLTFiSXZMcmI0aWhCX21zSlplT28zUGZQYkEwSmNrN2RQWW1ubl9uS1pPYllicEIz?oc=5",
      "tarih": "2026-10-13T05:52:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomist",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTWNCTHVab2hDbGpxQ3hqY0xYd1FrdzV6RkRzajIzd19zdWd5NWkwMlFNZUhLTlZTNXFsN1FUV0lWcEhPZXFxVjI4UkZTcVRpUDd6aEotVGlfdHoyMy1QVmwtTGVjRTE2XzRMaFhYT0xPMUVNT285alAzRmYxTmszcUo4YWcyM3Z4bzFTa0JfU194NWFCcmxCeDJDNmdxb1Y5dzAyY1F2ZUpieVNUTDU3NFZJWFpDcndiSUdyXzdURU1XTTZ1ekxmd2ZCdTZTSjJ4ZGlGRzFCQkxOQQ?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Doviz.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcV95b0pURllpZ2ljamV5R2RuQW1idEE4ekxxZzBWZ25VWTVQQXJuUm1HQjZ1QnZqVkdld0hLSzVucHgxcHozWVl1M3psVkYtaXZtWklRQWNzNG9zdUhIMXh4ZUtocTVaSTFULWg2RTg5UzRjQjBFdW1sNFowNkpHVDZBNWZHSmR1bmUxaks5cEPSAZgBQVVfeXFMUEhlaFZKSnFzUFdzdWc2Rk1PNlYzX1h5bThyU29kc1pjLXp6VGtJRmgxNzBYVlRseUxqY2Q1NDdJQXVFenIyZXZKZFRHa0dEVmUtaFRiUEdXQ2drOVZRanhWak9HRFplcEdDMEFlTDd3dk1xVGU1c3pybE9wakNMclc2TVRDYUJ1RnZiX0g1YnBSaUczT2xDckE?oc=5",
+     "tarih": "2026-10-15T12:47:13+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Uzmanpara",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1hlTnFSLXYyNkdtWHBkYnUyUE9zSTZOQmRuakRiYXRDNzk3TWxUMzhUa1dJc2FnX3h0bHVsT3RJMDNTUU41SXBRTnJTZmhyQjRLZnp3ZGUtengzVXh1VkhyZjNrVmdJdjZMN1RRTUZfMkhSRlU2bkptT2Z4MHducV9KTlJRRDFoSXdhWi1TdGNvS3ZsQ3Vodmt3?oc=5",
+     "tarih": "2026-10-15T13:26:00+00:00",
      "guvenilir": false
     }
    ],
