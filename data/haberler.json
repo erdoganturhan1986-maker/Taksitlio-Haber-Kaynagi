@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-21T12:06:48.759461+00:00",
+ "guncelleme": "2026-10-21T13:20:23.545100+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "dd1de246b08b",
+   "baslik": "Merkez Bankası Finansal Hesaplar Raporu'nu açıkladı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T12:03:27+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/merkez-bankasi-finansal-hesaplar-raporu-nu-acikladi-3792107",
+     "tarih": "2026-10-21T12:03:27+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/21/ver1792584326/3792107/jpg/1280x720",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası, 2026’nın ikinci çeyreğine ait Finansal Hesaplar Raporu'nu yayımladı. Raporda toplam finansal varlıkların 237 trilyon TL, yükümlülüklerin ise 255 trilyon TL olduğu, net finansal pozisyon açığının GSYH’nın %24,7’sine yükseldiği belirtildi. Çeyrek içinde net borç alımının GSYH’nın %4,6’sına eşdeğer olduğu ve hanehalkı varlıklarının %54'ünün nakit ve mevduat olduğu kaydedildi.",
+   "neden": "Rapor, hanehalkının borçlanma kapasitesi ve varlık dağılımını göstererek taksitli kredi talebinin temel göstergelerini sunar.",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "1707b9532d5f",
+   "baslik": "Vatandaşın finansal varlıklarının yüzde 54'ü para ve mevduatta",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T12:03:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/vatandasin-finansal-varliklarinin-yuzde-54u-para-ve-mevduatta-haberi-844746",
+     "tarih": "2026-10-21T12:03:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/21/evde-butce-hesaplari-ht76_cover.jpg",
+   "yorum": "TCMB'nin 2026 ikinci çeyrek Finansal Hesaplar raporuna göre, Türkiye'deki hanehalkı finansal varlıklarının %54'ü nakit ve mevduat şeklinde bulunuyor. Toplam finansal varlık 237 trilyon TL, yükümlülükler ise 255 trilyon TL olarak kaydedildi. Raporda hanehalkının varlık yapısının büyük bir kısmının likit kalemlerden oluştuğu vurgulandı.",
+   "neden": "Yüksek nakit ve mevduat oranı, tüketicilerin krediye yönelme eğilimini etkileyebilir ve taksitli satışların potansiyel talebini yansıtabilir.",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "37f1e9f972c4",
    "baslik": "Beko \"SuperWash\" teknolojili çamaşır makinelerini tanıttı",
@@ -4200,40 +4244,6 @@
    "neden": "Akıllı telefon fiyatlarındaki artış, tüketicilerin krediyle satın alma ihtiyacını yükseltebilir ve bu da Taksitlio'nun telefon kredisi hacmini etkileyebilir.",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c10ec19e27e6",
-   "baslik": "Dünyanın en büyük mücevher fabrikası açıldı",
-   "marka": "Sektör: kuyum",
-   "kategori": "kuyum",
-   "oncelik": 3,
-   "tarih": "2026-10-01T12:34:47+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXB3VEcwNWpSRm9qQ2NrSl9NaTExLUFRM0pZem5kWjM5YmtYdUpyaXl6U3g0OGRaSDhSX084STNkeE9xV1VSQ09BUUNYaGNYLU9XYUd0Z1VRYi1UN1RCT2NYd3lYQ240OGVwdUNCeFVwclMtREZYeHlTZHB4MTZ3YWxjeG9TY2dneXdQbnpDWGo?oc=5",
-     "tarih": "2026-10-02T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Vietnam.vn",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV21qa2d0Yjd5U1l6djBHVWpsdU1Nc2hOWWhBa1NhdXR0SmFWMmFYUnVfUXF3UmNvcGpaRXlwNTdadmZsakp6VVd3Mzhta1ZoZjZIZjFtUEhPaXBuYXZGMUFGSTBEOHRhOHlya0ZQeHV2Nm9RU09xbW9pRF9lVjdQYjJyTkM1VkNWTU03Qg?oc=5",
-     "tarih": "2026-10-01T12:34:47+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Bursada Bugün",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ1VLUVZVSnE3ZWJpX2JJQ0VXSHliYk5OM3pNM1I4R3huYVRiYVBZSzdiN1N3bGI3bVAwWW5qXzZCQnRpdzdLTDZsbVh5UnlsbC1TUnlpYk9pSm9oZnh1ZWpmZVBSX0Z0V0hab00wSGlhUU1BSkljNkNtN25CVEZlbmFPeXZIeW0xN29ONlVXLWQxbnlWZzBSMU9ySVRkNXBSN1F1VHcxanA5Q0VRWjFKYW4zSDhGcFc2ZFRseVRqb05jclhkS1l3S1diMFB2Nk45eEJ30gHWAUFVX3lxTFB6VjFvSzJma283RV9sUzVXY2pWdkg5YzdPem9ZWGZ2UzJMbjVNVlpzajRhZXdqMHowQmlsdFh0dElVQzhlak1hdVpObzdoeHZOOVhibG5fWmJueko4QVFxbHRCM19GLUdKVHBSaEVrTC12ODZZTlRwT2lyMU1jOHFjcWpKNmpETnNvaTBWem9Pb29LbHo1UWdkdElXOE9ud0ZiZlQ0M2NmYjY1STkwMXB6WWJYZU83bWxITkpRZm4tNUlCMHk4bWQyQnZ3cjhOdU5uR3Z3aFE?oc=5",
-     "tarih": "2026-10-02T07:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Vietnam'da dünyanın en büyük mücevher fabrikası faaliyete başladı. Fabrika, büyük ölçekli üretim kapasitesiyle sektörde yeni bir oyuncu konumuna geliyor. Açılış, bölgedeki kuyum sektörü dinamiklerine yeni bir ivme kazandırıyor.",
-   "neden": "Yeni büyük mücevher fabrikasının açılması, Türkiye'deki kuyum sektörü tedarik zincirini ve potansiyel kredi taleplerini etkileyebileceği için Taksitlio için önemlidir.",
-   "gundem": false,
-   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
