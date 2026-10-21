@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-21T16:11:17.094846+00:00",
+ "guncelleme": "2026-10-21T17:09:48.686606+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3447,6 +3447,12 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1hlTnFSLXYyNkdtWHBkYnUyUE9zSTZOQmRuakRiYXRDNzk3TWxUMzhUa1dJc2FnX3h0bHVsT3RJMDNTUU41SXBRTnJTZmhyQjRLZnp3ZGUtengzVXh1VkhyZjNrVmdJdjZMN1RRTUZfMkhSRlU2bkptT2Z4MHducV9KTlJRRDFoSXdhWi1TdGNvS3ZsQ3Vodmt3?oc=5",
      "tarih": "2026-10-15T13:26:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Gıda Hattı",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbk5QMEpoTXZpZHVrQTdGSkhWWjBrUzVOaTFyQUxMdHgwNW96X1U3QTloOUcxZUpCRnNUVEhHdEhGUF9YU3JPQ3IyYWtEMUhkMk5VV3k0ZUFIeHZoSEdxSHk2Ty1JVThzU3NCRGh6Ynk3SklUVTNvRG84MW1oclNKUlhrT1rSAYoBQVVfeXFMT2xCNUI5M2lrck91RU9xVzdVNnFHSHRFaTZIWThWelhuNnNIRnlyN3doWWxZMHRuai1LcXgwekIwc0RaNDZCczVEMkhFakZEZ1Z5OFhUdy1oWU9IZmFvYXo0WXZqcFVOblhVSmltM0IyMDNBUGhia0luM3p6dTFRcTRxLXZMOWJYWC1B?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -4416,6 +4422,12 @@
      "ad": "Tamindir",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
      "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Turktime",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuYjh3RkFtaFR5WFI5b1JoUTFSNnpWSG5SMlkzbFB3TXpqdWZ4dXg1bUFXWGNTSzNlRjBSZHBjX19oSTJuRkljUm41NmdJRW41aF9fN2pHZkF1Q29WU29ycDlNX1hCWlZNaUg2b3FMVzJBS1VQ?oc=5",
+     "tarih": "2026-10-05T08:00:00+00:00",
      "guvenilir": false
     }
    ],
