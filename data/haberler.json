@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-21T20:04:52.687569+00:00",
+ "guncelleme": "2026-10-21T21:06:23.125176+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "30246855d7dc",
+   "baslik": "Beyaz eşyada artan birim fiyat, ihracatta gelir kaybını önleyemedi",
+   "marka": "Gündem",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-21T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-haberi-926237",
+     "tarih": "2026-10-21T21:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-ptwd_cover.jpg",
+   "yorum": "Beyaz eşya sektöründe birim fiyatların yükseldiği ve bu artışın ihracat gelirlerinde beklenen artışı sağlayamadığı bildirildi. Üreticilerin maliyet artışları ve döviz kuru etkileri fiyatları yukarı çekmiş, ihracat hacmi ise düşüş göstermiştir.",
+   "neden": "Fiyat artışı tüketicilerin krediyle beyaz eşya alımını ertelemesine yol açabilir, bu da Taksitlio'nun kredi hacmini etkileyebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "36ec14842344",
    "baslik": "Faiz indirimi bekleniyor ama ekonomistler temkinli: Görüşler ne yönde?",
