@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-21T09:12:17.724120+00:00",
+ "guncelleme": "2026-10-21T10:09:18.762107+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "3f23b2e8e7f5",
+   "baslik": "S&P'den Türkiye'ye faiz ve enflasyon tahmini: Kredi notu artışı için 3 kritik koşul",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T09:20:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/spden-turkiyeye-faiz-ve-enflasyon-tahmini-kredi-notu-artisi-icin-3-kritik-kosul-haberi-844717",
+     "tarih": "2026-10-21T09:20:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/20/sp-global-ratings-zjle_cover.jpg",
+   "yorum": "S&P Global Ratings, Türkiye'nin kredi notunun yükselmesi için enflasyonda güçlü bir düşüş, rezervlerde iyileşme ve Türk lirasına güvenin sürmesi gerektiğini belirtti. Bu üç koşulun gerçekleşmesi halinde kredi notunda artış bekleniyor. Rapor, ülkenin makroekonomik görünümüne dair bir değerlendirme sunuyor.",
+   "neden": "Kredi notundaki olası iyileşme, tüketici kredisi faiz oranlarını ve taksit koşullarını etkileyebileceği için Taksitlio'nun kredi aracılığı hizmetlerine yansıyabilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "12c877115e6f",
    "baslik": "BU FIRSAT KAÇMAZ: A101’DE BÜYÜK TELEVİZYON KAMPANYASI BAŞLIYOR! (A101 22-28 EKİM)",
@@ -3512,6 +3534,12 @@
      "ad": "Habererk.com",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGhBMzNudUNfemM0dEpzeUZMWUVqTy00Ynk4N1AwTVQtVTFMeS1NM1hnSXNBVjVZa1Z5V2pEZXZ0T2hscEVLNHJ4YmZYSkFCRFVEbEdTeXZkamx5UnU2RjVkWF82UFg4NGI2WEVWWGR4OHlkbTVCWG9PamF2LWlNbERvbS1LSUVT?oc=5",
      "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Türkiye İş Dünyası Haberleri",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYTc4bC1iamdELTZtTkIzaWRNVE53cHRxMkMxQkQ3WC01LUdqR0J0MnVLSjJBWU1GX2M0cFJkVDZoSEpFbGxUcTBUd3VJSHl2V1VwR25BQXRTeUxPZVhqZm9Bd0NoYXNUWG1uT1VlalUyMlBOc3M1NC01OHpsNmVZMHRR?oc=5",
+     "tarih": "2026-10-07T07:00:00+00:00",
      "guvenilir": false
     }
    ],
