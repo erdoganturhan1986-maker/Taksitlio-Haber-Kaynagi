@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-10-21T05:07:38.979626+00:00",
+ "guncelleme": "2026-10-21T06:06:28.278392+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "7b95a1cdc31b",
+   "baslik": "Neslihan Köroğlu'ndan kritik veriler: Bilançolarda sektörel ayrışma ve faiz indirimi beklentisi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T05:52:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/neslihan-koroglundan-kritik-veriler-bilancolarda-sektorel-ayrisma-ve-faiz-indirimi-beklentisi-haberi-926015",
+     "tarih": "2026-10-21T05:52:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/neslihan-koroglundan-kritik-veriler-bilancolarda-sektorel-ayrisma-ve-faiz-indirimi-beklentisi-vkdt_cover.jpg",
+   "yorum": "Ekonomist Neslihan Köroğlu, bilanço verilerindeki sektörel ayrışmanın sürdüğünü ve önümüzdeki dönemde faiz indirimi beklentisinin arttığını belirtiyor. Analiz, farklı sektörlerin kredi koşullarına ve borçlanma maliyetlerine nasıl farklı tepkiler verebileceğini vurguluyor.",
+   "neden": "Faiz indirimi beklentileri, Taksitlio'nun sunduğu taksitli alışveriş kredilerinin faiz maliyetini düşürerek tüketici talebini ve platformun rekabet gücünü artırabilir.",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "6f26529628a9",
+   "baslik": "İhtiyaç kredisi faizlerinde son durum! 250 bin TL’nin güncel geri ödemesi ne kadar? İşte oranlar...",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T05:43:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/foto-galeri/ekonomi/ihtiyac-kredisi-faizlerinde-son-durum-250-bin-tlnin-guncel-geri-odemesi-ne-kadar-iste-oranlar-galeri-926014",
+     "tarih": "2026-10-21T05:43:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/ihtiyac-kredisi-faizlerinde-son-durum-250-bin-tlnin-guncel-geri-odemesi-ne-kadar-iste-oranlar-fbil_cover.jpg",
+   "yorum": "Haberde, Türkiye'de ihtiyaç kredisi faiz oranlarının güncel seviyeleri açıklanıyor ve 250 000 TL tutarındaki bir kredi için aylık geri ödeme tutarı hesaplanıyor. Makale, farklı bankaların sunduğu faiz oranlarını karşılaştırarak tüketicilerin kredi maliyetini anlamalarına yardımcı olmayı amaçlıyor.",
+   "neden": "Taksitlio'nun tüketicilere sunduğu alışveriş kredileri, ihtiyaç kredisi faizlerindeki değişimlerden doğrudan etkilenir; bu nedenle güncel faiz seviyeleri platformun maliyet ve fiyatlandırma stratejileri için kritiktir.",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "616425dea935",
    "baslik": "Garanti BBVA Genel Müdürü Mahmut Akten: Faiz indirimi bekliyoruz, fonlardan ciddi çıkış yok",
@@ -848,6 +892,12 @@
      "ad": "Marmara Yaşam",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMkNIUnJReDM5Vkd2QUFYVnVrRG9WdUdHMHVsd2V2aUJSRy01dmdOQlA1bmV6VGxicUFxaEpycklJUTlnOVh1Q3dWblVCZkIzYmxjcG8xcDVQdFNpV1E4dDh4cWRtSjl4VUJzU0d4S0RwaHVxNzFZMlFYNkRfN0NPcDVsMjA3QnA5ems3T0E4Vk5nX01UM1hrYVRfNDVGZktrX01tVndVUl91N2tkTnpoRWRweTNfOGYzYlQ5VTJqN20?oc=5",
      "tarih": "2026-10-17T08:56:59+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Trabzon Haber Merkezi",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJXaFlJUE1PNm9wck1QTUFhaFVQRDRSUHpEZl9CSEo1d244Mkp6X1hKdkNKdnp0cWxhcnVCRHR5TzRnV1pLdEpiUFc3VUI1cm5qeHRPbUFSVEtfVHVTNmZsbWtUTmZ4RklFY1FTcVhta1RvdWw2dXNIcjJLU1pxWTVPTVRzRXVVNkc3OUFzNFZBLTd4WnpfX2pYWktVN1ZzMExOVUlIeG9HSmdUYUZidWNrM0lOUk96?oc=5",
+     "tarih": "2026-10-18T11:29:43+00:00",
      "guvenilir": false
     }
    ],
