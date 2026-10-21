@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-21T15:08:54.496629+00:00",
+ "guncelleme": "2026-10-21T16:11:17.094846+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "36ec14842344",
+   "baslik": "Faiz indirimi bekleniyor ama ekonomistler temkinli: Görüşler ne yönde?",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T15:25:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/faiz-indirimi-bekleniyor-ama-ekonomistler-temkinli-gorusler-ne-yonde-haberi-926194",
+     "tarih": "2026-10-21T15:25:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/faiz-indirimi-bekleniyor-ama-ekonomistler-temkinli-gorusler-ne-yonde-dadi_cover.jpg",
+   "yorum": "Ekonomistler, önümüzdeki dönemde faiz indirimi beklentisi olduğunu ancak bu konuda temkinli olduklarını belirtiyor. Çeşitli analizler ve piyasa verileri üzerinden farklı görüşler ortaya konulmuş. Henüz resmi bir karar alınmadığı için beklentiler spekülatif nitelikte.",
+   "neden": "Faiz beklentileri, tüketici kredilerinin maliyetini ve taksitli satışların cazibesini doğrudan etkiler.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "5627b85772bb",
    "baslik": "Teknosa ve Digitürk televizyon ve dijital yayın hizmetlerinde işbirliği yaptı",
