@@ -1,7 +1,63 @@
 {
- "guncelleme": "2026-10-21T07:22:40.076289+00:00",
+ "guncelleme": "2026-10-21T08:14:27.746212+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "e9f881763f5d",
+   "baslik": "TCMB faiz beklentisinde iki dev banka piyasaya karşı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T07:38:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/tcmb-faiz-beklentisinde-iki-dev-banka-piyasaya-karsi-haberi-844695",
+     "tarih": "2026-10-21T07:38:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/kuresel-ekonomi/reuters-anketi-japonya-merkez-bankasindan-faiz-artisi-beklentisi-guclendi-haberi-926072",
+     "tarih": "2026-10-21T07:43:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/cin-merkez-bankasi-ndan-sessiz-faiz-adimi-3792072",
+     "tarih": "2026-10-21T08:02:34+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/21/01-ana-gorsel-faiz-karari-7jd6_cover.jpg",
+   "yorum": "Goldman Sachs ve Societe Generale, Merkez Bankasının 22 Ekim faiz kararında politika faizinin %37'de sabit kalacağını öngörüyor. Piyasalarda ise 100 baz puanlık bir indirim beklentisi bulunurken, iki banka aynı seviyenin korunacağını tahmin ediyor.",
+   "neden": "Faiz oranının sabit kalması, tüketici kredisi maliyetlerini doğrudan etkileyerek taksitli alışveriş talebini şekillendirebilir.",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "e9e60596a7e5",
+   "baslik": "Reel kesim güveni ekimde geriledi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-21T07:10:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/reel-kesim-guveni-ekimde-geriledi-haberi-926066",
+     "tarih": "2026-10-21T07:10:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2023/12/01/hesaplama-wsxu_cover.jpg",
+   "yorum": "Ekonomim'in yayımladığı verilere göre, Türkiye'de reel kesim güven endeksi Ekim ayında gerileme kaydetti. Endeks, önceki aya kıyasla düşüş gösterdiği bildirildi.",
+   "neden": "Tüketici güvenindeki düşüş, perakende harcamalarını ve dolayısıyla taksitli satış hacimlerini etkileyebilir.",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "7b95a1cdc31b",
    "baslik": "Neslihan Köroğlu'ndan kritik veriler: Bilançolarda sektörel ayrışma ve faiz indirimi beklentisi",
