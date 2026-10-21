@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-21T14:13:55.019847+00:00",
+ "guncelleme": "2026-10-21T15:08:54.496629+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -4264,6 +4264,142 @@
    "gorsel": null,
    "yorum": "Samsung, Galaxy S26 serisinin Türkiye fiyatlarını iki hafta içinde ikinci kez artırdı. Yeni fiyat değişikliği, önceki zamdan sonra cihazların perakende satış fiyatlarını daha da yükseltti. Şirket, fiyat ayarlamalarını döviz kuru ve maliyet artışları gibi faktörlere bağladı.",
    "neden": "Akıllı telefon fiyatlarındaki artış, tüketicilerin krediyle satın alma ihtiyacını yükseltebilir ve bu da Taksitlio'nun telefon kredisi hacmini etkileyebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "ab55f1b1adc4",
+   "baslik": "Samsung Galaxy S26 serisine iki haftada ikinci zam: İşte yeni Türkiye fiyatları",
+   "marka": "Samsung",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-02T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "CNBC-e",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenkzcC1SSEw1em5wWUhpYzVUbmJfNUszbkFvZVVWRUk3QVFiVUFqWG9DUVJxNnEzSnZvMzhjNEt0SUpsd2FNbl9nRzRQSEZJNXo2V1M5Z094Q3J5ckJCQ0ZaejFlZUJ6Yk9ISHA5ejgwcmpYTFllUklkWkpzU2NyX2Jyd3ZjZURjNVlHalpOalR1bDlkeTNHVG14QTByOGR2S1hNc1c3NUlFM0o5eWh5eEFySTk1eW02?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekptby1lcFFFTFRqZnFwRUlMQ2lJTUhZT3Fybi1jeEVqOEU1ckh4OTBZdklHN3FyYlJ2VWFtTjk1SGRLUF9iTnJOc185bHc4V3ZUbVdHNGdLcWJvejlhczZyR2VSX3dramFiYUJQOXB1WDg4NTFEWDlBMkp0TlkwOHBqakc1b0JYRVNXTk83dW14VFFEcl9CQkZrb1V2c3FUUFNOZDNkbF8wUEt5ZlpyWVRrMUpaWm1oZGl5eldScXI3WXd3bEY2LVlkRGhtVGxFSlNwY1dQbEJxY1JsYXhjVEFqSkhmQkpkY3lB0gHwAUFVX3lxTFBrenpfVDNmRklaenJ5YWg2T2x1YllpSmhVbzFnM0kwenBqME9TM0FNWHNFTlM5UVdzZUh3RnREaG5xOWNZRVNuTDNHT1hsRHB6OEU3V21CN3kyVmZ4MWRrel9wX3F5UFg5elZONEhGbHE2QTE0UW1uZmJrMmFhdWVrRGNYU09mTmVsOEluY2VJbTk2OXhjNE10bjUtSTRaR1lRdkE3SWhjNEtnLVVRakMzNGxBMzlDZ2dqZ2JaSTJuWVgyMmVncjNfc0RiRl9zYVZHQ1diWFVYVjA1ZGV4dzk4MnRnd3dUeFpTRVl6Z19rYQ?oc=5",
+     "tarih": "2026-10-03T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "PC Hocası",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0h0Y3lLVkVTX20wTEFmTVJHNWowck1tSWoteHN5amVic29nMHdfZE9uS1dETGtLc1g0Nl80Mk1xS3hBcU5rYWtzT2xMbFNYaWM0Q2F0UGlGNU1JekJpeG9JSWE4eE5nQjQ5a3ZCN2hTeWdjdllSRU1uTlhRM2lidHhqQzZuWWNfd0FOd2NsMk1BR2Rkc1Y0VkFUR0JRQUU?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "DonanımHaber",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjl3azZhUVM2b3huT245TG9tX3FBSzdmLTNIeUZKQ01zZVcyU2UtdGZpSDBCbVMwRG56Z2lxejZKckhhTDExTjM3emhzZi1CNk5rY2t3eF9WWWVqVENRbmhOQkQ3OWZXc0szZE84Qjk1LWtXWWd4QnZsV0ROVjhNTGM2SF8yNGJQcFozaEcxUGgzWUU?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "CozumPark",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWm81NkoxMm85OThqM2thN29qRGpFeUVReG82NzZmdGs1b0ZhSlpPRkNlWFRLM0FaUjc0Ym5GOHZKWENWT1BabGtGYWZSMGNfc0NJTjRweWo2Z3lndVdCSHlGc0NIZk9HeW5JeDBDUDNjcjlSTnRuTHpjYUQ4SEh4ZFhkd1lpZVJXQjFzeGxVTHE1ZHN2UjJRT0xfc25oYlZ1?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Teknoloji haberleri - LOG",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUdQTFpZVVN5X2xKRmRrR3VMckxFM2xka2pxV1pjQ1o2M01qWTJTa1dJTzBDTUMwS1h4UW1lNHRpSjR5WklrbHFqb2pHT2RpVWhFdVRoX0djQUUxMWd4R1NLbWNPQW1uVnZveFZsSGpnUHZ0WkVKS2VZbGkwandIcHRReFc4UQ?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "R10.net",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNFBEZzNnTjlkdVREdEJVWDJaUW9uTHcxZmthMktObWNVWEctS3hDZzRQZ3ZfTlZyNzdqc3NmZnEtZjZoZXBKYTZWUWlDa0FmSzREa1Z5VHFhNVJzYldtWFFfeTQ0VGJnNHFpNDdSbTE1d3FJSWFNclNXMkFIQjRQa0haWFMtbEswNk9R?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "ShiftDelete.Net",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUdEbFJRTFp3XzZlQVM2dm1aUW1Vc2NzM2VQYzJTdXRIclRMVjlTdURTSzFYRUNqT3RYRF9QTzlUczAwaGVJN1dYSGZPTlY2NC1pWjVVdERZX0pvNnpOaTN1bC1PdkdNQlBhN29wc3FGR0o4UkEzRXlHZ1dNNTBUZmgxVnhzbWszenRxdk5tVXRPNVB1ZkJKZdIBoAFBVV95cUxQSkZ1OTlKdEEtamU4NUt0OV9ZdmdVbGdGSkJBOUozdGtVWWM2S1dSSjBWQmJkcE9xY3h5N1hNQjlQM3I2UVJEQjJnTW93QlltdmtyNFlpN093VmFPNWhfRW1TUlEyRUE2LWRtbDNVMUJmSld4c1ctdjZTeTdfaTlWdHhmYWx6WDVzbnJaWXpaSHZSWEt5RVZKUy1SNXNBN1BV?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Technopat",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeGl4bHdFRVZCb2p2YVFubGg5TS1kOTJyMTh2NENzZzYyZTZaUmpjMlNCdEhFRHhpNVZNNjZGN3lrNHhTUXBnXzF1UUtkTDUxWDBjZ1NrOWtSNGlkZmZIT2tSZU54LXN1eENObnBIeEt1VjFIUjdKVTQ3dXNKX05xWdIBhgFBVV95cUxNS1BmMEJnbldNWGpUTFIxaUZpbHowWkpVc2FzbFREMzJvazF4MG9qNFl4WFJQM1Y2VFo2WDZRUU04STM5eFhhc2NmM0VOOVdPX3laeVVmaHFyTks0MDU4bHBkRXl5V29jTUFmRWVHbUJod2QyR0VPY093bThOUlJ3alVja2lmQQ?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlplUG9KUWJJUFhJMkNldFZsak5TZjVXX0V0c1ota1BKNVJweUxvME91OUhaZW04NWFIRFNsUEVKeDlmZy0tU2hsQTNOem1fMWNnZkt6eWEzeWJtU2hjMk5yNFU2R0FhSldrUzFkdzRLQUxrZjRuZ2tTR1IwNU5PZ25KREY4Zw?oc=5",
+     "tarih": "2026-10-02T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Teknoblog",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UY2tPM3BjQ21QazBLV0kzZEp0TklKbkxhekszcjh5WndpaUxYSEthMUxoYU10RDdZbFo4Wno3QmJwaHZLTEJoUmVzYzloa1NEc3lmbHRWQ1ktQXFLYVlicGRZVUdZVHMtR0NNNzRmNVpRZGlXVzlnOXdPaw?oc=5",
+     "tarih": "2026-10-02T17:39:07+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Alanya",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcHU4M3phRExPM2Q2SzVjbGo4Z3M4cE9FWl82VmhWWWxhdFRsVzB0cS1TSlpJZGFWYldFTElDOEo0ZDdsY3Izelo0TUZqYmIxT2IxVmRjcjNxckhMMkxzNVEybUdfcjlaQ1Brbm10TTdoX0dOcDVlb1J3c3QzUi1wa2xuRF9pSFVqRzlr?oc=5",
+     "tarih": "2026-10-03T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Genç Gazete",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFpkbXRUYXY4Q1c2dzBDNW0wMXhRN1dnNGVuOG5hYmhEbjY3MGlJQ1A0Q0VaNUY5TFBWdG5KSkpkN3RERDBkY05vVE9SazFKOXFyYkNIbGpSZGQyb1JzSE10RXZVMF9VVk1ibDY0bG5OUENMZEdlR2xzd3IwX21kdTQ5V3p6VDd1VzlJTzQ2OEExQ2pTV2R4M092TGJ5Ul9hUGt1eVJ3?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ensonhaber",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXpuYVVFMDdDMm9TNmZTZVFlQTRLajFoVTcwTTMwYTN5NThaeDNpYUxmelkxN1FEb2dPN21Pb3ZyanJzYW4zRzR2Y0ZWbTN0SFUwSURjZml4dWVtNDFxZmdJZGlqYm9RTGNwd2ZtTmdDSTRFQ2xRMFJrcTVyRGNScFR1MHRuTkNkdTdFYlZGYWZnVVJ1eS0zMTIwYlFRdjg?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Bakış Gazetesi İzmir",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1VNYTNPa0E4QkFiVVRvSG5ScmUwRUtNQVp6SklNblh6OFJOTHVLRVF5ZFhVemZDOExzOG9PVzhhRC1Bd25SaWVjN3hYVWZzdW1SWHVpTW9QSWZlX1pVcGI4VXk1ZzVtdUpSeGJ6WkJFbS1ZZEtQMHYwQmpxQld6WklVeFphTXV6VlNaemNmZ1U4dw?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "FinansTaksi",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZU12ODdLZ2ppNFZjenVUdkxNbGVvYnNDSGlGbkJUNlJwWmpTUXVfTG1EU0ZKdW1aYXB0NU4wU0lyMTNtRDZEcXNYaWt2dlBvT3lZSWkxSGl2cllUeUV0SkVuaHY0cGFkU1hwVEl4bVAwclBRemJwWHdRQXlIV2lZZTFjYUTSAYoBQVVfeXFMT0Roalo1LXV1djFHMEJFMlZYVnRpZXozbjVBSFd2VXl4d3FHSTJpdXlzMTVDOGswTWlXeHV6ZktZWXBWSjhNM2ZQOVZPYUhseUlHNWtJU0NnY0JXa3QyV3AxZGZQV3ZDTTlCeHVjczMyb3pLZDBhdWROTFBfMk9FVHdxZFJhWnl6M1dR?oc=5",
+     "tarih": "2026-10-05T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Mavi Kocaeli",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzZ5bGEwVkJnYTB0ZExVc1BoMDl3TU9JaG40c1kyN2t2MU8wcEhNRm03XzV3cndpM3hXTXRZaXRmcExJelRCZzBON2JCU0hoaXhCY3BWMm9hcVdwaFFmblpUSUItbWJNeEh6YVJMeDJvTXl3NDREVzBHNFlWc2tmNWcyTTNRLTY2clBhWktjZ203NGxBbEdoeW1JMlRFUdIBowFBVV95cUxNeFAxSmotbDJkRlA4azFpSDBUQ3NvdVZzLUVhVTJxZ2xXYzZmeUZhQ2V6dy1xR3ZzdU5JQzNISkdURDJIX1BiOHpCVEhYY3dNaWJVVENHM185V080cXlWWG1rMzFLYktrNXRfS1g0LThFaVNiRmhpUW1iQ0c0RGQxVUFPS2VLUllOR0NvR0JyMGtiWkQ1RS13N0UwM3lzdG43T19B?oc=5",
+     "tarih": "2026-10-06T00:34:32+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kocaeli TV",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJoem5jZC10VnhHV3JoZk5PUF9ScllTM2VZNUtSbHljclpLNV9EalBTaXF6Z0MxbXQ4NjVLN01feVpUeHh3ZUUxWks2WjBXakNfcVcxeW9iNExuVDNZM1dFanB2RU1mdVVYUlpCMjlBVTNfMVZ3NVUxWGx0eFMxNDZNanF3V2M5VVdGN0ZQWTJPQzNQcnVxNFh5NA?oc=5",
+     "tarih": "2026-10-06T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Webtekno",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR29JbHZ2SE53MkFLT0cwRkJZQmtET2tGajZRRFBhMjd6cnJ5RkFQYlBHTE1iUmdmUkR2OXc3Q196RTYxZGNTSHgwbGJHa1R0MlM1TmNGdlRmWGZfSjZFbjREdXFOMWtCTGNadUJKS2NqR3U5MmNDaHJQRy1nbFhpVENSVQ?oc=5",
+     "tarih": "2026-10-07T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Tamindir",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Samsung, Galaxy S26 serisinin Türkiye fiyatlarını iki haftalık bir sürenin ardından ikinci kez artıracağını duyurdu. Yeni fiyatlar resmi satış noktaları ve e‑ticaret platformları için açıklandı. Artan fiyatların, tüketicilerin telefon alım kararlarını ve taksit tercihlerini etkileyebileceği belirtiliyor.",
+   "neden": "Telefon fiyatlarındaki artış, tüketicilerin Samsung cihazlarını taksitli krediyle alma talebini ve Taksitlio üzerinden gerçekleşecek işlem hacmini doğrudan etkileyebilir.",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
