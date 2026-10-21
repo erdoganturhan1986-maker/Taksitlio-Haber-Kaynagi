@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-21T13:20:23.545100+00:00",
+ "guncelleme": "2026-10-21T14:13:55.019847+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "5627b85772bb",
+   "baslik": "Teknosa ve Digitürk televizyon ve dijital yayın hizmetlerinde işbirliği yaptı",
+   "marka": "Teknosa",
+   "kategori": "elektronik",
+   "oncelik": 1,
+   "tarih": "2026-10-21T12:33:06+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEZQd3RoVVFyZ3cxd2xBZ1hYV211X21mckVxNXpPY1p6bWZuMWRCMjdDdkR0WFJyWlgxYWZYVmQ5OXZSYlcxci1zVzRXV2dmMVFQbTlfajdXNHljVmtqRHJWM2Z0eXVlcHFTMVBsRXZxQm9RNFRXRTRVOUlQUjMxeHdjUmtZcnA1RnMwMno1YThCOGtmWGFWU2tnMGZCTTI1TXRZNGtRUjlkMENIT3RjXzR5dTZxSUlrZnJMc3hGdThDRkJjMlhQRQ?oc=5",
+     "tarih": "2026-10-21T12:33:06+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Teknosa, Digitürk ile televizyon ve dijital yayın hizmetlerinde iş birliği anlaşması imzaladı. Anlaşma kapsamında, müşteriler Teknosa mağazalarından Digitürk paketlerini satın alabilecek ve bu hizmetleri aynı noktada entegre edebilecek.",
+   "neden": "Teknosa’nın yeni iş birliği, televizyon ve dijital yayın ürünlerinin satışını artırarak Taksitlio üzerinden verilen taksitli kredi hacmini yükseltebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "dd1de246b08b",
    "baslik": "Merkez Bankası Finansal Hesaplar Raporu'nu açıkladı",
