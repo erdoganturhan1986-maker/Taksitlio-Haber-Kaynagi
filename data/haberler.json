@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-21T21:06:23.125176+00:00",
+ "guncelleme": "2026-10-22T05:10:17.681627+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "135f9028ea5d",
+   "baslik": "Yurt içi piyasaların gözü faiz kararına çevrildi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T04:56:50+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/merkez-bankasi-faiz-kararini-aciklayacak-beklentiler-ne-yonde-3921594",
+     "tarih": "2026-10-22T04:56:50+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/22/ver1792644980/3921594/jpg/1920x1080",
+   "yorum": "Para Politikası Kurulu, yılın yedinci toplantısında faiz kararını açıklayacak. Toplantı sonrası politika faizinin saat 14.00'te duyurulacağı ve piyasa beklentisinin 100 baz puan indirim olduğu belirtiliyor. JPMorgan, Türkiye'deki siyasi gelişmelerin enflasyon ve faiz görünümüne risk eklediğini ve indirim beklentisini düşürdüğünü raporladı.",
+   "neden": "TCMB'nin faiz kararı, tüketici kredisi maliyetlerini doğrudan etkileyerek taksitli alışveriş talebini ve Taksitlio'nun kredi aracılık hacmini şekillendirir.",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "30246855d7dc",
    "baslik": "Beyaz eşyada artan birim fiyat, ihracatta gelir kaybını önleyemedi",
@@ -59,6 +81,12 @@
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEZQd3RoVVFyZ3cxd2xBZ1hYV211X21mckVxNXpPY1p6bWZuMWRCMjdDdkR0WFJyWlgxYWZYVmQ5OXZSYlcxci1zVzRXV2dmMVFQbTlfajdXNHljVmtqRHJWM2Z0eXVlcHFTMVBsRXZxQm9RNFRXRTRVOUlQUjMxeHdjUmtZcnA1RnMwMno1YThCOGtmWGFWU2tnMGZCTTI1TXRZNGtRUjlkMENIT3RjXzR5dTZxSUlrZnJMc3hGdThDRkJjMlhQRQ?oc=5",
      "tarih": "2026-10-21T12:33:06+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Havadis",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGU0V0R2dkdCNGZTZWhGNExwXzMwZDBBcV9BVlBuVzFiVkN0cXZITXdUMVlfOWE5SG1GeXI4NU1zTzZWaXN3Vkg5QzFTSWJnQU9GNEpMYUZ1N1RvLV9IYjU5Ul9XV1JkZ2M2TXUzYzh1RHdleHZ4LXVtQjNQb3pxd0xRM0IwVU5UcWhRVWpwNkhkYmtFZmNnMlJnVkp0VVh5RHZwSXNGOTFsWG1PYjNIYjI0a3liUQ?oc=5",
+     "tarih": "2026-10-21T22:35:31+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
