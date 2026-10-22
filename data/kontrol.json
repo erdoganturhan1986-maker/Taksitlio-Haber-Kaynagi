@@ -1,5 +1,5 @@
 {
- "son_kontrol": "2026-10-22T07:22:14.226596+00:00",
+ "son_kontrol": "2026-10-22T11:00:22.079037+00:00",
  "kaynaklar": {
   "bddk": {
    "ad": "BDDK krediler",
@@ -32,7 +32,7 @@
   "guven": {
    "ad": "Tüketici güveni",
    "siklik": "aylık",
-   "son_veri": "2026-09-01",
+   "son_veri": "2026-10-01",
    "durum": "guncel",
    "adim": "success"
   }
