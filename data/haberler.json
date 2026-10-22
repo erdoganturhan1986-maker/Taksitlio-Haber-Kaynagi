@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-22T11:09:22.154454+00:00",
+ "guncelleme": "2026-10-22T12:08:21.502933+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "8491684254fb",
+   "baslik": "Bankacılıkta mevduat 33,1 trilyon liraya ulaştı: Kredilerde artış, bireysel borçlarda gerileme",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T11:29:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/bankacilikta-mevduat-331-trilyon-liraya-ulasti-kredilerde-artis-bireysel-borclarda-gerileme-haberi-926420",
+     "tarih": "2026-10-22T11:29:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/22/bankacilikta-mevduat-331-trilyon-liraya-ulasti-kredilerde-artis-bireysel-borclarda-gerileme-z7fg_cover.jpg",
+   "yorum": "Ekonomim'in haberine göre, Türkiye'de toplam mevduat 33,1 trilyon TL'ye yükselmiş ve kredi hacmi artarken bireysel borçlar gerilemiş. Bu durum, bankaların kredi verme kapasitesinin genişlediğini ve tüketicilerin borç yükünün hafiflediğini gösteriyor.",
+   "neden": "Kredi hacmindeki artış, Taksitlio'nun sunduğu taksitli alışveriş kredilerinin talep ve koşullarını doğrudan etkileyebileceği için önemlidir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "9f1d89bbbe75",
    "baslik": "TCMB'de Ocak'tan bu yana ilk faiz indirimi",
@@ -205,6 +227,12 @@
      "url": "https://www.ekonomim.com/ekonomi/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-haberi-926237",
      "tarih": "2026-10-21T21:00:00+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalktc2pEd3lKc0JGVnEycmdnWlp0Vkx4bnFzZjI2Vk16SFY4ekNRR0JwdkY3OXhRQnBkRGZLeF94TVY1Q20tUXJNM1pFNFZZSDJEQzNwYndHcGlMejI1QzFTQzFLOC1VNmVsNVQzRVlZUzNNUFQwWmVUUnlaX0swNWEyZF9pMXpuVWNSY19kNmRpMXAtWmlrSXNlM1RvWEhiU29QcXB5YWJmaEJVSFl5VWcyTGk3cldoZkpKYw?oc=5",
+     "tarih": "2026-10-22T11:16:56+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-ptwd_cover.jpg",
