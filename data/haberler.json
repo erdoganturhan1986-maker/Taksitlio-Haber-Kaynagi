@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-22T14:38:26.393420+00:00",
+ "guncelleme": "2026-10-22T15:10:47.023861+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -61,6 +61,12 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTl5NHFhZVh0ZEtzUDdrMlBzZkR2RW1BWjBuc3FZMlI3YlBwR0xhUGJRWFBlc0pTRFZONmJQMXVwMHZxeXM5RGpKb0F5Qk5OdmViSlB4eWhrUzI2czh0cmc2LTJMcjBSNXFDQnNXOEVuYWh0V3dCZnB1NkJOampER3otMjktRHIta2UtYTFMN0ZxdVZJaWtrdTAwLVNyVkplbG5xTdIBpAFBVV95cUxQc1RHNldmdWpRbldGMUtRU0ZERjRQVTM5d3NnU25VLUswM2djN1M2anVPaTJ5V2xtcU9EdU03eXRKdFpXcDE3bWdHaHgxVVN1VmpSTGJwTzRYZjRKSFVRUkplZ2dsakt5T2ZpSV9ab2xaOUZHaHhBeHo5UVpSTzBjVkVzLXhjaVE5aTVRTUp6WGk3NFFpcXNvUWMySnBGZ3gxX0NSeg?oc=5",
      "tarih": "2026-10-22T13:42:32+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "kayseri gürhaber",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjNHMFhTZFdwaW1VZmFhcDV3VnlMdk56dkVjX1NWS3JsZkpIa25CRXdzOU1uQnBBb2RUd0dEb2R6REY4S2wxOWEzYlU1U1VIb0s5aVpQNlowUGoxQUlQTEV0M3hveUhiNDFockhOWGhOcVhBNVhtVWVCa0VCbFRBVEpFMEVENnprcUJ4TXdpZGd2c0NkeFHSAZYBQVVfeXFMTWIzRzBYU2RXcGltVWZhYXA1d1Z5THZOenZFY19TVktybGZKSGtuQkV3czlNbkJwQW9kVHdHRG9kekRGOEtsMTlhM2JVNVNVSG9LOWlaUDZaMFBqMUFJUExFdDN4b3lIYjQxaHJITlhoTnFYQTVYbVVlQmtFQmxUQVRKRTBFRDZ6a3FCeE13aWRndnNDZHhR?oc=5",
+     "tarih": "2026-10-22T13:49:06+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://cdn.iha.com.tr/Contents/images/2026/10/22/20261022aw816165-0.jpg",
@@ -112,6 +118,40 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "02635f205170",
+   "baslik": "Son dakika... Merkez Bankası faiz kararını açıkladı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T11:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-haberi-844883",
+     "tarih": "2026-10-22T11:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-politika-faizini-yuzde-36ya-indirdi/4097070",
+     "tarih": "2026-10-22T11:02:03+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-3921686",
+     "tarih": "2026-10-22T11:17:34+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/yeni-proje-79-3i6p_cover.jpg",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim 2026 tarihinde politika faizini %37'den %36'ya indirdi. Ayrıca gecelik vadeli borç verme faiz oranı %40'tan %39'a, gecelik vadeli borçlanma faiz oranı ise %35,5'ten %34,5'e düşürüldü. Karar, Para Politikası Kurulu'nun beklentileri doğrultusunda alındı ve enflasyon, jeopolitik riskler ve ekonomik göstergeler dikkate alındı. TCMB, fiyat istikrarı sağlanana kadar sıkı para politikası duruşunu sürdüreceğini belirtti.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -2745,6 +2785,12 @@
      "url": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ingilizlerin-mobilyasi-egeden-43348605",
      "tarih": "2026-10-20T11:52:00+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Turkchem.net",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnpidFhFVFgtOHN0Qy1FeWJvT0pqbE9CdXM3aW51R3BZLXdSdmw1QzZqNDJvanZFWTBQV1dZbkMwZk1ZbFh4Z1Z2dVY3YTB6UXhlVVN2azdIRUZRR3pqbTVOWXQwVGpoY2RkQjFuMGI2aXZWdkg2b1lhWHc3a1p4dmk1MGRISXRvYjFpTGV3OUphelo4eE0ycExKNXo3VTlkbjNOX1VsQXpuUQ?oc=5",
+     "tarih": "2026-10-14T07:42:53+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/14/mobilya-emqf-cover-0rlo_cover.jpg",
