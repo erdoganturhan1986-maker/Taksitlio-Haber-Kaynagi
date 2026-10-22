@@ -1,7 +1,53 @@
 {
- "guncelleme": "2026-10-22T13:36:40.070131+00:00",
+ "guncelleme": "2026-10-22T13:56:56.527199+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "d80e8886c7e9",
+   "baslik": "Van’da klimalar kışın da ısıtma amacıyla tercih ediliyor İhlas Haber Ajansı",
+   "marka": "Sektör: ısıtma ve soğutma",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-10-22T13:09:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "İhlas Haber Ajansı",
+     "url": "https://www.iha.com.tr/van-haberleri/vanda-klimalar-kisin-da-isitma-amaciyla-tercih-ediliyor-504468427",
+     "tarih": "2026-10-22T13:36:53+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Van Haber Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPajJYUkRWdml5cWE1dk9lVER0UVQ0ekQwS3RXRWZXOGVOcDlyRlVzS3JzTHlSaG95SHhkSEF6SGhwRU1VR1Mya2FyUXhEWUZ5XzhhVmNGaXRCUDdSR1RkeDhYekFxaDRnNHlWSEItMUIxSWRpb2hIZGxhbjkwNUJtQlluU1Y1UDJhM19lVm42ZVZ0QVlU?oc=5",
+     "tarih": "2026-10-22T13:09:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Mersin Haber",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXd4cWJ4c0piOFV4Q0xFUjhqaFB6eXgxSm5NYkMtUjMzcjRXaUpTSWdfMVMzRmExQjd6UVZLNVB4Z3BDS0N2WWNmOTRnTzZaeE5fcVkxeTJwM2puUUx5M2o5b1ZYYnhHSFNJRTJtWUlNWDVBdE9VQnB2SXB1SDZBM2Yza2dsdmJZMHRfSkgyeTZXSzlqRXAxeFQ2U0N0bWRvZ1hnRHZNN2E0VFhR0gFXQVVfeXFMUGpFODM1Qng4amxzTFNRVFNjbHJkbVRLNGZya21ZN09pV1NFb3VQTmd5T1B0RkF1dklaRWhhbVFxLXUxY19MM2gyYXMwbF91ZUU3Yml5cmc0?oc=5",
+     "tarih": "2026-10-22T13:36:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Doğubayazıt Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjRiVzhicEVXYzdhWEtidm9keTNySzVLMVk2eTVrYVpnVkFzcFlYWGdwLVU5WThwVFprZkZGVmNidDVBR1F5akRSVnpCZm5NYnhPQmF0bktLcWtCY1liOVp3UHctUlpGcUVoeUYyeFZyTkNnSE1wSGpUMWcxbjJJVTNn?oc=5",
+     "tarih": "2026-10-22T13:40:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Van Postası Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTl5NHFhZVh0ZEtzUDdrMlBzZkR2RW1BWjBuc3FZMlI3YlBwR0xhUGJRWFBlc0pTRFZONmJQMXVwMHZxeXM5RGpKb0F5Qk5OdmViSlB4eWhrUzI2czh0cmc2LTJMcjBSNXFDQnNXOEVuYWh0V3dCZnB1NkJOampER3otMjktRHIta2UtYTFMN0ZxdVZJaWtrdTAwLVNyVkplbG5xTdIBpAFBVV95cUxQc1RHNldmdWpRbldGMUtRU0ZERjRQVTM5d3NnU25VLUswM2djN1M2anVPaTJ5V2xtcU9EdU03eXRKdFpXcDE3bWdHaHgxVVN1VmpSTGJwTzRYZjRKSFVRUkplZ2dsakt5T2ZpSV9ab2xaOUZHaHhBeHo5UVpSTzBjVkVzLXhjaVE5aTVRTUp6WGk3NFFpcXNvUWMySnBGZ3gxX0NSeg?oc=5",
+     "tarih": "2026-10-22T13:42:32+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://cdn.iha.com.tr/Contents/images/2026/10/22/20261022aw816165-0.jpg",
+   "yorum": "Van’da hava sıcaklıklarının düşmesiyle birlikte vatandaşlar ve işletmeler, klimaların ısıtma özelliğini kullanmaya başladı. Klima satışları kış aylarında da artış gösteriyor ve hem konutlarda hem de ticari mekanlarda ısıtma alternatifi olarak tercih ediliyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "df540763d2d9",
    "baslik": "Bankacılıkta dikkat çeken tablo: Krediler artarken kart borçları geriledi",
@@ -18,66 +64,10 @@
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/yeni-proje-99-rryu_cover.jpg",
-   "yorum": "Bankacılık sektöründe kredi hacmi 28,7 trilyon liraya yaklaşırken mevduatlar 33 trilyon liranın üzerine çıktı. Aynı dönemde tüketici kredileri ve bireysel kredi kartı borçları azaldı. BDDK'nın 16 Ekim haftasına ilişkin verileri, 22 Ekim 2026 tarihinde yayımlandı.",
+   "yorum": "Bankacılık sektöründe toplam kredi hacmi bir hafta içinde 41,71 milyar TL artarak 28,678 trilyon TL seviyesine yükseldi. Aynı dönemde mevduatlar 761,4 milyar TL artışla 33,108 trilyon TL oldu. Tüketici kredileri 23,583 milyar TL düşerek 3,489 trilyon TL'ye geriledi; bunların 2,600 trilyon TL'si ihtiyaç kredileri, 846 milyar TL konut kredileri ve 41,767 milyar TL taşıt kredileri oluşturdu. Bireysel kredi kartı alacakları 81,566 milyar TL azalarak 3,390 trilyon TL'ye indi; bu tutarın 1,317 trilyon TL'si taksitli, 2,072 trilyon TL'si taksitsiz borçları kapsıyor. Taksitli ticari krediler 32,508 milyar TL artışla 4,361 trilyon TL'ye ulaştı.",
    "neden": "",
    "gundem": false,
    "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c5704bf58fbd",
-   "baslik": "Para piyasası fonlarında yatay seyir",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T11:53:57+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/para-piyasasi-fonlarinda-yatay-seyir-3792239",
-     "tarih": "2026-10-22T11:53:57+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/22/ver1792670179/3792239/jpg/1280x720",
-   "yorum": "Para piyasası fonları, 9 Ekim haftasındaki 30 milyar liralık girişin ardından 16 Ekim haftasında 1,659 trilyon lira seviyesinde yatay seyir izledi. Fon büyüklüğü bir önceki haftaya göre hafif artış gösterdi. Bu durum, TCMB'nin haftalık Para ve Banka İstatistikleri raporunda yer aldı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "2fd10c6956ea",
-   "baslik": "TCMB rezervleri geriledi: 169,1 milyar dolara indi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T11:48:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/tcmb-rezervleri-geriledi-1691-milyar-dolara-indi-haberi-844891",
-     "tarih": "2026-10-22T11:48:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/tcmb-rezervlerinde-gerileme-3792238",
-     "tarih": "2026-10-22T11:50:05+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-gerileme-3921739",
-     "tarih": "2026-10-22T12:07:29+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/09/01/tcmb-rezerv-qfrg_cover.jpg",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası, 16 Ekim haftasında toplam rezervlerini 2,478 milyar dolar azaltarak 169,1 milyar dolara düşürdü. Brüt döviz rezervleri aynı dönemde 2,419 milyar dolar azalarak 62,148 milyar dolara geriledi. Bu veriler, 22 Ekim 2026 tarihinde yayımlanan haftalık para ve banka istatistikleri kapsamında bildirildi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -96,8 +86,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/22/bankacilikta-mevduat-331-trilyon-liraya-ulasti-kredilerde-artis-bireysel-borclarda-gerileme-z7fg_cover.jpg",
-   "yorum": "Ekonomim'in haberine göre, Türkiye'de toplam mevduat 33,1 trilyon TL'ye yükselmiş ve kredi hacmi artarken bireysel borçlar gerilemiş. Bu durum, bankaların kredi verme kapasitesinin genişlediğini ve tüketicilerin borç yükünün hafiflediğini gösteriyor.",
-   "neden": "Kredi hacmindeki artış, Taksitlio'nun sunduğu taksitli alışveriş kredilerinin talep ve koşullarını doğrudan etkileyebileceği için önemlidir.",
+   "yorum": "Ekonomim'in haberine göre, Türkiye'de toplam mevduat 33,1 trilyon TL'ye yükselmiş ve kredi hacmi artarken bireysel borçlar gerilemiş.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -136,8 +126,8 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/22/ver1792666732/3792208/jpg/1280x720",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası, Ocak ayından bu yana ilk kez politika faizini 100 baz puan indirerek yüzde 36 seviyesine çekti. Aynı zamanda gecelik vadeli borç verme ve borçlanma faiz oranlarını da bir puan düşürdü. Karar, enflasyon verileri ve iç talep zayıflığı gibi ekonomik göstergelere dayanılarak alındı.",
-   "neden": "Faiz indirimi, tüketicilerin alışveriş kredisi maliyetlerini düşürerek taksitli satış talebini artırabilir.",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası, Ocak ayından bu yana ilk kez politika faizini 100 baz puan indirerek yüzde 36 seviyesine çekti.",
+   "neden": "",
    "gundem": true,
    "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -158,7 +148,7 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/22/piyasalarda-guvensizlik-ve-belirsizlik-hakim-dr-nuri-sevgenden-borsa-ve-faiz-degerlendirmesi-3vp0_cover.jpg",
-   "yorum": "Dr. Nuri Sevgen, piyasalarda hâlâ güvensizlik ve belirsizlik hakim olduğunu belirterek borsa ve faiz durumunu değerlendirdi. Uzman, faiz oranlarındaki dalgalanmaların tüketici kredileri üzerindeki etkisine dikkat çekti.",
+   "yorum": "Dr.",
    "neden": "",
    "gundem": false,
    "onem": 2,
@@ -186,8 +176,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/vestelden-500-milyon-dolarlik-borc-icin-eurobond-sahiplerine-iki-secenek-vtw7_cover.jpg",
-   "yorum": "Vestel, borç müzakereleri kapsamında satış stratejisini hacim odaklı olmaktan kârlılık ve değer odaklı bir modele kaydırıyor. Şirket, mevcut finansal baskılar nedeniyle daha yüksek marjlı ürünlere yönelmeyi planlıyor.",
-   "neden": "Vestel'in değer odaklı strateji değişikliği, ürün fiyat ve stok yapısını etkileyerek taksitli satış hacmini ve Taksitlio'nun kredi talebini şekillendirebilir.",
+   "yorum": "Vestel, borç müzakereleri kapsamında satış stratejisini hacim odaklı olmaktan kârlılık ve değer odaklı bir modele kaydırıyor.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -208,8 +198,8 @@
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/turk-lirasi-sayan-dogal-eller-qjej_cover.jpg",
-   "yorum": "Merkez Bankası, bugün yılın en kritik faiz kararlarından birini açıklayacak. Kararın enflasyon, döviz kuru ve kredi maliyetleri üzerindeki etkileri yakından izleniyor. Açıklamadan sonra faiz oranının yükselmesi ya da sabit kalması bekleniyor.",
-   "neden": "Faiz kararları, tüketici kredilerinin maliyetini doğrudan etkileyerek Taksitlio üzerinden verilen alışveriş kredilerinin faiz seviyesini belirler.",
+   "yorum": "Merkez Bankası, bugün yılın en kritik faiz kararlarından birini açıklayacak.",
+   "neden": "",
    "gundem": true,
    "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -254,32 +244,10 @@
     }
    ],
    "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/22/thumbs_b_c_f0356f1500e6afb6f9a442de770b8484.jpg",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası’nın faiz kararı ülke genelinde büyük ilgiyle bekleniyor.",
+   "yorum": "TCMB'nin faiz kararına odaklanan piyasa, karar anını yakından izliyor. Merkez Bankası’nın faiz oranı belirlemesi, tüketici kredileri ve taksitli alışveriş koşullarını doğrudan etkiliyor.",
    "neden": "",
    "gundem": true,
    "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "7a0bd669149c",
-   "baslik": "A101 İNTERNETE ÖZEL “ALDIN ALDIN EKSTRA” KATALOĞU YAYINLANDI! (A101 22-28 EKİM)",
-   "marka": "Gündem",
-   "kategori": "ev",
-   "oncelik": 2,
-   "tarih": "2026-10-22T05:21:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/foto-galeri/aktuel/a101-internete-ozel-aldin-aldin-ekstra-katalogu-yayinlandi-a101-22-28-ekim-s1-galeri-926305",
-     "tarih": "2026-10-22T05:21:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/22/a101-internete-ozel-aldin-aldin-ekstra-katalogu-yayinlandi-a101-22-28-ekim-3zbu_cover.gif",
-   "yorum": "A101, 22‑28 Ekim tarihleri arasında internet üzerinden “ALDIN ALDIN EKSTRA” adlı özel bir katalog yayınladı. Katalogda, online alışverişe özel indirimli ürün ve kampanyalar yer alıyor.",
-   "neden": "A101’in çevrimiçi kampanyaları, tüketicilerin krediyle alışveriş yapma ihtimalini artırarak Taksitlio’nun işlem hacmini etkileyebilir.",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -310,8 +278,8 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/22/ver1792644980/3921594/jpg/1920x1080",
-   "yorum": "Para Politikası Kurulu (PPK) bu yılın yedinci toplantısında faiz kararını açıklayacak. Ekonomistlerin büyük bir çoğunluğu, Merkez Bankası'nın politika faizini 100 baz puan indirerek yüzde 36'ya çekmesini bekliyor. JPMorgan ise Türkiye'deki siyasi gelişmelerin riskini artırdığını belirterek bu beklentiyi hafifletmiş ve enflasyon tahminlerini yükseltmiş.",
-   "neden": "Merkez Bankası’nın faiz seviyesi, tüketici kredilerinin maliyetini doğrudan etkileyerek Taksitlio’nun taksitli satış koşullarını belirler.",
+   "yorum": "Para Politikası Kurulu (PPK) bu yılın yedinci toplantısında faiz kararını açıklayacak.",
+   "neden": "",
    "gundem": true,
    "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -332,8 +300,8 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/22/ver1792644980/3921594/jpg/1920x1080",
-   "yorum": "Para Politikası Kurulu, yılın yedinci toplantısında faiz kararını açıklayacak. Toplantı sonrası politika faizinin saat 14.00'te duyurulacağı ve piyasa beklentisinin 100 baz puan indirim olduğu belirtiliyor. JPMorgan, Türkiye'deki siyasi gelişmelerin enflasyon ve faiz görünümüne risk eklediğini ve indirim beklentisini düşürdüğünü raporladı.",
-   "neden": "TCMB'nin faiz kararı, tüketici kredisi maliyetlerini doğrudan etkileyerek taksitli alışveriş talebini ve Taksitlio'nun kredi aracılık hacmini şekillendirir.",
+   "yorum": "Para Politikası Kurulu, yılın yedinci toplantısında faiz kararını açıklayacak.",
+   "neden": "",
    "gundem": true,
    "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -348,7 +316,7 @@
    "kaynaklar": [
     {
      "ad": "Ekonomim",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3V6OFNwXy1ZeHpTZm1sdGpWZDFSRHZnYU1MZTZOdEsycTRPR01nY1BObUh1cGZLT3NIZWZneDN2VVVSZzhJMjQ0b25teTFwY0I1MnNGdHlMMzlnYTVkYnFidGs0Wm1fTHc4M0NtZEpfNjVGUnJZdjlwMThMdDV2eW1aUXZvN2xpTWpURkJ6NllHNDVUWFNMSFp1am10UVI0WnZWRzRydWZnUU8zeC1BQ1VB0gG3AUFVX3lxTFBWS0E1M25TWGxEOVRQajJMdVhabWpOUElTal9MNDVwblNNSGc4djNuSUVzUmxoLW03VXlubHFGMmt0a1BPUi01Yzh2aWVPSW9ZMVU3bm9HSk5TX2FWQmhlSTUxYkJiZmlSTHNsM09tSEdIZm8wbkZEYXU2TnkwN1BJd2hCRUFDdVV3RlFBWGNSZkIzODBOVTU2ckNaNE16MkU2aDdVNlJSeHNNUTRqbENIWDVkT3pVVQ?oc=5",
+     "url": "https://www.ekonomim.com/ekonomi/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-haberi-926237",
      "tarih": "2026-10-21T21:00:00+00:00",
      "guvenilir": true
     },
@@ -359,8 +327,8 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Beyaz eşya sektöründe birim fiyatların yükseldiği belirtiliyor. Ancak bu fiyat artışı, ihracatta elde edilen gelirin azalmasını engelleyememiş.",
+   "gorsel": "https://img.ekonomim.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/21/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-ptwd_cover.jpg",
+   "yorum": "Beyaz eşya sektöründe birim fiyatların artması, ihracat gelirindeki kaybı telafi edemedi. Artan fiyatlar sektörel karlılığı zorlayıcı bir hâle getirdi.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -376,7 +344,7 @@
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEZQd3RoVVFyZ3cxd2xBZ1hYV211X21mckVxNXpPY1p6bWZuMWRCMjdDdkR0WFJyWlgxYWZYVmQ5OXZSYlcxci1zVzRXV2dmMVFQbTlfajdXNHljVmtqRHJWM2Z0eXVlcHFTMVBsRXZxQm9RNFRXRTRVOUlQUjMxeHdjUmtZcnA1RnMwMno1YThCOGtmWGFWU2tnMGZCTTI1TXRZNGtRUjlkMENIT3RjXzR5dTZxSUlrZnJMc3hGdThDRkJjMlhQRQ?oc=5",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/teknosa-ve-digiturk-televizyon-ve-dijital-yayin-hizmetlerinde-isbirligi-yapti/705108",
      "tarih": "2026-10-21T15:59:45+00:00",
      "guvenilir": true
     },
@@ -387,8 +355,8 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Teknosa ve Digitürk, televizyon ve dijital yayın hizmetlerinde iş birliği yaptı. İş birliği, her iki tarafın da dijital içerik ve yayın çözümlerini genişletmesini amaçlıyor. Detaylar haberde yer almıyor. Bu ortaklık, tüketicilere daha fazla yayın seçeneği sunulmasını sağlayabilir.",
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/21/thumbs_b_c_a8457d43ada587b7c69234378f1dd3d9.jpg",
+   "yorum": "Teknosa, Digitürk ile televizyon ve dijital yayın hizmetlerinde iş birliği yaptı. Ortaklık sayesinde, Teknosa mağazalarından televizyon satın alan müşterilere Digitürk'ün yayın paketleri ve kurulum hizmetleri sunulacak. Bu sayede müşteriler tek noktada televizyon seçimi ve dijital içerik erişimini sağlayabilecek. İş birliği, Teknosa'nın mağaza ağı üzerinden Digitürk ürün ve hizmetlerinin daha geniş kitlelere ulaşmasını hedefliyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -410,8 +378,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/faiz-indirimi-bekleniyor-ama-ekonomistler-temkinli-gorusler-ne-yonde-dadi_cover.jpg",
-   "yorum": "Ekonomistler, önümüzdeki dönemde faiz indirimi beklentisi olduğunu ancak bu konuda temkinli olduklarını belirtiyor. Çeşitli analizler ve piyasa verileri üzerinden farklı görüşler ortaya konulmuş. Henüz resmi bir karar alınmadığı için beklentiler spekülatif nitelikte.",
-   "neden": "Faiz beklentileri, tüketici kredilerinin maliyetini ve taksitli satışların cazibesini doğrudan etkiler.",
+   "yorum": "Ekonomistler, önümüzdeki dönemde faiz indirimi beklentisi olduğunu ancak bu konuda temkinli olduklarını belirtiyor.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -444,8 +412,8 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/21/ver1792584326/3792107/jpg/1280x720",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası, 2026’nın ikinci çeyreğine ait Finansal Hesaplar Raporu'nu yayımladı. Raporda toplam finansal varlıkların 237 trilyon TL, yükümlülüklerin ise 255 trilyon TL olduğu, net finansal pozisyon açığının GSYH’nın %24,7’sine yükseldiği belirtildi. Çeyrek içinde net borç alımının GSYH’nın %4,6’sına eşdeğer olduğu ve hanehalkı varlıklarının %54'ünün nakit ve mevduat olduğu kaydedildi.",
-   "neden": "Rapor, hanehalkının borçlanma kapasitesi ve varlık dağılımını göstererek taksitli kredi talebinin temel göstergelerini sunar.",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası, 2026’nın ikinci çeyreğine ait Finansal Hesaplar Raporu'nu yayımladı.",
+   "neden": "",
    "gundem": false,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -466,8 +434,8 @@
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/21/evde-butce-hesaplari-ht76_cover.jpg",
-   "yorum": "TCMB'nin 2026 ikinci çeyrek Finansal Hesaplar raporuna göre, Türkiye'deki hanehalkı finansal varlıklarının %54'ü nakit ve mevduat şeklinde bulunuyor. Toplam finansal varlık 237 trilyon TL, yükümlülükler ise 255 trilyon TL olarak kaydedildi. Raporda hanehalkının varlık yapısının büyük bir kısmının likit kalemlerden oluştuğu vurgulandı.",
-   "neden": "Yüksek nakit ve mevduat oranı, tüketicilerin krediye yönelme eğilimini etkileyebilir ve taksitli satışların potansiyel talebini yansıtabilir.",
+   "yorum": "TCMB'nin 2026 ikinci çeyrek Finansal Hesaplar raporuna göre, Türkiye'deki hanehalkı finansal varlıklarının %54'ü nakit ve mevduat şeklinde bulunuyor.",
+   "neden": "",
    "gundem": false,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -482,7 +450,7 @@
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0ZQUTA5OVFfLU15WkptU2hxYkoycDdJQnZDbzZ0cGxxZFNtYUMtV29Ra2tvaVlaNnZhbXpjUXUtN3IzMFhGWC1sRUNCUGZDcW92STNsODRQNm1Sc2pOTV92RDRwc3VvbTNRenFHREw5bHd1cGExRHRMS3g3UFlTU2Z2Z2lxUHU2RWUwb290NHZaa1BCak1USnJjWnYwaDBDRURqWkxR?oc=5",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/genel/beko-superwash-teknolojili-camasir-makinelerini-tanitti/705100",
      "tarih": "2026-10-21T11:20:01+00:00",
      "guvenilir": true
     },
@@ -493,11 +461,11 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Beko, SuperWash teknolojili çamaşır makinelerini tanıttı.",
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/21/thumbs_b_c_c0204dda7f5e71919550b9a23c7698a7.jpg",
+   "yorum": "Beko, patentli SuperWash teknolojisine sahip yeni çamaşır makinelerini tanıttı. Yeni modeller 40 dakikalık programla %35'e varan zaman ve enerji tasarrufu sağlıyor, 10‑13 kg kapasitelerde ve A sınıfı enerji verimliliğiyle satışa sunuluyor.",
    "neden": "",
    "gundem": false,
-   "onem": 2,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -510,17 +478,17 @@
    "kaynaklar": [
     {
      "ad": "Ekonomim",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWVIa2hYcjBCYnZjaWZEemtLYlZLSlhsRHJHNXdxWnhNN21FeXA1amxIbjQ4WlNxaHkzd05hMHp6MTg2dE9McUQ3cGRQUUYxajZkSDFOUmZaLU8wR3hBV2JrR3VlQ2ZmY2RhcUdTMUdsS3RjQUVDRjc4WkFsc1FZMnlHcGU3ZlVQMFlIaTlnS3dzRWVTdHZhRFVOdW1ZQVR6MUhpUUdBMHJSX1c0S2FYMHdsSdIBuAFBVV95cUxNdndyUGdtYWxpMVUwU2c5ZFRqVU9jN0E3dy1OZHV3SHJNV3JmNDY4ZzRmN1ZtVWZfckxEM3Q3T1hlb25KR24xUjI5RzN1Xy1aVE5rUzVRZ3NzeUFGSVZVNy1HSGhkbG5UYVY5RnYwN3BSMHBaZkJtYW5sSWRiSVhPZjFDM2FNQmprM1dkOFdjNDM0dnZhTThmZnJzcmUtTGdvby1EY0VobGtTdUJHdDNZOHF3eTZ3eUlf?oc=5",
+     "url": "https://www.ekonomim.com/sektorler/mobilya-kagit-ve-orman-urunleri-ihracati-58-milyar-dolara-ulasti-haberi-926140",
      "tarih": "2026-10-21T11:17:00+00:00",
      "guvenilir": true
     }
    ],
-   "gorsel": null,
-   "yorum": "Mobilya, kağıt ve orman ürünleri ihracatı toplam 5,8 milyar dolar seviyesine yükseldi.",
+   "gorsel": "https://img.ekonomim.com/rcman/Cw1280h720q95gc/storage/files/images/2024/07/09/mobilya-kagit-ve-orman-urunlerinde-ilk-6-ayda-38-milyar-dolarlik-ihracat-2nw3_cover.jpg",
+   "yorum": "Türkiye'nin mobilya, kâğıt ve orman ürünleri ihracatı 5,8 milyar dolar seviyesine ulaştı.",
    "neden": "",
    "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
+   "onem": 2,
+   "model": "Google Gemini (gemini-flash-latest)"
   },
   {
    "id": "e6dca1657de5",
@@ -538,8 +506,8 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Teknosa, Digitürk ile televizyon ve dijital yayın paketi satışı konusunda iş birliği yaptı. Bu ortaklık, mağazalarda paketli TV ürünlerinin satışını ve taksitli finansman seçeneklerini genişletecek.",
-   "neden": "Yeni iş birliği, tüketicilerin televizyon alımlarını taksitli krediyle gerçekleştirme olasılığını artırarak Taksitlio'nun işlem hacmini artırabilir.",
+   "yorum": "Teknosa, Digitürk ile televizyon ve dijital yayın paketi satışı konusunda iş birliği yaptı.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -560,30 +528,8 @@
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/20/sp-global-ratings-zjle_cover.jpg",
-   "yorum": "S&P Global Ratings, Türkiye'nin kredi notunun yükselmesi için enflasyonda güçlü bir düşüş, rezervlerde iyileşme ve Türk lirasına güvenin sürmesi gerektiğini belirtti. Bu üç koşulun gerçekleşmesi halinde kredi notunda artış bekleniyor. Rapor, ülkenin makroekonomik görünümüne dair bir değerlendirme sunuyor.",
-   "neden": "Kredi notundaki olası iyileşme, tüketici kredisi faiz oranlarını ve taksit koşullarını etkileyebileceği için Taksitlio'nun kredi aracılığı hizmetlerine yansıyabilir.",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "12c877115e6f",
-   "baslik": "BU FIRSAT KAÇMAZ: A101’DE BÜYÜK TELEVİZYON KAMPANYASI BAŞLIYOR! (A101 22-28 EKİM)",
-   "marka": "Gündem",
-   "kategori": "elektronik",
-   "oncelik": 2,
-   "tarih": "2026-10-21T08:52:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/foto-galeri/aktuel/bu-firsat-kacmaz-a101de-buyuk-televizyon-kampanyasi-basliyor-a101-22-28-ekim-s1-galeri-926104",
-     "tarih": "2026-10-21T08:52:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/bu-firsat-kacmaz-a101de-buyuk-televizyon-kampanyasi-basliyor-a101-22-28-ekim-46l7_cover.gif",
-   "yorum": "A101, 22‑28 Ekim tarihleri arasında büyük televizyon kampanyası başlattığını duyurdu. Kampanya süresince çeşitli TV modellerinde indirimli fiyatlar sunulacak ve mağazalarda özel promosyonlar uygulanacak. Bu kampanya, perakende satışlarını artırmayı ve tüketicilerin büyük ev elektroniği alımlarını teşvik etmeyi hedefliyor.",
-   "neden": "TV gibi yüksek tutarlı ürünlerdeki kampanyalar, tüketicilerin taksitli kredi talebini artırarak Taksitlio'nun işlem hacmini etkileyebilir.",
+   "yorum": "S&P Global Ratings, Türkiye'nin kredi notunun yükselmesi için enflasyonda güçlü bir düşüş, rezervlerde iyileşme ve Türk lirasına güvenin sürmesi gerektiğini belirtti.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -616,8 +562,8 @@
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/21/01-ana-gorsel-faiz-karari-7jd6_cover.jpg",
-   "yorum": "Goldman Sachs ve Societe Generale, Merkez Bankasının 22 Ekim faiz kararında politika faizinin %37'de sabit kalacağını öngörüyor. Piyasalarda ise 100 baz puanlık bir indirim beklentisi bulunurken, iki banka aynı seviyenin korunacağını tahmin ediyor.",
-   "neden": "Faiz oranının sabit kalması, tüketici kredisi maliyetlerini doğrudan etkileyerek taksitli alışveriş talebini şekillendirebilir.",
+   "yorum": "Goldman Sachs ve Societe Generale, Merkez Bankasının 22 Ekim faiz kararında politika faizinin %37'de sabit kalacağını öngörüyor.",
+   "neden": "",
    "gundem": true,
    "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -638,8 +584,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2023/12/01/hesaplama-wsxu_cover.jpg",
-   "yorum": "Ekonomim'in yayımladığı verilere göre, Türkiye'de reel kesim güven endeksi Ekim ayında gerileme kaydetti. Endeks, önceki aya kıyasla düşüş gösterdiği bildirildi.",
-   "neden": "Tüketici güvenindeki düşüş, perakende harcamalarını ve dolayısıyla taksitli satış hacimlerini etkileyebilir.",
+   "yorum": "Ekonomim'in yayımladığı verilere göre, Türkiye'de reel kesim güven endeksi Ekim ayında gerileme kaydetti.",
+   "neden": "",
    "gundem": false,
    "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -660,8 +606,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/neslihan-koroglundan-kritik-veriler-bilancolarda-sektorel-ayrisma-ve-faiz-indirimi-beklentisi-vkdt_cover.jpg",
-   "yorum": "Ekonomist Neslihan Köroğlu, bilanço verilerindeki sektörel ayrışmanın sürdüğünü ve önümüzdeki dönemde faiz indirimi beklentisinin arttığını belirtiyor. Analiz, farklı sektörlerin kredi koşullarına ve borçlanma maliyetlerine nasıl farklı tepkiler verebileceğini vurguluyor.",
-   "neden": "Faiz indirimi beklentileri, Taksitlio'nun sunduğu taksitli alışveriş kredilerinin faiz maliyetini düşürerek tüketici talebini ve platformun rekabet gücünü artırabilir.",
+   "yorum": "Ekonomist Neslihan Köroğlu, bilanço verilerindeki sektörel ayrışmanın sürdüğünü ve önümüzdeki dönemde faiz indirimi beklentisinin arttığını belirtiyor.",
+   "neden": "",
    "gundem": false,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -682,8 +628,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/ihtiyac-kredisi-faizlerinde-son-durum-250-bin-tlnin-guncel-geri-odemesi-ne-kadar-iste-oranlar-fbil_cover.jpg",
-   "yorum": "Haberde, Türkiye'de ihtiyaç kredisi faiz oranlarının güncel seviyeleri açıklanıyor ve 250 000 TL tutarındaki bir kredi için aylık geri ödeme tutarı hesaplanıyor. Makale, farklı bankaların sunduğu faiz oranlarını karşılaştırarak tüketicilerin kredi maliyetini anlamalarına yardımcı olmayı amaçlıyor.",
-   "neden": "Taksitlio'nun tüketicilere sunduğu alışveriş kredileri, ihtiyaç kredisi faizlerindeki değişimlerden doğrudan etkilenir; bu nedenle güncel faiz seviyeleri platformun maliyet ve fiyatlandırma stratejileri için kritiktir.",
+   "yorum": "Haberde, Türkiye'de ihtiyaç kredisi faiz oranlarının güncel seviyeleri açıklanıyor ve 250 000 TL tutarındaki bir kredi için aylık geri ödeme tutarı hesaplanıyor.",
+   "neden": "",
    "gundem": false,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -704,8 +650,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/garanti-bbva-genel-muduru-mahmut-akten-faiz-indirimi-bekliyoruz-fonlardan-ciddi-cikis-yok-u5ns_cover.jpg",
-   "yorum": "Garanti BBVA Genel Müdürü Mahmut Akten, önümüzdeki dönemde faiz indirimi beklentilerini dile getirerek bankanın kredi politikalarında gevşeme olasılığını vurguladı. Fon çıkışlarının ciddi olmadığını belirtti, bu da bankanın likidite durumunun stabil olduğunu gösteriyor.",
-   "neden": "Bankanın faiz indirimi beklentisi, tüketici kredilerinin faiz oranlarını düşürerek Taksitlio üzerinden yapılan taksitli satışların cazibesini artırabilir.",
+   "yorum": "Garanti BBVA Genel Müdürü Mahmut Akten, önümüzdeki dönemde faiz indirimi beklentilerini dile getirerek bankanın kredi politikalarında gevşeme olasılığını vurguladı.",
+   "neden": "",
    "gundem": true,
    "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -726,8 +672,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/tcmbnin-faiz-karari-belli-oluyor-ekonomistlerin-beklentisi-aciklandi-ue8r_cover.jpg",
-   "yorum": "Ekonomistlerin analizlerine göre TCMB'nin faiz kararı yaklaşıyor. Uzmanlar, Merkez Bankası'nın politika faizini sabit tutma ya da artırma ihtimalini farklı oranlarda değerlendiriyor. Kararın kesinleşmesi, tüketici kredileri ve taksitli satışların maliyetini doğrudan etkileyebilir.",
-   "neden": "Faiz seviyesi, alışveriş kredilerinin faiz oranlarını belirlediği için Taksitlio'nun kredi maliyet ve talep tahminlerini etkiler.",
+   "yorum": "Ekonomistlerin analizlerine göre TCMB'nin faiz kararı yaklaşıyor.",
+   "neden": "",
    "gundem": true,
    "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -748,8 +694,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/tcmbnin-faiz-karari-oncesi-uzmanlarin-beklentisi-ne-aralik-icin-gorusler-ayrisiyor-g2yl_cover.jpg",
-   "yorum": "Ekonomim haberine göre, TCMB'nin Aralık ayı faiz kararı öncesinde uzmanlar arasında beklentiler bölünmüş. Bazı analistler faiz indirimi öngörürken, diğerleri mevcut seviyenin korunacağını tahmin ediyor. Karar tarihine kadar piyasa bu belirsizlikle işlem görüyor.",
-   "neden": "Faiz oranlarındaki olası değişiklik, tüketicilerin alışveriş kredisi maliyetlerini doğrudan etkileyerek Taksitlio üzerinden yapılan taksitli alışverişlerin talebini şekillendirebilir.",
+   "yorum": "Ekonomim haberine göre, TCMB'nin Aralık ayı faiz kararı öncesinde uzmanlar arasında beklentiler bölünmüş.",
+   "neden": "",
    "gundem": true,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -776,8 +722,8 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/20/ver1792518179/3792011/jpg/1280x720",
-   "yorum": "Vestel Elektronik, 2029 vadeli 500 milyon dolarlık eurobondlarının yeniden yapılandırılması için yatırımcılara iki alternatif sunacağını bildirdi. İlk seçenek, tahvillerin vadesinin 2035'e uzatılması ve yıllık faiz oranının %9,75'ten %4'e düşürülmesini içeriyor; anapara kesintisi yapılmayacak. İkinci seçenek ise mevcut tahvillerin %55'ine karşılık yeni tahvillerle değiştirilmesini öngörüyor. Şirket, bu adımın bilançosunu sürdürülebilir kılmayı hedeflediğini açıkladı.",
-   "neden": "Vestel'in finansal yapısını güçlendirmesi, perakende satış kapasitesini ve Taksitlio'nun taksitli satış fırsatlarını olumlu yönde etkileyebilir.",
+   "yorum": "Vestel Elektronik, 2029 vadeli 500 milyon dolarlık eurobondlarının yeniden yapılandırılması için yatırımcılara iki alternatif sunacağını bildirdi.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -798,8 +744,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/omaca-e-ihracatta-basari-odulu-rlyd_cover.jpg",
-   "yorum": "OMAC, e‑ihracat performansı nedeniyle bir başarı ödülü aldı. Ödül, şirketin yurt dışı satış kanallarındaki büyümesini ve dijital ticaret başarısını takdir ediyor. Bu gelişme, OMAC’ın perakende ağının güçlenmesine işaret ediyor.",
-   "neden": "OMAC’ın e‑ihracattaki başarısı, online satışların artmasıyla taksitli kredi talebinin yükselmesine katkı sağlayabilir.",
+   "yorum": "OMAC, e‑ihracat performansı nedeniyle bir başarı ödülü aldı.",
+   "neden": "",
    "gundem": false,
    "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -814,16 +760,16 @@
    "kaynaklar": [
     {
      "ad": "Paratic Haber",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HSk5NWlpIdWVNX0Y0c2c5Z2NXVkhwVllSdDl2cDMzYnMwVUQzdXFfc3cyZGg0bW1zTnlhRDBDckNZNXUtWVhKX3R0UHBaRGE4WGcwZ3lMQmtTZ2RRWTBKb3g2ZFlfOHRRVEZiVGJyVmZ1Ni1obXB4RnlB?oc=5",
+     "url": "https://paratic.com/yatasin-3c26-karinda-yuzde-70lik-dusus-bekleniyor/",
      "tarih": "2026-10-20T08:35:14+00:00",
      "guvenilir": true
     }
    ],
-   "gorsel": null,
-   "yorum": "Yataş’ın 2026 üçüncü çeyreğinde (3Ç26) kârının yüzde 70 oranında düşmesi bekleniyor. Bu düşüş, şirketin finansal performansında ciddi bir gerilemeye işaret ediyor. Haberde nedenleri ve etkileri ayrıntılı olarak açıklanmamış. Yatırımcılar ve perakende sektörü, bu gelişmeyi yakından izleyebilir.",
+   "gorsel": "https://img.paratic.com/dosya/2026/10/yatasin-3c26-karinda-yuzde-70lik-dusus-bekleniyor-1024x614.jpg",
+   "yorum": "Yataş, 2026 üçüncü çeyrek (3Ç26) finansallarında net kârının 176 milyon TL olacağını öngörüyor. Bu rakam, bir önceki çeyrekte açıklanan 583 milyon TL kârdan yüzde 70 azalmayı gösteriyor. Şirket, aynı dönemde zarardan kâra geçmeyi beklerken, çeyreklik bazda kârın önemli ölçüde düşeceği tahmin ediliyor.",
    "neden": "",
    "gundem": false,
-   "onem": 4,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -842,8 +788,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/19/murat-sagman-fon-krizinde-takvime-dikkat-cekti-yatirimci-parasini-ne-zaman-alacak-tewx_cover.jpg",
-   "yorum": "TEPAV, fon krizinin etkileri nedeniyle politika faizinin yüzde 37 seviyesinde tutulması gerektiğini savunuyor. Düşük likidite ve yüksek enflasyon risklerine karşı sıkı para politikası öneriyor.",
-   "neden": "Politika faizinin yüksek seyretmesi, tüketici kredisi faiz oranlarını artırarak taksitli satışların maliyetini yükseltebilir.",
+   "yorum": "TEPAV, fon krizinin etkileri nedeniyle politika faizinin yüzde 37 seviyesinde tutulması gerektiğini savunuyor.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -864,8 +810,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/societe-generaleden-tcmb-tahmini-faiz-sabit-kalacak-ccsi_cover.jpg",
-   "yorum": "Societe Generale, Türkiye Cumhuriyet Merkez Bankası’nın (TCMB) politika faizini sabit tutacağı yönünde bir tahmin paylaştı. Banka, mevcut ekonomik koşulların faiz artışını gerektirmediğini belirtti.",
-   "neden": "TCMB faiz kararları tüketici kredisi maliyetlerini doğrudan etkilediği için bu tahmin, taksitli alışveriş kredilerinin koşullarını şekillendirebilir.",
+   "yorum": "Societe Generale, Türkiye Cumhuriyet Merkez Bankası’nın (TCMB) politika faizini sabit tutacağı yönünde bir tahmin paylaştı.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -886,8 +832,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/19/aktas-merkez-bankasi-bu-iki-adimi-atarsa-ise-yarayabilir-rozo_cover.jpg",
-   "yorum": "Ekonomi analisti Alaattin Aktaş, Merkez Bankası'nın iki belirli adımı atması durumunda enflasyonla mücadelede daha etkili olabileceğini savundu. Bu adımlar arasında politika faizinin yeniden yapılandırılması ve likidite yönetimi yer alıyor. Aktaş, bu hamlelerin kredi piyasalarına ve tüketici harcamalarına olumlu yansıyabileceğini belirtti.",
-   "neden": "Merkez Bankası'nın politika değişiklikleri, doğrudan tüketici kredisi koşullarını ve taksitli satışların maliyetini belirlediği için Taksitlio'nun iş modelini etkileyebilir.",
+   "yorum": "Ekonomi analisti Alaattin Aktaş, Merkez Bankası'nın iki belirli adımı atması durumunda enflasyonla mücadelede daha etkili olabileceğini savundu.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -908,8 +854,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/19/fintablesgozen-makul-senaryoyu-acikladi-fed-ekimde-nasil-bir-karar-alacak-wstp_cover.jpg",
-   "yorum": "Ekonomistler, Fed'in ekim ayında alacağı faiz kararı üzerine senaryolar ortaya koydu. Fed'in olası faiz artırımı, küresel likidite koşullarını ve dolayısıyla Türkiye'deki kredi maliyetlerini etkileyebilir. Makale, bu kararın piyasalar üzerindeki muhtemel yansımalarını değerlendirdi.",
-   "neden": "Fed'in kararının küresel faiz ortamını şekillendirmesi, Türkiye'deki tüketici kredisi ve taksit maliyetlerini dolaylı olarak etkileyebilir.",
+   "yorum": "Ekonomistler, Fed'in ekim ayında alacağı faiz kararı üzerine senaryolar ortaya koydu.",
+   "neden": "",
    "gundem": false,
    "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -924,13 +870,13 @@
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3ppNGRnV0p3VEtDSElPM1I4VjNrbjRETHVSTHhlSU9JdkZ1VU5xUENlNnFSTnZVXzhoMnRzdHpNMThZWGFRdnlnQzU2U1BWVm43ekpXMkFCdTcwWkZzQTJwSzVZb2phcG1UOTVLVThBVmctTWVYR3REejZ0WUlwdFpSWmh4NmptR2pIaUR6X0R1elJndDIyUGhDRQ?oc=5",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/genel/daikin-turkiye-ar-ge-merkezi-10-yilini-kutluyor/705048",
      "tarih": "2026-10-19T10:05:29+00:00",
      "guvenilir": true
     }
    ],
-   "gorsel": null,
-   "yorum": "Daikin Türkiye, AR‑GE merkezinin 10. yıl dönümünü kutladı.",
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/19/thumbs_b_c_0512776984f685dffb6a3525d55f56f5.jpg",
+   "yorum": "Daikin Türkiye AR‑GE Merkezi, Hendek'teki üretim tesisinde 10. yılını kutladı. Bu dönemde patent başvuruları 31, tescilli patent 25'e ulaştı; proje sayısı 9’dan 30’a çıkarıldı ve personel %53 büyüdü.",
    "neden": "",
    "gundem": false,
    "onem": 2,
@@ -958,7 +904,7 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/19/ver1792403661/3920802/jpg/1920x1080",
-   "yorum": "Türkiye’de enflasyonun yüzde 30’un altına düşmesi, bireysel finansmanda faiz indirimi beklentilerini artırdı. TCMB’nin 22 Ekim toplantısı öncesinde kredi ve mevduat piyasalarında fonlama maliyetlerinde düşüş gözlemlenirken, kredi faizlerine etkisi sınırlı kaldı. BDDK verilerine göre tüketici kredileri yılbaşından bu yana %18,7 artarak 3,49 trilyon TL’ye ulaştı ve taksitli ödemelere yönelim sürdü.",
+   "yorum": "Türkiye’de enflasyonun yüzde 30’un altına düşmesi, bireysel finansmanda faiz indirimi beklentilerini artırdı.",
    "neden": "",
    "gundem": false,
    "onem": 4,
@@ -980,8 +926,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/18/kuresel-elektronik-uretiminde-dengeler-degisti-turkiyenin-kuresel-payi-belli-oldu-fcgx_cover.jpg",
-   "yorum": "Ekonomim haberine göre, küresel elektronik üretiminde dengeler değişmiş ve Türkiye'nin bu alandaki payı ortaya konulmuş. Makale, Türkiye'nin dünya çapındaki elektronik üretim oranının yeni bir seviyeye ulaştığını vurguluyor.",
-   "neden": "Türkiye'nin elektronik üretimindeki artan payı, yerli ürünlerin arzını ve fiyatlarını etkileyerek tüketicilerin taksitli kredi talebini şekillendirebilir.",
+   "yorum": "Ekonomim haberine göre, küresel elektronik üretiminde dengeler değişmiş ve Türkiye'nin bu alandaki payı ortaya konulmuş.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1002,32 +948,10 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/07/tcmb-faiz-indirecek-mi-prof-dr-binhan-elif-yilmazdan-kritik-degerlendirme-ceie_cover.jpg",
-   "yorum": "Ekonomistler, Merkez Bankası’nın yaklaşan faiz kararını yakından izliyor ve olası bir artış ya da düşüş senaryolarını değerlendiriyor. Piyasalarda, kararın enflasyon hedeflerine uyum sağlayıp sağlamayacağı ve kredi maliyetlerini nasıl etkileyeceği üzerine spekülasyonlar sürüyor. Kararın açıklanması, hem tüketici kredileri hem de perakende satışların finansman koşullarını doğrudan şekillendirecek.",
-   "neden": "TCMB faiz kararı, tüketici kredilerinin maliyetini belirlediği için taksitli alışverişlerdeki faiz oranlarını ve talebi doğrudan etkiler.",
+   "yorum": "Ekonomistler, Merkez Bankası’nın yaklaşan faiz kararını yakından izliyor ve olası bir artış ya da düşüş senaryolarını değerlendiriyor.",
+   "neden": "",
    "gundem": true,
    "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "67f90154f43b",
-   "baslik": "BİM’E CASPER M45 CEP TELEFONU GELİYOR! (BİM 18-24 EKİM)",
-   "marka": "Gündem",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-10-17T10:51:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/foto-galeri/aktuel/bime-casper-m45-cep-telefonu-geliyor-bim-18-24-ekim-s1-galeri-925317",
-     "tarih": "2026-10-17T10:51:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/17/bime-casper-m45-cep-telefonu-geliyor-bim-18-24-ekim-kb9j_cover.gif",
-   "yorum": "BİM, 18‑24 Ekim tarihleri arasında mağazalarında Casper marka M45 cep telefonunu satışa sunacağını duyurdu. Ürün, BİM’in uygun fiyatlı teknoloji segmentindeki yeni eklemesi olarak tanıtıldı.",
-   "neden": "BİM’in yeni telefon modeli satışı, tüketicilerin bu ürünü taksitli krediyle alabilmesi için Taksitlio’nun kampanya ve iş ortaklığı fırsatlarını değerlendirmesine olanak tanır.",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -1046,32 +970,10 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792229387/3920306/jpg/1920x1080",
-   "yorum": "Son dönemde kredi kartı harcamalarında belirgin bir düşüş yaşandığı bildirildi. Haftalık toplam harcama 708 milyar liradan 648 milyar liraya geriledi; internet alışverişleri 216 milyardan 192 milyara, yemek harcamaları ise 44 milyardan 41 milyara düştü.",
-   "neden": "Tüketici harcamalarındaki azalma, taksitli alışveriş talebini ve dolayısıyla Taksitlio platformunun işlem hacmini olumsuz etkileyebilir.",
+   "yorum": "Son dönemde kredi kartı harcamalarında belirgin bir düşüş yaşandığı bildirildi.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "cf4872802329",
-   "baslik": "CAM SİLME DERDİNE SON! BİM’E KİWİ CAM TEMİZLEME ROBOTU GELİYOR! (BİM 21-27 EKİM)",
-   "marka": "Gündem",
-   "kategori": "elektronik",
-   "oncelik": 2,
-   "tarih": "2026-10-17T08:11:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/foto-galeri/aktuel/cam-silme-derdine-son-bime-kiwi-cam-temizleme-robotu-geliyor-bim-21-27-ekim-s1-galeri-925294",
-     "tarih": "2026-10-17T08:11:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/17/cam-silme-derdine-son-bime-kiwi-cam-temizleme-robotu-geliyor-bim-21-27-ekim-fn44_cover.gif",
-   "yorum": "BİM, 21-27 Ekim tarihleri arasında mağazalarında KiWi cam temizleme robotunu satışa sunacağını duyurdu. Robot, cam yüzeyleri otomatik olarak temizlemek üzere tasarlanmış bir elektronik cihaz. Ürün, BİM'in geniş perakende ağı üzerinden tüketicilere ulaşacak.",
-   "neden": "Yeni bir elektronik ürünün büyük bir perakende zincirinde satışa girmesi, Taksitlio'nun taksitli kredi hizmetleri için potansiyel bir talep yaratabilir.",
-   "gundem": false,
-   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -1090,8 +992,8 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792175939/3920306/jpg/1920x1080",
-   "yorum": "Yatırım fonlarındaki likidite sıkıntısı, tüketicilerin harcamalarını kısıtlamasına yol açtı. Bu durum, kredi kartı harcamalarının haftalık 708 milyar liradan 648 milyar liraya düşmesiyle kendini gösterdi. İnternetten yapılan alışverişlerde 30 milyar liralık bir azalma ve yemek harcamalarında %6'lık düşüş rapor edildi.",
-   "neden": "Kredi kartı harcamalarındaki belirgin düşüş, taksitli alışveriş talebinin azalabileceğini gösterdiği için Taksitlio'nun kredi hacmi üzerinde etkili olabilir.",
+   "yorum": "Yatırım fonlarındaki likidite sıkıntısı, tüketicilerin harcamalarını kısıtlamasına yol açtı.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1112,8 +1014,8 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792169459/3920305/jpg/1920x1080",
-   "yorum": "Emlak Katılım, Katılımevim ve Birevim, 30 Eylül'de Rekabet Kurumu'na devir başvurusunda bulundu. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, devir sonrası vatandaşların mevcut sözleşme ve ödeme koşullarının değişmeyeceğini belirtti. Katılımevim ile sözleşmesi olan 50 binin üzerindeki müşterinin IBAN ve hesap bilgileri aynı kalacak, taksit sayısı ve tutarları korunacak.",
-   "neden": "Taksitlio'nun ortaklarından Katılımevim'in sözleşme ve taksit koşullarının sabit kalması, tüketicilerin alışveriş kredisi ödemelerinde kesintisiz devam etmelerini sağlar.",
+   "yorum": "Emlak Katılım, Katılımevim ve Birevim, 30 Eylül'de Rekabet Kurumu'na devir başvurusunda bulundu.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1134,8 +1036,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/16/bireysel-kredilerde-takip-alarmi-ihtiyac-kredilerinde-oran-rekor-seviyeye-cikti-s6on_cover.jpg",
-   "yorum": "Ekonomim haberine göre, ihtiyaç kredisi faiz oranları rekor seviyelere ulaştı ve bireysel kredi maliyetleri artış gösterdi. Bu durum, tüketicilerin krediye erişimini zorlaştırabilir ve kredi kullanımını sınırlayabilir.",
-   "neden": "Faiz oranlarındaki artış, tüketicilerin taksitli alışveriş için kredi talebini azaltarak Taksitlio’nun işlem hacmini düşürebilir.",
+   "yorum": "Ekonomim haberine göre, ihtiyaç kredisi faiz oranları rekor seviyelere ulaştı ve bireysel kredi maliyetleri artış gösterdi.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1156,8 +1058,8 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792155944/3791681/jpg/1280x720",
-   "yorum": "BDDK ve Macrohub verilerine göre, 9 Ekim itibarıyla tüketici kredilerinin yıllık büyüme oranı %14,5’e geriledi. Aynı dönemde ticari krediler %23,6 büyüme kaydetti. Tüketici kredilerindeki büyüme, önceki yüksek seviyelerinden belirgin bir düşüş gösterdi.",
-   "neden": "Tüketici kredilerindeki yavaşlama, taksitli alışveriş talebini ve Taksitlio üzerinden verilen kredi hacmini olumsuz etkileyebilir.",
+   "yorum": "BDDK ve Macrohub verilerine göre, 9 Ekim itibarıyla tüketici kredilerinin yıllık büyüme oranı %14,5’e geriledi.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1178,45 +1080,23 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792155111/3791680/jpg/1280x720",
-   "yorum": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) verilerine göre, 9 Ekim itibarıyla ihtiyaç kredilerinde takibe dönüşüm oranı %6,83'e yükselerek önceki %6,66 seviyesini aştı. Bireysel kredi kartlarındaki takip oranı %5,9 seviyesinde, sektör genelindeki takip oranı ise %3,2 olarak kaydedildi.",
-   "neden": "İhtiyaç kredilerindeki takibe dönüşüm artışı, tüketici kredi riskinin yükseldiğini gösterdiği için Taksitlio'nun kredi değerlendirme ve risk yönetiminde dikkate alması gereken bir gelişmedir.",
+   "yorum": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) verilerine göre, 9 Ekim itibarıyla ihtiyaç kredilerinde takibe dönüşüm oranı %6,83'e yükselerek önceki %6,66 seviyesini aştı.",
+   "neden": "",
    "gundem": false,
    "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "9f27822d1965",
-   "baslik": "YENİ KATALOG: BİM’E ÇAMAŞIR KURUTMA MAKİNESİ GELİYOR! (BİM 21-27 EKİM)",
-   "marka": "Gündem",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-16T12:18:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/foto-galeri/aktuel/yeni-katalog-bime-camasir-kurutma-makinesi-geliyor-bim-21-27-ekim-s1-galeri-925180",
-     "tarih": "2026-10-16T12:18:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/16/yeni-katalog-bime-camasir-kurutma-makinesi-geliyor-bim-21-27-ekim-dwvt_cover.gif",
-   "yorum": "BİM, 21‑27 Ekim tarihleri arasında yeni bir çamaşır kurutma makinesi kataloğu yayınladı. Bu ürün perakende mağazalarında satışa sunulacak ve tüketicilerin satın alması hedefleniyor.",
-   "neden": "Yeni bir beyaz eşya ürünü piyasaya çıktığında Taksitlio, bu ürün için taksitli alışveriş kredisi sunarak satışları artırabilir.",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
    "id": "783d0a1ea6c7",
    "baslik": "Samsung ve Teknosa’dan iş birliği",
    "marka": "Teknosa",
-   "kategori": "elektronik",
+   "kategori": "telefon",
    "oncelik": 1,
    "tarih": "2026-10-16T11:12:09+00:00",
    "kaynaklar": [
     {
      "ad": "Habertürk",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKOEhqUllvNldMS1RHNWZ4UWRXSVVLODF6QUxUWFBWQlQweThydURQdFU3OWEyTEtZdVhvVUgtMlo1c1M5M2NtV0JLT3VlUlZOZElyTXFuRGVVd0JMcnNnRDh1ZzBRd3R5aFF1M05xc0hZZDd5RHp3a052SDhCOTQ?oc=5",
+     "url": "https://www.haberturk.com/ekonomi/samsung-ve-teknosadan-is-birligi-3920244",
      "tarih": "2026-10-16T11:52:56+00:00",
      "guvenilir": true
     },
@@ -1251,8 +1131,8 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Samsung ve Teknosa arasında bir iş birliği duyuruldu. İki şirketin ortak çalışması, tüketicilere yeni elektronik ürün ve hizmetlerin sunulmasını hedefliyor. İş birliğinin kapsamı ve başlangıç tarihi haberde belirtilmemiş. Bu gelişme, perakende ve teknoloji sektöründe yeni fırsatlar yaratabilir.",
+   "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792151568/3920244/jpg/1200x628",
+   "yorum": "Sabancı Holding iştiraki Teknosa, Samsung ile yeni bir iş birliği başlattığını duyurdu. Anlaşma kapsamında, katlanabilir cihazların mağazalarda ve dijital kanallarda daha etkin sunulması ve müşterilere deneyim alanları oluşturulması planlanıyor. Teknosa, bu alanlarda tüketicilerin cihazları yakından incelemesini ve ihtiyaçlarına uygun seçim yapmasını sağlayacak. İş birliği, özel kampanyalar ve cihaz yenilemeyi kolaylaştıran takas uygulamalarıyla da desteklenecek.",
    "neden": "",
    "gundem": false,
    "onem": 4,
@@ -1274,8 +1154,8 @@
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/16/faiz-indirimi-beklentisi-ve-piyasal-cpzs_cover.jpg",
-   "yorum": "Merkez Bankası’nın 22 Ekim’de açıklayacağı faiz kararına ilişkin beklentileri değerlendiren ekonomistler, 20’sinin 100 baz puanlık bir indirim öngördüğünü bildirdi. Uzmanlar, politika faizinin düşürülmesinin enflasyonla mücadeleye katkı sağlayacağını ve kredi maliyetlerini hafifleteceğini düşündüklerini ifade etti. Anket sonuçları, faiz indirimi ihtimalinin yüksek olduğunu gösteriyor.",
-   "neden": "Olası faiz indirimi, tüketici kredisi ve taksit maliyetlerini düşürerek Taksitlio üzerinden yapılan alışverişlerin cazibesini artırabilir.",
+   "yorum": "Merkez Bankası’nın 22 Ekim’de açıklayacağı faiz kararına ilişkin beklentileri değerlendiren ekonomistler, 20’sinin 100 baz puanlık bir indirim öngördüğünü bildirdi.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1356,8 +1236,8 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Teknosa, Samsung ile yeni bir iş birliği başlattığını duyurdu. İş birliği kapsamında Samsung’un yeni akıllı telefon ve elektronik ürünleri Teknosa mağazalarında özel kampanyalar ve finansman seçenekleriyle satışa sunulacak. İki şirket, ortak pazarlama ve satış stratejileriyle tüketicilere daha cazip taksit imkanları sağlamayı hedefliyor.",
-   "neden": "Yeni Samsung ürünlerinin Teknosa’da satılması, taksitli satış hacmini artırarak Taksitlio’nun işlem hacmine olumlu yansıyabilir.",
+   "yorum": "Teknosa, Samsung ile yeni bir iş birliği başlattığını duyurdu.",
+   "neden": "",
    "gundem": false,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1486,8 +1366,8 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Teknosa, Samsung ile ortak bir etkinlik düzenleyerek katlanabilir akıllı telefonların mağaza içinde deneyimlenmesini sağlayacak. İşbirliği, tüketicilerin bu yeni nesil cihazları denemesine ve satın alma kararlarını hızlandırmasına yönelik bir adım olarak tanıtıldı. Etkinlik, belirli mağazalarda belirli bir süre boyunca gerçekleşecek.",
-   "neden": "Katlanabilir telefonların tanıtımı, yüksek fiyatlı cihazların satışını artırabilir ve bu da tüketicilerin taksitli kredi talebini yükseltebilir.",
+   "yorum": "Teknosa, Samsung ile ortak bir etkinlik düzenleyerek katlanabilir akıllı telefonların mağaza içinde deneyimlenmesini sağlayacak.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1508,8 +1388,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/16/online-alisverisi-degistiren-turk-girisimi-loops-ai-global-yolculuga-cikiyor-6f98_cover.gif",
-   "yorum": "Türk girişimi Loops AI, online alışveriş deneyimini iyileştirmek amacıyla global pazara açılacağını duyurdu. Şirket, yapay zeka destekli çözümlerle e-ticaret süreçlerini dönüştürmeyi hedefliyor.",
-   "neden": "Yeni bir e-ticaret platformunun globalleşmesi, Taksitlio'nun iş ortakları için potansiyel satış hacmini artırabilir.",
+   "yorum": "Türk girişimi Loops AI, online alışveriş deneyimini iyileştirmek amacıyla global pazara açılacağını duyurdu.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1536,10 +1416,32 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792143300/3791650/jpg/1280x720",
-   "yorum": "TCMB verilerine göre, 9 Ekim haftasında TL mevduat faizleri yüzde 36,4'e geriledi; aynı dönemde ortalama ticari kredi faizi yüzde 39 olarak gerçekleşti. Bankanın ağırlıklı ortalama fonlama maliyeti yüzde 37 seviyesine indi.",
-   "neden": "Düşen kredi faizleri, tüketicilerin taksitli alışveriş kredisi maliyetini azaltarak Taksitlio üzerinden kredi kullanımını teşvik edebilir.",
+   "yorum": "TCMB verilerine göre, 9 Ekim haftasında TL mevduat faizleri yüzde 36,4'e geriledi; aynı dönemde ortalama ticari kredi faizi yüzde 39 olarak gerçekleşti.",
+   "neden": "",
    "gundem": false,
    "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "a747235a215d",
+   "baslik": "“Hedefimiz, Türkiye’nin Tasarım Gücünü Dünyaya Taşıyan Mücevher Markası Olmak”",
+   "marka": "Sektör: kuyum",
+   "kategori": "kuyum",
+   "oncelik": 3,
+   "tarih": "2026-10-16T08:14:13+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Mall Report",
+     "url": "https://mallreport.com.tr/hedefimiz-turkiyenin-tasarim-gucunu-dunyaya-tasiyan-mucevher-markasi-olmak/",
+     "tarih": "2026-10-16T08:14:13+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://mallreport.com.tr/wp-content/uploads/2026/10/a.jpg",
+   "yorum": "Piano Jewellery, Türkiye’nin tasarım gücünü dünyaya taşıyan bir mücevher markası olma hedefiyle hareket ediyor. Şirket, 2018’de kurulmuş olup üç kuşaktan gelen 40 yılı aşkın deneyime dayanıyor. Türkiye içinde iki mağazası ve 220 satış noktası, yurt dışında ise 80 satış noktası bulunuyor; toplamda 43 ülkeye ihracat gerçekleştiriyor. Kısa vadede Türkiye’de 300, yurt dışında 100 satış noktasına ulaşmayı planlıyor ve bu büyümeyi doğru lokasyon ve iş ortaklarıyla desteklemeyi amaçlıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -1558,8 +1460,8 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792134146/3791574/jpg/1280x720",
-   "yorum": "Bloomberg HT, Türkiye Cumhuriyet Merkez Bankası’nın enflasyon beklenti anketinin sonuçlarını paylaştı. Ekim ayı itibarıyla 12 ay sonrası enflasyon beklentisi %23,89’a yükselirken, bir önceki dönemde %23,70 idi. Yıl sonu tüketici fiyatı (TÜFE) beklentisi ise %29,63 seviyesinde sabit kaldı ve politika faizi beklentisi %36 olarak kaydedildi. Anket ayrıca döviz kuru ve GSYİH büyüme beklentilerine de yer verdi.",
-   "neden": "Artan enflasyon beklentileri, tüketici kredisi faiz oranlarını yükseltebilir ve taksitli satışların maliyetini etkileyebilir, bu da Taksitlio'nun kredi tekliflerini ve talebi şekillendirebilir.",
+   "yorum": "Bloomberg HT, Türkiye Cumhuriyet Merkez Bankası’nın enflasyon beklenti anketinin sonuçlarını paylaştı.",
+   "neden": "",
    "gundem": false,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1580,30 +1482,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/is-yatirimsekerciden-yil-sonu-dolar-ve-faiz-tahmini-2hef_cover.jpg",
-   "yorum": "İş Yatırım ve Şekerci, yıl sonu için dolar kuru ve faiz oranı beklentilerini açıkladı. Açıklamada, döviz piyasasındaki hareketlilik ve merkez bankasının para politikası çerçevesinde öngörülen seviyeler değerlendirildi. Bu tahminler, ekonomik aktörlerin gelecek döneme yönelik planlamalarına ışık tutmayı amaçladı.",
-   "neden": "Faiz oranı ve döviz beklentileri, tüketici kredisi maliyetlerini ve taksitli alışveriş koşullarını doğrudan etkilediği için Taksitlio'nun kredi aracılığı iş modeline önemlidir.",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "991c114dcf98",
-   "baslik": "BİM’DE DEV FIRSAT: BEYAZ EŞYA KAMPANYASI BAŞLIYOR! (BİM 21-27 EKİM)",
-   "marka": "Gündem",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-15T13:57:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/foto-galeri/aktuel/bimde-dev-firsat-beyaz-esya-kampanyasi-basliyor-bim-21-27-ekim-s1-galeri-924967",
-     "tarih": "2026-10-15T13:57:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/bimde-dev-firsat-beyaz-esya-kampanyasi-basliyor-bim-21-27-ekim-pcu0_cover.jpg",
-   "yorum": "BİM, 21‑27 Ekim tarihleri arasında beyaz eşya ürünlerinde büyük bir kampanya başlattı. Kampanya kapsamında buzdolabı, çamaşır makinesi ve bulaşık makinesi gibi temel beyaz eşya ürünlerinde indirimli fiyatlar sunuluyor. Mağazalar, kampanyayı haftanın belirli günlerinde yoğunlaştırarak tüketicilerin ilgisini çekmeyi hedefliyor.",
-   "neden": "Beyaz eşya kampanyaları, tüketicilerin taksitli alışveriş talebini artırarak Taksitlio’nun kredi hacmini ve işlem hacmini yükseltebilir.",
+   "yorum": "İş Yatırım ve Şekerci, yıl sonu için dolar kuru ve faiz oranı beklentilerini açıkladı.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1630,8 +1510,8 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/15/ver1792072062/3791499/jpg/1280x720",
-   "yorum": "Bloomberg HT, 17 kurumun katıldığı bir anketle Türkiye Cumhuriyet Merkez Bankası’nın 22 Ekim toplantısında politika faizini %36 seviyesine indirmesini beklediğini bildirdi. Anket sonuçlarına göre en yüksek beklenti %36, en düşük %35,5 olarak kaydedildi. Katılımcıların büyük çoğunluğu faizde 100 baz puanlık bir indirim öngörürken, iki kurum 150 baz puanlık bir düşüş tahmin etti.",
-   "neden": "Politika faizindeki olası değişiklik, tüketici kredisi ve taksit faiz oranlarını doğrudan etkileyerek Taksitlio’nun kredi maliyetlerini ve tekliflerini şekillendirebilir.",
+   "yorum": "Bloomberg HT, 17 kurumun katıldığı bir anketle Türkiye Cumhuriyet Merkez Bankası’nın 22 Ekim toplantısında politika faizini %36 seviyesine indirmesini beklediğini bildirdi.",
+   "neden": "",
    "gundem": false,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -1652,8 +1532,8 @@
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/15/yeni-proje-13-zepk_cover.jpg",
-   "yorum": "Bankacılık sektörünün toplam kredi hacmi 9 Ekim haftasında 5,5 milyar lira azalarak 28,6 trilyon liraya geriledi. Aynı dönemde tüketici kredileri artış gösterirken bireysel kredi kartı alacakları 61,7 milyar lira azaldı. Takipteki alacakların ise 928,8 milyar lira seviyesine yükseldiği bildirildi.",
-   "neden": "Tüketici kredilerindeki artış, Taksitlio'nun alışveriş kredisi aracılığıyla satış yapma potansiyelini doğrudan etkiler.",
+   "yorum": "Bankacılık sektörünün toplam kredi hacmi 9 Ekim haftasında 5,5 milyar lira azalarak 28,6 trilyon liraya geriledi.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -2160,8 +2040,8 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/15/ver1792056856/3791451/jpg/1280x720",
-   "yorum": "Ticaret Bakanlığı, perakende sektöründe taksitli mal ve hizmet satışlarına ilişkin yeni bir yönetmelik değişikliği yürürlüğe koydu. Bu düzenleme, konut satışları dışındaki tüm perakende ürünlerde taksit süresi ve sınırlamaları belirleme yetkisini bakanlığa verdi. Ayrıca, BDDK’nın kredi kartı, alışveriş kredisi ve tüketici finansmanı kararlarıyla uyumlu hâle getirilmesi hedefleniyor.",
-   "neden": "Yeni düzenleme, bankalar ve perakendecilerin taksitli satış koşullarını doğrudan etkileyerek Taksitlio’nun kredi aracılık süreçlerini şekillendirebilir.",
+   "yorum": "Ticaret Bakanlığı, perakende sektöründe taksitli mal ve hizmet satışlarına ilişkin yeni bir yönetmelik değişikliği yürürlüğe koydu.",
+   "neden": "",
    "gundem": true,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -2750,8 +2630,8 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/15/ver1792044573/3919840/jpg/1920x1080",
-   "yorum": "Ticaret Bakanlığı, perakende taksitli satışları düzenleyen yönetmeliği değiştirerek 12 ay taksit sınırını kaldırdı. Yeni düzenleme, konut dışı mal ve hizmet alımlarında sabit taksit süresi kısıtlamasını ortadan kaldırıyor ve sektörlere özel taksit süreleri de iptal ediliyor. Elektronik, beyaz eşya, mobilya gibi ürün gruplarında taksit süresi artık bakanlığın kararına bağlı olacak. Bu değişiklik, perakende kredi ve taksit politikalarını yeniden şekillendirebilir.",
-   "neden": "Taksitlio, taksit süresi esnekliğinin artmasıyla yeni kredi ürünleri ve kampanyalar geliştirebilir, bu da platformun kullanımını artırabilir.",
+   "yorum": "Ticaret Bakanlığı, perakende taksitli satışları düzenleyen yönetmeliği değiştirerek 12 ay taksit sınırını kaldırdı.",
+   "neden": "",
    "gundem": true,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -2778,32 +2658,10 @@
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/15/yeni-proje-2026-10-15t084418-l8ty_cover.jpg",
-   "yorum": "Resmi Gazete'de yayımlanan yeni yönetmelik, Ticaret Bakanlığı'na konut dışındaki mal ve hizmet satışlarında taksit sürelerini belirleme ve ek koşullar koyma yetkisi tanıyor. Bu düzenleme, taksitli alışverişin yasal çerçevesini genişleterek sektördeki uygulamaları yeniden şekillendirecek.",
-   "neden": "Taksitlio'nun sunduğu alışveriş kredileri, yeni taksit süresi ve koşul düzenlemelerinden doğrudan etkilenecek, bu da ürün ve hizmet tekliflerinin yapılandırılmasını değiştirebilir.",
+   "yorum": "Resmi Gazete'de yayımlanan yeni yönetmelik, Ticaret Bakanlığı'na konut dışındaki mal ve hizmet satışlarında taksit sürelerini belirleme ve ek koşullar koyma yetkisi tanıyor.",
+   "neden": "",
    "gundem": true,
    "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b03e0a29be72",
-   "baslik": "BİM'den sürpriz teknoloji hamlesi: Yeni şirket kuruluyor",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-15T04:48:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/sirketler/bimden-surpriz-teknoloji-hamlesi-yeni-sirket-kuruluyor-haberi-924772",
-     "tarih": "2026-10-15T04:48:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/bimde-alisveris-listeleri-yeniden-yaziliyor-iste-yeni-haftanin-one-cikanlari-bim-16-22-ekim-ajey_cover.jpg",
-   "yorum": "BİM, perakende sektöründeki varlığını genişletmek amacıyla yeni bir teknoloji şirketi kuracağını duyurdu. Şirket, dijital hizmetler ve altyapı geliştirmeye odaklanacak. Bu girişim, BİM'in mevcut mağaza ve e‑ticaret ağını desteklemek üzere planlandı.",
-   "neden": "Yeni teknoloji şirketi, BİM'in dijital satış kanallarını güçlendirebilir ve Taksitlio'nun bu kanallara kredi hizmeti sunma fırsatını artırabilir.",
-   "gundem": false,
-   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -2822,11 +2680,45 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/12-ay-taksit-siniri-kaldirildi-bakanlik-sure-ve-tutar-siniri-belirleyebilecek-eqjh_cover.jpg",
-   "yorum": "Ürün ve hizmet alımlarında uygulanan 12 ay taksit sınırı kaldırıldı. Yeni düzenleme, tüketicilerin daha uzun vadeli taksit seçenekleriyle alışveriş yapabilmesine olanak tanıyor. Karar, ilgili mevzuat ve uygulama koşullarıyla birlikte yürürlüğe konuldu.",
-   "neden": "Daha uzun taksit seçenekleri, tüketicilerin kredi kullanımını artırarak Taksitlio platformunun işlem hacmini yükseltebilir.",
+   "yorum": "Ürün ve hizmet alımlarında uygulanan 12 ay taksit sınırı kaldırıldı.",
+   "neden": "",
    "gundem": true,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "80fc09795246",
+   "baslik": "Mobilya sektörü İngiltere ihracatını artıracak",
+   "marka": "Sektör: mobilya",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-10-14T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya Gazetesi",
+     "url": "https://www.dunya.com/sektorler/mobilya-sektoru-ingiltere-ihracatini-artiracak-haberi-843911",
+     "tarih": "2026-10-14T21:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Gözlem Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQU8zaTBrbURIWlczSWk0LV9OUGNKSU9mTGpEbjA3Nl8wRFB6QlNCcEFjUllRZlJFNmdtTWdCY1NJWnZNdWRZSW5uZnNpVHpReklJMjdFTjJVdTkxOVZVS1V0d3NmSWVRZk85b0MxZEhibWNBSTZSTHNkaDlUM2FyelNqdmc5RHRhMzZrSzVyY29ZRVJLS0Z6dmVYaHJ2VkpoX1VMbnlPbTladVkt?oc=5",
+     "tarih": "2026-10-17T19:14:59+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ingilizlerin-mobilyasi-egeden-43348605",
+     "tarih": "2026-10-20T11:52:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/14/mobilya-emqf-cover-0rlo_cover.jpg",
+   "yorum": "Ege Mobilya, Kâğıt ve Orman Ürünleri İhracatçıları Birliği, Türk mobilyasının Birleşik Krallık pazarındaki payını artırmak amacıyla Londra'da ticari heyet programı gerçekleştirdi. 6-10 Ekim tarihlerinde düzenlenen organizasyonda 19 Türk şirketi, 30 İngiliz ithalatçı ve sektör temsilcisiyle bir araya geldi. Türkiye'nin İngiltere'ye mobilya ihracatı 2025 yılında 156 milyon dolar seviyesinde gerçekleşirken, Birlik Başkanı Ali Fuat Gürle bu rakamı 250 milyon dolara çıkarmayı amaçladıklarını bildirdi. Birlik Başkan Yardımcısı Hikmet Güngör ise temasların otel, restoran, ofis ve konut projelerinde yeni iş birliklerine dönüşmesini hedeflediklerini ifade etti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Google Gemini (gemini-flash-latest)"
   },
   {
    "id": "0342680ff823",
@@ -2844,8 +2736,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/13/merkez-bankasinin-ekim-ayi-faiz-karari-icin-beklentiler-belli-oldu-ezcl_cover.jpg",
-   "yorum": "Bir ekonomist, Bloomberg'in devalüasyon haberine ilişkin açıklamalara bir toplantıda itiraz etti. Ekonomistin görüşleri, haberin doğruluğu ve olası etkileri üzerine odaklandı. Toplantıda devalüasyonun ekonomik göstergeler üzerindeki yansımaları tartışıldı.",
-   "neden": "Devalüasyon, döviz kurları ve enflasyon üzerinden tüketicilerin alım gücünü etkileyerek taksitli kredi talebini ve perakende satışları doğrudan etkileyebilir.",
+   "yorum": "Bir ekonomist, Bloomberg'in devalüasyon haberine ilişkin açıklamalara bir toplantıda itiraz etti.",
+   "neden": "",
    "gundem": false,
    "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -2866,8 +2758,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/14/ali-agaoglundan-faiz-mesaji-merkez-bankasinin-faiz-indirimi-icin-yeri-var-axpr_cover.jpg",
-   "yorum": "Ali Ağaoğlu, Merkez Bankası’nın faiz oranlarını düşürmesi gerektiğini belirtti. Ağaoğlu, mevcut yüksek faiz seviyelerinin ekonomik aktiviteyi olumsuz etkilediğini vurguladı. Açıklamasında, faiz indiriminin tüketicilerin kredi kullanımını artıracağını ifade etti.",
-   "neden": "Faiz oranlarındaki olası düşüş, tüketici kredisi maliyetlerini azaltarak Taksitlio üzerinden yapılan alışveriş kredilerinin talebini artırabilir.",
+   "yorum": "Ali Ağaoğlu, Merkez Bankası’nın faiz oranlarını düşürmesi gerektiğini belirtti.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -2888,8 +2780,8 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/14/uzmanindan-ekonomi-analizi-tcmb-22-ekimde-100-baz-puanlik-faiz-indirimine-gidebilir-nou1_cover.jpg",
-   "yorum": "Ekonomi uzmanı, TCMB’nin 22 Ekim’de faiz oranlarını 100 baz puan düşürerek indirim yapabileceğini öngörüyor. Uzman, bu hamlenin enflasyonla mücadele ve ekonomik büyümeyi destekleme amaçlı olabileceğini belirtiyor.",
-   "neden": "Faiz indiriminin gerçekleşmesi, tüketici kredisi maliyetlerini azaltarak taksitli alışveriş talebini artırabilir.",
+   "yorum": "Ekonomi uzmanı, TCMB’nin 22 Ekim’de faiz oranlarını 100 baz puan düşürerek indirim yapabileceğini öngörüyor.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -2916,33 +2808,11 @@
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/14/ver1791954787/3791298/jpg/1280x720",
-   "yorum": "TCMB Başkanı Fatih Karahan, fon çıkışlarının Türkiye’deki yerleşik yatırımcıların TL varlık tercihine önemli ölçüde zarar vermediğini belirtti. Enflasyonun gerilemesine rağmen para politikasının sıkı tutulacağı mesajını verdi ve enflasyon beklentileri değişirse politika sıkılaştırılabileceğini sözlerine ekledi.",
-   "neden": "TCMB’nin para politikası tutumu, tüketici kredisi faiz oranlarını etkileyerek taksitli alışveriş koşullarını doğrudan şekillendirir.",
+   "yorum": "TCMB Başkanı Fatih Karahan, fon çıkışlarının Türkiye’deki yerleşik yatırımcıların TL varlık tercihine önemli ölçüde zarar vermediğini belirtti.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "fa4b48326fa4",
-   "baslik": "Merkez Bankası faiz kararı bu hafta mı, ne zaman? TCMB faiz kararı tarihi ve saati...",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-13T09:17:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-bu-hafta-mi-ne-zaman-tcmb-faiz-karari-tarihi-ve-saati-haberi-843671",
-     "tarih": "2026-10-13T09:17:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/13/merkez-bankasi-yurn_cover.jpg",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası'nın yaklaşan faiz kararı toplantısının tarihi ve saati yatırımcılar ve vatandaşlar tarafından takip ediliyor. Piyasalar faiz kararının yönünü ve olası indirim beklentilerini araştırmaya devam ediyor.",
-   "neden": "Merkez Bankası faiz kararları, tüketici kredisi maliyetlerini ve alışveriş kredisi faiz oranlarını doğrudan etkilediği için kritik önem taşır.",
-   "gundem": true,
-   "onem": 5,
-   "model": "gemini-flash-lite-latest"
   },
   {
    "id": "b358f96b3045",
@@ -2966,8 +2836,8 @@
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/06/tcmb-nssg_cover.jpg",
-   "yorum": "Merkez Bankası'nın ekim ayı faiz kararı öncesinde ekonomistlerin beklentileri şekillendi. Yapılan ankette, politika faizinde indirim beklentisi ön plana çıktı.",
-   "neden": "Politika faizi beklentileri, alışveriş kredisi maliyetlerini ve tüketici talebini doğrudan etkilediği için sektör açısından kritik önem taşır.",
+   "yorum": "Merkez Bankası'nın ekim ayı faiz kararı öncesinde ekonomistlerin beklentileri şekillendi.",
+   "neden": "",
    "gundem": true,
    "onem": 4,
    "model": "gemini-flash-lite-latest"
@@ -2988,8 +2858,8 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/13/ver1791870924/3919256/jpg/1920x1080",
-   "yorum": "Altın fiyatlarının küresel piyasalarda gerilemesine rağmen merkez bankalarının ve Çinli yatırımcıların alımlarını artırarak devam ettirdiği belirtiliyor. Haberde, özellikle Çin'in rekor düzeydeki altın ithalatı ve uzun süreli alım serisi öne çıkıyor.",
-   "neden": "Altın fiyatlarındaki hareketlilik ve talep, kuyumculuk sektöründeki alışveriş kredisi hacmini doğrudan etkilediği için önemlidir.",
+   "yorum": "Altın fiyatlarının küresel piyasalarda gerilemesine rağmen merkez bankalarının ve Çinli yatırımcıların alımlarını artırarak devam ettirdiği belirtiliyor.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "gemini-3.5-flash-lite"
@@ -3010,8 +2880,8 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/12/ver1791794112/3919066/jpg/1920x1080",
-   "yorum": "TÜİK verilerine göre ağustos ayında ticaret satış hacmi aylık bazda yüzde 0,2 artarken, yıllık perakende ticaret satış hacmi yüzde 10,1 oranında yükseldi. Buna karşılık motorlu taşıtlar ve toptan ticaret kollarında yıllık bazda düşüşler kaydedildi.",
-   "neden": "Perakende ticaret hacmindeki yıllık artış, tüketicilerin alışveriş eğilimleri ve kredili satış potansiyeli açısından doğrudan bir göstergedir.",
+   "yorum": "TÜİK verilerine göre ağustos ayında ticaret satış hacmi aylık bazda yüzde 0,2 artarken, yıllık perakende ticaret satış hacmi yüzde 10,1 oranında yükseldi.",
+   "neden": "",
    "gundem": true,
    "onem": 4,
    "model": "gemini-flash-lite-latest"
@@ -3020,13 +2890,13 @@
    "id": "bbcdfd71883d",
    "baslik": "Ticaret verileri yayımlandı: Perakende yükseldi, otomotiv geriledi",
    "marka": "Sektör: perakende",
-   "kategori": "ev",
+   "kategori": "finans",
    "oncelik": 2,
    "tarih": "2026-10-12T07:00:00+00:00",
    "kaynaklar": [
     {
      "ad": "Dünya Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTWFDX25tb3VTTXBvYzhDMkdwUXZpSW1vNnBVMGFCRnZTZEplbGJ1ZUdLT1VMMEdKQUFBWGkxQ0VNNzVXTUc3eFhndFhhT19TeHBUel9TVlpQNGppVjJfTlljbFl4OFNQSnVTeWFCZTFEZ3BuelpuM0paOXZzS3BhOGVnekhQS0xoWElaTmtYRjREMGlwWlVSbF9zOXprekZ5bEExX3h1N3BURFZlYUlSRHQ0cnNxZjYx?oc=5",
+     "url": "https://www.dunya.com/ekonomik-veriler/ticaret-verileri-yayimlandi-perakende-yukseldi-otomotiv-geriledi-haberi-843504",
      "tarih": "2026-10-12T07:00:00+00:00",
      "guvenilir": true
     },
@@ -3069,12 +2939,6 @@
     {
      "ad": "Gıda Hattı",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbk5QMEpoTXZpZHVrQTdGSkhWWjBrUzVOaTFyQUxMdHgwNW96X1U3QTloOUcxZUpCRnNUVEhHdEhGUF9YU3JPQ3IyYWtEMUhkMk5VV3k0ZUFIeHZoSEdxSHk2Ty1JVThzU3NCRGh6Ynk3SklUVTNvRG84MW1oclNKUlhrT1rSAYoBQVVfeXFMT2xCNUI5M2lrck91RU9xVzdVNnFHSHRFaTZIWThWelhuNnNIRnlyN3doWWxZMHRuai1LcXgwekIwc0RaNDZCczVEMkhFakZEZ1Z5OFhUdy1oWU9IZmFvYXo0WXZqcFVOblhVSmltM0IyMDNBUGhia0luM3p6dTFRcTRxLXZMOWJYWC1B?oc=5",
-     "tarih": "2026-10-12T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Mardin Life",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1pFUjBiTGhmeFpaSTc5c09aaXlyUWpWSEVfczBXdGVGVzZtbnpoekszVFZneDIxWXlET2ZwR2FZRGRXSloycGE1TFNMZUhGZWtrdndrMjNYcE02ckdhTk9fUDh4OUZCNnhSWFhES1cwRVJDeWdqbUMtMFpVa0Jrc2lOaGVaUWJQeTVfNnVnRVdDbWhN0gGaAUFVX3lxTE5nNm1hOWxnY0Ftb1VxWlg5QmRQV1dkdUpfeC1ULWtzekV3d1lGVkJDanBmX25ZaE1ZSVBnZ2JLdXh3OVBIU0V4SmV1UWlLT2k4bmpBWVN2MjVqX2pWQUF2TzJMandkZElLcU5vQlhuLUlJSy1GRGRVTlB6UGNsX24taElQQ1IwMGRNZUlIS3UwZTdGMjVtOTdrRFE?oc=5",
      "tarih": "2026-10-12T07:00:00+00:00",
      "guvenilir": false
     },
@@ -3175,6 +3039,12 @@
      "guvenilir": false
     },
     {
+     "ad": "Mardin Life",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1pFUjBiTGhmeFpaSTc5c09aaXlyUWpWSEVfczBXdGVGVzZtbnpoekszVFZneDIxWXlET2ZwR2FZRGRXSloycGE1TFNMZUhGZWtrdndrMjNYcE02ckdhTk9fUDh4OUZCNnhSWFhES1cwRVJDeWdqbUMtMFpVa0Jrc2lOaGVaUWJQeTVfNnVnRVdDbWhN0gGaAUFVX3lxTE5nNm1hOWxnY0Ftb1VxWlg5QmRQV1dkdUpfeC1ULWtzekV3d1lGVkJDanBmX25ZaE1ZSVBnZ2JLdXh3OVBIU0V4SmV1UWlLT2k4bmpBWVN2MjVqX2pWQUF2TzJMandkZElLcU5vQlhuLUlJSy1GRGRVTlB6UGNsX24taElQQ1IwMGRNZUlIS3UwZTdGMjVtOTdrRFE?oc=5",
+     "tarih": "2026-10-12T08:15:06+00:00",
+     "guvenilir": false
+    },
+    {
      "ad": "ekotürk",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGpEVEhnLXFtQS1DOFJoNDNfcUZmeXJiZ2RybHdJUW1BM0o5cHkzT0tBZjRrVk13aXFOWnplZFUwQ0VOMHkxdjhxMTYtakRLZUQ4clpXWVdxUEN0MFNvRjBPMHlDZ2hKbkJwQU5iNkVtT2JQTUdzOUg3bEdVYnRUX3R2MFV5LWhNWVhhaEJLMGpaaHhEYjFtY2Z2SVgyWXREUUQ3QlRZLVlCeTVPdlhhLUVB?oc=5",
      "tarih": "2026-10-12T08:20:47+00:00",
@@ -3211,6 +3081,12 @@
      "guvenilir": false
     },
     {
+     "ad": "Medya Gazete",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5lTFJGazYyWGpET3NBRnd2QzlzbDVFUkJUdEhVejRXV180WGlKQW1wUVkxc3FPTU00T2RCU1l4V0UxdFlDTFdLTFhfWnB6Y3hmQjM1a29CaEYxX3hJU3lPbVJQcURnOXRmNHNyd01neTBJNFc3RWx6cGFOM21BZ2NiRHV4dWs2SGZOeWp2RXZEUWNzbk1tenlJZ21jR2s?oc=5",
+     "tarih": "2026-10-12T12:33:00+00:00",
+     "guvenilir": false
+    },
+    {
      "ad": "Üreten Ankara",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ1ZtOFlkM1UtYlpqTy1WakdyVHJNalJ3UXRVeGVMMTRDdGVVTzhrY3otQlI3OFR0TkoyendjRkNHRkk2S000U0sxWlhka2tCQm1ZdmNEelBmSmh6Rk1ZZ085VWd6eGo1WTZTYnNJT1o3c2o0ck1oUk5XSVZva2dYbXFXVGRlczNZQkxlNG9Pano?oc=5",
      "tarih": "2026-10-12T14:35:21+00:00",
@@ -3226,6 +3102,12 @@
      "ad": "Meydannet.com",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcjZHWUxiZnBvUFF5bHA3ZDVYOWNfck5EaXhPTXNkZTJiTzVBZjV6cTNlYl9pZzV0dWpFTGFRbUJRT25MRl9pNkZRVzJxa3N0QzktREQ3VVI0eEdoQkFTYVZyVTFxRVkySUVlVXM5aGNIQ09VbkRVTEpFbWVxT2VfVG96YkwtMThkTTM2RTRlNERERWYzUFpMM2U5R3RhamtIOVHSAacBQVVfeXFMUG5BRVJZMlBsNUpYa3hqU1ZyRk5QQmMyTlJPNENLT1ZxU3dMb2RMMWo5dm9fbUdXa0JTWXFSdXZnWE9kZFdBWVN3ZmhESm5oLU5EaTU3akFMaFRjU3hGMmtPeGdFZUVBSGpDT3RrRmJVTEZKVS1ad3kzZDhlVzdCYlRzSklpcTVnampVS2V5WXFzNVpUQlJoSE1IdzRBajJUSnJEZnZWVzA?oc=5",
      "tarih": "2026-10-13T01:03:59+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Saray Medya",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0NESzBTX0sxNFdES1QydW14QV9LSldad3hHYU85bGdhSXZzLTVReG9yYmVvblVpUFpmUk1Bek53ZWpvRFNFVHJwdko1RnB5QlY2N3B3NVhDbXJDcV9BeUVCLXlFV3l2SUpIc2hIMUxiR1JQMnlVRGoyM1NXX2dDeUhCbHMtaG5RT3RJUnRfMmpwUS00?oc=5",
+     "tarih": "2026-10-13T03:56:00+00:00",
      "guvenilir": false
     },
     {
@@ -3253,12 +3135,12 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Perakende sektöründe artış, otomotiv sektöründe gerileme gösteren yeni ticaret verileri yayımlandı. Veriler, perakende satışların yükseldiğini, otomotiv satışlarının ise düşüşte olduğunu ortaya koyuyor.",
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/yeni-proje-2026-10-12t100724-mwuu_cover.jpg",
+   "yorum": "TÜİK, 2026 yılı Ağustos ayına ilişkin Ticaret Satış Hacim Endeksi verilerini paylaştı. Toplam ticaret satış hacmi ağustosta yıllık bazda yüzde 0,6 artarken, perakende ticaret satış hacmi geçen yılın aynı dönemine göre yüzde 10,1 oranında yükseldi. Buna karşılık motorlu kara taşıtları ve motosikletlerin toptan ve perakende ticareti ile onarımına dair satış hacmi yüzde 11,2, toptan ticaret hacmi ise yüzde 1,9 geriledi. Aylık bazda perakende satışlar temmuza göre yüzde 1,4 artış gösterirken toplam ticaret hacminde yüzde 0,2 yükseliş kaydedildi.",
    "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
+   "gundem": true,
+   "onem": 4,
+   "model": "Google Gemini (gemini-flash-latest)"
   },
   {
    "id": "9a2154b8435e",
@@ -3673,7 +3555,47 @@
    ],
    "gorsel": null,
    "yorum": "TÜİK, Ağustos ayında perakende satış hacminin bir önceki aya göre hızlı bir artış gösterdiğini açıkladı.",
-   "neden": "Perakende satış hacmindeki artış, tüketicilerin harcama eğilimlerinin yükseldiğini gösterdiği için taksitli kredi talebinin artma ihtimalini yükseltir.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "9b50beec4192",
+   "baslik": "Hisense Türkiye'de televizyon ve klima ürünleriyle faaliyetlerine başladı",
+   "marka": "Sektör: ısıtma ve soğutma",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-10-08T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/hisense-turkiyede-televizyon-ve-klima-urunleriyle-faaliyetlerine-basladi/4082273",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Teknolojioku",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzhCbmVkalVwcG5ib19Ra1M4RVpHMVRmd2tkZmlBeWtYRndOY2dNRS02UjVyQldROVVjOThrTGdxOXRaRzUzaUdReC0ySUZxZDNQak9XNzZzcGVyYmF2dkRZRGhlR0ItWThmV3BEVzNDcWJrWEhNaThFVkhWby14US10dlBQTWlMVGdCcDhNYzVLek0wSThWRVZHYUdvU0RodjI4VzlQemtvVXBia01FcWF6V1o4bVk?oc=5",
+     "tarih": "2026-10-09T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "BT Günlüğü",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zRk5xakN3QlJZNDV4NEdyUzJ5X0V1c3JjU3poWlRPTy1sUm9nWldLaWtpUnFVZmdNRFB0R0JCX0ZiZGFaR2Q0WFBkUElic2N5YTVpLVk3UWdlcjY2YTVheVBpZHo5V2NnUFRJ?oc=5",
+     "tarih": "2026-10-09T09:29:47+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "DonanımHaber",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGJrcV9vekl4YmRtNTNNVk1BRnpSbG1xWUtMd1JSSnRveThsdHJNR1ktVTliTjhJMWpFVjZibnJJTDk5bm5iUHo4TndDV0lHcFprV2ZpVWg2d21pSHpOcmtrQTJxNzN0OWNBekdIV3kyclhhV3FjQWhQZmltOTNISEhuTXVnODN4cGZRVlkzYVY0VzY2NGpV?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/08/thumbs_b_c_e4ba5ba1038797b72864ca962c72ce60.jpg",
+   "yorum": "Hisense, Türkiye pazarına televizyon ve klima ürünleri sunarak faaliyetlerine başladı. Şirket, ısıtma‑soğutma segmentinde yeni bir giriş yapmış oldu.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -3682,13 +3604,13 @@
    "id": "0299e710dad3",
    "baslik": "Borsadaki enerji şirketi duyurdu: Arçelik ile dev tedarik sözleşmesi imzalandı",
    "marka": "Arçelik",
-   "kategori": "beyaz",
+   "kategori": "elektronik",
    "oncelik": 2,
    "tarih": "2026-10-08T05:46:06+00:00",
    "kaynaklar": [
     {
      "ad": "CNBC-e",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa2tnQl85Y1l3bHRFOUNOVVlPc0pLdVNNRWhxT3ZjSWRqZnQyQ3lsX2NPUkNnT1BoelF2dkk1TGJTaVdRVjUxX2YwNllGT0pBNXFPWlI2WkZpNGx6NkpYckNheWlBTHVrZmwyOUp3TnNZTGpxZ3R5dUg4NFlubGdVanYweDdSb09kTE9ld2wyNVI0eUZ4SVZDVUh5QTZlalRXM0lBZkhFUUFUN04zd3R6UUpn?oc=5",
+     "url": "https://www.cnbce.com/borsa/borsadaki-enerji-sirketi-duyurdu-arcelik-ile-dev-tedarik-sozlesmesi-imzalandi-h38971",
      "tarih": "2026-10-08T06:02:14+00:00",
      "guvenilir": true
     },
@@ -3735,8 +3657,8 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Bir enerji şirketi, Arçelik ile büyük bir tedarik sözleşmesi imzaladığını duyurdu. Sözleşmenin detayları haber metninde yer almıyor.",
+   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/10/01/borsa-stok-reuters-11-7dvo.jpg",
+   "yorum": "Smart Güneş Enerji'nin bağlı ortaklığı Smart Güneş Enerji Ekipmanları Pazarlama A.Ş. ile Arçelik Pazarlama A.Ş. arasında 19.516.911,55 USD tutarında güneş paneli tedarik sözleşmesi imzalandı.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -3764,8 +3686,8 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Samsung, iki Galaxy modelinin artık yazılım güncellemesi ve güvenlik desteği almayacağını duyurdu. Bu modeller için yeni işletim sistemi sürümleri ve güvenlik yamaları sağlanmayacak.",
-   "neden": "Güncelleme desteğinin sona ermesi, tüketicilerin bu telefonları taksitli alırken tercihlerini etkileyebilir ve satış hacmini düşürebilir.",
+   "yorum": "Samsung, iki Galaxy modelinin artık yazılım güncellemesi ve güvenlik desteği almayacağını duyurdu.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -3792,8 +3714,8 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Avrupa pazarında en çok satan telefon markası açıklandı ve ilgili markanın satışları yüzde 90 oranında artış gösterdi. Bu artış, bölgedeki tüketici talebinin güçlü olduğunu gösteriyor.",
-   "neden": "Satışların büyük artışı, Türkiye'deki benzer talepleri yansıtabilir ve Taksitlio'nun telefon kredisi talebini artırabilir.",
+   "yorum": "Avrupa pazarında en çok satan telefon markası açıklandı ve ilgili markanın satışları yüzde 90 oranında artış gösterdi.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -3844,8 +3766,8 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Arçelik'in Beko markası, evcil hayvanlarla yaşamı kolaylaştırmak amacıyla yeni teknolojik özellikler geliştirdiğini duyurdu. Yeni ürünlerde hayvanların konforu ve temizlik ihtiyaçları göz önünde bulundurularak çeşitli akıllı çözümler sunulacağı belirtildi.",
-   "neden": "Yeni Beko ürünleri, tüketicilerin bu cihazları taksitli krediyle almasını teşvik ederek Taksitlio'nun işlem hacmini artırabilir.",
+   "yorum": "Arçelik'in Beko markası, evcil hayvanlarla yaşamı kolaylaştırmak amacıyla yeni teknolojik özellikler geliştirdiğini duyurdu.",
+   "neden": "",
    "gundem": false,
    "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -3860,7 +3782,7 @@
    "kaynaklar": [
     {
      "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUUtZDBna0tQU1ZsV05aTEdIZHdhLXRCOHNob2thRklHa1hyaWtLcUZDeG5uSGJ3NFJ5bGtQeWdyNHluX2RNVmtVYUxtdGJhSk95T0ZsZXhJZGtySTdPUHJtaU1HVWJ5eTBVSGFqdHN5WFBfUVZ2NnVoN3RjNTdfYUNIY3lUcGVER1dYQTRycTNjbXZhQlZZd2tTZUxfSmZyX1E?oc=5",
+     "url": "https://www.dha.com.tr/yerel-haberler/istanbul/teknosadan-satis-sonrasi-teknoloji-hizmetleri-2958180",
      "tarih": "2026-10-07T07:00:00+00:00",
      "guvenilir": true
     },
@@ -3871,8 +3793,8 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Teknosa, satış sonrası teknoloji hizmetlerini başlattığını açıkladı. Hizmetlerin içeriği ve koşulları haberde yer almıyor.",
+   "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6ac6217eeb66e0e9f8f33a3b.jpg",
+   "yorum": "Teknosa, müşterilerine satış sonrası teknoloji hizmetleri sunacağını bildirdi. Hizmetler arasında mağaza ve yerinde kurulum ile uzaktan teknik destek yer alıyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -3880,15 +3802,15 @@
   },
   {
    "id": "24721537302f",
-   "baslik": "Teknosa Üst Yönetimine İki Yeni İsim Atandı",
+   "baslik": "Teknosa üst yönetimine iki yeni isim atandı",
    "marka": "Teknosa",
    "kategori": "elektronik",
    "oncelik": 1,
    "tarih": "2026-10-07T07:00:00+00:00",
    "kaynaklar": [
     {
-     "ad": "Mall Report",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BSDN0WG1JWHhKbFZyZlVQX21SV09mczBHZUJaeXJjMWRkSUNSdU1XZTBLR01OUHNmdzZoVUhHcFMzTE9RNFFOU1hibmxYc2ZXVl91RjNPYkUtR2VGelJreTVpejROUjZaS3AybE14SWMteEduQUU4bDB3?oc=5",
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://www.dha.com.tr/ekonomi/teknosa-ust-yonetimine-iki-yeni-isim-atandi-2958370",
      "tarih": "2026-10-07T07:00:00+00:00",
      "guvenilir": true
     },
@@ -3935,8 +3857,8 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Teknosa, üst yönetimine iki yeni isim atadığını duyurdu. Atanan kişilerin görevleri ve geçmişi hakkında detay verilmedi.",
+   "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6ac64f9eff5887627ea232f6.jpg",
+   "yorum": "Teknosa, Sabancı Holding’in bir iştiraki olarak üst yönetimine iki yeni isim atadığını duyurdu. Atamalar 13 Ekim 2026 tarihinden itibaren yürürlüğe girecek.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -3964,8 +3886,8 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Teknosa, müşterilerine ürün kurulumundan teknik desteğe kadar kapsamlı satış sonrası hizmetler sunacağını duyurdu. Şirket, bu hizmetleri tüm mağazalarında ve çevrimiçi satış kanallarında sağlayacağını belirtti. Yeni hizmet paketi, müşterilerin satın aldıkları elektronik cihazların kurulum ve bakım süreçlerini kolaylaştırmayı hedefliyor.",
-   "neden": "Satış sonrası hizmetlerin genişletilmesi, tüketicilerin yüksek tutarlı elektronik ürün alımlarını teşvik ederek taksitli kredi kullanımını artırabilir.",
+   "yorum": "Teknosa, müşterilerine ürün kurulumundan teknik desteğe kadar kapsamlı satış sonrası hizmetler sunacağını duyurdu.",
+   "neden": "",
    "gundem": false,
    "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -3986,8 +3908,8 @@
     }
    ],
    "gorsel": null,
-   "yorum": "Daikin Türkiye, mimari projelere yönelik bütüncül iklimlendirme çözümleri sunduğunu duyurdu. Yeni sistemler, binaların ısıtma, soğutma ve havalandırma ihtiyaçlarını tek bir platformda birleştirerek enerji verimliliğini artırmayı hedefliyor.",
-   "neden": "Bu yeni iklimlendirme çözümleri, ilgili projelerdeki ekipman alımlarını artırarak Taksitlio'nun finansman hizmetlerine talep yaratabilir.",
+   "yorum": "Daikin Türkiye, mimari projelere yönelik bütüncül iklimlendirme çözümleri sunduğunu duyurdu.",
+   "neden": "",
    "gundem": false,
    "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
@@ -4002,16 +3924,16 @@
    "kaynaklar": [
     {
      "ad": "Sabah",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQUdZM0pmRVgzblZRYnhaR1FfOEtRTEhld3BmbmpRU2ttYkdwU09fY0ExZlVldlZrTFBiNXZFMFBCZGVMUHFYeUpScWNHdHhweEQwOVpwNFdXTkJiVG1pTTRNLTdJbzRIWUtuektXYmZVakJfd0t1dmpuQU8xbmpHVHRiV1Y3NnfSAYoBQVVfeXFMTkRIME5SUksxU214S0VPVXh3SkVVb1MzN2dERUxwaG9TYTQ2ejV1aW5BWXZ2Ri1KeGI1eDl1Y0p5eUZkM1FKMzhrTENoaGZhSWE5dTBSWl9QTndMVWdrSXYzMlgzWUpmMkJ4YzhpOEdic2hxMVQ2eTFKYllpRlF1SF9KLWRkNG9FXzRn?oc=5",
+     "url": "https://www.sabah.com.tr/ekonomi/40-bin-tl-alti-cep-telefonuna-12-taksit-7672525",
      "tarih": "2026-10-03T07:00:00+00:00",
      "guvenilir": true
     }
    ],
-   "gorsel": null,
-   "yorum": "40 bin TL’nin altındaki cep telefonları için 12 taksit seçeneği sunulacağı bildirildi.",
+   "gorsel": "https://iasbh.tmgrup.com.tr/1ea6f7/1200/675/0/19/446/269?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/40-bin-tl-alti-cep-telefonuna-12-taksit-1790969857985.jpeg",
+   "yorum": "40 bin TL altında fiyatı bulunan cep telefonları için 12 ay taksit imkanı sunuluyor.",
    "neden": "",
    "gundem": false,
-   "onem": 2,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -4024,7 +3946,7 @@
    "kaynaklar": [
     {
      "ad": "Sabah",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG5LNXZJa1d6TElMTk1Bc3RjZGhHR09LUzN1eE12bm5XYlZPTzVzR2pOVnI5VXNSNFJvUUJKZFNqazg1YXMwZXg4VndtSUdFRkkxZWJ1YVg4TjVPUHRLdUpBUWVTWUN1cGVfQTRPaThyQWlMMkFYZGNMYXE0UlhiZkF5Z3ctb1hZMWRYN01GemtobV9ENUkwZXhFZGQxLUxxUEZsZnZxd1N6TzhFOEZBZVJ5VmpiMlNnZEdrTHpJSdIBwgFBVV95cUxPUXBMZVlOWF92QzJqZk1jWGE2aWxBZk11OFdkbDExSUxZeUNuc05DcXlJaTJrVmVrQmViUWRLdkFVbWdFcUtQVnVsVi1ZQS1aU2VyS3ZNSXJtVHJDbGdzVTI3VlVyekQ1c3RYSU15eXBCcG1yMTB5NUJXRG1sLVNranlyeDFWSmRLRFhLUDBsM0V4SWtsb2drbzBzUy1tRlVYUmlfTm5hbjhkSHktVE1HSUFrUWlLMHRoZUFtSlFYLTJuZw?oc=5",
+     "url": "https://www.sabah.com.tr/yasam/cep-telefonu-kredilerinde-yeni-donem-bddk-acikladi-cep-telefonu-kredisi-kac-ay-oldu-7674251",
      "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": true
     },
@@ -4053,8 +3975,8 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "BDDK, 2026 yılı için cep telefonu kredilerine ilişkin yeni düzenlemeyi duyurdu. Açıklamaya göre, kredi vade süresi için belirlenen üst sınır ortaya kondu.",
+   "gorsel": "https://iasbh.tmgrup.com.tr/23c0b0/1200/675/0/0/740/416?u=https://isbh.tmgrup.com.tr/sbh/2026/10/05/1791205149200.jpeg",
+   "yorum": "BDDK, 2026 yılı için cep telefonu kredilerinde uygulanacak vade sınırını açıkladı. Yeni düzenleme, tüketicilerin telefon alımlarında taksit süresini sınırlamayı hedefliyor. Açıklamada belirtilen maksimum vade süresi haberde yer alıyor. Bu düzenleme, telefon kredisi kullanan müşterileri doğrudan etkiliyor.",
    "neden": "",
    "gundem": true,
    "onem": 5,
@@ -4070,7 +3992,7 @@
    "kaynaklar": [
     {
      "ad": "Ekonomim",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekptby1lcFFFTFRqZnFwRUlMQ2lJTUhZT3Fybi1jeEVqOEU1ckh4OTBZdklHN3FyYlJ2VWFtTjk1SGRLUF9iTnJOc185bHc4V3ZUbVdHNGdLcWJvejlhczZyR2VSX3dramFiYUJQOXB1WDg4NTFEWDlBMkp0TlkwOHBqakc1b0JYRVNXTk83dW14VFFEcl9CQkZrb1V2c3FUUFNOZDNkbF8wUEt5ZlpyWVRrMUpaWm1oZGl5eldScXI3WXd3bEY2LVlkRGhtVGxFSlNwY1dQbEJxY1JsYXhjVEFqSkhmQkpkY3lB0gHwAUFVX3lxTFBrenpfVDNmRklaenJ5YWg2T2x1YllpSmhVbzFnM0kwenBqME9TM0FNWHNFTlM5UVdzZUh3RnREaG5xOWNZRVNuTDNHT1hsRHB6OEU3V21CN3kyVmZ4MWRrel9wX3F5UFg5elZONEhGbHE2QTE0UW1uZmJrMmFhdWVrRGNYU09mTmVsOEluY2VJbTk2OXhjNE10bjUtSTRaR1lRdkE3SWhjNEtnLVVRakMzNGxBMzlDZ2dqZ2JaSTJuWVgyMmVncjNfc0RiRl9zYVZHQ1diWFVYVjA1ZGV4dzk4MnRnd3dUeFpTRVl6Z19rYQ?oc=5",
+     "url": "https://www.ekonomim.com/sektorler/teknoloji/samsung-galaxy-s26-serisine-iki-haftada-ikinci-zam-turkiye-fiyatlari-degisti-iste-zamli-fiyatlar-haberi-922272",
      "tarih": "2026-10-03T07:00:00+00:00",
      "guvenilir": true
     },
@@ -4141,8 +4063,8 @@
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Samsung'un Galaxy S26 serisinin fiyatı, iki haftada ikinci kez artış gösterdi ve Türkiye pazarında yeni bir fiyat değişikliği yaşandı.",
+   "gorsel": "https://img.ekonomim.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/03/samsung-galaxy-s26-serisine-iki-haftada-ikinci-zam-turkiye-fiyatlari-degisti-iste-zamli-fiyatlar-ur6r_cover.jpg",
+   "yorum": "Samsung, Türkiye pazarında Galaxy S26 serisinin fiyatını iki hafta içinde ikinci kez artırdı.",
    "neden": "",
    "gundem": false,
    "onem": 3,
