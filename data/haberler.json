@@ -1,7 +1,35 @@
 {
- "guncelleme": "2026-10-22T20:07:21.375862+00:00",
+ "guncelleme": "2026-10-22T21:07:32.281596+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "09948da9509a",
+   "baslik": "Merkez’den 100’lük indirim geldi bir ‘100’ puan daha bekleniyor",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/merkezden-100luk-indirim-geldi-bir-100-puan-daha-bekleniyor-haberi-844935",
+     "tarih": "2026-10-22T21:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/tcmb-indirime-1-puan-ile-basladi-devam-hizi-belirsiz-haberi-926486",
+     "tarih": "2026-10-22T21:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/1-rkya_cover.jpg",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Para Politikası Kurulu toplantısında politika faizini 100 baz puan düşürerek bir hafta vadeli repo faizini %37'den %36'ya, gecelik vadeli borç verme faizini %40'tan %39'a, borçlanma faizini ise %35,5'ten %34,5'e indirdi. Kurul, gecelik vadeli borç verme ve borçlanma faizleri arasındaki farkı 450 baz puanda sabit tuttu. Piyasa, Aralık ayındaki bir sonraki toplantıda da benzer ölçekte bir indirim beklentisi taşıyor. Ekonomistler, bu adımların enflasyonla mücadele ve rezerv baskılarını yönetme amacı taşıdığını belirtiyor.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "c41be3923286",
    "baslik": "Yabancı bankalardan TCMB değerlendirmesi",
