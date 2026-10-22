@@ -1,0 +1,72 @@
+name: Kaynak kesif
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  kesif:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser googlenewsdecoder "selectolax<1.0"
+      - name: Google cozme ve Bing Haberler testi
+        run: |
+          python - << 'PYEOF'
+          import os, re, traceback, urllib.parse, urllib.request
+          import feedparser
+          from haber_kaynak import google_ara, sayfa_bilgisi, UA
+          os.makedirs("data/haber_kesif", exist_ok=True)
+          rapor = []
+          yaz = lambda *s: rapor.append(" ".join(str(x) for x in s))
+
+          yaz("=== 1) GOOGLE HABERLER LİNK ÇÖZME ===")
+          try:
+              from googlenewsdecoder import gnewsdecoder
+              for h in google_ara("Teknosa", 10)[:3]:
+                  try:
+                      yaz("link:", h["link"][:90])
+                      yaz("  sonuç:", str(gnewsdecoder(h["link"], interval=1))[:400])
+                  except Exception:
+                      yaz("  HATA:", traceback.format_exc()[-400:])
+          except Exception:
+              yaz("içe aktarma HATA:", traceback.format_exc()[-400:])
+
+          yaz("\n=== 2) BING HABERLER ===")
+          for sorgu in ["Teknosa", "Arçelik", '"alışveriş kredisi"']:
+              adres = ("https://www.bing.com/news/search?format=rss&setlang=tr-tr&cc=TR&q=" + urllib.parse.quote(sorgu))
+              try:
+                  akis = feedparser.parse(adres, agent=UA)
+                  yaz(f"\n{sorgu}: {len(akis.entries)} haber | durum: {akis.get('status')}")
+                  if akis.entries:
+                      yaz("  alanlar:", sorted(akis.entries[0].keys()))
+                  for g in akis.entries[:3]:
+                      link = g.get("link", "")
+                      asil = urllib.parse.parse_qs(urllib.parse.urlparse(link).query).get("url", [link])[0]
+                      ozet = re.sub(r"<[^>]+>", " ", g.get("summary", "")).strip()
+                      gorsel = g.get("news_image") or (g.get("media_content") or [{}])[0].get("url")
+                      yaz(f"  - {g.get('published', '')[:25]} | {g.get('news_source', '')} | {g.get('title', '')[:80]}")
+                      yaz(f"    asıl link: {asil[:100]}")
+                      yaz(f"    özet ({len(ozet)} karakter): {ozet[:160]}")
+                      yaz(f"    görsel: {str(gorsel)[:100]}")
+                      bilgi = sayfa_bilgisi(asil)
+                      yaz(f"    sayfa: metin {len(bilgi.get('metin') or '')} karakter | og:görsel: {str(bilgi.get('gorsel'))[:90]}")
+              except Exception:
+                  yaz(f"{sorgu}: HATA", traceback.format_exc()[-400:])
+          open("data/haber_kesif/kaynak.txt", "w").write("\n".join(rapor))
+          print("\n".join(rapor))
+          PYEOF
+      - name: Sonucu kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/haber_kesif
+          git commit -m "Kaynak kesif sonucu" || exit 0
+          git pull --rebase
+          git push
