@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-22T13:56:56.527199+00:00",
+ "guncelleme": "2026-10-22T14:13:35.523523+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "c41be3923286",
+   "baslik": "Yabancı bankalardan TCMB değerlendirmesi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T13:55:53+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/yabanci-bankalardan-tcmb-degerlendirmesi-3792278",
+     "tarih": "2026-10-22T13:55:53+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/22/ver1792677396/3792278/jpg/1280x720",
+   "yorum": "TCMB, Ocak ayından bu yana ilk kez repo faizini 100 baz puan indirerek %36 seviyesine çekti. Gecelik vadeli borç verme faiz oranı %40'tan %39'a, gecelik vadeli borçlanma faiz oranı ise %35,5'ten %34,5'e düştü. ING Başekonomisti Muhammet Mercan, bu indirimin enflasyon görünümüne dayalı ve gelecekte de devam edebileceğini belirtti. HSBC ekonomisti Melis Metiner, indirimin piyasa beklentileriyle uyumlu olduğunu ve enflasyon dinamiklerinin iyileşmeye devam ettiğini vurguladı. HSBC, yıl sonu enflasyon tahminlerini 2026 için %30, 2027 için %15 olarak tutarken, politika faizinin 2026 sonunda %35, 2027 sonunda %21 seviyelerine gerileyeceğini öngördü.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "d80e8886c7e9",
    "baslik": "Van’da klimalar kışın da ısıtma amacıyla tercih ediliyor İhlas Haber Ajansı",
@@ -4060,6 +4082,12 @@
      "ad": "Tamindir",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
      "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Turktime",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuYjh3RkFtaFR5WFI5b1JoUTFSNnpWSG5SMlkzbFB3TXpqdWZ4dXg1bUFXWGNTSzNlRjBSZHBjX19oSTJuRkljUm41NmdJRW41aF9fN2pHZkF1Q29WU29ycDlNX1hCWlZNaUg2b3FMVzJBS1VQ?oc=5",
+     "tarih": "2026-10-05T08:00:00+00:00",
      "guvenilir": false
     }
    ],
