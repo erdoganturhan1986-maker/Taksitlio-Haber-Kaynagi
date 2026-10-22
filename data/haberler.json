@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-22T12:08:21.502933+00:00",
+ "guncelleme": "2026-10-22T13:23:02.533567+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "df540763d2d9",
+   "baslik": "Bankacılıkta dikkat çeken tablo: Krediler artarken kart borçları geriledi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T12:29:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/bankacilikta-dikkat-ceken-tablo-krediler-artarken-kart-borclari-geriledi-haberi-844898",
+     "tarih": "2026-10-22T12:29:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/yeni-proje-99-rryu_cover.jpg",
+   "yorum": "Bankacılık sektöründe kredi hacmi 28,7 trilyon liraya yaklaşırken, mevduatlar 33 trilyon lirayı aştı. Son bir haftada tüketici kredileri artarken, bireysel kredi kartı borçları azaldı. Bu tablo, kredi talebindeki yön değişimini gösteriyor.",
+   "neden": "Kredi hacmindeki artış, taksitli alışveriş talebini artırabilir; kart borçlarındaki gerileme ise tüketicilerin kredi kartı yerine taksitli kredi kullanımına yönelme ihtimalini gösterir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "8491684254fb",
    "baslik": "Bankacılıkta mevduat 33,1 trilyon liraya ulaştı: Kredilerde artış, bireysel borçlarda gerileme",
@@ -132,6 +154,52 @@
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/turk-lirasi-sayan-dogal-eller-qjej_cover.jpg",
    "yorum": "Merkez Bankası, bugün yılın en kritik faiz kararlarından birini açıklayacak. Kararın enflasyon, döviz kuru ve kredi maliyetleri üzerindeki etkileri yakından izleniyor. Açıklamadan sonra faiz oranının yükselmesi ya da sabit kalması bekleniyor.",
    "neden": "Faiz kararları, tüketici kredilerinin maliyetini doğrudan etkileyerek Taksitlio üzerinden verilen alışveriş kredilerinin faiz seviyesini belirler.",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "7fe09662db7f",
+   "baslik": "Yurt içinde gözler TCMB'nin faiz kararına çevrildi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T06:02:35+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/yurt-icinde-gozler-tcmbnin-faiz-kararina-cevrildi/4096625",
+     "tarih": "2026-10-22T06:02:35+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-de-ocak-tan-bu-yana-ilk-faiz-indirimi-3792208",
+     "tarih": "2026-10-22T10:55:12+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-haberi-844883",
+     "tarih": "2026-10-22T11:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-3921686",
+     "tarih": "2026-10-22T11:17:34+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/merkez-bankasinin-9-ay-sonra-ilk-kez-faiz-indirmesi-ne-anlama-geliyor-haberi-926448",
+     "tarih": "2026-10-22T12:52:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/22/thumbs_b_c_f0356f1500e6afb6f9a442de770b8484.jpg",
+   "yorum": "Türkiye'de odak noktası, Merkez Bankası'nın faiz kararına kaydı. Ekonomistler, ABD'deki teknoloji şirketlerinin bilanço sonuçları ve yapay zeka yatırımlarının finansman riskleriyle birlikte, TCMB'nin para politikası adımlarını yakından izliyor. Karar, döviz ve varlık fiyatları üzerindeki belirsizliği artırabilir.",
+   "neden": "Faiz oranları, tüketici kredileri ve taksitli alışveriş maliyetlerini doğrudan etkilediği için Taksitlio'nun kredi tekliflerini ve talebi şekillendirir.",
    "gundem": true,
    "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
