@@ -140,7 +140,7 @@ def sayfa_html(haberler, simdi):
                         f'<button class="ok" data-yon="1" aria-label="{ad} ileri">›</button></div></div>'
                         f'<div class="serit" tabindex="0">{kartlar}</div></section>')
 
-    veri = {h["id"]: {"baslik": h["baslik"], "yorum": h["yorum"], "neden": h["neden"], "kat_ad": h["kat_ad"],
+    veri = {h["id"]: {"baslik": h["baslik"], "yorum": h["yorum"], "neden": "", "kat_ad": h["kat_ad"],
                       "renk": h["renk"], "koyu": h["koyu"], "gorsel": h.get("gorsel"), "yeni": h["yeni"],
                       "not": h["not_"], "kaynaklar": [{"ad": k["ad"].split(" | ")[0], "url": k["url"]} for k in h["kaynaklar"]]}
             for h in haberler}
