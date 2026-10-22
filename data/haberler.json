@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-22T14:13:35.523523+00:00",
+ "guncelleme": "2026-10-22T14:38:26.393420+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -170,7 +170,7 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/22/piyasalarda-guvensizlik-ve-belirsizlik-hakim-dr-nuri-sevgenden-borsa-ve-faiz-degerlendirmesi-3vp0_cover.jpg",
-   "yorum": "Dr.",
+   "yorum": "Dr. Nuri Sevgen, piyasalarda hâlâ güvensizlik ve belirsizlik hakim olduğunu belirterek borsa ve faiz durumunu değerlendirdi.",
    "neden": "",
    "gundem": false,
    "onem": 2,
@@ -518,17 +518,29 @@
    "marka": "Teknosa",
    "kategori": "elektronik",
    "oncelik": 1,
-   "tarih": "2026-10-21T10:45:40+00:00",
+   "tarih": "2026-10-21T11:00:09+00:00",
    "kaynaklar": [
     {
      "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUNpNGlJMS1fMkgtTHdpUlNtTUszUU1TOV9ldlRzR3VRVmlmVDF0dTl2bFFSVW9MZG9KVDZ6N09MQUtBcXdDVWt0czBwN3I3S0RHeTF0NVZpQkZCZWNXWVBGbHZZMXA1Z1pta253aDNIWEtmV0xHSEZKQXQ5SGM3Mk8tNmNVOFlxVVhZaS1YN1hlUUdvTUp1N0g5RnVkUzNJSVhqdGtQTQ?oc=5",
-     "tarih": "2026-10-21T10:45:40+00:00",
+     "url": "https://www.dha.com.tr/amp/ekonomi/teknosa-ile-digiturkten-televizyon-ve-dijital-yayin-paketi-alaninda-is-birligi-2966961",
+     "tarih": "2026-10-21T11:00:09+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEZQd3RoVVFyZ3cxd2xBZ1hYV211X21mckVxNXpPY1p6bWZuMWRCMjdDdkR0WFJyWlgxYWZYVmQ5OXZSYlcxci1zVzRXV2dmMVFQbTlfajdXNHljVmtqRHJWM2Z0eXVlcHFTMVBsRXZxQm9RNFRXRTRVOUlQUjMxeHdjUmtZcnA1RnMwMno1YThCOGtmWGFWU2tnMGZCTTI1TXRZNGtRUjlkMENIT3RjXzR5dTZxSUlrZnJMc3hGdThDRkJjMlhQRQ?oc=5",
+     "tarih": "2026-10-21T15:59:45+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Havadis",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGU0V0R2dkdCNGZTZWhGNExwXzMwZDBBcV9BVlBuVzFiVkN0cXZITXdUMVlfOWE5SG1GeXI4NU1zTzZWaXN3Vkg5QzFTSWJnQU9GNEpMYUZ1N1RvLV9IYjU5Ul9XV1JkZ2M2TXUzYzh1RHdleHZ4LXVtQjNQb3pxd0xRM0IwVU5UcWhRVWpwNkhkYmtFZmNnMlJnVkp0VVh5RHZwSXNGOTFsWG1PYjNIYjI0a3liUQ?oc=5",
+     "tarih": "2026-10-21T22:35:31+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
-   "yorum": "Teknosa, Digitürk ile televizyon ve dijital yayın paketi satışı konusunda iş birliği yaptı.",
+   "yorum": "Sabancı Holding iştiraki Teknosa, Digitürk ile ortaklık başlattı. Ortaklık kapsamında, Teknosa mağazalarında televizyon satın alan müşterilere dijital yayın paketleri ve kurulum hizmeti sunulacak. Müşteriler, televizyon seçiminde Digitürk paketleri hakkında bilgi alabilecek ve tek noktadan hizmet alabilecek. Teknosa, geniş mağaza ağıyla Digitürk'ün yayıncılık uzmanlığını birleştirerek alışveriş deneyimini zenginleştirmeyi hedefliyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
