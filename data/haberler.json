@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-22T08:15:52.465963+00:00",
+ "guncelleme": "2026-10-22T09:13:14.872439+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -50,6 +50,28 @@
    "neden": "Vestel'in değer odaklı strateji değişikliği, ürün fiyat ve stok yapısını etkileyerek taksitli satış hacmini ve Taksitlio'nun kredi talebini şekillendirebilir.",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "cd29b15a0228",
+   "baslik": "Merkez Bankasının faiz kararı bugün açıklanacak: Enflasyon ve maaş zamlarına dolaylı etkisi ne?",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T07:03:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/foto-galeri/ekonomi/merkez-bankasinin-faiz-karari-bugun-aciklanacak-enflasyon-ve-maas-zamlarina-dolayli-etkisi-ne-galeri-844846",
+     "tarih": "2026-10-22T07:03:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/turk-lirasi-sayan-dogal-eller-qjej_cover.jpg",
+   "yorum": "Merkez Bankası, bugün yılın en kritik faiz kararlarından birini açıklayacak. Kararın enflasyon, döviz kuru ve kredi maliyetleri üzerindeki etkileri yakından izleniyor. Açıklamadan sonra faiz oranının yükselmesi ya da sabit kalması bekleniyor.",
+   "neden": "Faiz kararları, tüketici kredilerinin maliyetini doğrudan etkileyerek Taksitlio üzerinden verilen alışveriş kredilerinin faiz seviyesini belirler.",
+   "gundem": true,
+   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
