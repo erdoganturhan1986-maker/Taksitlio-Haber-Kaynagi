@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-22T07:24:05.497066+00:00",
+ "guncelleme": "2026-10-22T08:15:52.465963+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "21f08159753b",
+   "baslik": "Piyasalarda 'güvensizlik' ve 'belirsizlik' hakim: Dr. Nuri Sevgen’den borsa ve faiz değerlendirmesi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T07:29:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/piyasalarda-guvensizlik-ve-belirsizlik-hakim-dr-nuri-sevgenden-borsa-ve-faiz-degerlendirmesi-haberi-926345",
+     "tarih": "2026-10-22T07:29:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/22/piyasalarda-guvensizlik-ve-belirsizlik-hakim-dr-nuri-sevgenden-borsa-ve-faiz-degerlendirmesi-3vp0_cover.jpg",
+   "yorum": "Dr. Nuri Sevgen, piyasalarda hâlâ güvensizlik ve belirsizlik hakim olduğunu belirterek borsa ve faiz durumunu değerlendirdi. Uzman, faiz oranlarındaki dalgalanmaların tüketici kredileri üzerindeki etkisine dikkat çekti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "e12c0961286c",
    "baslik": "Borç görüşmeleri süren Vestel hacimden değere yöneliyor",
@@ -14,6 +36,12 @@
      "ad": "Ekonomim",
      "url": "https://www.ekonomim.com/sirketler/borc-gorusmeleri-suren-vestel-hacimden-degere-yoneliyor-haberi-926339",
      "tarih": "2026-10-22T07:10:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/borc-gorusmeleri-suren-vestel-hacimden-degere-yoneliyor-3921630",
+     "tarih": "2026-10-22T07:25:18+00:00",
      "guvenilir": true
     }
    ],
@@ -192,6 +220,12 @@
      "ad": "Dünya",
      "url": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-bugun-aciklanacak-beklentiler-ne-yonde-haberi-844827",
      "tarih": "2026-10-22T05:40:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/ingden-faiz-ve-dolar-tahmini-yil-sonu-beklentilerini-acikladi-haberi-926347",
+     "tarih": "2026-10-22T07:36:00+00:00",
      "guvenilir": true
     }
    ],
@@ -3999,6 +4033,30 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG5LNXZJa1d6TElMTk1Bc3RjZGhHR09LUzN1eE12bm5XYlZPTzVzR2pOVnI5VXNSNFJvUUJKZFNqazg1YXMwZXg4VndtSUdFRkkxZWJ1YVg4TjVPUHRLdUpBUWVTWUN1cGVfQTRPaThyQWlMMkFYZGNMYXE0UlhiZkF5Z3ctb1hZMWRYN01GemtobV9ENUkwZXhFZGQxLUxxUEZsZnZxd1N6TzhFOEZBZVJ5VmpiMlNnZEdrTHpJSdIBwgFBVV95cUxPUXBMZVlOWF92QzJqZk1jWGE2aWxBZk11OFdkbDExSUxZeUNuc05DcXlJaTJrVmVrQmViUWRLdkFVbWdFcUtQVnVsVi1ZQS1aU2VyS3ZNSXJtVHJDbGdzVTI3VlVyekQ1c3RYSU15eXBCcG1yMTB5NUJXRG1sLVNranlyeDFWSmRLRFhLUDBsM0V4SWtsb2drbzBzUy1tRlVYUmlfTm5hbjhkSHktVE1HSUFrUWlLMHRoZUFtSlFYLTJuZw?oc=5",
      "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Yeni Journal, Haber, Haberler, Son Dakika Haberler, Güncel Haber",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWh6cE5PTDd6aHpnaE4ydkpfRVluNFBsMEdQeVV1dmpKUWlpX1hmanM5Zi1Ybm8zUXlMaG1sNzNNdDdKSnoxbGZNVzlVX21vNlRFU3NzMW92MEMwbF9ENjlDU2JPRC1kZ2FrSzFEQUFqVFo5d0F0eWNiSExURkROMHJsZG4wd1diNmszYmpIV2NPbURKWGFXNg?oc=5",
+     "tarih": "2026-10-02T17:54:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Medyaradar",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaGV1U0UwanZWSFp0NzBlV2tueDVTaTZib2U5bm1aQmplSVFQSUpiSTVqcEhYazBHSUItd1RXUm1GQTFQclF4b1A4TzhRMHFsSzdpQW5lZUlZbHlPTGZfSUZ6TXUwa3hFeDdTZGdMQ21XcVI2a25SaGRwLTE0Y2lFRzcwSmVGdjBCQ2xkVXdyTWJ1NVVjOTFzRXdhdHN2cXdQcUVETU1Bb2JNZXBTeE9hR3p0UjdOU3cxQTB1bnFKckJSZlYxX0FRMFlDNU1mZkU?oc=5",
+     "tarih": "2026-10-03T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bugün Kocaeli Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnRTVzdjRllXRWFTTFRCREY1cmxadGNCZUhzbmdsQXFJU0QtQmtNWmFFalNQQXk1VmpvVHQ0MnRzMkduRVhaTlBSN3V4c3lBb3E0M3hLeTI4RWlYSWpwSk5BRVlXUmthMUxjbXg1Z2diekJkT2JiUjRyLVYtNml3NzQyQmtWaFZ5ZlpLTmU0anpqekw2OWtBYXh6V1Y5MFN0a2YwQXBqQWkxY3hIc3k3UGNjeEE5blF0OFg0Rkxn?oc=5",
+     "tarih": "2026-10-04T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber3",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9sYXlIc3RWY213N0ZNcFdjOTRRRWFxV0IzQm83TTVGS2VBeEVsVk5RTndXSk1QUjEyclNYc1FPQUFTUVVFWnlzWXgybGVCT194WmJaNmlUSFpBMWwtclJmM3Z4cGJEWXdLd2xjT0pHQUI0UzBhd0Z4ZnV5Q1o4cGZBd2lfRUdwemsxRTc1SkhVMTJpNDJJQ0NuVFBLLTg3RVkyTG9BcUJUQ2hfZUpVem8zWG91emZoemczcw?oc=5",
+     "tarih": "2026-10-04T07:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -4114,6 +4172,12 @@
      "ad": "Tamindir",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
      "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Turktime",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuYjh3RkFtaFR5WFI5b1JoUTFSNnpWSG5SMlkzbFB3TXpqdWZ4dXg1bUFXWGNTSzNlRjBSZHBjX19oSTJuRkljUm41NmdJRW41aF9fN2pHZkF1Q29WU29ycDlNX1hCWlZNaUg2b3FMVzJBS1VQ?oc=5",
+     "tarih": "2026-10-05T08:00:00+00:00",
      "guvenilir": false
     }
    ],
