@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-22T19:14:45.696320+00:00",
+ "guncelleme": "2026-10-22T20:07:21.375862+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -4128,6 +4128,12 @@
      "ad": "Tamindir",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
      "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Alanya",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcHU4M3phRExPM2Q2SzVjbGo4Z3M4cE9FWl82VmhWWWxhdFRsVzB0cS1TSlpJZGFWYldFTElDOEo0ZDdsY3Izelo0TUZqYmIxT2IxVmRjcjNxckhMMkxzNVEybUdfcjlaQ1Brbm10TTdoX0dOcDVlb1J3c3QzUi1wa2xuRF9pSFVqRzlr?oc=5",
+     "tarih": "2026-10-03T07:00:00+00:00",
      "guvenilir": false
     }
    ],
