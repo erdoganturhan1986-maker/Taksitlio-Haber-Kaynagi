@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-22T17:08:08.274718+00:00",
+ "guncelleme": "2026-10-22T18:03:15.613201+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -4026,21 +4026,15 @@
    "id": "ee68b7e4bfcb",
    "baslik": "Cep telefonu kredi düzenlemesi: BDDK açıkladı! 2026 cep telefonu kredilerinde vade sınırı kaç ay?",
    "marka": "Sektör: cep telefonu",
-   "kategori": "finans",
+   "kategori": "telefon",
    "oncelik": 2,
-   "tarih": "2026-10-02T17:54:00+00:00",
+   "tarih": "2026-10-03T07:00:00+00:00",
    "kaynaklar": [
     {
      "ad": "Sabah",
      "url": "https://www.sabah.com.tr/yasam/cep-telefonu-kredilerinde-yeni-donem-bddk-acikladi-cep-telefonu-kredisi-kac-ay-oldu-7674251",
      "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": true
-    },
-    {
-     "ad": "Yeni Journal, Haber, Haberler, Son Dakika Haberler, Güncel Haber",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWh6cE5PTDd6aHpnaE4ydkpfRVluNFBsMEdQeVV1dmpKUWlpX1hmanM5Zi1Ybm8zUXlMaG1sNzNNdDdKSnoxbGZNVzlVX21vNlRFU3NzMW92MEMwbF9ENjlDU2JPRC1kZ2FrSzFEQUFqVFo5d0F0eWNiSExURkROMHJsZG4wd1diNmszYmpIV2NPbURKWGFXNg?oc=5",
-     "tarih": "2026-10-02T17:54:00+00:00",
-     "guvenilir": false
     },
     {
      "ad": "Medyaradar",
@@ -4053,19 +4047,13 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnRTVzdjRllXRWFTTFRCREY1cmxadGNCZUhzbmdsQXFJU0QtQmtNWmFFalNQQXk1VmpvVHQ0MnRzMkduRVhaTlBSN3V4c3lBb3E0M3hLeTI4RWlYSWpwSk5BRVlXUmthMUxjbXg1Z2diekJkT2JiUjRyLVYtNml3NzQyQmtWaFZ5ZlpLTmU0anpqekw2OWtBYXh6V1Y5MFN0a2YwQXBqQWkxY3hIc3k3UGNjeEE5blF0OFg0Rkxn?oc=5",
      "tarih": "2026-10-04T07:00:00+00:00",
      "guvenilir": false
-    },
-    {
-     "ad": "Haber3",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9sYXlIc3RWY213N0ZNcFdjOTRRRWFxV0IzQm83TTVGS2VBeEVsVk5RTndXSk1QUjEyclNYc1FPQUFTUVVFWnlzWXgybGVCT194WmJaNmlUSFpBMWwtclJmM3Z4cGJEWXdLd2xjT0pHQUI0UzBhd0Z4ZnV5Q1o4cGZBd2lfRUdwemsxRTc1SkhVMTJpNDJJQ0NuVFBLLTg3RVkyTG9BcUJUQ2hfZUpVem8zWG91emZoemczcw?oc=5",
-     "tarih": "2026-10-04T07:00:00+00:00",
-     "guvenilir": false
     }
    ],
    "gorsel": "https://iasbh.tmgrup.com.tr/23c0b0/1200/675/0/0/740/416?u=https://isbh.tmgrup.com.tr/sbh/2026/10/05/1791205149200.jpeg",
-   "yorum": "BDDK, 2026 yılı için cep telefonu kredilerinde uygulanacak vade sınırını açıkladı. Yeni düzenleme, tüketicilerin telefon alımlarında taksit süresini sınırlamayı hedefliyor. Açıklamada belirtilen maksimum vade süresi haberde yer alıyor. Bu düzenleme, telefon kredisi kullanan müşterileri doğrudan etkiliyor.",
+   "yorum": "BDDK, 2026 yılı için cep telefonu kredilerinde vade sınırını açıkladı.",
    "neden": "",
    "gundem": true,
-   "onem": 5,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -4074,7 +4062,7 @@
    "marka": "Samsung",
    "kategori": "telefon",
    "oncelik": 2,
-   "tarih": "2026-10-02T17:39:07+00:00",
+   "tarih": "2026-10-02T18:39:08+00:00",
    "kaynaklar": [
     {
      "ad": "Ekonomim",
@@ -4084,8 +4072,8 @@
     },
     {
      "ad": "Teknoblog",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UY2tPM3BjQ21QazBLV0kzZEp0TklKbkxhekszcjh5WndpaUxYSEthMUxoYU10RDdZbFo4Wno3QmJwaHZLTEJoUmVzYzloa1NEc3lmbHRWQ1ktQXFLYVlicGRZVUdZVHMtR0NNNzRmNVpRZGlXVzlnOXdPaw?oc=5",
-     "tarih": "2026-10-02T17:39:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQTGN0dm40UE9WdldTQjF6N01BbTlXejh2WUx6Y0xLT0I4cWtWNFNuMkVid0FwUjlLdkV4T1BkcFJnQWtiNTZFLXB5TC1PSDFrdjM0TVFpbTRsM1poenNEUGlFWGc3bENi?oc=5",
+     "tarih": "2026-10-02T18:39:08+00:00",
      "guvenilir": false
     },
     {
@@ -4119,12 +4107,6 @@
      "guvenilir": false
     },
     {
-     "ad": "Mavi Kocaeli",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzZ5bGEwVkJnYTB0ZExVc1BoMDl3TU9JaG40c1kyN2t2MU8wcEhNRm03XzV3cndpM3hXTXRZaXRmcExJelRCZzBON2JCU0hoaXhCY3BWMm9hcVdwaFFmblpUSUItbWJNeEh6YVJMeDJvTXl3NDREVzBHNFlWc2tmNWcyTTNRLTY2clBhWktjZ203NGxBbEdoeW1JMlRFUdIBowFBVV95cUxNeFAxSmotbDJkRlA4azFpSDBUQ3NvdVZzLUVhVTJxZ2xXYzZmeUZhQ2V6dy1xR3ZzdU5JQzNISkdURDJIX1BiOHpCVEhYY3dNaWJVVENHM185V080cXlWWG1rMzFLYktrNXRfS1g0LThFaVNiRmhpUW1iQ0c0RGQxVUFPS2VLUllOR0NvR0JyMGtiWkQ1RS13N0UwM3lzdG43T19B?oc=5",
-     "tarih": "2026-10-06T00:34:32+00:00",
-     "guvenilir": false
-    },
-    {
      "ad": "Kocaeli TV",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJoem5jZC10VnhHV3JoZk5PUF9ScllTM2VZNUtSbHljclpLNV9EalBTaXF6Z0MxbXQ4NjVLN01feVpUeHh3ZUUxWks2WjBXakNfcVcxeW9iNExuVDNZM1dFanB2RU1mdVVYUlpCMjlBVTNfMVZ3NVUxWGx0eFMxNDZNanF3V2M5VVdGN0ZQWTJPQzNQcnVxNFh5NA?oc=5",
      "tarih": "2026-10-06T07:00:00+00:00",
@@ -4147,16 +4129,10 @@
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
      "tarih": "2026-10-08T07:00:00+00:00",
      "guvenilir": false
-    },
-    {
-     "ad": "Turktime",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuYjh3RkFtaFR5WFI5b1JoUTFSNnpWSG5SMlkzbFB3TXpqdWZ4dXg1bUFXWGNTSzNlRjBSZHBjX19oSTJuRkljUm41NmdJRW41aF9fN2pHZkF1Q29WU29ycDlNX1hCWlZNaUg2b3FMVzJBS1VQ?oc=5",
-     "tarih": "2026-10-05T08:00:00+00:00",
-     "guvenilir": false
     }
    ],
    "gorsel": "https://img.ekonomim.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/03/samsung-galaxy-s26-serisine-iki-haftada-ikinci-zam-turkiye-fiyatlari-degisti-iste-zamli-fiyatlar-ur6r_cover.jpg",
-   "yorum": "Samsung, Türkiye pazarında Galaxy S26 serisinin fiyatını iki hafta içinde ikinci kez artırdı.",
+   "yorum": "Samsung Galaxy S26 serisinin Türkiye fiyatları iki hafta içinde ikinci kez zamlandı.",
    "neden": "",
    "gundem": false,
    "onem": 3,
