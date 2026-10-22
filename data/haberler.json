@@ -1,7 +1,47 @@
 {
- "guncelleme": "2026-10-22T10:11:48.504822+00:00",
+ "guncelleme": "2026-10-22T11:09:22.154454+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "9f1d89bbbe75",
+   "baslik": "TCMB'de Ocak'tan bu yana ilk faiz indirimi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T10:55:12+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-de-ocak-tan-bu-yana-ilk-faiz-indirimi-3792208",
+     "tarih": "2026-10-22T10:55:12+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-haberi-844883",
+     "tarih": "2026-10-22T11:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-haberi-926410",
+     "tarih": "2026-10-22T11:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/-merkez-bankasi-politika-faizini-100-baz-puan-indirerek-yuzde-36ya-cekti/4097070",
+     "tarih": "2026-10-22T11:02:03+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/22/ver1792666732/3792208/jpg/1280x720",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası, Ocak ayından bu yana ilk kez politika faizini 100 baz puan indirerek yüzde 36 seviyesine çekti. Aynı zamanda gecelik vadeli borç verme ve borçlanma faiz oranlarını da bir puan düşürdü. Karar, enflasyon verileri ve iç talep zayıflığı gibi ekonomik göstergelere dayanılarak alındı.",
+   "neden": "Faiz indirimi, tüketicilerin alışveriş kredisi maliyetlerini düşürerek taksitli satış talebini artırabilir.",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "21f08159753b",
    "baslik": "Piyasalarda 'güvensizlik' ve 'belirsizlik' hakim: Dr. Nuri Sevgen’den borsa ve faiz değerlendirmesi",
@@ -293,6 +333,12 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0ZQUTA5OVFfLU15WkptU2hxYkoycDdJQnZDbzZ0cGxxZFNtYUMtV29Ra2tvaVlaNnZhbXpjUXUtN3IzMFhGWC1sRUNCUGZDcW92STNsODRQNm1Sc2pOTV92RDRwc3VvbTNRenFHREw5bHd1cGExRHRMS3g3UFlTU2Z2Z2lxUHU2RWUwb290NHZaa1BCak1USnJjWnYwaDBDRURqWkxR?oc=5",
      "tarih": "2026-10-21T11:20:01+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Donanım Günlüğü",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51a0tOZzRpWlBOM0lIX1BUYk50WGMxZUMxOHZraXVLVmxSRUEzQTFOaG80VFBVMTcxaklwMV94UW15dUk2N2RRMGZTOWkxTG84d1FIbWJKRFh0c3JUZXN0RmNzazRQUHVnS0ZuSXQ5YThSX1BnVHBWSmp3ckw0UQ?oc=5",
+     "tarih": "2026-10-22T09:00:10+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
