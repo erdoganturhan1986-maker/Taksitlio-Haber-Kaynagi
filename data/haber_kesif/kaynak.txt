@@ -1,0 +1,15 @@
+=== 1) GOOGLE HABERLER LİNK ÇÖZME ===
+link: https://news.google.com/rss/articles/CBMif0FVX3lxTFBKOEhqUllvNldMS1RHNWZ4UWRXSVVLODF6QUxUW
+  sonuç: {'success': True, 'decoded_url': 'https://www.haberturk.com/ekonomi/samsung-ve-teknosadan-is-birligi-3920244'}
+link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1g4YmxEZDF6ai05Vlhjb2JBMWRLc2J6V2dEe
+  sonuç: {'success': True, 'decoded_url': 'https://www.technopat.net/2026/10/19/samsung-ve-teknosa-anlasti-telefon-alacaklari-neler-bekliyor/'}
+link: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XVVpPd3QtUjRuTi0wdW1GODNiaUc1SkVOdGU4V
+  sonuç: {'success': True, 'decoded_url': 'https://tr.tradingview.com/news/matriks:6839119:0/'}
+
+=== 2) BING HABERLER ===
+
+Teknosa: 0 haber | durum: 307
+
+Arçelik: 0 haber | durum: 307
+
+"alışveriş kredisi": 0 haber | durum: 307
