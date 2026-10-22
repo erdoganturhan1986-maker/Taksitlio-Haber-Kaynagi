@@ -20,7 +20,7 @@ YENI_OLAY_SINIRI = 60   # bir çalışmada AI'a gönderilecek en fazla yeni olay
 PAKET = 5               # AI'a tek seferde gönderilen olay sayısı
 # Değerlendirme sürümü: AI talimatı değişince kendiliğinden değişir ve haberler yeniden değerlendirilir
 # (eleme kuralları ayrıca her çıktıda yeniden uygulandığı için onların değişmesi yeniden değerlendirme gerektirmez)
-SURUM = hashlib.sha1(ai.TALIMAT.encode()).hexdigest()[:8]
+SURUM = hashlib.sha1((ai.TALIMAT + "haber-metni-2").encode()).hexdigest()[:8]
 
 # Yorumlardan çıkarılacak dolgu cümleleri: haberde olmayan tahmin ve genel değerlendirmeler
 DOLGU_CUMLE = re.compile(r"yaratabilir|izleyebilir|yakından izle|işaret ediyor|fırsatlar? (sunabilir|yarat)|önem taşı|"
