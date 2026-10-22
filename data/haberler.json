@@ -1,7 +1,57 @@
 {
- "guncelleme": "2026-10-22T05:10:17.681627+00:00",
+ "guncelleme": "2026-10-22T06:07:38.484721+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "7a0bd669149c",
+   "baslik": "A101 İNTERNETE ÖZEL “ALDIN ALDIN EKSTRA” KATALOĞU YAYINLANDI! (A101 22-28 EKİM)",
+   "marka": "Gündem",
+   "kategori": "ev",
+   "oncelik": 2,
+   "tarih": "2026-10-22T05:21:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/foto-galeri/aktuel/a101-internete-ozel-aldin-aldin-ekstra-katalogu-yayinlandi-a101-22-28-ekim-s1-galeri-926305",
+     "tarih": "2026-10-22T05:21:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/22/a101-internete-ozel-aldin-aldin-ekstra-katalogu-yayinlandi-a101-22-28-ekim-3zbu_cover.gif",
+   "yorum": "A101, 22‑28 Ekim tarihleri arasında internet üzerinden “ALDIN ALDIN EKSTRA” adlı özel bir katalog yayınladı. Katalogda, online alışverişe özel indirimli ürün ve kampanyalar yer alıyor.",
+   "neden": "A101’in çevrimiçi kampanyaları, tüketicilerin krediyle alışveriş yapma ihtimalini artırarak Taksitlio’nun işlem hacmini etkileyebilir.",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "04ee8d562f96",
+   "baslik": "Yurt içinde piyasaların gözü faiz kararında",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T04:58:17+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/merkez-bankasi-faiz-kararini-aciklayacak-beklentiler-ne-yonde-3921594",
+     "tarih": "2026-10-22T04:58:17+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/yurt-ici-piyasalarda-gozler-tcmbnin-faiz-kararinda-ekonomistler-ne-bekliyor-haberi-926301",
+     "tarih": "2026-10-22T05:14:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/22/ver1792644980/3921594/jpg/1920x1080",
+   "yorum": "Para Politikası Kurulu (PPK) bu yılın yedinci toplantısında faiz kararını açıklayacak. Ekonomistlerin büyük bir çoğunluğu, Merkez Bankası'nın politika faizini 100 baz puan indirerek yüzde 36'ya çekmesini bekliyor. JPMorgan ise Türkiye'deki siyasi gelişmelerin riskini artırdığını belirterek bu beklentiyi hafifletmiş ve enflasyon tahminlerini yükseltmiş.",
+   "neden": "Merkez Bankası’nın faiz seviyesi, tüketici kredilerinin maliyetini doğrudan etkileyerek Taksitlio’nun taksitli satış koşullarını belirler.",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "135f9028ea5d",
    "baslik": "Yurt içi piyasaların gözü faiz kararına çevrildi",
@@ -108,6 +158,12 @@
      "ad": "Bloomberg HT",
      "url": "https://www.bloomberght.com/merkez-bankasi-finansal-hesaplar-raporu-nu-acikladi-3792107",
      "tarih": "2026-10-21T12:03:27+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-bugun-aciklanacak-beklentiler-ne-yonde-haberi-844827",
+     "tarih": "2026-10-22T05:40:00+00:00",
      "guvenilir": true
     }
    ],
@@ -3749,6 +3805,12 @@
     {
      "ad": "Türkiye İş Dünyası Haberleri",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYTc4bC1iamdELTZtTkIzaWRNVE53cHRxMkMxQkQ3WC01LUdqR0J0MnVLSjJBWU1GX2M0cFJkVDZoSEpFbGxUcTBUd3VJSHl2V1VwR25BQXRTeUxPZVhqZm9Bd0NoYXNUWG1uT1VlalUyMlBOc3M1NC01OHpsNmVZMHRR?oc=5",
+     "tarih": "2026-10-07T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Investing.com Türkiye",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHdOekZVcGNQVjZZUDk5T25ycjNRYnBpMGl1SENPUjZrOVUxZUxwR1VuZzlJUmNKbjVhOGQtbFdfMXEwdnE1dkZMdzloSzc5aEd5WkdQNWlaZ3B5R1FOTDE5c3hvN3VlakF4cWgwRHFFOWw1RkZjaEsyNy0tcVo0Z25vbVIwZFlIRmxZNVg5Q1RaS1h5eE5qNEhYT080OW9M?oc=5",
      "tarih": "2026-10-07T07:00:00+00:00",
      "guvenilir": false
     }
