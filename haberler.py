@@ -18,7 +18,8 @@ CIKTI, ONBELLEK = "data/haberler.json", "data/haber_onbellek.json"
 GUN = HABER_GUNU        # en fazla bu kadar gün geriye gidilir (haber_ayar.py'den)
 YENI_OLAY_SINIRI = 60   # bir çalışmada AI'a gönderilecek en fazla yeni olay
 PAKET = 5               # AI'a tek seferde gönderilen olay sayısı
-SURUM = 4               # kurallar ya da AI talimatı değişince artırılır; eski değerlendirmeler yenilenir
+# Değerlendirme sürümü: AI talimatı ya da eleme kuralları değişince kendiliğinden değişir ve haberler yeniden değerlendirilir
+SURUM = hashlib.sha1((ai.TALIMAT + ELEME.pattern).encode()).hexdigest()[:8]
 SIMDI = datetime.now(timezone.utc)
 
 
