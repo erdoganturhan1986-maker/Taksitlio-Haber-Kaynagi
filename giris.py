@@ -49,7 +49,7 @@ def kredi_grafigi():
     if d.empty:
         return
     st.subheader("Aylık Tüketici Kredileri Gelişimi")
-    seri = st.radio("Kredi türü", SERILER, horizontal=True, label_visibility="collapsed")
+    seri = st.radio("Kredi türü", SERILER, horizontal=True, label_visibility="collapsed", index=1)
     d = d[d["seri"] == seri].sort_values("tarih")
     son = d.iloc[-1]
 
