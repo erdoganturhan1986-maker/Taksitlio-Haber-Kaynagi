@@ -11,7 +11,7 @@ import streamlit as st
 from giris import AY, RENK, VURGU, ay_endeksi, tr, tufe_verisi
 
 KLASOR = Path(__file__).parent / "data"
-SERILER = ["İhtiyaç kredileri", "Bireysel kredi kartları", "Tüketici kredileri (toplam)", "Konut kredileri"]
+SERILER = ["Tüketici kredileri (toplam)", "İhtiyaç kredileri", "Konut kredileri", "Bireysel kredi kartları"]
 
 
 @st.cache_data(ttl=3600)
@@ -38,7 +38,7 @@ def npl_grafigi():
         return
     st.subheader("Takipteki Alacaklar ve NPL Oranı")
     secenekler = [s for s in SERILER if s in set(d["seri"])]
-    seri = st.radio("NPL kredi türü", secenekler, horizontal=True, label_visibility="collapsed", key="npl_seri")
+    seri = st.radio("NPL kredi türü", secenekler, horizontal=True, label_visibility="collapsed", key="npl_seri", index=secenekler.index("İhtiyaç kredileri") if "İhtiyaç kredileri" in secenekler else 0)
     d = d[d["seri"] == seri].sort_values("tarih")
     son = d.iloc[-1]
 
