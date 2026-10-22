@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-22T18:03:15.613201+00:00",
+ "guncelleme": "2026-10-22T19:14:45.696320+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3213,6 +3213,12 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOXpuY09fR0YwdDdxSk9JYU5ZdU4taHhBcGh2ZnFWS0htV0VGZC1LbU02QVdiRmRxUGMwaGF4SkdfUjZsMGw0NmVmWll3WW1SbXNaMFVjejgtOVZ3ZEl0Zk1XYTZWMC1EY0FhSXZ4cE5aM0ZmNll3MGZLX1JlTnhNTkNLcjI5UTZvRzhwV2dXUdIBlAFBVV95cUxPWlN0VjFUVGdiTmdoZUtMWktGZTRsNzJJYy1hMUlTbWwxVjl4R2h6VlNCazVNYmJjNjVMN0ZDaXR5RmwtUEhGSGtrem0ycFVrUEMxSFJNcm15ZlZQUU96S1JiWHJhQ3lMVGxhOXhsa2lsTy1Sb25CM3NCaGgydjZDanNSU1BNcnNEQndEM2RGd2w0Q1k1?oc=5",
      "tarih": "2026-10-18T09:00:01+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "https://www.ensondakika.com.tr/",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUNHS2ZFaWxEdXVKSlVtdkowdXV5VzNfSlRjcUNqRmJ4eF91YXEyTWxVNjIxcjdrUThiaEV1S2xNbnBaaHJJVGJTdlozcEkwc3gtWGUzT2lzd0p6SHRJOEJYb3lfTzE1ZmZsaU5TVmF0cE5QTWc1VzdFLTVqak1TYWZoY0YyXzhzb1gzLXRSTHJ0NDY3?oc=5",
+     "tarih": "2026-10-15T13:17:53+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/yeni-proje-2026-10-12t100724-mwuu_cover.jpg",
@@ -4062,7 +4068,7 @@
    "marka": "Samsung",
    "kategori": "telefon",
    "oncelik": 2,
-   "tarih": "2026-10-02T18:39:08+00:00",
+   "tarih": "2026-10-03T07:00:00+00:00",
    "kaynaklar": [
     {
      "ad": "Ekonomim",
@@ -4072,14 +4078,8 @@
     },
     {
      "ad": "Teknoblog",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQTGN0dm40UE9WdldTQjF6N01BbTlXejh2WUx6Y0xLT0I4cWtWNFNuMkVid0FwUjlLdkV4T1BkcFJnQWtiNTZFLXB5TC1PSDFrdjM0TVFpbTRsM1poenNEUGlFWGc3bENi?oc=5",
-     "tarih": "2026-10-02T18:39:08+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Yeni Alanya",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcHU4M3phRExPM2Q2SzVjbGo4Z3M4cE9FWl82VmhWWWxhdFRsVzB0cS1TSlpJZGFWYldFTElDOEo0ZDdsY3Izelo0TUZqYmIxT2IxVmRjcjNxckhMMkxzNVEybUdfcjlaQ1Brbm10TTdoX0dOcDVlb1J3c3QzUi1wa2xuRF9pSFVqRzlr?oc=5",
-     "tarih": "2026-10-03T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTBnUWN5STkxN3ZMQjBlYkt0WFZPd3lPUUVNOS1EV0FsVURzdDNheHNYYnBvSXhWbFZlQVFhNnhWbUVWVFNrQ0ZoaXQwdzZ3SGY2Y3ZwcXNFZzNMbFM2bTNmeVUyeDNJRlFIbTdVeWE5aTNyNUQ0UzQ0bmNHSVZLNVZraUtPbURm?oc=5",
+     "tarih": "2026-10-04T07:00:00+00:00",
      "guvenilir": false
     },
     {
@@ -4132,7 +4132,7 @@
     }
    ],
    "gorsel": "https://img.ekonomim.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/03/samsung-galaxy-s26-serisine-iki-haftada-ikinci-zam-turkiye-fiyatlari-degisti-iste-zamli-fiyatlar-ur6r_cover.jpg",
-   "yorum": "Samsung Galaxy S26 serisinin Türkiye fiyatları iki hafta içinde ikinci kez zamlandı.",
+   "yorum": "Samsung, Galaxy S26 serisine iki hafta içinde ikinci fiyat zamını uyguladığını duyurdu. Bu zam, Türkiye pazarındaki satış fiyatlarını etkiledi.",
    "neden": "",
    "gundem": false,
    "onem": 3,
