@@ -91,7 +91,7 @@ ELEME = re.compile(
     r"\byaralı|\bkaza(?!n)|\byangın|\bhırsız|\bgasp|\bsoygun|\bşüpheli|\bmahkeme|\bdava aç|\biddianame|"
     r"\bemekli promosyon|\bmaaş promosyon|\bkap \*|fon toplam gider|portföy dağılım|katılım fonu|yatırım fonu|"
     r"\bbasketbol|\bfutbol|\bvoleybol|\bmaç(ı|ta|tan|lar|ın)?\b|\bşampiyon|\bburs\b|\bteknofest|"
-    r"hedef fiyat|\btemettü|"
+    r"hedef fiyat|\btemettü|\brezerv|"
     r"\bne zaman\b|saat kaçta|hangi tarihte|hangi gün|kimler alabilir|nasıl başvuru|nasıl yapılır|\bnedir\?|"
     # iş ortağı olmayan perakendeciler ve aktüel ürün haberleri
     r"\bbim\b|\ba101|\bşok market|\bşok aktüel|\bşok'|\bmigros|\bcarrefour|\baktüel")
