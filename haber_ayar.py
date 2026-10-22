@@ -10,7 +10,7 @@ KATEGORILER = {  # anahtar: (görünen ad, renk, koyu renk)
     "elektronik": ("Büyük elektronik", "#1d4ed8", "#0b1b3a"),
     "beyaz": ("Beyaz eşya ve ev elektroniği", "#0369a1", "#082f49"),
     "telefon": ("Telefon ve telekom", "#7c3aed", "#2e1065"),
-    "finans": ("Banka ve finans kampanyaları", "#0f766e", "#042f2e"),
+    "finans": ("Banka ve Finans Haberleri", "#0f766e", "#042f2e"),
     "mobilya": ("Ev mobilyası", "#9a3412", "#431407"),
     "ev": ("Ev, mutfak ve yapı", "#be123c", "#4c0519"),
     "iklim": ("Isıtma ve soğutma", "#4d7c0f", "#1a2e05"),
