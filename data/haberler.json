@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T05:07:15.298522+00:00",
+ "guncelleme": "2026-10-23T06:06:29.543176+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -212,6 +212,12 @@
      "ad": "Habertürk",
      "url": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-3921686",
      "tarih": "2026-10-22T11:17:34+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/kuresel-ekonomi/avrupa-merkez-bankasi-faiz-artiracak-mi-iste-beklentiler-haberi-926551",
+     "tarih": "2026-10-23T05:49:00+00:00",
      "guvenilir": true
     }
    ],
