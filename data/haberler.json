@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-23T06:06:29.543176+00:00",
+ "guncelleme": "2026-10-23T07:22:33.666529+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "ce81e161e5e0",
+   "baslik": "Finans sektöründe güven geriledi: Üç alanda birden düşüş",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-23T07:04:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomik-veriler/finans-sektorunde-guven-geriledi-uc-alanda-birden-dusus-haberi-844987",
+     "tarih": "2026-10-23T07:04:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/23/gorsel-2026-10-23-100751287-nkup_cover.jpg",
+   "yorum": "TCMB, Ekim 2026 Finansal Hizmetler Güven Endeksi'ni 155,2 olarak açıkladı; bu, bir önceki aya göre 3,2 puan düşüş anlamına geliyor. Ankete katılan 150 kuruluşun değerlendirmelerine göre iş durumu ve hizmet talebindeki zayıflama endeksin gerilemesine yol açtı. Gelecek üç ay için hizmet talebi beklentisi ise hafif bir iyileşme sinyali verdi. Aynı dönemde istihdam artışı beklentileri de zayıfladı, ancak kârlılık beklentileri bir miktar güçlendi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "09948da9509a",
    "baslik": "Merkez’den 100’lük indirim geldi bir ‘100’ puan daha bekleniyor",
@@ -4041,46 +4063,18 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
-   "id": "a70f545dd532",
-   "baslik": "40 bin TL altı cep telefonuna 12 taksit",
-   "marka": "Sektör: cep telefonu",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-10-03T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Sabah",
-     "url": "https://www.sabah.com.tr/ekonomi/40-bin-tl-alti-cep-telefonuna-12-taksit-7672525",
-     "tarih": "2026-10-03T07:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://iasbh.tmgrup.com.tr/1ea6f7/1200/675/0/19/446/269?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/40-bin-tl-alti-cep-telefonuna-12-taksit-1790969857985.jpeg",
-   "yorum": "40 bin TL altında fiyatı bulunan cep telefonları için 12 ay taksit imkanı sunuluyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
    "id": "ee68b7e4bfcb",
    "baslik": "Cep telefonu kredi düzenlemesi: BDDK açıkladı! 2026 cep telefonu kredilerinde vade sınırı kaç ay?",
    "marka": "Sektör: cep telefonu",
    "kategori": "telefon",
    "oncelik": 2,
-   "tarih": "2026-10-03T07:00:00+00:00",
+   "tarih": "2026-10-04T07:00:00+00:00",
    "kaynaklar": [
     {
      "ad": "Sabah",
      "url": "https://www.sabah.com.tr/yasam/cep-telefonu-kredilerinde-yeni-donem-bddk-acikladi-cep-telefonu-kredisi-kac-ay-oldu-7674251",
      "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": true
-    },
-    {
-     "ad": "Medyaradar",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaGV1U0UwanZWSFp0NzBlV2tueDVTaTZib2U5bm1aQmplSVFQSUpiSTVqcEhYazBHSUItd1RXUm1GQTFQclF4b1A4TzhRMHFsSzdpQW5lZUlZbHlPTGZfSUZ6TXUwa3hFeDdTZGdMQ21XcVI2a25SaGRwLTE0Y2lFRzcwSmVGdjBCQ2xkVXdyTWJ1NVVjOTFzRXdhdHN2cXdQcUVETU1Bb2JNZXBTeE9hR3p0UjdOU3cxQTB1bnFKckJSZlYxX0FRMFlDNU1mZkU?oc=5",
-     "tarih": "2026-10-03T07:00:00+00:00",
-     "guvenilir": false
     },
     {
      "ad": "Bugün Kocaeli Gazetesi",
@@ -4090,92 +4084,10 @@
     }
    ],
    "gorsel": "https://iasbh.tmgrup.com.tr/23c0b0/1200/675/0/0/740/416?u=https://isbh.tmgrup.com.tr/sbh/2026/10/05/1791205149200.jpeg",
-   "yorum": "BDDK, 2026 yılı için cep telefonu kredilerinde vade sınırını açıkladı.",
+   "yorum": "BDDK, 2026 yılı için cep telefonu kredilerinde uygulanacak vade sınırını belirlediğini duyurdu. Yeni düzenleme, telefon alımlarında kredi taksit süresinin üst limitini belirleyerek tüketici kredisi piyasasını etkileyecek.",
    "neden": "",
    "gundem": true,
    "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "58ff73c06900",
-   "baslik": "Samsung Galaxy S26 serisine iki haftada ikinci zam: Türkiye fiyatları değişti",
-   "marka": "Samsung",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-10-03T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/sektorler/teknoloji/samsung-galaxy-s26-serisine-iki-haftada-ikinci-zam-turkiye-fiyatlari-degisti-iste-zamli-fiyatlar-haberi-922272",
-     "tarih": "2026-10-03T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Teknoblog",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTBnUWN5STkxN3ZMQjBlYkt0WFZPd3lPUUVNOS1EV0FsVURzdDNheHNYYnBvSXhWbFZlQVFhNnhWbUVWVFNrQ0ZoaXQwdzZ3SGY2Y3ZwcXNFZzNMbFM2bTNmeVUyeDNJRlFIbTdVeWE5aTNyNUQ0UzQ0bmNHSVZLNVZraUtPbURm?oc=5",
-     "tarih": "2026-10-04T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Genç Gazete",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFpkbXRUYXY4Q1c2dzBDNW0wMXhRN1dnNGVuOG5hYmhEbjY3MGlJQ1A0Q0VaNUY5TFBWdG5KSkpkN3RERDBkY05vVE9SazFKOXFyYkNIbGpSZGQyb1JzSE10RXZVMF9VVk1ibDY0bG5OUENMZEdlR2xzd3IwX21kdTQ5V3p6VDd1VzlJTzQ2OEExQ2pTV2R4M092TGJ5Ul9hUGt1eVJ3?oc=5",
-     "tarih": "2026-10-05T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Ensonhaber",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXpuYVVFMDdDMm9TNmZTZVFlQTRLajFoVTcwTTMwYTN5NThaeDNpYUxmelkxN1FEb2dPN21Pb3ZyanJzYW4zRzR2Y0ZWbTN0SFUwSURjZml4dWVtNDFxZmdJZGlqYm9RTGNwd2ZtTmdDSTRFQ2xRMFJrcTVyRGNScFR1MHRuTkNkdTdFYlZGYWZnVVJ1eS0zMTIwYlFRdjg?oc=5",
-     "tarih": "2026-10-05T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Yeni Bakış Gazetesi İzmir",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1VNYTNPa0E4QkFiVVRvSG5ScmUwRUtNQVp6SklNblh6OFJOTHVLRVF5ZFhVemZDOExzOG9PVzhhRC1Bd25SaWVjN3hYVWZzdW1SWHVpTW9QSWZlX1pVcGI4VXk1ZzVtdUpSeGJ6WkJFbS1ZZEtQMHYwQmpxQld6WklVeFphTXV6VlNaemNmZ1U4dw?oc=5",
-     "tarih": "2026-10-05T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "FinansTaksi",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZU12ODdLZ2ppNFZjenVUdkxNbGVvYnNDSGlGbkJUNlJwWmpTUXVfTG1EU0ZKdW1aYXB0NU4wU0lyMTNtRDZEcXNYaWt2dlBvT3lZSWkxSGl2cllUeUV0SkVuaHY0cGFkU1hwVEl4bVAwclBRemJwWHdRQXlIV2lZZTFjYUTSAYoBQVVfeXFMT0Roalo1LXV1djFHMEJFMlZYVnRpZXozbjVBSFd2VXl4d3FHSTJpdXlzMTVDOGswTWlXeHV6ZktZWXBWSjhNM2ZQOVZPYUhseUlHNWtJU0NnY0JXa3QyV3AxZGZQV3ZDTTlCeHVjczMyb3pLZDBhdWROTFBfMk9FVHdxZFJhWnl6M1dR?oc=5",
-     "tarih": "2026-10-05T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Kocaeli TV",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJoem5jZC10VnhHV3JoZk5PUF9ScllTM2VZNUtSbHljclpLNV9EalBTaXF6Z0MxbXQ4NjVLN01feVpUeHh3ZUUxWks2WjBXakNfcVcxeW9iNExuVDNZM1dFanB2RU1mdVVYUlpCMjlBVTNfMVZ3NVUxWGx0eFMxNDZNanF3V2M5VVdGN0ZQWTJPQzNQcnVxNFh5NA?oc=5",
-     "tarih": "2026-10-06T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Teknoloji haberleri - LOG",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0hUWHpmMmNqQmZiQXVrZE45bjJNXzVLcktzbFJjOW1VY0lZc1lKWm1Pc1ZMRXRCTUtaR182TWlEZzRXSTdXNHFhV2Y0aElwX3pzam1MQWNVd21oMkxWRFRXVmpoRzF3MC05cjJWTFUzN05aOTgwTFNibWRGb2pPdWxadDQ?oc=5",
-     "tarih": "2026-10-07T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Webtekno",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR29JbHZ2SE53MkFLT0cwRkJZQmtET2tGajZRRFBhMjd6cnJ5RkFQYlBHTE1iUmdmUkR2OXc3Q196RTYxZGNTSHgwbGJHa1R0MlM1TmNGdlRmWGZfSjZFbjREdXFOMWtCTGNadUJKS2NqR3U5MmNDaHJQRy1nbFhpVENSVQ?oc=5",
-     "tarih": "2026-10-07T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Tamindir",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHYyYVNmeHZCcVpncmdVQ2FBYWJjejBUUlBVamliTlR6aUpMS203Y2tlalhuN2ZTNzhUTXVkeFpNWTkxaXg3LU1INFBIa1AxN3JXYzZVRllBYlIwUTg3RThWMC1BcXE4Zm5jdmpZU19JN0ZGa29uNU03TWdXZVRfYmViRkQ2d1NpVWc?oc=5",
-     "tarih": "2026-10-08T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Yeni Alanya",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcHU4M3phRExPM2Q2SzVjbGo4Z3M4cE9FWl82VmhWWWxhdFRsVzB0cS1TSlpJZGFWYldFTElDOEo0ZDdsY3Izelo0TUZqYmIxT2IxVmRjcjNxckhMMkxzNVEybUdfcjlaQ1Brbm10TTdoX0dOcDVlb1J3c3QzUi1wa2xuRF9pSFVqRzlr?oc=5",
-     "tarih": "2026-10-03T07:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/03/samsung-galaxy-s26-serisine-iki-haftada-ikinci-zam-turkiye-fiyatlari-degisti-iste-zamli-fiyatlar-ur6r_cover.jpg",
-   "yorum": "Samsung, Galaxy S26 serisine iki hafta içinde ikinci fiyat zamını uyguladığını duyurdu. Bu zam, Türkiye pazarındaki satış fiyatlarını etkiledi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
