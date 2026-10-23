@@ -1,7 +1,57 @@
 {
- "guncelleme": "2026-10-23T12:04:13.508022+00:00",
+ "guncelleme": "2026-10-23T13:17:51.509401+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "30345ca9d9df",
+   "baslik": "Vatandaş karta yüklendi, 2025'e göre yüzde 35 arttı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-23T13:02:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/vatandas-karta-yuklendi-2025e-gore-yuzde-35-artti-haberi-845044",
+     "tarih": "2026-10-23T13:02:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/kartli-odemeler-eylulde-3-trilyon-liraya-yaklasti-haberi-926668",
+     "tarih": "2026-10-23T13:15:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/23/depositphotos-333333802-l-lqju_cover.jpg",
+   "yorum": "Türkiye'de eylül ayında kartlı ödemeler geçen yılın aynı dönemine göre %35 artarak 2,965,5 milyar liraya ulaştı. İşlem sayısı 1,95 milyar olarak gerçekleşti. Kredi kartları toplam tutarın %30'unu oluştururken mağazalarda temassız ödemeler %80 oranında tercih edildi. Kredi kartı sayısı %11 artış gösterdi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "3817a6b3a70b",
+   "baslik": "İbrahim Özhan: “Faiz indiriminin iş dünyasına yansıması önemli”",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-23T12:31:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sehirler/ibrahim-ozhan-faiz-indiriminin-is-dunyasina-yansimasi-onemli-haberi-926663",
+     "tarih": "2026-10-23T12:31:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/23/ibrahim-ozhan-faiz-indiriminin-is-dunyasina-yansimasi-onemli-jrtz_cover.jpg",
+   "yorum": "İbrahim Özhan, faiz indiriminin iş dünyasına yansımalarının önemli olduğunu vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "efbf8c1c1c1b",
    "baslik": "Daikin'den küçük ölçekli projelere yönelik iklimlendirme çözümü",
