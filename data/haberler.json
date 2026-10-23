@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-23T08:13:39.263156+00:00",
+ "guncelleme": "2026-10-23T09:10:51.084716+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "4cdf0655d770",
+   "baslik": "Piyasanın tahmini yükseldi,  halkın beklentisi geriledi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-23T07:07:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/piyasanin-tahmini-yukseldi-halkin-beklentisi-geriledi-haberi-844988",
+     "tarih": "2026-10-23T07:07:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/23/dusen-piyasada-madeni-para-yiginlar-zu59_cover.jpg",
+   "yorum": "TCMB, Ekim 2026 Sektörel Enflasyon Beklentileri raporunda, hanehalkının 12 ay sonrası enflasyon beklentisinin %45,60'tan %43,75'e gerilediğini bildirdi. Reel sektör beklentisi ise %32,50'den %31,80'e düştü. Piyasa katılımcılarının beklentisi ise %23,70'ten %23,89'a hafif bir artış gösterdi. Enflasyonun düşeceğini öngören hanehalkı oranı da %16,25'ten %16,56'ya yükseldi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "ce81e161e5e0",
    "baslik": "Finans sektöründe güven geriledi: Üç alanda birden düşüş",
@@ -196,6 +218,28 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "ac33b7db5cd2",
+   "baslik": "Merkez Bankası'ndan faiz indirimi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-22T11:17:34+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-3921686",
+     "tarih": "2026-10-22T11:17:34+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/22/ver1792667388/3921686/jpg/1920x1080",
+   "yorum": "TCMB Para Politikası Kurulu, bir hafta vadeli repo faiz oranını %37'den %36'ya, gecelik borç verme faizini %40'tan %39'a ve gecelik borçlanma faizini %35,5'ten %34,5'e düşürdü. Bu karar, yıl içinde ikinci kez faiz indirimine gidildiğini ve toplamda 200 baz puanlık bir azalış gerçekleştiğini gösteriyor. Karar metninde enflasyonun ana eğilimindeki gerileme ve ekonomik verilerin sınırlı fiyat etkisi vurgulandı. Yeni faiz seviyelerinin enflasyonla mücadelede daha esnek bir politika izlenmesine hizmet edeceği belirtildi.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -3936,19 +3980,19 @@
    "kaynaklar": [
     {
      "ad": "CNBC-e",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFUxaWVLSWNNVzkwZTBCU0RubUZhTUNKTW5xWFNBVHJGcm5HZ0FyVm1zZ19XY0p1M0dMM0czeWt0aXJqOG8zR1c4YXZvVG41YVlaZHpoX2V5OHJjcWF5bVhzSjlsX09nZy12VzltUWhRcVFLbGJJeU4za2tfXzVETkRCdkh1TERobjdXM2dPdUt5NWpkajBCU1pqSXJUZmljLXpvUmFkZFdrcFA0ZEFaNVlDVl9ZOHdKODk5NWFPYw?oc=5",
+     "url": "https://www.cnbce.com/teknoloji/avrupada-en-cok-satan-telefon-markasi-belli-oldu-bir-markanin-satisi-yuzde-90-artti-h38944",
      "tarih": "2026-10-07T15:16:39+00:00",
      "guvenilir": true
     },
     {
      "ad": "Haber Gündemim",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREhOY2pJd0ZuMml6Y3VMaFVEMjhsemZlR2x5d2JZNHFjbUh3SVA0VlR1RzUxZHdfaUd2LWU5TGJZVTNKanlBVWJoOFlBZVl6QzhWR184QUZhUnVxSFZTX0dYclNwNlN4bUNmaWxIXzF4NURyOFhGeFU5djRXaFdIVDVUVVlxQXUzNXVRbW1nMnIxYVJZOEM4SHIzb1BXaF9Z?oc=5",
-     "tarih": "2026-10-08T08:09:59+00:00",
+     "tarih": "2026-10-08T07:00:00+00:00",
      "guvenilir": false
     }
    ],
-   "gorsel": null,
-   "yorum": "Avrupa pazarında en çok satan telefon markası açıklandı ve ilgili markanın satışları yüzde 90 oranında artış gösterdi.",
+   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/04/21/telefon-stok-istock-1-vw2b.jpg",
+   "yorum": "Counterpoint Research verilerine göre, 2026’nın ikinci çeyreğinde Avrupa akıllı telefon pazarında toplam satışlar yüzde 8 azalsa da operatör kanalı üzerinden yapılan satışlardaki düşüş sadece yüzde 4 oldu. Bu durum, tüketicilerin operatörlerin sunduğu kampanya ve taksit seçeneklerine yönelmesinin bir göstergesi. Operatör satışlarında Apple, yüzde 4 puan artışla payını yüzde 37’ye çıkararak Samsung’un yüzde 5 puan gerilemesiyle yüzde 34’e düşen payının önüne geçti. Aynı dönemde Vivo satışları yüzde 90, Motorola ise yüzde 27 artış gösterdi. Üst segment telefonların fiyatlarının yükselmesi, tüketicileri taksitli satın almaya yönlendiriyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
