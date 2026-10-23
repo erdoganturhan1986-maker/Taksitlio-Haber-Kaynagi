@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T20:01:17.507585+00:00",
+ "guncelleme": "2026-10-23T21:06:03.622713+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -324,6 +324,30 @@
      "ad": "kayseri gürhaber",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjNHMFhTZFdwaW1VZmFhcDV3VnlMdk56dkVjX1NWS3JsZkpIa25CRXdzOU1uQnBBb2RUd0dEb2R6REY4S2wxOWEzYlU1U1VIb0s5aVpQNlowUGoxQUlQTEV0M3hveUhiNDFockhOWGhOcVhBNVhtVWVCa0VCbFRBVEpFMEVENnprcUJ4TXdpZGd2c0NkeFHSAZYBQVVfeXFMTWIzRzBYU2RXcGltVWZhYXA1d1Z5THZOenZFY19TVktybGZKSGtuQkV3czlNbkJwQW9kVHdHRG9kekRGOEtsMTlhM2JVNVNVSG9LOWlaUDZaMFBqMUFJUExFdDN4b3lIYjQxaHJITlhoTnFYQTVYbVVlQmtFQmxUQVRKRTBFRDZ6a3FCeE13aWRndnNDZHhR?oc=5",
      "tarih": "2026-10-22T13:49:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "https://www.ajansturkhaber.com/",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSUxZWmRKOUZaYmpvdW9fV3YyXzZJeWNxRk9yY202Q2JZME1iN3ZYVjUyc1pyZUhkbnNYOUtjN01XaXBJMHZpX2l3blhrM1FlejBYTkx3dGR0eWI0QkVuWllNb0w4c0UxV1lRc3pyM01aWjBwRXp6ZXZlQUppb19kdWZ1QkNlRjZ6cU9jRHFQNXFlTDg?oc=5",
+     "tarih": "2026-10-22T13:43:16+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Erzurum Günebakış",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOalgtSk1EMUVWM0RpdWlKOEtQd0doN3ZVNVBFYUczT2JUVmNzTVExcEZ0dktJOVIySzQ0Qk12MW56R0p6OGlxMFIzYzJVMVl3QlFmWUY0WDBsWGs4c3lZYlNGVGgtMzNobGNVSjNoWUc4LXJDd19vaEtxbWxvRmR0Z3pmRVhwRlVfNnFZMnBTSEJiUWNjakVXR2dXeEQyMmtDWkU0?oc=5",
+     "tarih": "2026-10-22T14:04:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Saray Medya",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXduVW5NdVFudjR0d25lYWEyT3d2VjhQbGhTQkxKVHhnLXdRTjFCLXU0cFltYzMzdXZrSkRtWndjLXZqUmR2OG9fSVhXMHhjTTRIRGdoLXdPc1l1ZnRIbXA5dWRFaHoySjNxQUFPSmpQazJiVDVYQlJ0WWNsUkVPQk4wb2l5Z2FzbWFIamxnakMwUEVtRDY5dw?oc=5",
+     "tarih": "2026-10-22T23:34:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Akdeniz Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tcDFqNG12dEpQTzY3SmN6RlFFemN6Q1ozYW1GLUNkZTFMeHF0N0xZY0EyLTZCWDFRWGNicS1uYlhlcWxUbWpBRkF2ZmUyMjNQUHJrWU1fcjdWSjhWM3dOMUN2Ui1IVmhBWm4xVy0wNlhMcDJFT3c?oc=5",
+     "tarih": "2026-10-23T03:00:00+00:00",
      "guvenilir": false
     }
    ],
@@ -1494,6 +1518,12 @@
      "ad": "Platin Dergisi",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUVMeVdFU0I0QkpNYl8zMkJpZUlrS3hlWUo5cGZjblNlamduUUpIbmhJRnNIenpjdjMxeVZuelh0Z25pd1N2Zmszb251bU9abXpueWlDYS1QTFBubGF5T1VEQ0Z6NWNHMDk0VzBDVGM5RnhUcldLWkd2WVpBNEFNY09PbTF2V1BzSGVSc3Z3?oc=5",
      "tarih": "2026-10-16T10:39:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Muhalif",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2s4UHhpOHFLNEdGbVpFdExnSUN1a1JzUTF0Z1pzUXVJTS1EdnduNmlvX1RnMldfSGl5ZzZ0TEc4bEN1aGh5S241ckNvTy1Qa28tOEpVQlhhRU1DSnU3S0VVd1NqS0F1QTB6dXhfdlozWVJJS1YyRWsycTgyOWd4SzlTN1pVWVVVUUZwSWh3YW8xeGRXYng2TjQ4ODI1dkREYUppOEd5bWgyQTZQR0VIZmtPZ0hFVTlkZkNNUEl0bThOdGc?oc=5",
+     "tarih": "2026-10-16T11:04:36+00:00",
      "guvenilir": false
     }
    ],
