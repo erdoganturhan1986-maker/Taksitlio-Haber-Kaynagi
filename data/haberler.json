@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T14:16:49.969101+00:00",
+ "guncelleme": "2026-10-23T15:12:34.051722+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -199,6 +199,34 @@
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/23/hanehalki-enflasyon-beklentisi-jbhf_cover.jpg",
    "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB), hanehalkı enflasyon beklenti anketinin sonuçlarını yayımladı. Anket, 12 ay sonrası yıllık enflasyon beklentisinin %45,60 seviyesine yükseldiğini ve bir önceki aya göre 0,02 puan artış gösterdiğini gösterdi. Aynı dönemde hanehalkının dolar/TL beklentisi 1,43 TL artarak 55,90 TL seviyesine ulaştı. Katılımcılar, fiyat artışının en çok gıda ve yakıt/enerji kalemlerinde yoğunlaştığını belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "8fe02391c376",
+   "baslik": "Apple'ın ilk katlanabilir telefonu iPhone Duo sınırlı stokla satışa sunuldu",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-23T05:19:52+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Gazete Oksijen",
+     "url": "https://gazeteoksijen.com/bilim-ve-teknoloji/applein-ilk-katlanabilir-telefonu-iphone-duo-sinirli-stokla-satisa-sunuldu-293747",
+     "tarih": "2026-10-23T14:44:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Borsatek",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWaExPbjk2clJ3QUk2Y0JhQjJ1OTN6d1lVM3ZiZEFZeWllWVpDcXJOLVRvc1hjeHJvQTlJZTNwZ3pmd3AtWEYyWFhBX2JiTzFXVDlrQ185Z1cwRm1MaXJ1YkE1UmJtTURucWp6MTJ5SUViNlk?oc=5",
+     "tarih": "2026-10-23T05:19:52+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Apple, ilk katlanabilir telefonu iPhone Duo'yu sınırlı stokla satışa sundu.",
    "neden": "",
    "gundem": false,
    "onem": 3,
