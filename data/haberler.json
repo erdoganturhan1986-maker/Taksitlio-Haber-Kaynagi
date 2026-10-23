@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T10:09:12.698506+00:00",
+ "guncelleme": "2026-10-23T11:06:46.524535+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3355,6 +3355,148 @@
    "gundem": true,
    "onem": 4,
    "model": "Google Gemini (gemini-flash-latest)"
+  },
+  {
+   "id": "ea34fff2fc95",
+   "baslik": "Perakende satışlarda yıllık yüzde 10,1 artış! TÜİK ağustos verilerini açıkladı",
+   "marka": "Sektör: perakende",
+   "kategori": "ev",
+   "oncelik": 2,
+   "tarih": "2026-10-12T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Sabah",
+     "url": "https://www.sabah.com.tr/ekonomi/perakende-satislarda-yillik-yuzde-101-artis-tuik-agustos-verilerini-acikladi-7678888",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "CNBC-e",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2FoOS1lYWVGNVRXVHVwakZxT3pWNjdlMnpIWGFJVW1SUTBOMDBQOWthRFdCZTNCQ2VFMDVPUzAwSzF3U2k3eHdKZ2pLdm5oaFo5Mm45Yjd2ZDRZMXR3YUpma3lXNkRXbFBBSUxsb1AySW1xUlA1ZU84N2VmT0tCOFZuSDlyQWh6LVZuR1k0cmk0Yl80Y1RlRA?oc=5",
+     "tarih": "2026-10-12T07:03:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVGZQVF82andISFJRS0lNOThGdDlyR0lfbXRKTXd5NC00ajJRczNhcS1xRE1RcXowbjE2V3I5aWhVeGNYRHpYNDl3NXN3X05HRHJrT19iUHV3djh1WVdRdzczbG1MR1FvcVRkMU5SXzR3WUhYbUR6bmVoVjBDYzhjT2d3c1FkcXgt?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Taka Gazete",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjJESmxuRWZyRHVsbDFwbkU0VjBmbVhqZDJEUy1KSlBPT1NSNDBqMVRhZFBfZl9CT2RHYXNzbDVhQlZ1clZhbW95cmJ2TjJuNVpHSXZFMnpBR3lWXzZEUEpmRzU0aHNnci01aWVpN2hfMDRsS0hYNUI3SGI0NEFLYTRiYlhrVmhBWFFNRmlHdzFacW1ORXBVUURqWFA?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Forbes Türkiye",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1hKMUI5c01VbXM3NkhKX0Y5VVViQ0lqaEp1TTlVaGdQRy1YT3JieGh0R181eDF4bEsyb0p0b2Rhb1RmelZHSkwxM1YyeWJ5X1Y4ZGJGRVVCNktmNXpyTWd2YXJ6N0FHUWpBX1JtUjJtSnoySWR4N0pLYnd1N1hRY0dNTXRScmNSRlE5SEtaTG9XWm9CWDUw?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Mardin Life",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1pFUjBiTGhmeFpaSTc5c09aaXlyUWpWSEVfczBXdGVGVzZtbnpoekszVFZneDIxWXlET2ZwR2FZRGRXSloycGE1TFNMZUhGZWtrdndrMjNYcE02ckdhTk9fUDh4OUZCNnhSWFhES1cwRVJDeWdqbUMtMFpVa0Jrc2lOaGVaUWJQeTVfNnVnRVdDbWhN0gGaAUFVX3lxTE5nNm1hOWxnY0Ftb1VxWlg5QmRQV1dkdUpfeC1ULWtzekV3d1lGVkJDanBmX25ZaE1ZSVBnZ2JLdXh3OVBIU0V4SmV1UWlLT2k4bmpBWVN2MjVqX2pWQUF2TzJMandkZElLcU5vQlhuLUlJSy1GRGRVTlB6UGNsX24taElQQ1IwMGRNZUlIS3UwZTdGMjVtOTdrRFE?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomist",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTWNCTHVab2hDbGpxQ3hqY0xYd1FrdzV6RkRzajIzd19zdWd5NWkwMlFNZUhLTlZTNXFsN1FUV0lWcEhPZXFxVjI4UkZTcVRpUDd6aEotVGlfdHoyMy1QVmwtTGVjRTE2XzRMaFhYT0xPMUVNT285alAzRmYxTmszcUo4YWcyM3Z4bzFTa0JfU194NWFCcmxCeDJDNmdxb1Y5dzAyY1F2ZUpieVNUTDU3NFZJWFpDcndiSUdyXzdURU1XTTZ1ekxmd2ZCdTZTSjJ4ZGlGRzFCQkxOQQ?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcXE4T2RSdFYyUVZzWnJqNTl2YXQ2S0tCVGY4ZnkxM2pJaFo0OGJfVWVYdWdrcDFxZGJZT2l4VFBKbVVlLU9HV0ZpaDB5V21zWk9DdDJkOTlhSEJTbWJTa2RXRmZGT3h2LU4zYS1pTENIWDRlUF9QSVFXUGRXb3YxX2RRVG9sM3B0SDQtWVB1NVlSUTgxMWFDNnZSd3NTTXd0ejZOaW1SZVdfOWkxY0lTa1FsbWg5VmRIU0NaNUtmX2VQUm1OcUdfcnQ1Q0Fucl80OEpIQW9VMUk4TkRZRm9KYlh1RDZpT2VKS1hWUFZaWVp3eG5UOXNzQXhB?oc=5",
+     "tarih": "2026-10-12T07:03:50+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekovitrin Haber",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWUwT2t6VG5TTm5fZUQ5Mm5yMEhhanFtQ0kxN2tWR0ttVldSbmJucU15YTFqNE00Q01PRTBiYW1Ncjh1THRmSFRhQ1lDSnk4RzFkY0FMOUpHN0hCbUVpQmZkRVk0QVhvY1Z2bHJWNXlhVENKOUFCZHBqZEFZUVVDbTRBYVlRZkpDWGs1cXZwRmMtMnFjN0s5NHFueE52UVR3Vm9SMnFB?oc=5",
+     "tarih": "2026-10-12T07:12:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Ankara",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRmp6Q0dpSzF0NDNFMDlwTmlvblEzb05PeWRURDJON3ZDUGtvVFFtRV9JemJROEpSZ1hCN2lLeVVtS1NtZEt5SEJoeG04eVExMTlVSnNaRnVROXRGVzRLengycEJqLS1pNk1nUUtsY0NONjNBbVZTOUtDWGRIbjNvVjFvbFJkaU9fSVVvdkJGWmw0SDUzTE9HUVF0WmJLWmRlWkFPNFlydVBJNFJjQzBtUk81S0wza2FtLU5ZUFdB0gHDAUFVX3lxTE54aEhGMk1NZ1lwZTVJVjN4Y21uUGNVWjRrUmZ5cUZUYkMybDdEZnFnMU1CSnBmUkkwNkFXaXg5REp5QjNCUnRYRmRRT1FTNkU4UHVNbERDenVVeWZFZ3pvaFREWXdaaWlZdDNIeHlRUmJLNUlRWHJTY3ZZSG4teW02SkVLNFZFSFNSNXU5Rkxib2QtSWlZRmVYaUFGN3lTNFFLRWJXSnQ0SmZ4NGFzSXFMazJud09ueE1lNndIb1c4bG5xaw?oc=5",
+     "tarih": "2026-10-12T07:15:44+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hisse.net",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjVuaEpSY0VpR29CR2lZZ2ZrbDViN3BDYUtZNXlnMTRPWUMxYW9EX1VKTzlCUXlNVGJ5UXZJQU1rTlhBbWg2WWpra1dNUGx0OEEtXzJ1MnRicXhSOUNvazM4bHF4N1VhTnh0aDctVXVaRDh1LUxVWDZUTXFGcmt2c0Y5eXRybzdqX2FfVmtYMlpBay12OUd6akF30gGfAUFVX3lxTE55dm5FTGZ0b2pkM0tualNNWlRabmhxN25PMkkwaUVXTDNlSGlteFlYdzFiQ251RjFpU1FqdWdsOF9tOWtrUWdsWWpXMm84T0czZEpTaFFMTW5ZWXRRQU9nM2hFQTFjZEk0dU5DdGdaUS1BWkFoTzBWVjBXTzIyMWk5M1dfUnhZUXh6OVFidzVNbi1ldVA0aWszNUJVVkZLRQ?oc=5",
+     "tarih": "2026-10-12T07:17:41+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "TRT Haber",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFhKc1VvVDAxdDRqVy1UZUNvYmh2MjNFU0tWQWRYbDBlWncwMERFZjVsb253Z2VFQjB1d3Rkd0dwSEZvaHdiNXQtLWJGZVZfT3FrODgxOG1pTlZuZE4xU2Z0Z3Y2M0ZQUi1qVjVTNjVmQ3JFbkJoNVpGaUxvSU15bDREYjlGbG04VU91bDRyYU5XYjZLQ1VjbWZ1ck8zVmxUdUJBQg?oc=5",
+     "tarih": "2026-10-12T07:20:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "24 Saat Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2ZxZW93N0VkdVEyQW80dGNEYjk0cEMtVTE5MXp4dC1vLVpEa2JPM0d5cThsM3YxNHFFb3hXTWdLem5FLXVZZF8wNDZRWmxwdDY4V2k0UTBFZWhhSkRkQmVHMmJoOVVHUk5CYmZ2enlDQlY5U2pxOW5ZX3oxaUxrTXItbXRtM2ZVS2o1bGdLd1liNU4wTkpEcnFhZ1JXU1hRX3dxdzRvTQ?oc=5",
+     "tarih": "2026-10-12T07:20:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Van Postası Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlhOZl83ZEZHNzVrT1hBWThfRzE4RmIweEM1bWhqYTRMSmo1RTZfa1JXTEZnMmNWeDdHQ2NrZVNFbk41dzR4NFZoMVZybTY4cm5mY3BNQnZobXczNVhyb0lfMU5INTNWNHZYcmJuZ2lBdDAyWEw0NWZfanJVYVVDVXJtbFgxUnRPSjZYYnRZUFZyMUVaUFB6X2tWSE96M0RuNmNWMHczY2FrOHd3dU1zSmVkN1BTb0nSAbwBQVVfeXFMUFBxMVJJSlh5SVNsemsza3JHV3BrcTJFOWtka2tMLW1ncnhlVHBzdlF3d3Z5LW1Jemc1TVN1aURvdWhlOThsSTRJU2dJQzViNFVUREJQdXdod0gtdnNwNjM0T0o2b0QzbVlNSjhSLUVydmR3R1BZUVVPQkxZQUUzazdYZ1hMOUROOHhsVkgzblVJTGhxOWlkWUg3ZDV0LU4yOVhtUmpPSWxNX0haWmh0M3d4MmJLZ3BXQ1F3LTI?oc=5",
+     "tarih": "2026-10-12T07:20:09+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "https://www.ticarigm360.com/",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1pkVVIwLWc0ZERha3FfU2R3QTd3el8yZjFEQUtsSDd5dTN5cU1XSmo2SUxIQjA1a2huajhhek50ajlWQUtaUkRkZGxuNVpEQzNDeU1veXdnbjJWUG1nOV9tSEJlTDVIblYxckd2b21Oc2JhTGlQR1FDZUtGa01KUXZjbTZSOFVhSFZRTlFVY185a281Y09FTWtjSVBBcDlrQklJTEFnMU5ZczBJNl9RbkQ5VHZsZw?oc=5",
+     "tarih": "2026-10-12T07:22:36+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "KARAR",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSjg4MVFEV0Uxb0RaUEdLQjJseHdWYjN2Slg1ZG45dmtFVkdBT1F5aUlPS3JQSlh3SlQyQnVLRHpzOHZvNFhkdkhZbDROaUJGX0ZUU3JmSFdWTkk1dDdmamxxZGZ1RWtTZXRVVnItakNSREZJUlJUZ3J3M3BLOGhTanBabWRLWGhmSUJ4dnRUVnprMlZ6WnY0NTJSaUpObU5Yb3lWaw?oc=5",
+     "tarih": "2026-10-12T07:24:57+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Malatya Güncel",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEs1YlY2eHNUSk8xSXNZLVh1ZWlucEtWc3RpcWd6OE4xRVRwX2pCUEF5RU5udjM4Uzk5OXZiMGhKTGRRZFVkcUh6cFBDT0xnZW9zY1Z6ZkZ1RHZXOFN3YUFaRXhxYUxSdUNKVDBUMnMwRF9xVzNkaWQteFBGSXJab29HZ3d5VkZmR1FaZkNudjcxYnhJS0Rr0gGcAUFVX3lxTFBic0I4VnpSYmJaaFhuYmkwUWhIb0J4aFhaZk4wak8yU0QzazlZUzFiQTZDS2dSdXZuSUE4WTNGQjFjN0dOSnhjUE1fanRYLUwzUDdHM20xdExRZkNJQ2J1eFhYMl9PcEVJUzJTRDRFSHBVWWpPZFNRSzI5X0dQekRyZUNXZC1ZUDhNRjJZbFdYOXBQUWtvd3pGYTRyYQ?oc=5",
+     "tarih": "2026-10-12T07:36:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "https://www.babaocagi.com/",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10VEZsb1loLWJaQXd0Y0VRdF8yaTF6cUwtZ2liYjd6a0RBRVJNRDJYaHZranBFa3BJeFE4ZjFRWmZlaXZUa1hMYkh1ZWpQQWdjVFI2MVJ0QUYyd1B3ZUc1S3IyOV9ZbmxURnhlM0FUbTByN2JNemNEM1puQkZNQQ?oc=5",
+     "tarih": "2026-10-12T07:40:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "ekotürk",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGpEVEhnLXFtQS1DOFJoNDNfcUZmeXJiZ2RybHdJUW1BM0o5cHkzT0tBZjRrVk13aXFOWnplZFUwQ0VOMHkxdjhxMTYtakRLZUQ4clpXWVdxUEN0MFNvRjBPMHlDZ2hKbkJwQU5iNkVtT2JQTUdzOUg3bEdVYnRUX3R2MFV5LWhNWVhhaEJLMGpaaHhEYjFtY2Z2SVgyWXREUUQ3QlRZLVlCeTVPdlhhLUVB?oc=5",
+     "tarih": "2026-10-12T08:20:47+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Aydın Haber, Son Dakika Aydın Haberleri | Aydinpost.com",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmcG9EU3I5RklQTWJjQTZRNUl0NUxLOTFVc3kzQTN1M3FrMVpyX1ozem91amVmd0lHYzRDanFKZDBzN1NYcWZDUzVVWGIyaktLa2g0RURTRHozLWJXN0ZkMjNxYWxRX09uSGN2UDI0ekRwbFd1R0lnZ3Fpbw?oc=5",
+     "tarih": "2026-10-12T08:47:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Üreten Ankara",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ1ZtOFlkM1UtYlpqTy1WakdyVHJNalJ3UXRVeGVMMTRDdGVVTzhrY3otQlI3OFR0TkoyendjRkNHRkk2S000U0sxWlhka2tCQm1ZdmNEelBmSmh6Rk1ZZ085VWd6eGo1WTZTYnNJT1o3c2o0ck1oUk5XSVZva2dYbXFXVGRlczNZQkxlNG9Pano?oc=5",
+     "tarih": "2026-10-12T14:35:21+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://iasbh.tmgrup.com.tr/4541f2/1200/675/0/0/888/500?u=https://isbh.tmgrup.com.tr/sbh/2026/10/12/perakende-satislarda-yillik-yuzde-101-artis-tuik-agustos-verilerini-acikladi-1791790275138.png",
+   "yorum": "Türkiye İstatistik Kurumu (TÜİK), Ağustos ayı perakende satışlarının yıllık yüzde 10,1 artış gösterdiğini açıkladı. Bu artış, bir önceki yılın aynı dönemine göre önemli bir büyüme anlamına geliyor. Raporda, satışların artışının hangi alt sektörlerde yoğunlaştığına dair detaylar yer alıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
   },
   {
    "id": "9a2154b8435e",
