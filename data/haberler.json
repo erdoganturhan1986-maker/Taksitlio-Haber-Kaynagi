@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T07:22:33.666529+00:00",
+ "guncelleme": "2026-10-23T08:13:39.263156+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -19,6 +19,34 @@
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/23/gorsel-2026-10-23-100751287-nkup_cover.jpg",
    "yorum": "TCMB, Ekim 2026 Finansal Hizmetler Güven Endeksi'ni 155,2 olarak açıkladı; bu, bir önceki aya göre 3,2 puan düşüş anlamına geliyor. Ankete katılan 150 kuruluşun değerlendirmelerine göre iş durumu ve hizmet talebindeki zayıflama endeksin gerilemesine yol açtı. Gelecek üç ay için hizmet talebi beklentisi ise hafif bir iyileşme sinyali verdi. Aynı dönemde istihdam artışı beklentileri de zayıfladı, ancak kârlılık beklentileri bir miktar güçlendi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "96b90c68edc7",
+   "baslik": "TCMB açıkladı: Vatandaşın enflasyon beklentisi belli oldu",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-23T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/tcmb-acikladi-vatandasin-enflasyon-beklentisi-belli-oldu-haberi-844985",
+     "tarih": "2026-10-23T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/enflasyon-beklentilerinde-ayrisma-piyasa-yukseltti-vatandas-dusurdu-haberi-926581",
+     "tarih": "2026-10-23T07:02:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/23/hanehalki-enflasyon-beklentisi-jbhf_cover.jpg",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB), hanehalkı enflasyon beklenti anketinin sonuçlarını yayımladı. Anket, 12 ay sonrası yıllık enflasyon beklentisinin %45,60 seviyesine yükseldiğini ve bir önceki aya göre 0,02 puan artış gösterdiğini gösterdi. Aynı dönemde hanehalkının dolar/TL beklentisi 1,43 TL artarak 55,90 TL seviyesine ulaştı. Katılımcılar, fiyat artışının en çok gıda ve yakıt/enerji kalemlerinde yoğunlaştığını belirtti.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -3804,6 +3832,70 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "1e50d33f8db5",
+   "baslik": "Smart Güneş, Arçelik için güneş paneli üretecek",
+   "marka": "Arçelik",
+   "kategori": "iklim",
+   "oncelik": 2,
+   "tarih": "2026-10-08T05:46:06+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Paratic Haber",
+     "url": "https://paratic.com/smart-gunes-arcelik-icin-gunes-paneli-uretecek/",
+     "tarih": "2026-10-08T06:30:11+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "CNBC-e",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa2tnQl85Y1l3bHRFOUNOVVlPc0pLdVNNRWhxT3ZjSWRqZnQyQ3lsX2NPUkNnT1BoelF2dkk1TGJTaVdRVjUxX2YwNllGT0pBNXFPWlI2WkZpNGx6NkpYckNheWlBTHVrZmwyOUp3TnNZTGpxZ3R5dUg4NFlubGdVanYweDdSb09kTE9ld2wyNVI0eUZ4SVZDVUh5QTZlalRXM0lBZkhFUUFUN04zd3R6UUpn?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Gazete Oksijen",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVy1DUVhJZ1VJRVQ3UzF4WEFPSXRycTVnQ1RTaDFORXFxbERsSHJFUUZDME9hckplSkN6a0ZZa0FLUHZ4anZKdTlpcWhmTk92Zm5JR0xOTTZlOUhaZndIR0xyRTJtTHE1OWtVWTYzX0pVT2dHTHZGaDlnOEhSMGVlalZhcVNSaGZzcVp3Ujc0YzJTaHBTUVd6dENEQlE2RTh3S2s4NUNXVzFpV1VOdGFmQlJRVXkzcU5fTGwzTXFoOWxJV3VUd0piZDRn?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlh2ODc2TkdNeHMzS01UeUl3UW0zdW5kNWFBemUzOWdZTkVsZ1VDQS1PQk04bzFra19EME5vU0JMbzFaREJTdWFvUy1BcHJXT0cwUFFXM1Etbkd1VDdDQ3dpZ3l3UUhoSFp3MUJ0blJXbU40NXFSTlgzb0YyWTZmN2Z4YnlTNjNKc1VVWnNVa2doYVBaM0xWcXhobTVUTC1kcTdoZzlYMEFZb0lfcXfSAbMBQVVfeXFMT2Y5ZnhKSDhET2pJZzJtMWRUeGJtMmtPS2dJMEZiSkJWVEJFNGFHbXEydXRBanlvZWozMmREMjQ1ZU5XQVB0X0tfR3pybjVlVzJqTGZlVUZQdXRNTnVVZFVCRUxzaExVdkRFTF9Uc254Q3NweUx1N0s5V0Q4SVFhY1RTVXd0clFUbnozenV1WlhoWTMyVmsyS3ozVkxtRU05cHNWdDFSeHZwZDJ0amVGM0dXbkk?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Hisse.net",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1l1ZGNET0p4Z3Z3bjV5elFHNlA3TW56Y2Z0ajJheFR0NTlwNmE1WDFvWEh4U2YzVjkzM1hZQnBZZWhFX0tUQnJaMVNONHR4RGV4T0hCZUQyT2N4NWNKMW1pM2hXbHNIUTE4Y1NXSDNldFFESld5M3V6SVVJSWhmM0NMTF9rQkpwMEZ2dzk4UTUxdU42cG5QVUxmZGfSAaIBQVVfeXFMTnJxMmdJN1ZTWndVd05DcTZudGNYVkJrcVhhRXBubEs5QlV3WThUWVlNLXo4VEVUY0I1eC1xVW9HX2xnRjVBR3d2ay1xRGFhQmEwMXlGY2xMWHMyWnhzdXEwdXoxT0IzWFd6amJQbkNTSFpQZmQ5S1ZxQnNhVWx6bXBlMXJXNjdNblVGeFI3MkRPZG1rV0E4eENWQmlyUk1aM1B3?oc=5",
+     "tarih": "2026-10-08T05:46:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Enerji Günlüğü",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN01vV0p3ODZ2ZnFrOWdEWUNjLWlXNWUxUW81VmlpOEVXMDFLYXR5NW9nWW9DMWZCQmZGV1FNTFJFM290NGFBTUVHSFk2Q09OTHVEbDZ6QVJyQU5IYkM3SW52cUFHNEFMSThIaG9ENk9OUk5TOFJPZS1RVThoaDk3R3M0MVhxQ0dreFdKbG5iVlI2QdIBogFBVV95cUxQeUhoNlJNcFhjeEVDRjV3MnNhWkV1S3JldlVCV08wTDVlWXFSLUtiZWZZSnVqZVd5dzFWcmoyV2JjODRnX3BwbFZtdWVWengzQjFNVjRUa0ZUX05uMkVvMU50WlI3UXJ3NEN3S3djMUpsRFJpcjB3eXh3dkJVNHhNdDVMYnZMMUdhcWlJQWJOdktpTDJ0V2d0Z21NOGM3VzJvbnc?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Investing.com Türkiye",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenFwbng5NEtRYXVuc0xfUUVKT2hkZVNYT1YxalJaV1F3STFmNkhGOVN5cW44YkdjTVVfMElNT3BFcXJlMTJKT25FMl9Kamo1VWVSSEtmNWNSUmdrcmFST3k2QzllZzBXUzd3cHA2bWxDelF0aEx2RUxPWnNIRUpMMS1MWWhKNHhVRUxVVVEyajE3M3lFSUhVVWlnZnFQcjVobWdDRmQ1WU1lWVB6U25tMHVQWmpJelhI?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Forbes Türkiye",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHl0VXVtcmd2OFMzSFl2RDJtQnBPWi1KMHFBZ1JiSG0zQkhKTFdFQTRFUktKaEVZWXM5UHlSTDIzcTV0OTBvNUtlTnk1NnhiVEV2MWpvZ3NkamtaTUJkWFRTVnUyWVlmSjlEUGpNcmpvMUFrNmdtSzdrbnNJUWxnb1lWOE1GOGZ0RV9GODlxaXg3QUV4clNNZ1V4ZGc0ZTNnWVFLM3RRdDQ0Qm5ybV9telFXa1g?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://img.paratic.com/dosya/2026/10/smart-gunes-arcelik-icin-gunes-paneli-uretecek.jpg",
+   "yorum": "Smart Güneş Enerji Ekipmanları Pazarlama A.Ş. ile Arçelik Pazarlama A.Ş. arasında 19,52 milyon dolar tutarında güneş paneli tedarik sözleşmesi imzalandı. Sözleşme, Smart Güneş'in bağlı ortaklığı Smart Güneş Enerji Ekipmanları Pazarlama A.Ş. tarafından yürütülecek üretim faaliyetlerini kapsıyor. İlgili açıklama 08 Ekim 2026 tarihinde Kamuyu Aydınlatma Platformu (KAP) üzerinden duyuruldu. Bu anlaşma, Arçelik'in yenilenebilir enerji alanındaki yatırımlarını desteklemeyi amaçlıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
