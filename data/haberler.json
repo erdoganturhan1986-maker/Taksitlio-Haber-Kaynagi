@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-23T11:06:46.524535+00:00",
+ "guncelleme": "2026-10-23T12:04:13.508022+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "efbf8c1c1c1b",
+   "baslik": "Daikin'den küçük ölçekli projelere yönelik iklimlendirme çözümü",
+   "marka": "Daikin",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-10-23T09:47:41+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/genel/daikinden-kucuk-olcekli-projelere-yonelik-iklimlendirme-cozumu/705155",
+     "tarih": "2026-10-23T09:47:41+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/23/thumbs_b_c_b75aec292b9c52ac0401673e2da6fc4a.jpg",
+   "yorum": "Daikin, küçük ölçekli projeler için yeni bir iklimlendirme sistemi olan Mini VRV'yi tanıttı. Sistem, tek bir dış ünitenin birden fazla iç üniteye bağlanmasını sağlayarak farklı odaların bağımsız sıcaklık kontrolüne imkan tanıyor. 200 metrekareye kadar alanlarda kullanılabilen ürün, sınırlı çatı ve balkon alanlarında yer tasarrufu sağlıyor. Mini VRV, R‑32 soğutucu gaz ve akıllı telefon kontrolü gibi özelliklerle enerji verimliliği ve konfor sunuyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "4cdf0655d770",
    "baslik": "Piyasanın tahmini yükseldi,  halkın beklentisi geriledi",
