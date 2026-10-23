@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T13:17:51.509401+00:00",
+ "guncelleme": "2026-10-23T14:16:49.969101+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -47,6 +47,64 @@
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/23/ibrahim-ozhan-faiz-indiriminin-is-dunyasina-yansimasi-onemli-jrtz_cover.jpg",
    "yorum": "İbrahim Özhan, faiz indiriminin iş dünyasına yansımalarının önemli olduğunu vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d7b8c0a1d5ca",
+   "baslik": "Arçelik, 200 milyon avroluk yatırımla Manisa'da çamaşır makinesi işletmesini açtı",
+   "marka": "Arçelik",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-23T12:28:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/arcelik-200-milyon-avroluk-yatirimla-manisada-camasir-makinesi-isletmesini-acti/4098621",
+     "tarih": "2026-10-23T13:33:40+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Yıldız Haber",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVBaQzFJXzVMZFFUZTBpNkk0S0U3cGVWZndDdGh3OWxBRnpEOUtheXEzT0tyOGFXdTZBcG02Mk5BM09ENnhjaVlmbXc2Y0VkYnFhQzdyTmc1ZVdrWEdKZndNZGgyckxlZkxKUVo4aHNhN2dnV09PdnNqLWFFX3BzMmRWeUh2QTg0bFVFcWtRcVJONlhGUkVBNXRVWXRTaXphU2lKUi0xV3prOW4tellyM2hB?oc=5",
+     "tarih": "2026-10-23T12:28:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSjRucGk3WnE4MDhhVXd2Y1gwbEZ5YUlZSENOR2dzVTJadUc3MHJ5MXppeXhiRlFoSTk3NkRJWFkxOGNSLVEyLWdiOXJFYkhaWnhkX1RRaTdzUWo2N3FTalhhZEQwZ05sal9yNy1naU0xY3JSUW5GSEZUNktMRFU?oc=5",
+     "tarih": "2026-10-23T13:22:58+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Manisa Kulis Haber",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2VKQTBDcE5yYTJhNmxPYW9ielhNbWtRWTJ2X3U5SUQ3VVAySDZjWVJocE14SmZBd0hvY0JJTnJ1RG5id0lFMF85NWdiV3NQdFhJNU5Zdk1YY1BScTZJNHQwV3Nxcmp5dEcyekdBM2U5bG40Qi1qeUdUUUNJSTF0OFFaMUlHWkpnbk5UbUh4MDZkUlM0VG9EQWt1S285dHcyTDZMVW1R?oc=5",
+     "tarih": "2026-10-23T14:03:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Akhisar Press Haber",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkJkcHBSMDl2aHFteE5oZDl2d2JFZWZPSHNoSi1feGQ1dzJQOGRpSm1laWtVODVOaDlKbDY3cE92YkhMcGRwN1RYWXM3dEVqNmptMFI5SEFYRmJPeEVzU09BamltZGpZdS1adWhLcVMzSjNzb3ctTl9iSEt4SlVRTDRSUlNOc1pNR21XUE4wN3dEbVpUQXptQWppR0lwUEhtMnBFUTk5WTBFTWplUWRpd2FwREM?oc=5",
+     "tarih": "2026-10-23T14:05:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "www.platinonline.com",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjZIVWJXSTBGSlBrY1VnLUVzc0JnSjRkaDhxbWcyN1VyOWZJeTNwMS1mZkxwT1VER1dpOWN4RExDeDZ3SHlEcksxdURucHBMcTRIQ3FEa2sySks4RTFOUkhrNXY3T3phOFZuMDByUDU2bzFVNWlPZmJrSDQ4MlJua3cyYWt5UnRRaTVkUUtUVVVCZU5y?oc=5",
+     "tarih": "2026-10-23T14:10:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "CNBC-e",
+     "url": "https://www.cnbce.com/haberler/arcelikten-kredi-kartlarinda-taksit-sayisi-artirilsin-cagrisi-ic-pazar-vurgusu-h40165",
+     "tarih": "2026-10-23T12:44:31+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/23/thumbs_b_c_d9b2454eade8ffdf9ea458d180376376.jpg",
+   "yorum": "Arçelik, Manisa’da 200 milyon avroluk bir yatırım ile çamaşır makinesi üretim tesisi açtı. Şirket, yeni fabrikanın kapasitesini ve ihracat hedeflerini duyurdu. Açılış, Koç Holding’in 100. yılı kapsamında gerçekleştirildi. Fabrika, yerli üretim ve istihdam artışı sağlamayı amaçlıyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
