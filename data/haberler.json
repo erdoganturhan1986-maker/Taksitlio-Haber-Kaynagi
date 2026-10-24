@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-24T05:04:28.735795+00:00",
+ "guncelleme": "2026-10-24T06:01:59.493670+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "aaa431b99a74",
+   "baslik": "Prof. Dr. Erhan Aslanoğlu: Faiz indirimi bir sinyal, belirsizlikler sürüyor",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-24T05:50:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/prof-dr-erhan-aslanoglu-faiz-indirimi-bir-sinyal-belirsizlikler-suruyor-haberi-926739",
+     "tarih": "2026-10-24T05:50:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/24/prof-dr-erhan-aslanoglu-faiz-indirimi-bir-sinyal-belirsizlikler-suruyor-ythg_cover.jpg",
+   "yorum": "Prof. Dr. Erhan Aslanoğlu, Ekonomi Masası programında Türkiye Cumhuriyet Merkez Bankası'nın 100 baz puanlık faiz indirimini değerlendirdi. Faiz indiriminin reel sektöre etkisinin sınırlı olacağını ve bu kararın bir indirim patikası garantisi vermediğini belirtti. Ayrıca AB'nin Made in Europe düzenlemesine karşı aktif bir ekonomi diplomasisi yürütülmesi gerektiğini vurguladı. Açıklamaları, kredi maliyetleri ve tüketici harcamaları üzerindeki potansiyel etkileri nedeniyle perakende ve tüketici kredileri açısından kritik bir gelişme olarak görülüyor.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "30345ca9d9df",
    "baslik": "Vatandaş karta yüklendi, 2025'e göre yüzde 35 arttı",
