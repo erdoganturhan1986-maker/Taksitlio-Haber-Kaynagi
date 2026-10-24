@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-24T06:01:59.493670+00:00",
+ "guncelleme": "2026-10-24T07:16:11.076461+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -4562,26 +4562,20 @@
    "marka": "Sektör: cep telefonu",
    "kategori": "telefon",
    "oncelik": 2,
-   "tarih": "2026-10-04T07:00:00+00:00",
+   "tarih": "2026-10-05T07:00:00+00:00",
    "kaynaklar": [
     {
      "ad": "Sabah",
      "url": "https://www.sabah.com.tr/yasam/cep-telefonu-kredilerinde-yeni-donem-bddk-acikladi-cep-telefonu-kredisi-kac-ay-oldu-7674251",
      "tarih": "2026-10-05T07:00:00+00:00",
      "guvenilir": true
-    },
-    {
-     "ad": "Bugün Kocaeli Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnRTVzdjRllXRWFTTFRCREY1cmxadGNCZUhzbmdsQXFJU0QtQmtNWmFFalNQQXk1VmpvVHQ0MnRzMkduRVhaTlBSN3V4c3lBb3E0M3hLeTI4RWlYSWpwSk5BRVlXUmthMUxjbXg1Z2diekJkT2JiUjRyLVYtNml3NzQyQmtWaFZ5ZlpLTmU0anpqekw2OWtBYXh6V1Y5MFN0a2YwQXBqQWkxY3hIc3k3UGNjeEE5blF0OFg0Rkxn?oc=5",
-     "tarih": "2026-10-04T07:00:00+00:00",
-     "guvenilir": false
     }
    ],
    "gorsel": "https://iasbh.tmgrup.com.tr/23c0b0/1200/675/0/0/740/416?u=https://isbh.tmgrup.com.tr/sbh/2026/10/05/1791205149200.jpeg",
-   "yorum": "BDDK, 2026 yılı için cep telefonu kredilerinde uygulanacak vade sınırını belirlediğini duyurdu. Yeni düzenleme, telefon alımlarında kredi taksit süresinin üst limitini belirleyerek tüketici kredisi piyasasını etkileyecek.",
+   "yorum": "Banka Denetleme ve Düzenleme Kurumu (BDDK), 2026 yılı için cep telefonu kredilerinde uygulanacak vade sınırını açıkladı. Yeni düzenleme, tüketicilerin telefon alımlarında taksit süresini sınırlamayı hedefliyor.",
    "neden": "",
    "gundem": true,
-   "onem": 4,
+   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
