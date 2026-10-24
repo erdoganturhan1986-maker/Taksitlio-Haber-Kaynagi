@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-24T19:44:20.724221+00:00",
+ "guncelleme": "2026-10-24T22:42:36.587221+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "aa531b01aabc",
+   "baslik": "BEYAZ EŞYA ALIMI İŞİ",
+   "marka": "Gündem",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-24T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/resmi-ilanlar/beyaz-esya-alimi-isi-ilan-926689",
+     "tarih": "2026-10-24T21:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/23/resmi-ilan1-ak8x_cover.jpg",
+   "yorum": "Haberde, beyaz eşya alımına yönelik bir işten bahsedildiği belirtiliyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "d3b37079ad38",
    "baslik": "Koleksiyon Mobilya’da kâr yüzde 81 geriledi",
@@ -3687,6 +3709,12 @@
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUNHS2ZFaWxEdXVKSlVtdkowdXV5VzNfSlRjcUNqRmJ4eF91YXEyTWxVNjIxcjdrUThiaEV1S2xNbnBaaHJJVGJTdlozcEkwc3gtWGUzT2lzd0p6SHRJOEJYb3lfTzE1ZmZsaU5TVmF0cE5QTWc1VzdFLTVqak1TYWZoY0YyXzhzb1gzLXRSTHJ0NDY3?oc=5",
      "tarih": "2026-10-15T13:17:53+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "RizeninSesi",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnoyYzVldUkyNWtaUktpZTdjeFFMenRrM3U2Tm9zTkI2YWhmS2luNGFudm9RVzg3a0J1dUFjbkNBeHBBMmVEOThmR0ppR2JyVkdBaXFNTlI2VUk2LWl3cGZyRVpod0l2Ti1aS0czTzBtYWN3YW01YnJrVWc1NHdWeGdUVlh5X1VPWlo4dDdkeGxZN0hoZmt5SVhqamlaOGc?oc=5",
+     "tarih": "2026-10-12T09:34:04+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/yeni-proje-2026-10-12t100724-mwuu_cover.jpg",
@@ -4621,6 +4649,12 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BSDN0WG1JWHhKbFZyZlVQX21SV09mczBHZUJaeXJjMWRkSUNSdU1XZTBLR01OUHNmdzZoVUhHcFMzTE9RNFFOU1hibmxYc2ZXVl91RjNPYkUtR2VGelJreTVpejROUjZaS3AybE14SWMteEduQUU4bDB3?oc=5",
      "tarih": "2026-10-07T07:00:00+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "MediaCat",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xOEw1UXhSbloxbjVRMDBVX0tJdVZIeDVfZ2diTGI1UXRyLVFoeS1zaXFBNFRXWTlhMVFEOTJsdjFYWVN1N0g0R1FzQ3RXRGVYdzVUU2ZSdmdyUFUwV1lTQS1Iald2SDNQUWZWWFpENWo?oc=5",
+     "tarih": "2026-10-09T07:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6ac64f9eff5887627ea232f6.jpg",
