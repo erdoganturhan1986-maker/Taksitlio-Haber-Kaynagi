@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-24T13:33:50.626751+00:00",
+ "guncelleme": "2026-10-24T16:55:21.075606+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "d3b37079ad38",
+   "baslik": "Koleksiyon Mobilya’da kâr yüzde 81 geriledi",
+   "marka": "Sektör: mobilya",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-10-24T09:44:55+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Paratic Haber",
+     "url": "https://paratic.com/koleksiyon-mobilyada-kar-yuzde-81-geriledi/",
+     "tarih": "2026-10-24T09:44:55+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.paratic.com/dosya/2026/10/koleksiyon-mobilyada-kar-yuzde-81-geriledi.jpg",
+   "yorum": "Koleksiyon Mobilya Sanayi AŞ, 2026 yılının Ocak‑Eylül döneminde 39,8 milyon TL net zarar açıkladı. Geçen yıl aynı dönemde 62,3 milyon TL net kâr elde etmişti. Satış gelirleri %1,5 artarak 1,90 milyar TL’ye yükselse de, faaliyet zararı ve finansman giderlerindeki artış kârlılığı olumsuz etkiledi. Esas faaliyet sonucu geçen yıl 20 milyon TL kâr iken bu dönemde 70,8 milyon TL zarara dönüştü.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "aaa431b99a74",
    "baslik": "Prof. Dr. Erhan Aslanoğlu: Faiz indirimi bir sinyal, belirsizlikler sürüyor",
