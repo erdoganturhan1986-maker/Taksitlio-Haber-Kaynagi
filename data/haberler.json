@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-25T09:21:55.436605+00:00",
+ "guncelleme": "2026-10-25T13:54:00.240203+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -298,6 +298,12 @@
      "ad": "Manisa Manşet Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWdYMEFKcmxJaG9QZ2piM25UUVVpR0lmUEN5cjlWOVlrS1RiVmI1VzFBZEw1WjZwSlB6bEFjVXEtbEFKSm9fZmlnaVhZZ2F0SU0xVnE2d0hjRmZ5WjBtdU1JcDdSRmljMlh6ek00SFdEMzh0dDJqcmh2Nk5XUE9Zb19PZ2ZGZUJFZi1aMDVhZ3VHRGlLRUMyMUZXa201akNkcnZOZG5wczhCeVdFMjg4dDllUmVTdFExbTB6SGRpdXE?oc=5",
      "tarih": "2026-10-24T10:26:21+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "bursa.news",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjhmaUFSUUQyWHhxX1paNHR3ZHpCVmt1bFZhd2pnMVdGYURzNnhnc0JTai1jb2VVWVU3RDBBSG5ZSFRqS3lMRU91VUFRRUxaU2o4N004VEdfS3p6TkhOelVjNEFqeUczMUx1eThFUlhvMi1zczlqWVI1ek1hU2pGaWgtTnM5RG5EUmo5MA?oc=5",
+     "tarih": "2026-10-23T19:15:36+00:00",
      "guvenilir": false
     }
    ],
@@ -1728,6 +1734,12 @@
      "ad": "Muhalif",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2s4UHhpOHFLNEdGbVpFdExnSUN1a1JzUTF0Z1pzUXVJTS1EdnduNmlvX1RnMldfSGl5ZzZ0TEc4bEN1aGh5S241ckNvTy1Qa28tOEpVQlhhRU1DSnU3S0VVd1NqS0F1QTB6dXhfdlozWVJJS1YyRWsycTgyOWd4SzlTN1pVWVVVUUZwSWh3YW8xeGRXYng2TjQ4ODI1dkREYUppOEd5bWgyQTZQR0VIZmtPZ0hFVTlkZkNNUEl0bThOdGc?oc=5",
      "tarih": "2026-10-16T11:04:36+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yorumla",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNVY0ZRWjJwZGtyRmNYaWNBdXJ4aVFPUEF2a0tyNGxTV0F3NFlsMWxNMUt4MG1qNWxtal96elhXMnhmLS1KalRiMXhyV1BNMDUySnJJSzhNSWVFaG9GaFpGNTdUb3M2bUtaLWpWVVRiT1NGZFViV3lLdUdZV0lwNEQtQ2VGdlNiVkRISA?oc=5",
+     "tarih": "2026-10-17T07:00:00+00:00",
      "guvenilir": false
     }
    ],
@@ -3791,6 +3803,12 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2LTluRFBHWTJPcnlJaFZXbDFzY0JadXh5NThUdF90bHZIX3QwNXRLaV9iTVB1ZERKTFZ3QXZHd2JzTjdMb0NITHNQcnlRWk9CaEFQUTZ2X3ZvWHRPZVlWRUVxakNuNExMYXB4dnA5S2Utckg4S3MwRVNMbw?oc=5",
      "tarih": "2026-10-12T07:00:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "yeniufuk.com.tr",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjdBWHRkTk1XcElOaXJhTTNOX2lnNDMwYVlkb0hDMF9HR28yYjFJQnppU3FLdHBhSERzWkRIcG1TS3REN0kxb25MUTdKLVgydU5SR1NXNDdlR3JzbFpIbGpPUFd1cmx2cDg1SVlPUGNSWTVUcXZyZk5aTFZKeWNWcm1WSTdKdzZuV1ZRRS1vWmMtcGZab3I2VXBOanQ?oc=5",
+     "tarih": "2026-10-12T09:49:02+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/yeni-proje-2026-10-12t100724-mwuu_cover.jpg",
@@ -4395,6 +4413,34 @@
    ],
    "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/08/thumbs_b_c_e4ba5ba1038797b72864ca962c72ce60.jpg",
    "yorum": "Hisense, Türkiye pazarına televizyon ve klima ürünleri sunarak faaliyetlerine başladı. Şirket, ısıtma‑soğutma segmentinde yeni bir giriş yapmış oldu.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "46df04c77a8a",
+   "baslik": "Ne iPhone ne Samsung: Bu akıllı telefonun satışları yüzde 90 fırladı",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-08T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Sözcü Gazetesi",
+     "url": "https://www.sozcu.com.tr/ne-iphone-ne-samsung-bu-akilli-telefonun-satislari-yuzde-90-firladi-p367229",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREhOY2pJd0ZuMml6Y3VMaFVEMjhsemZlR2x5d2JZNHFjbUh3SVA0VlR1RzUxZHdfaUd2LWU5TGJZVTNKanlBVWJoOFlBZVl6QzhWR184QUZhUnVxSFZTX0dYclNwNlN4bUNmaWxIXzF4NURyOFhGeFU5djRXaFdIVDVUVVlxQXUzNXVRbW1nMnIxYVJZOEM4SHIzb1BXaF9Z?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/geminigeneratedimagez56reyz56reyz56rjfif-m3bU7R6DYE6XhtJ2DlzbzA.jfif?w=1270&h=675&mode=crop&scale=both",
+   "yorum": "Avrupa akıllı telefon pazarında dengeler değişti; Vivo'nun satışları yüzde 90 arttı ve Apple, Samsung'u geride bırakarak lider konuma yükseldi. 2026 ikinci çeyreğinde toplam telefon satışları yüzde 8 gerilerken, operatör kanallarındaki satış düşüşü taksit ve kampanya imkanları sayesinde sadece yüzde 4 oldu. Counterpoint Research verilerine göre, tüketiciler yüksek fiyatlı cihazları peşin almak yerine taksitli seçeneklere yöneliyor ve bu durum üst segment üreticilere fayda sağlıyor. Operatör kanallarındaki pazar payı Apple için yüzde 37’ye, Samsung için ise yüzde 34’e geriledi.",
    "neden": "",
    "gundem": false,
    "onem": 3,
