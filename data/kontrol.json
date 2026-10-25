@@ -1,5 +1,5 @@
 {
- "son_kontrol": "2026-10-24T20:08:41.142681+00:00",
+ "son_kontrol": "2026-10-25T07:15:04.554733+00:00",
  "kaynaklar": {
   "bddk": {
    "ad": "BDDK krediler",
@@ -26,8 +26,8 @@
    "ad": "TÜFE",
    "siklik": "aylık",
    "son_veri": "2026-09-01",
-   "durum": "hata",
-   "adim": "failure"
+   "durum": "guncel",
+   "adim": "success"
   },
   "guven": {
    "ad": "Tüketici güveni",
