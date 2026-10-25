@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-24T22:42:36.587221+00:00",
+ "guncelleme": "2026-10-25T09:21:55.436605+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -256,6 +256,48 @@
      "ad": "Yorumla",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTd0SHJYUllxY1Z0SjBCTmtyVTdlVzNGc2xESTdzR040ejdWdTgxc3N5N20wMTY5YXp0RFNBOWFUTXE3U3kzWXNHWTQ3eEFmcFBCaFZZSnd5VUlKanRDbjU0TmtBYUZHSzhkZ0llWFExOTRJYUNvSE1WeVlFLS1fTlNDTGctMW9OdmRPWkxWLWFlWWNqWFB1bjVtVWljdElEMl9DZ3NB?oc=5",
      "tarih": "2026-10-24T08:46:33+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Marmara Yaşam",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXdoWWRQdmtWVWRCV284QXFTRHhQZHhZaTFBbGhoOEJUalhQZ2M0LUJnMXRCYnZjNFlXQmZ1U1NDWnNJZU5pZW9TRkwweTVlYzRNS01sVjdNeV9peThSeTE4OHNqN01VcGFxYnJ3WVVURW9fQ1pHUTZReHRPNWdMY0VQN2JtaHhJb2NPeWFEVFJUZDdH?oc=5",
+     "tarih": "2026-10-23T15:14:30+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kocaeli Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa0lDWDNhZ2I3Y08zeDJ2RV9OWDVrbFhuYUQ4azEwd3Q0bzdVOVBmcXh5LUZpNDVmVzFJYmswUnNpdzl3ZmNJVlVoelFRNGJVeDNhQmVNcGIzREdndExqSHBadEpXTXVXejlrZnAyMW42UUVJaG9xemdxS3k4bEg0b2tKV1g5R0dJVDg4WW1fanN2YjRlMnhTVDdndkVOZkVPcTR0anJCQ1N5NUYzMkdpRjZLVzZibGpqLW9UQXUtTHR3TFd5YjNnS3NzbTB2WGlNb1ZIcUtR0gHWAUFVX3lxTE9rSUNYM2FnYjdjTzN4MnZFX05YNWtsWG5hRDhrMTB3dDRvN1U5UGZxeHktRmk0NWZXMUliazBSc2l3OXdmY0lWVWh6UVE0YlV4M2FCZU1wYjNER2d0TGpIcFp0SldNdVd6OWtmcDIxbjZRRUlob3F6Z3FLeThsSDRva0pXWDlHR0lUODhZbV9qc3ZiNGUyeFNUN2d2RU5mRU9xNHRqckJDU3k1RjMyR2lGNktXNmJsamotb1RBdS1MdHdMV3liM2dLc3NtMHZYaU1vVkhxS1E?oc=5",
+     "tarih": "2026-10-23T19:25:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomi Manşet",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM042cV8xclNCUW9saC1JN3BZN25NQVgtVXBpZnpTaS1fZWg1Wjl0a2tlWWloWEV6Tl9YcVhsSlljUkxQTVN0SGc0NXRFeHYtU3l2SHhnUW1oSHN5ZTR2M2tzSHRFRmhMblhiaWJ2b3htd3JxQzlXT19ybHNUSjl1MjV2c2VWVXQ2ZmUxaUZOTFZkamRjeFNKaTNHdTF1X0hjYWt4RDZtdw?oc=5",
+     "tarih": "2026-10-23T21:09:50+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Cumhuriyet",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQem05aDF3YXJnSk9YZ1VEcDhZODlqZGQ5Si0yS2F6RFNKUW8weFFlX292aWRaMkV5YTdKTTRkbFQ5Zk1lTGRmazl6SVRRMlUwckFMYWJZR0wxQjRneXhnYUVJRkNtcWlxRTZGR2JUTUtPUTQ3anZVX1BMZjJuWkhYaU9BWTh3UzZha1dqQnlFUTdFRXBDSFBsLVM1OEJ3bW9aaTlhdENiRVpydw?oc=5",
+     "tarih": "2026-10-23T21:41:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Birlik",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcEdLeDFrV2JhSEsxOHJmdG1mUm84S3lRNUltQTRRLUliV3ByeG5SSG1TU25YZm5mRWdqZmdQRXA1aWJrYTdVVzRqdDJzT0FzQ0lSN1VXUVZTT2MyU2FGOGxfc2Z2T2FkWWRVemVCMmdoUTN4MlQtZGdxRFcxOHZEZHpsZGhtUDcxSnc?oc=5",
+     "tarih": "2026-10-23T21:45:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Herbir Emlak",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkdNcjZVR3VOUnJPVXpwd0RKM2N2REdrblJUZEtmSFZ4NjEyTFlfQnM3b2pZX0F2Z3JSNXJGUmMzN01XbXpPV1B5XzBLR0FUX1hLSnY5bFR1SnlDbmJBYnpoemR1cHowTnUtaEdfdjAyUjh5ZDBQUHBEa0ZWQVJaYUhYODNMWmFublgyRkhKMDRwYVFhM0pGR0NHXzFyU2VlU3dMV3ZR?oc=5",
+     "tarih": "2026-10-24T05:49:11+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Manisa Manşet Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWdYMEFKcmxJaG9QZ2piM25UUVVpR0lmUEN5cjlWOVlrS1RiVmI1VzFBZEw1WjZwSlB6bEFjVXEtbEFKSm9fZmlnaVhZZ2F0SU0xVnE2d0hjRmZ5WjBtdU1JcDdSRmljMlh6ek00SFdEMzh0dDJqcmh2Nk5XUE9Zb19PZ2ZGZUJFZi1aMDVhZ3VHRGlLRUMyMUZXa201akNkcnZOZG5wczhCeVdFMjg4dDllUmVTdFExbTB6SGRpdXE?oc=5",
+     "tarih": "2026-10-24T10:26:21+00:00",
      "guvenilir": false
     }
    ],
@@ -2605,6 +2647,34 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "3710fb2b7a86",
+   "baslik": "Vodafone'dan müşterilerine yüzde 10'a varan iPhone 18 Pro indirimi",
+   "marka": "Vodafone",
+   "kategori": "telefon",
+   "oncelik": 3,
+   "tarih": "2026-10-15T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/vodafonedan-musterilerine-yuzde-10a-varan-iphone-18-pro-indirimi/704996",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "TeknoTalk",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZW93NkhTN09QakNRYXN1NGVEaVlzT0dXazJJTFM5QUFqcHFXbmV0cFZuNGZQaTd1cWt5bkxvQzdiWDVhQ2ZOd3BBdzk3Y3VrcVhsejVBaDN0NXpKeUxYRGR4UWQxSUNLSXVEZHJCckMyMlNweFpWMkFOV0wwa3piaw?oc=5",
+     "tarih": "2026-10-15T09:24:27+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/15/thumbs_b_c_69c034122825be63dcc9312af716b72a.jpg",
+   "yorum": "Vodafone, Vodafone FLEX programı kapsamında, iPhone 18 Pro serisini müşterilerine yüzde 10’a varan indirimle sunuyor. İndirim oranı, müşterinin Vodafone’da bulunduğu yıllara göre 0‑4 yıl için %4, 5‑9 yıl için %6, 10 yıl ve üzeri için %10 olarak belirlenmiş. Ayrıca cihazı faturaya ek üç ay taksit imkanı ve eski cihazı getirenlere 10 000 TL’ye varan değiş‑tokuş desteği veriliyor. Kampanya, Apple Watch Series 12 ve AirPods 5 gibi aksesuarları da kapsıyor.",
+   "neden": "",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "270a7c0b2e41",
    "baslik": "BDDK Başkanı Kavcıoğlu'ndan fon krizi açıklaması",
    "marka": "Gündem",
@@ -3715,6 +3785,12 @@
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnoyYzVldUkyNWtaUktpZTdjeFFMenRrM3U2Tm9zTkI2YWhmS2luNGFudm9RVzg3a0J1dUFjbkNBeHBBMmVEOThmR0ppR2JyVkdBaXFNTlI2VUk2LWl3cGZyRVpod0l2Ti1aS0czTzBtYWN3YW01YnJrVWc1NHdWeGdUVlh5X1VPWlo4dDdkeGxZN0hoZmt5SVhqamlaOGc?oc=5",
      "tarih": "2026-10-12T09:34:04+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2LTluRFBHWTJPcnlJaFZXbDFzY0JadXh5NThUdF90bHZIX3QwNXRLaV9iTVB1ZERKTFZ3QXZHd2JzTjdMb0NITHNQcnlRWk9CaEFQUTZ2X3ZvWHRPZVlWRUVxakNuNExMYXB4dnA5S2Utckg4S3MwRVNMbw?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/12/yeni-proje-2026-10-12t100724-mwuu_cover.jpg",
@@ -4690,50 +4766,6 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "6c10d1a76d12",
-   "baslik": "Daikin Türkiye'den mimari projelere bütüncül iklimlendirme çözümü",
-   "marka": "Daikin",
-   "kategori": "iklim",
-   "oncelik": 3,
-   "tarih": "2026-10-05T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjlLWk9DOHZhMFI4SE9EdWRaeld6ZC1NRmk1Mnlqelc4a3dIRTI0ZDQzS25jekRpM1ltNXJwa0JES19OaXVlLUgzNjNJQ3k5Rkd3YUUtNkgwX2Zob2Ffa1ZIdjJaSmF4Y0RPRE1PcU9GTGRHN3p2a1JzUmtMOUNCY1JrVTZsN2NCN0IyZ2wzZUZkUzY2NGtGc0dhZXpadXkyQW1TSW9JcWkzTERaRm5oYnhB?oc=5",
-     "tarih": "2026-10-05T07:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Daikin Türkiye, mimari projelere yönelik bütüncül iklimlendirme çözümleri sunduğunu duyurdu.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "ee68b7e4bfcb",
-   "baslik": "Cep telefonu kredi düzenlemesi: BDDK açıkladı! 2026 cep telefonu kredilerinde vade sınırı kaç ay?",
-   "marka": "Sektör: cep telefonu",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-10-05T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Sabah",
-     "url": "https://www.sabah.com.tr/yasam/cep-telefonu-kredilerinde-yeni-donem-bddk-acikladi-cep-telefonu-kredisi-kac-ay-oldu-7674251",
-     "tarih": "2026-10-05T07:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://iasbh.tmgrup.com.tr/23c0b0/1200/675/0/0/740/416?u=https://isbh.tmgrup.com.tr/sbh/2026/10/05/1791205149200.jpeg",
-   "yorum": "Banka Denetleme ve Düzenleme Kurumu (BDDK), 2026 yılı için cep telefonu kredilerinde uygulanacak vade sınırını açıkladı. Yeni düzenleme, tüketicilerin telefon alımlarında taksit süresini sınırlamayı hedefliyor.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
