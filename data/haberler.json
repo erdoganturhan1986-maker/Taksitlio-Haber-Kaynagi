@@ -1,7 +1,91 @@
 {
- "guncelleme": "2026-10-26T10:28:09.532876+00:00",
+ "guncelleme": "2026-10-26T16:57:18.792028+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "f733af9b4f8c",
+   "baslik": "Arçelik’in (ARCLK) 9 aylık net zararı yüzde 42 azaldı",
+   "marka": "Arçelik",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-26T15:18:38+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Paratic Haber",
+     "url": "https://paratic.com/arcelikin-arclk-9-aylik-net-zarari-yuzde-42-azaldi/",
+     "tarih": "2026-10-26T15:53:34+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Borsatek",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0eDRvck1aVDdPczVBdll4R3BPTVZsQk1UNnMyUC1oeGtkS3BCSzR3VDExa0dUREFFN1lpSDFXS01ZTGJWM3VCMmVQdm03TEkyd0ZLeDZwWXdqYTN6RmNOeUZCc2I3aDBB?oc=5",
+     "tarih": "2026-10-26T15:18:38+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "hibya.com",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNEJPWkNVSEJWd2NuN3pZeHZnbjFRTGd1LUhFMElxYkxUS1hTb0c1QnFDdEt0bXlmTTM4NGlOVWhwM3RUU2xmMmNkVUZLdUxNOW1QaEtmUU0yX2tiWkJQVGJIVHpyYWVNMEtnNzFiaFJQSThVV0E?oc=5",
+     "tarih": "2026-10-26T15:26:40+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://img.paratic.com/dosya/2026/10/arcelikin-arclk-9-aylik-net-zarari-yuzde-42-azaldi.jpg",
+   "yorum": "Arçelik, 2026 yılının ilk dokuz ayında net zararını %42,5 azaltarak 5,8 milyar TL’ye düşürdü. Aynı dönemde hasılatı %11,5 azalarak 435,3 milyar TL oldu. Şirket, bu finansal sonuçlarını Kamuyu Aydınlatma Platformu (KAP) üzerinden yayımladı. Brüt karı ise geçen yılın aynı dönemindeki 141,3 milyar TL’den 127,9 milyar TL’ye geriledi. Bu veriler, Arçelik’in 2026 yılı ilk üç çeyrekteki performansını gösteriyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "ee4c1343133a",
+   "baslik": "Deutsche Bank'tan Türkiye ve TCMB analizi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-26T14:07:36+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/deutsche-banktan-turkiye-ve-tcmb-analizi-3792580",
+     "tarih": "2026-10-26T14:07:36+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/deutsche-banktan-turkiye-ve-tcmb-analizi-faiz-indirimleri-surebilir-turkiye-carry-trade-icin-cazip-haberi-927133",
+     "tarih": "2026-10-26T14:24:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/26/ver1793023765/3792580/jpg/1280x720",
+   "yorum": "Deutsche Bank CEEMEA direktörü Christian Wietoska, Türkiye için TCMB’nin Aralık ayında 100 baz puan daha faiz indirimi yapmasını beklediğini açıkladı. Enflasyonun yıl sonunda %30 seviyesinde olacağı öngörüsü de verildi. Banka, TL cinsi tahvillerde ağırlık artırma görüşünü sürdürdüğünü ve Türkiye’nin carry‑trade açısından cazip olduğunu belirtti. Ayrıca, enerji fiyatlarının yüksek olduğu ve dış şokların mevcut olduğu vurgulandı.",
+   "neden": "",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "95947925a8af",
+   "baslik": "Karaca'dan kasım kampanyası",
+   "marka": "Karaca",
+   "kategori": "ev",
+   "oncelik": 3,
+   "tarih": "2026-10-26T12:35:49+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/genel/karacadan-kasim-kampanyasi/705187",
+     "tarih": "2026-10-26T12:35:49+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/26/thumbs_b_c_3759f01aa7583761dbf76d1fb8fa434e.jpg",
+   "yorum": "Karaca, 28 Ekim‑30 Kasım tarihleri arasında Kasım kampanyasını başlattı. Kampanya kapsamında yüzde 50’ye varan indirimler, seçili ürünlerde 2 al 1 öde fırsatları, hediye ürün seçenekleri ve 24 saatle sınırlı özel indirimler sunuluyor. Uygulama kullanıcılarına özel fırsatlar, Love üyeleri için yüzde 5 geri ödeme (Love puanı) ve yapay zeka destekli alışveriş asistanı AIDA da yer alıyor. Ayrıca seçili bankalar aracılığıyla 9 taksite varan ödeme imkanı sağlanıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "a3c74de6ef71",
    "baslik": "Mahfi Eğilmez: TÜİK'in enflasyonu yüzde 31,51, kredi kartlarınınki yüzde 42,2!",
@@ -126,6 +210,12 @@
      "ad": "Anadolu Ajansı",
      "url": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-endiseleri-artarken-dikkatler-fedin-bu-haftaki-faiz-kararina-cevrildi/4100814",
      "tarih": "2026-10-26T08:07:47+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/pakistan-merkez-bankasi-ndan-nisan-dan-beri-ilk-faiz-artirimi-3792543",
+     "tarih": "2026-10-26T11:41:12+00:00",
      "guvenilir": true
     }
    ],
@@ -3921,6 +4011,12 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOXpuY09fR0YwdDdxSk9JYU5ZdU4taHhBcGh2ZnFWS0htV0VGZC1LbU02QVdiRmRxUGMwaGF4SkdfUjZsMGw0NmVmWll3WW1SbXNaMFVjejgtOVZ3ZEl0Zk1XYTZWMC1EY0FhSXZ4cE5aM0ZmNll3MGZLX1JlTnhNTkNLcjI5UTZvRzhwV2dXUdIBlAFBVV95cUxPWlN0VjFUVGdiTmdoZUtMWktGZTRsNzJJYy1hMUlTbWwxVjl4R2h6VlNCazVNYmJjNjVMN0ZDaXR5RmwtUEhGSGtrem0ycFVrUEMxSFJNcm15ZlZQUU96S1JiWHJhQ3lMVGxhOXhsa2lsTy1Sb25CM3NCaGgydjZDanNSU1BNcnNEQndEM2RGd2w0Q1k1?oc=5",
      "tarih": "2026-10-18T09:00:01+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Para Analiz",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFNtTVNCak5UelBwTnc4V1Z0LWtxQVdhWF9yM2ROLTF2LTBpOWh3cFpWWWcxU25MeUlFWFZIUXFKc0xWMl9lQkFWcVBEaXVpNGhKM1FTRm1HLUVUQzFEQU1PdE93R0o4bjFEWjNsY3AtRVBHZUdFM1lTaXVZMTRjU0MydVFrMjFRMDA4QmJQMmkxM1FnNDBCclBMa09WNjlzTjBvY1FHX20wWkRNYllYdA?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/07/04/market-stok-istock-lalg.jpg",
@@ -4614,6 +4710,12 @@
      "ad": "Forbes Türkiye",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHl0VXVtcmd2OFMzSFl2RDJtQnBPWi1KMHFBZ1JiSG0zQkhKTFdFQTRFUktKaEVZWXM5UHlSTDIzcTV0OTBvNUtlTnk1NnhiVEV2MWpvZ3NkamtaTUJkWFRTVnUyWVlmSjlEUGpNcmpvMUFrNmdtSzdrbnNJUWxnb1lWOE1GOGZ0RV9GODlxaXg3QUV4clNNZ1V4ZGc0ZTNnWVFLM3RRdDQ0Qm5ybV9telFXa1g?oc=5",
      "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS01HSzMzOWFUekl6cXZlangzVmJUY0Q5ZU1mSVkyR01HQkxNbVRlblIzam1LbW9lR3F1V3BFR3hmOV9lZHBsZjd1WVVhcGdBSmZRdnpwUnZLNi1BMk5jeExzaFlrdm50TTlGVnNEZjRGZXIxX0lib01VTFc3VUJjdTVCbUJWUnBDRURwQW9vOXU0N0JIeU5oeEtlaUkxQUF1aHJKYTI5aVc0MnhrZTJraUpWeVZZbnF4ZHp6VEM3TEJ1ZklKN1RvSHNZUFRmZTV6SldUdzhpRG80eUN2T1JWb05XZGhlOTYxMXZoYlQtaDBXV0hodGVaODBNRE8?oc=5",
+     "tarih": "2026-10-08T04:35:23+00:00",
      "guvenilir": false
     }
    ],
