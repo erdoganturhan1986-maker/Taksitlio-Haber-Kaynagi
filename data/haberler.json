@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-26T16:57:18.792028+00:00",
+ "guncelleme": "2026-10-26T21:50:06.494683+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -34,6 +34,106 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d081efb31b8d",
+   "baslik": "Arçelik (ARCLK) 3. çeyrek bilançosunu bilançoyu açıkladı: Şirketin zararı beklentileri aştı",
+   "marka": "Arçelik",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-26T15:18:38+00:00",
+   "kaynaklar": [
+    {
+     "ad": "CNBC-e",
+     "url": "https://www.cnbce.com/sirket-bilancolari/arcelik-arclk-3-ceyrek-bilancosunu-bilancoyu-acikladi-sirketin-zarari-beklentileri-asti-h40355",
+     "tarih": "2026-10-26T15:33:38+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Paratic Haber",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YbzRzS3RRdzlBZ2VfbmVfNldMeWR0SEhIY3o5VVgzaDhlanRDUC12UllSUlgwVElFQWJYbnBHUnBNZ2VhZThPb2FRUnBSNVFIQUFrQ3ZLcVljZGRhMWtGeUhyRk5JbGllYjh4aDA5Q0lKd2VMVlZVS3FHNA?oc=5",
+     "tarih": "2026-10-26T15:53:34+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Borsatek",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0eDRvck1aVDdPczVBdll4R3BPTVZsQk1UNnMyUC1oeGtkS3BCSzR3VDExa0dUREFFN1lpSDFXS01ZTGJWM3VCMmVQdm03TEkyd0ZLeDZwWXdqYTN6RmNOeUZCc2I3aDBB?oc=5",
+     "tarih": "2026-10-26T15:18:38+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Rota Borsa",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2FheUhDYXdZekh2Vzk4U2NETTRncmdmQW01RDZyUnZ6cGdONFRoaTZXVkNDcng4Y280VWJGbi15UlRsLXo3NTJWa2hHeXRxS1NScW1wZlFiMURNQ2ljd0FSYmJFRkFPaUMta1U0OF9TZ3FSOE0ydVlzbml2ZXVEUTF4eFphZkcwVFlGSg?oc=5",
+     "tarih": "2026-10-26T15:21:01+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "hibya.com",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNEJPWkNVSEJWd2NuN3pZeHZnbjFRTGd1LUhFMElxYkxUS1hTb0c1QnFDdEt0bXlmTTM4NGlOVWhwM3RUU2xmMmNkVUZLdUxNOW1QaEtmUU0yX2tiWkJQVGJIVHpyYWVNMEtnNzFiaFJQSThVV0E?oc=5",
+     "tarih": "2026-10-26T15:26:40+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ01xZ1NGM3k4aTlucXY5RkVpeExvQW1fR1k1NTBwSTJ6aTdkVmFmRm5lVFNfSUN2eExRbkVYMTN0LTd0S2dtU1hsSmxtN3JmUjNxZ2VGcmtEM0Y2czk5NTlxM0cxRldaZXdJTEhqaEoyWnRONkZmNVlCWjU4bHplYTJJNDV2bmlJbm9xVzcwSVJmUWwwQjYyLUhTeG42VE9ILURjWGJEb0ZNTnJtUDJhcEVDOGMyc1BBTzI5ZjFBQ09nd2FQWXNjRk11YVRLdTZnMGpZZmFGU3pTQQ?oc=5",
+     "tarih": "2026-10-26T15:28:11+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Paranın Yönü",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVE9PZkQ0LTVOeUJEeUtzNTRFUDZrT2kyaFFwMWxfUVl5Ry1tUm9IU3haUVZQMEp1VzJsNWFCTkppQWMzVnB2TlRLU2dEeVlKbkEycDhWMHRpc1RMZ0pqZUZJVFRzdENxN0pFOS1ZbkN6ZnRwMTdyQ2QtRnk0UFhFal9nbml4SENsTmw0bGVROFZVYzRwT1E?oc=5",
+     "tarih": "2026-10-26T15:30:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2ZXBVaTZreFVabHZEaDJvZGhjYklOUTM3V2lOcWhOVUJIZ0RmMHU1U0pFSDJHNjFWUV9BNzhUS3d6c1NUeFdIeUE3aGRNZlViYklLcVRKMEttdkkxcWFWZTAwcW5UZk9ja3Q4NmRR?oc=5",
+     "tarih": "2026-10-26T15:30:38+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsa Gundem",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUJiOGRnWVRMYUVoUnU3dlVUaFRKUnNKRkVpM1dIZXpsdWpORE5SYnNuWmRCU3MwcEhYeWxYR2o5LURZVWNGaDl4VENvRkNwa2RYV2JtcTJnNE91VnMwc2JDTGdOeTZMay16eEpja0tnWVNFU3hnOE1mNXB5cm1IN1FHYzNMM2h4UDBVLUdibU4?oc=5",
+     "tarih": "2026-10-26T15:32:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsamatik",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeU5iTGJ2N3gxUklYNXFHbjEzc2RSYWtGYm5XeWdJVjFVSGxjS1NOV3dMVmh1a2JWVHg1N0RlTDlMekdBYTVhMVQyalBOdUcxWGZ2MEFaZzcxVTVPQXdkN0VtRlROdDk0SzF4THVjNDQ4Wm1ISEdfLUtWVEpySDNUQ0lWcVJLNXc4Z3U5d3pOMER6d9IBlwFBVV95cUxNV3dQWjBMU3lPZWNZcDRfLUlDVUVlSHRSZGJlNzF3Mm16WVI0T0ZUTUtkZS1sblFOUXdVd0VsVG5uaHNwN01uWmFiYktRR1dHTHJkZzJYazZ2d0p0SUZiRGtvaXZjazZwS3Ntby1ZenlnV1l4V3Y0b3BYSEs3eElnSnd6SGF2M0p1dFpQV2hFcVFhWERsVDU4?oc=5",
+     "tarih": "2026-10-26T15:37:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hisse.net",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFBIT0JtMHJDQUN5WC04TjR6Um5PX0s2Qy1rRzA5ZGRWWDBMRlBpb1dTSHd1WmxqblBQek9GZzRrbjNPY3FwcWdOcVoxSHV6Yno3Q0VLOElPYm84Y05KVE53NEc0a2Z2bkQ5blk4SlFqVFJsc3JTT1FiSVN0bGJUbnRNQnVFQ1ZaV2hVODZoT1bSAZYBQVVfeXFMT1hlNzhqWC1rUmV4cGkzYlZiZVZ1aHpiaHpSMTBneExMTGxlX2dCVHpBcmNSSmNoem1yNEVrRWRUUl90aVAzS3Y3d1hJZF90RHYySTFxOEc3d3hrSXRZYk03aHdXQnhaZ3YxRnpiX1U0UnpMSHAxRzRtbWNjSS1DU3FOWDN3YkZLMVZEdFVHRWU1TER5blpR?oc=5",
+     "tarih": "2026-10-26T15:38:39+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVFXOHlVdFVaZFNZMldsa19zcTF0Mkg3RDVIUGpFVy1yRGJ2MVJNX3kwSjBtOFF0TFVzTTRaTm1zZVpiblF3XzlGNDUwcmxxbUlDOG5iTkd3bVBXRFpwUF9fZmlUc3dVWXZEQkZVY0xLYUFqYWhZYTBFTTB4ZWlWX2xFR09Ka29hUWV2eUZHbw?oc=5",
+     "tarih": "2026-10-26T17:39:37+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "politikam.com",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQV9jTTk2NEdfZndJME5Dd2ZQMHA4NklTQTBQUEpWMXhyMnRpa2xaVU1tZkxTWUItS19zQjluYXpUN2R1Ql9zM09GZDFWcHJwaWlnY3dwSjNPV2F2Z2NuYktfTU01YmZpWGlpdE5iTTk3WVBZZmtUeDFDUkFCeG9OVHVobGxoXzUwc2c?oc=5",
+     "tarih": "2026-10-26T18:05:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Son Mühür",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0wtY1EzRUJaZEJybkhYV3FuRTU4UzgyVktpQ0NYaG1WQkNmeDVvSlB2SkV5R3FMRy1GY3NnRHR0SU8zV0pTMEEycE9hdWw5bFJlTFFNSlY4X1BYRGphaVFPQ0JyZHdwaDZraGpMV1pnV3JXS2VCM2tvdDBIa216Y3RDLW0zcnRGT3U4RXZqdUUwclE1bXY2N2EtVXFHdXR5SV90cGowUmNyUTA1NnY5aGpBZ2hrWUk?oc=5",
+     "tarih": "2026-10-26T19:40:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/06/10/arcelik-stok-istock-1-kn09.jpg",
+   "yorum": "Arçelik, 2026’nın üçüncü çeyreğinde 6,21 milyar TL net zarar açıkladı ve bu rakam, ortalama 5,12 milyar TL beklentinin yaklaşık 1,09 milyar TL üzerindeydi. Şirketin satışları bir önceki yılın aynı dönemine göre %11,5 azalarak 435,3 milyar TL’ye geriledi. Esas faaliyet kârı 10,28 milyar TL’den 5,66 milyar TL’ye düşerek 683,8 milyon TL zarar gerçekleşti. FAVÖK de %29,3 azalarak 20,82 milyar TL’ye indi. Özsermaye ve toplam varlıklar da sırasıyla 14,95 milyar TL ve 58,5 milyar TL azaldı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
