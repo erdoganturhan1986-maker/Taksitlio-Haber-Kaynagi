@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-27T15:59:56.019086+00:00",
+ "guncelleme": "2026-10-27T20:56:00.282464+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -781,6 +781,28 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "2af9a5435df8",
+   "baslik": "Samsung Electronics'e Trusted Brand Awards 2026'dan \"Altın Madalya\"",
+   "marka": "Samsung",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-23T12:25:38+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/samsung-electronicse-trusted-brand-awards-2026dan-altin-madalya/705160",
+     "tarih": "2026-10-23T12:25:38+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/23/thumbs_b_c_17d6637c259f5ad9fd9c4a779aa46ba4.jpg",
+   "yorum": "Samsung Electronics, Trusted Brand Awards 2026 kapsamında beyaz eşya, televizyon ve küçük ev aletleri kategorilerinde Altın Madalya kazandı. Ödül, 1 Ağustos‑15 Eylül tarihleri arasında 17.200 katılımcının değerlendirmesiyle belirlendi. Samsung Türkiye Pazarlama Direktörü Osman Badur, bu başarıyı tüketicilerin markaya duyduğu güvenin bir göstergesi olarak nitelendirdi. Şirket, yapay zeka destekli buzdolabı, çamaşır makinesi ve akıllı klima gibi ürünlerle ev deneyimini iyileştirmeyi hedefledi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "efbf8c1c1c1b",
    "baslik": "Daikin'den küçük ölçekli projelere yönelik iklimlendirme çözümü",
    "marka": "Daikin",
@@ -815,6 +837,30 @@
      "url": "https://www.aa.com.tr/tr/bilim-teknoloji/turkcell-ve-samsungun-5g-alanindaki-isbirligi-2027ye-kadar-uzatildi/4098183",
      "tarih": "2026-10-23T08:23:25+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Yenidevir Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEViTjUzVTUzQ1Q1blF6ZmxaR3BDanh2dFNxNkZtVF82VW8tTjZkVTVZOS1kbGlucmtxWjBPNEhCcmFDZjRVV3lIN0lsY0tGd0tLaG1LT2dVdFlDUUl2ZUtVUEQ2d0RQX0FqWXhmZi1sZzN2dmV4Y0l6c3FVVl9PMmNxbkMxZXZUYW80SmluXzlNd3VLdzBWVzZMaDkxZjZ0WmVVb1FOZlNXcU5oNFE2M2tmVlJWYU5uUmRVUXVrU281b2lmTVE?oc=5",
+     "tarih": "2026-10-23T07:45:02+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "dikGAZETE.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXMxMnBSQzlycGVTdVkxbWtybGMtaHNXZ2tBNW9LSHpEc01uUkcxNm1IWGd4dW1lT29YYU05aFNPYlhUcDY5U2d6TGI2RXBpZkVXblBKU1diNTNVUU90UjVEckdzRzJUcmNGM1JqclpHd0ZhQThYalhMM3ExU0I1SmR1Tmc4VEJZZVFISWpIalhsRnlaTUFSZ0ZRM3IxUkxOTFFGXzJ4b0g3dWxtcjQ0c0pacGoydw?oc=5",
+     "tarih": "2026-10-23T08:28:41+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Teknoloji haberleri - LOG",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfVDFKcW1XODdnaWxyOFU5aGtkR2lsa08zNmZRZXFSMEFyMU9XbldBcUw2X2p2WVkwVFE3STFBT1ZFOGpQSkJZbjdtSm9hUGUwUEs0YkNNVks3VXFGNS1BMjVhMVFpNUVfZVNldk9obnZfemg3QmFuNm1LZTVmNG8?oc=5",
+     "tarih": "2026-10-23T08:48:46+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnlISURxZlpuQUd1NGx5WV9keF91MTZfaUVUOHplUG83ZThmT21CZE9DNVNOZ2p5WjR2R19XMFYtZnhIZm9nNjBiRmI3RTJKdkczVGdoU05WZWVfdHNKUjJmNHhZenZ3U0FqRzM3dkgzWjVRWTg5dnU5RDl4NkthNHI3RnZjZmJRY2JCZk1hRUdVSGlrMGp4YmhpV3hHVGFHdUdjRU96c2cxRW5KTU0xVlZn?oc=5",
+     "tarih": "2026-10-24T04:22:35+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/23/thumbs_b_c_32d6ebce3b4cdeba201fff0f0e737579.jpg",
@@ -2228,6 +2274,12 @@
      "ad": "Yorumla",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNVY0ZRWjJwZGtyRmNYaWNBdXJ4aVFPUEF2a0tyNGxTV0F3NFlsMWxNMUt4MG1qNWxtal96elhXMnhmLS1KalRiMXhyV1BNMDUySnJJSzhNSWVFaG9GaFpGNTdUb3M2bUtaLWpWVVRiT1NGZFViV3lLdUdZV0lwNEQtQ2VGdlNiVkRISA?oc=5",
      "tarih": "2026-10-17T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Çağrı Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMndHNkxkcGJ1RG9QM2VKS2JVLVNKQzVvNXFmOHd0MW1zYk4xOGh0VkdwUkxqUUttYzVDblhzZlpKQTlQVU5XNHV3RjhwOS1MdFZBNllmMHh4OXFrdFNSYk5yTF8yVkhTVHBfVkdEbC1OcFg3QUZ0ZGdoMzY0ZEtDZ01ZRkdfMVJzWHBpTW9xeDczREY40gGaAUFVX3lxTE9zSHdULUhON0p5SjM3cEZtSnZZNW16ZE5MN0J3UVpqZmg4MkpFSmhoRXJuZ2VsVDVNa3JHTllqYWlMekNGeVJYaXFIQ3dvNXlQRHNrTkR6d21wZm91aVN0Y2hIbVp1Q0tKd1p6TnB3d1NJSzlFOHVwRXVEOWMyUmFseGlJb1lhY1cxY2YzZEJUWFJFMmVjTHpXUHc?oc=5",
+     "tarih": "2026-10-16T11:08:00+00:00",
      "guvenilir": false
     }
    ],
