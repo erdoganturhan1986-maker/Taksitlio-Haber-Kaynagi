@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-27T10:00:40.720402+00:00",
+ "guncelleme": "2026-10-27T15:59:56.019086+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -759,6 +759,18 @@
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjhmaUFSUUQyWHhxX1paNHR3ZHpCVmt1bFZhd2pnMVdGYURzNnhnc0JTai1jb2VVWVU3RDBBSG5ZSFRqS3lMRU91VUFRRUxaU2o4N004VEdfS3p6TkhOelVjNEFqeUczMUx1eThFUlhvMi1zczlqWVI1ek1hU2pGaWgtTnM5RG5EUmo5MA?oc=5",
      "tarih": "2026-10-23T19:15:36+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Türkiye İş Dünyası Haberleri",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1VJYTg0LWtkSl9pVWpXNUJzU2daejVDUUNBLVRGZlM5V1paZmJFTlpPc1FROHRGbVRDaUo2SmN0VjBwRXJXTEl0cDZuX0VmN04td3BwSTJpOWJkWmUxOEdPVnB6UEFwNEpQM0xwOC1NNlBmaE5rVGcxakFxdGxZZ2V5SWZWR3JDUFNxUHpB?oc=5",
+     "tarih": "2026-10-26T06:07:52+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1BlYll2TzhMVHF2Z3B4X3pKdmRYTDE5T215a0tfSG1zcFFYaDAwak5Vc1c4VXNwN2UwRXhIa0d2cmNGeDMxNWFVUkh1Qi1QNGdRZ25RRVVnWnBLbjFteDRvVU9zdXkxQV9INDkzYXE4YmtJRlVSamx1SF9MTmF0UjRsaVRXSXROeGV1MkQ5NU9YQ3NRVjBTeWJ3YXhhT1Vld1hYamRKZy1DVGp2bGo5THZmTWNVRGxRX2JRMzE4aHBhR19H?oc=5",
+     "tarih": "2026-10-26T07:41:20+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/23/thumbs_b_c_d9b2454eade8ffdf9ea458d180376376.jpg",
@@ -788,6 +800,28 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d200e0fd2ac7",
+   "baslik": "Turkcell ve Samsung'un 5G alanındaki işbirliği 2027'ye kadar uzatıldı",
+   "marka": "Samsung",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-23T08:23:25+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/bilim-teknoloji/turkcell-ve-samsungun-5g-alanindaki-isbirligi-2027ye-kadar-uzatildi/4098183",
+     "tarih": "2026-10-23T08:23:25+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/23/thumbs_b_c_32d6ebce3b4cdeba201fff0f0e737579.jpg",
+   "yorum": "Turkcell ve Samsung, 5G teknolojisi alanındaki işbirliğini 2027 yılına kadar uzatacaklarını duyurdu. Anlaşma, iki şirketin ortak projelerini ve altyapı yatırımlarını kapsıyor. Detaylar Anadolu Ajansı tarafından bildirildi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -4737,6 +4771,40 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "1663b1766c76",
+   "baslik": "Ticaret ve perakende satış hacmi ağustosta yıllık bazda arttı",
+   "marka": "Sektör: perakende",
+   "kategori": "ev",
+   "oncelik": 2,
+   "tarih": "2026-10-12T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://yerel-haberler.haberturk.com/ankara-haberleri/ticaret-ve-perakende-satis-hacmi-agustosta-yillik-bazda-artti-42727471",
+     "tarih": "2026-10-12T07:15:50+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Taka Gazete",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjJESmxuRWZyRHVsbDFwbkU0VjBmbVhqZDJEUy1KSlBPT1NSNDBqMVRhZFBfZl9CT2RHYXNzbDVhQlZ1clZhbW95cmJ2TjJuNVpHSXZFMnpBR3lWXzZEUEpmRzU0aHNnci01aWVpN2hfMDRsS0hYNUI3SGI0NEFLYTRiYlhrVmhBWFFNRmlHdzFacW1ORXBVUURqWFA?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomi Ankara",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hJTjhXVjFvS3JQUHFhNzBWR0lwd04xb3FwcFlyUmxSZFpHRV9IYVRhTG92R2NLSW1abW5TZ2YtNTF2VGNHWDluN2RHYnU3cnUxMmlrVXQ0bnZQLWZNRzNrMmpHbkg1SjZTSkx4SVZzbi1tQlFZN1F3U3p5cDVhbzRoQVRrTDZJQ0tKZFBPeTQ3VTBSU1R6S21SMlNTRW95ODN2VVdYNE1FR2wzWE9xaXVfc2o?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/assets/laravel/images/common/local-news/ankara-1280x720.jpg",
+   "yorum": "Türkiye İstatistik Kurumu, Ağustos ayı ticaret satış hacminin yıllık bazda %0,6, perakende satış hacminin ise %10,1 artış gösterdiğini açıkladı. Aynı dönemde motorlu kara taşıtları ve motosikletlerin perakende ticareti %1, toptan ticareti %0,2 azaldı. Veriler Habertürk, Taka Gazete ve Ekonomi Ankara kaynaklıdır.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "9b50beec4192",
    "baslik": "Hisense Türkiye'de televizyon ve klima ürünleriyle faaliyetlerine başladı",
    "marka": "Sektör: ısıtma ve soğutma",
@@ -5003,120 +5071,6 @@
    ],
    "gorsel": null,
    "yorum": "Arçelik, bir enerji şirketiyle 19,5 milyon dolar değerinde güneş paneli temini için anlaşma imzaladı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b94a51e7b0e1",
-   "baslik": "Samsung'dan iki Galaxy modeli için kötü haber: Güncelleme desteği bitti",
-   "marka": "Samsung",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-10-07T15:19:01+00:00",
-   "kaynaklar": [
-    {
-     "ad": "CNBC-e",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWFSc0VmTEotV09jRDlzYWxhQkw0dTBLbEF1QTJral84TmZXY2hQZmM5Y3UyREtvWWduTTVPVWNNbk15bjlYQ0E0RFRBXzVnSEoxaWM1WjJ2UmE1a1BJcGlSeFM1X0w2emhLa1dtVFczWkVqanY1TnpTclZRS3RwbUhRTWUwd1lGOVk4ZnVOTUZPZE84dEVxSktGZlBWclpxZjVJVEg1R05maWxL?oc=5",
-     "tarih": "2026-10-08T10:19:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Türkiye Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2lxX3B5UkpaaEdDdG1XdmhhaHVITnh0NU1VbWRKZkc1T1BLUWdoQmRwYkVUTHI1NXUwV1NhNFcyTU8tb29wWGs2ZlZITHo2R2VZWDBTVWFNOVZFYmw3WjZvbE9RXzFldGIybzlvcHFVSU1XaUpKM2xCS1BOdl9GaVhGb2YxeDg5blU4Q1dPZHF4MlJpWldjZTc4X3Q2a1p3bDlBZVF0UmNfWFRtSmZENF8tRnhVQ2wzWFVBcXBka1I1dw?oc=5",
-     "tarih": "2026-10-07T15:19:01+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Samsung, iki Galaxy modelinin artık yazılım güncellemesi ve güvenlik desteği almayacağını duyurdu.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "58d576b7e5f9",
-   "baslik": "Avrupa'da en çok satan telefon markası belli oldu: Bir markanın satışı yüzde 90 arttı",
-   "marka": "Sektör: cep telefonu",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-10-07T15:16:39+00:00",
-   "kaynaklar": [
-    {
-     "ad": "CNBC-e",
-     "url": "https://www.cnbce.com/teknoloji/avrupada-en-cok-satan-telefon-markasi-belli-oldu-bir-markanin-satisi-yuzde-90-artti-h38944",
-     "tarih": "2026-10-07T15:16:39+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Haber Gündemim",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREhOY2pJd0ZuMml6Y3VMaFVEMjhsemZlR2x5d2JZNHFjbUh3SVA0VlR1RzUxZHdfaUd2LWU5TGJZVTNKanlBVWJoOFlBZVl6QzhWR184QUZhUnVxSFZTX0dYclNwNlN4bUNmaWxIXzF4NURyOFhGeFU5djRXaFdIVDVUVVlxQXUzNXVRbW1nMnIxYVJZOEM4SHIzb1BXaF9Z?oc=5",
-     "tarih": "2026-10-08T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Sözcü Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVE5ncW8tdVd0QTJ3S2p5Ull5SWZXQ1pJWGljU0J4Q2JhSjM2Z09KeVBJVFpxS0FPRVBIUGQwZk1ra044VHhvRXNjbEVrU2lqRDRsLVpWZ04xemVlcnRUem1JSWV6R2s1dGxMY2s3ZnYteUEzYjFaOHlrdWxHMndWeWc2WDdnRVNnZ2s5c1YxNGtMRHhNbGxZaC1oZnlJek4xU1E?oc=5",
-     "tarih": "2026-10-08T07:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/04/21/telefon-stok-istock-1-vw2b.jpg",
-   "yorum": "Counterpoint Research verilerine göre, 2026’nın ikinci çeyreğinde Avrupa akıllı telefon pazarında toplam satışlar yüzde 8 azalsa da operatör kanalı üzerinden yapılan satışlardaki düşüş sadece yüzde 4 oldu. Bu durum, tüketicilerin operatörlerin sunduğu kampanya ve taksit seçeneklerine yönelmesinin bir göstergesi. Operatör satışlarında Apple, yüzde 4 puan artışla payını yüzde 37’ye çıkararak Samsung’un yüzde 5 puan gerilemesiyle yüzde 34’e düşen payının önüne geçti. Aynı dönemde Vivo satışları yüzde 90, Motorola ise yüzde 27 artış gösterdi. Üst segment telefonların fiyatlarının yükselmesi, tüketicileri taksitli satın almaya yönlendiriyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "8043f2843216",
-   "baslik": "Beko evcil hayvanlarla yaşam için yeni teknolojilerini tanıttı",
-   "marka": "Arçelik",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-07T12:21:11+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGlHd0xxTW1aNWVWSG1XU21IOXNLNnlQN21NcWdGd1FOekg0R3BiVHBlMFNlaXFsUXdsUUl2VDhFUEhmTzFzc0szSzBPUkZtTVFKSnp2Q3I3OFlvYnhvaUczSUF3QzBrSDZNUTZaSTZEVGE0YTlfamtYUzYtQnJoU2tkTkUxMnRjTWFQbl9IbmV2X1kteG9lTFJyQ3ZlQ0RvZWdwSmlCbHo5MmsxdnNr?oc=5",
-     "tarih": "2026-10-07T13:29:38+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Bandırma Manşet",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFo0dEppT0NkYkl0N3VWLWVfNEZyN3NaM3E1M2pwWDZuLUVZNXd1UldlRDE0SDU5WndRR2tHM2o4SzBrdUl2dTJ3NUFNdllId01HX25CZUl2TDJmRzV2R2h4SndTME1XUEdscGZnRkNhS1RQM1NqalVBSUxuZFo5R0NnQnloUU45TnB1WEJLYThNcVlyckRN0gGcAUFVX3lxTE9ncW53cm5ZSU1tMlVfMVl0b2E3MWN0OXdFdVpyRnlRNjlwdTAtejhwZ2NNeEZFWkNTOENBWTJlZUxTV1dhanhXWGExRkRTdXQwQnMyYndHTmNra3B5RkpNNW1BbzRiNHVKRk9mWmU5UmlmNm90SEw3SlJ4TTdtOUhMM2hwWE5uX1RzSnhkZExtQnJMT29fZXpNZnpJcA?oc=5",
-     "tarih": "2026-10-07T12:21:11+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Türkiye Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVhBOVNIR3J0WVpUcU16N0hTNEhJcnh4MXR1b1hXYUFDUmhnWF9zbFRVRDc3Mnlxak83N2NBTU1JSE50RHN1S1J6YkFZTVRHZlFVWEFSTTkzNmE3UHoyY3ktaWVoVnhzZFdReDhqVmMwTnI2MW5rZVE5TEo1UHlua2U3aWJpTF9abWhBU0hEc3Y4RUYxaHY0NFNWV3k4Wk1fNEctRjh2cXhzMktTZVZra3A5RW5aanZPbGZJSVpB?oc=5",
-     "tarih": "2026-10-07T23:36:54+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Kütahya Ekspres",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzlsdXpMSlh3bzVoMWtYX1I1ZXVwSExZaDgycEJlV2tsWUw2MjZ4VjEwVGZkeXprT1o2UlRLczduYWFKd0pmOUptcy1lMGgtOF8wYzVuUXllaGc3bGNpQWdsTlpWMXFCMHFSTHdNa29HVENZSHA0UDMtOEJ1NWYwaXBLMnI5ZE5TdWtfWjc4c0VfeTQ?oc=5",
-     "tarih": "2026-10-10T06:45:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Ekonomi Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUFRMlVlNzNmN0hVME1aRmdad1M1M2NWVElmX2JPQ0x6TGthZUlKNld2eXkxdWJNZmJwbUdfWFZCVW9UOVRLQnh3MnZLeEJwMGpmbS1PbVdrSDZRaEdmLUFFYnhReHBNSFcxeWx2LVNvdGY5QWNJTFZ6MkNZOHVrTmRKQWZpTXJfSjg4aktvOU05b18tZ29qanZGNFJTU2VKb2h4VVRwa21qdktFYWRRbU9wZDkwR09rNDc5UU9IbXgtaV9TLU9fdTBPcw?oc=5",
-     "tarih": "2026-10-12T08:38:01+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Ekonomist",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2g3R3Y0WmphWUlwNlFXbWRvOXhIRTBqdmNaUlJuT2U3Z1B6aEs4RlpmVXg1UGJRZ1VpQVI1WUFwMHFpZVNCNGVSZ1pqeHU3TENEeHJsUERPdndpcFZ0R2VZenhET0tvbkdLSC1FOTdYZURxYXYwN1M5QmRRd3VNOTNGRGJ5OXliV3NacTVSU3J6VHZNSVV3dWZxdTZQaENpRGdwYXpTUzNZdw?oc=5",
-     "tarih": "2026-10-07T12:32:11+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Arçelik'in Beko markası, evcil hayvanlarla yaşamı kolaylaştırmak amacıyla yeni teknolojik özellikler geliştirdiğini duyurdu.",
    "neden": "",
    "gundem": false,
    "onem": 2,
