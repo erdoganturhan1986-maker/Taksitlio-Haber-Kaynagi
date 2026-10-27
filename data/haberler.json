@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-26T21:50:06.494683+00:00",
+ "guncelleme": "2026-10-27T10:00:40.720402+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "cbf2d2e69950",
+   "baslik": "Ödeme güvenliği için siber güvenlik tedbiri alınacak",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-27T08:59:31+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/odeme-guvenligi-icin-siber-guvenlik-tedbiri-alinacak/4102160",
+     "tarih": "2026-10-27T08:59:31+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/27/thumbs_b_c_2bcec3e0e5b192da416e4f7500a95532.jpg",
+   "yorum": "Ödeme güvenliğini artırmak amacıyla yeni siber güvenlik önlemleri alınacağı bildirildi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "f733af9b4f8c",
    "baslik": "Arçelik’in (ARCLK) 9 aylık net zararı yüzde 42 azaldı",
@@ -126,6 +148,24 @@
      "ad": "Son Mühür",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0wtY1EzRUJaZEJybkhYV3FuRTU4UzgyVktpQ0NYaG1WQkNmeDVvSlB2SkV5R3FMRy1GY3NnRHR0SU8zV0pTMEEycE9hdWw5bFJlTFFNSlY4X1BYRGphaVFPQ0JyZHdwaDZraGpMV1pnV3JXS2VCM2tvdDBIa216Y3RDLW0zcnRGT3U4RXZqdUUwclE1bXY2N2EtVXFHdXR5SV90cGowUmNyUTA1NnY5aGpBZ2hrWUk?oc=5",
      "tarih": "2026-10-26T19:40:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "EKOTÜRK",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ERWVNbklkeW5aRVM5R0ZJUVBGem8yVU1PRWRPbUtXcjhTQ1R2TXRhUkpGMXo2MXFwQkJQUVhvdFl6TTFFY2FGY1hjaDRkYkVTU1BlamVNaUtWWmpvVVMyTGVQU1FvQTNfQklmUm1yUXhCdjZ2Xy1fY0s4VUQ0Zw?oc=5",
+     "tarih": "2026-10-26T19:17:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "YatırımX",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5jUURZUzdtb3JZQ3VLbmJORGdVeERGUlRlNHNyRG1XUklrU3RIV19VS1JzakxIR3YycDJZWlRnVnVtVHJqdzFFb1hrVkQ2Umh0d1BtWHJZcm5XRl9nWlZwRnVHTUFtZUFTU0VwcXhSQnY4V0lZVXR2MXBuZnBDZ3QtUk95QTJ3a0RUTmFiVm9wQ0ViQzRWM3g3S3cteTQwa0NZNTNOZ1lZUW40MUZkSDBn?oc=5",
+     "tarih": "2026-10-27T04:53:51+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "GZT",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTNNcXlKcUxoQ2lvV21iWHliS0ktV1FWeUo1MkwtV0tWanhNZnFGcFV5b2NsX3VueEZxNkRBUzFrUkdfM05FSVBpb2QxWkJqNDR2bEhSTHVtekUwSngwdkxiUjdpcWIyZ0hUM0R1LWlQQU5LZ0N2YUx5TnBXU2ZrRjJ6YnBQME5KVFcwOVAxajhvOC1lQWM5NnR2N0lfN2dNdkE?oc=5",
+     "tarih": "2026-10-27T06:03:45+00:00",
      "guvenilir": false
     }
    ],
@@ -440,6 +480,46 @@
    "neden": "",
    "gundem": true,
    "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "a01ca43bc39e",
+   "baslik": "SALONİ Mobilya 52.’ci mağazasını Kahramanmaraş’ta açtı",
+   "marka": "Sektör: mobilya",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-10-23T19:58:05+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sehirler/saloni-mobilya-52ci-magazasini-kahramanmarasta-acti-haberi-927243",
+     "tarih": "2026-10-27T06:55:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Maraş Son Haber",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWJFeFBIMjhyYnJwZUpqVjhEeXE2RnpmWU1LZVJTazA3VHg1NVJmUzJ5bVdPWktIVjlIQXRvNkxBN2J0d3Jja2ZNS05VSjlTV0Y4N3pNV1JKWk83alQ2TnJidDJxdXd6bE1SQ3dwNWdLUjdsX0RmT0V2MzB3SlRiODFqanVPNUd2d0HSAZIBQVVfeXFMTV9BMTVxdy1iczYzNGJtNWtXeUdXZnUwYl9XaXBVMm1YTjN3OGM2MldTVExucUlzcEZEYVA1cTZOaTVkZFFzUUdkNVhhLXBhRElwRk9FVDBYS042RWFRSEd4ejNoVDBQTTlONWpxYUpJSlJNU19xdVhzZG9Qcmt0MU52SXRsQUpuRmlaY2RGdlh5LWc?oc=5",
+     "tarih": "2026-10-23T19:58:05+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Batman Sonsöz Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRElJRUlWX2NONEI5ajBZTkdVMnRySXhnRndnWTNmUXdzRTlkRFpPbXljWnpJaVc1YXhIWXowQ2RpWlNyYzRFTGZJVUJnaTVSZWFMNjhQWGM2WGJubU15ME5jdjZSMDNqMGM2NVNpT19FOGtGc2d5ZG5XRlBPMkQtU0Z4NjR1Z2c?oc=5",
+     "tarih": "2026-10-25T11:30:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yıldırım Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakNZTk5adXE0Zk92a1djYTQ2bm9ESUtLYXZ6ZUd4Z3ZGdmFNYzM4X1NWYWFCdm5vUnNpRFJpUTBPeFlQdmdlM0FkbS1kci1FU2Nsa0laSl9HLUhTSVdEbnFKWFpMejU5SWFRVzU3ZGZ2ZHY0ZTFSSjFiTFMxVFZ5UW0wbDRlZ3BLY3ZkMlJR?oc=5",
+     "tarih": "2026-10-26T11:04:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "SALONİ Mobilya, Kahramanmaraş'ta 52. mağazasını açtı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -3893,24 +3973,126 @@
   {
    "id": "24d75fb510db",
    "baslik": "Ticaret ve perakende satış hacminde artış",
-   "marka": "Gündem",
+   "marka": "Sektör: perakende",
    "kategori": "finans",
    "oncelik": 2,
-   "tarih": "2026-10-12T08:35:12+00:00",
+   "tarih": "2026-10-12T07:00:00+00:00",
    "kaynaklar": [
     {
      "ad": "Habertürk",
      "url": "https://www.haberturk.com/ekonomi/ticaret-ve-perakende-satis-hacminde-artis-3919066",
-     "tarih": "2026-10-12T08:35:12+00:00",
+     "tarih": "2026-10-12T07:00:00+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "CNBC-e",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2FoOS1lYWVGNVRXVHVwakZxT3pWNjdlMnpIWGFJVW1SUTBOMDBQOWthRFdCZTNCQ2VFMDVPUzAwSzF3U2k3eHdKZ2pLdm5oaFo5Mm45Yjd2ZDRZMXR3YUpma3lXNkRXbFBBSUxsb1AySW1xUlA1ZU84N2VmT0tCOFZuSDlyQWh6LVZuR1k0cmk0Yl80Y1RlRA?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEFZalhkMHplTnMzVjRodXNLTVZycUhFSC1CXzB3RXhMamdNSG1aZzBEUmV6bEFrbVNjVVlfQW9rbk0xaWNIWlJDa3UtT09la2dWdTlpY2tDX3ZUNmliMjEyZUpTR3F6MVZCM2l4dmpxV0tKQ1A0akVpazVoNmxFVXRDbFN4SnBRUzVXQl81M203SUpG?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Taka Gazete",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjJESmxuRWZyRHVsbDFwbkU0VjBmbVhqZDJEUy1KSlBPT1NSNDBqMVRhZFBfZl9CT2RHYXNzbDVhQlZ1clZhbW95cmJ2TjJuNVpHSXZFMnpBR3lWXzZEUEpmRzU0aHNnci01aWVpN2hfMDRsS0hYNUI3SGI0NEFLYTRiYlhrVmhBWFFNRmlHdzFacW1ORXBVUURqWFA?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "https://www.babaocagi.com/",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10VEZsb1loLWJaQXd0Y0VRdF8yaTF6cUwtZ2liYjd6a0RBRVJNRDJYaHZranBFa3BJeFE4ZjFRWmZlaXZUa1hMYkh1ZWpQQWdjVFI2MVJ0QUYyd1B3ZUc1S3IyOV9ZbmxURnhlM0FUbTByN2JNemNEM1puQkZNQQ?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomi Ankara",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hJTjhXVjFvS3JQUHFhNzBWR0lwd04xb3FwcFlyUmxSZFpHRV9IYVRhTG92R2NLSW1abW5TZ2YtNTF2VGNHWDluN2RHYnU3cnUxMmlrVXQ0bnZQLWZNRzNrMmpHbkg1SjZTSkx4SVZzbi1tQlFZN1F3U3p5cDVhbzRoQVRrTDZJQ0tKZFBPeTQ3VTBSU1R6S21SMlNTRW95ODN2VVdYNE1FR2wzWE9xaXVfc2o?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hisse.net",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjVuaEpSY0VpR29CR2lZZ2ZrbDViN3BDYUtZNXlnMTRPWUMxYW9EX1VKTzlCUXlNVGJ5UXZJQU1rTlhBbWg2WWpra1dNUGx0OEEtXzJ1MnRicXhSOUNvazM4bHF4N1VhTnh0aDctVXVaRDh1LUxVWDZUTXFGcmt2c0Y5eXRybzdqX2FfVmtYMlpBay12OUd6akF30gGfAUFVX3lxTE55dm5FTGZ0b2pkM0tualNNWlRabmhxN25PMkkwaUVXTDNlSGlteFlYdzFiQ251RjFpU1FqdWdsOF9tOWtrUWdsWWpXMm84T0czZEpTaFFMTW5ZWXRRQU9nM2hFQTFjZEk0dU5DdGdaUS1BWkFoTzBWVjBXTzIyMWk5M1dfUnhZUXh6OVFidzVNbi1ldVA0aWszNUJVVkZLRQ?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Mardin Life",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1pFUjBiTGhmeFpaSTc5c09aaXlyUWpWSEVfczBXdGVGVzZtbnpoekszVFZneDIxWXlET2ZwR2FZRGRXSloycGE1TFNMZUhGZWtrdndrMjNYcE02ckdhTk9fUDh4OUZCNnhSWFhES1cwRVJDeWdqbUMtMFpVa0Jrc2lOaGVaUWJQeTVfNnVnRVdDbWhN0gGaAUFVX3lxTE5nNm1hOWxnY0Ftb1VxWlg5QmRQV1dkdUpfeC1ULWtzekV3d1lGVkJDanBmX25ZaE1ZSVBnZ2JLdXh3OVBIU0V4SmV1UWlLT2k4bmpBWVN2MjVqX2pWQUF2TzJMandkZElLcU5vQlhuLUlJSy1GRGRVTlB6UGNsX24taElQQ1IwMGRNZUlIS3UwZTdGMjVtOTdrRFE?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "ERTV Malatya",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU9MOXVMUV9TSnh5S2ROTU9TOEpRYjNrMlphOXo3QW0yZlFlendLN1NoTFFUcWVHZnBvWEd2V1VkWmNhcEsxRV9IVDdkWmZ6UnNiWUgwMlgzdkZKdjFOYzVtX1JsLWhyVnNIS1dadWJ3QmR2aC1wNmlaQmpWd3NHRnpvbXptejhHS0NUZzdfdnpVLThVMDZSU09LQUp6d9IBowFBVV95cUxPZmlQSlk4QjJOZUlEN08wN3lzakZYTVR2aTMxM1FGNEM3OHd4UjYybjcxV2wxdU1OaEd6b2pmaXcyc0hiSFFyTlRacHcyV2JIR0VLQmppa1RnbTU5LVlKZ1hKbnYzTDRwYkROUjlpbHFwM2dQTnNfTzdTOVF0TDhSVW4xbGRlYVB6RzR4amk4OHBEazlBWFV5YXM2cDNhdWFWTm04?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Aydın Haber, Son Dakika Aydın Haberleri | Aydinpost.com",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmcG9EU3I5RklQTWJjQTZRNUl0NUxLOTFVc3kzQTN1M3FrMVpyX1ozem91amVmd0lHYzRDanFKZDBzN1NYcWZDUzVVWGIyaktLa2g0RURTRHozLWJXN0ZkMjNxYWxRX09uSGN2UDI0ekRwbFd1R0lnZ3Fpbw?oc=5",
+     "tarih": "2026-10-12T08:47:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "yeniufuk.com.tr",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjdBWHRkTk1XcElOaXJhTTNOX2lnNDMwYVlkb0hDMF9HR28yYjFJQnppU3FLdHBhSERzWkRIcG1TS3REN0kxb25MUTdKLVgydU5SR1NXNDdlR3JzbFpIbGpPUFd1cmx2cDg1SVlPUGNSWTVUcXZyZk5aTFZKeWNWcm1WSTdKdzZuV1ZRRS1vWmMtcGZab3I2VXBOanQ?oc=5",
+     "tarih": "2026-10-12T09:49:02+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Enerji FM 100.5",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW5mY1BTblpUYi1oLS1UWUtHOTNWMW1WdXB4d0U1bk91bWN3TkFaUkFwemNNdUxUbmdnSU5nc1UwbzdRRTcwazdTNWJKbkYyNWE3TTZpU2hUVUR4enZGbGxLUnpQUDZMVERFSXFjbWh2M0lxLVZ5R0NNTGExM3hKaG51WFN3V3VZSGk0QmpyM0tmemp4QlljTDFkdFUzeXdFeDFJZm5sc0tUaDNYZG9yc3Fn?oc=5",
+     "tarih": "2026-10-12T11:08:56+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kalehaber",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa1R3LUFfb09SR3l0SVF4dnVUVTg5TWdPSVI0OWkzTG5tYS1PMElPUlpNTHlGWmNZMlRRVk04cHI0TXBIWTJacmhhTUxZVXNyNzE4Tk96ZlZsLXh3cl9PSXdDMnFVeVdYRjI0d3RRNGNfU2RLYjd0TWZObjRjbW5OanNB?oc=5",
+     "tarih": "2026-10-12T18:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Alparslan Diyarı",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON09EcGRaOWVBMlJhdU5xWHAxU1YtVDRZRmYyWlpGSUVSTGtFT0ZZelM5ZnY0NlFYai1zZVBKRUNHRjhBZldMYnktVk9FWFNEODZncUV3MWNIWktrb042cy1OeGNBRTFSOUdEYjBzbENnLTFiSXZMcmI0aWhCX21zSlplT28zUGZQYkEwSmNrN2RQWW1ubl9uS1pPYllicEIz?oc=5",
+     "tarih": "2026-10-13T05:52:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Doviz.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcV95b0pURllpZ2ljamV5R2RuQW1idEE4ekxxZzBWZ25VWTVQQXJuUm1HQjZ1QnZqVkdld0hLSzVucHgxcHozWVl1M3psVkYtaXZtWklRQWNzNG9zdUhIMXh4ZUtocTVaSTFULWg2RTg5UzRjQjBFdW1sNFowNkpHVDZBNWZHSmR1bmUxaks5cEPSAZgBQVVfeXFMUEhlaFZKSnFzUFdzdWc2Rk1PNlYzX1h5bThyU29kc1pjLXp6VGtJRmgxNzBYVlRseUxqY2Q1NDdJQXVFenIyZXZKZFRHa0dEVmUtaFRiUEdXQ2drOVZRanhWak9HRFplcEdDMEFlTDd3dk1xVGU1c3pybE9wakNMclc2TVRDYUJ1RnZiX0g1YnBSaUczT2xDckE?oc=5",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "ekotürk",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1E3NEwxNGJkVzVOZnJ5akdTYWgzZEdvdGl5SW1Gand6ekNrZGhwS1FsS254MkkzSTdZcklDZFdxVkNYRTZvY2JudTlKVEM3MzYxQWFNdElzZXo0YmRmQWJxRTJtTU9IdzFFLXV1VmlnTVdmR2w5VDdvM01LSkRfOHV2N19nUkN1V0FwZ0JHaTJKYVNtNEgzUVJjTjBlSUFDbFRiaGFXcmZqSkRYZ2xkNUZOWTBJa1dPWGZ5UFVB?oc=5",
+     "tarih": "2026-10-15T13:19:31+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsa Gundem",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WaW9zUDFVTkVDX2ZVUHQyUkFLbE1NMlpYNC1nUHg2ZkNtaDVIZkFTWDhBWlZiV2lXYzc1ek9ZRUJ6VVRpWWxWVW5IcUdZNjVieWUxNkxFdmlSRDE1ZkFGSjQ4V2dEdnN5dWdmRzVB?oc=5",
+     "tarih": "2026-10-15T13:23:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kastamonu Gündem Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOXpuY09fR0YwdDdxSk9JYU5ZdU4taHhBcGh2ZnFWS0htV0VGZC1LbU02QVdiRmRxUGMwaGF4SkdfUjZsMGw0NmVmWll3WW1SbXNaMFVjejgtOVZ3ZEl0Zk1XYTZWMC1EY0FhSXZ4cE5aM0ZmNll3MGZLX1JlTnhNTkNLcjI5UTZvRzhwV2dXUdIBlAFBVV95cUxPWlN0VjFUVGdiTmdoZUtMWktGZTRsNzJJYy1hMUlTbWwxVjl4R2h6VlNCazVNYmJjNjVMN0ZDaXR5RmwtUEhGSGtrem0ycFVrUEMxSFJNcm15ZlZQUU96S1JiWHJhQ3lMVGxhOXhsa2lsTy1Sb25CM3NCaGgydjZDanNSU1BNcnNEQndEM2RGd2w0Q1k1?oc=5",
+     "tarih": "2026-10-18T09:00:01+00:00",
+     "guvenilir": false
     }
    ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/12/ver1791794112/3919066/jpg/1920x1080",
-   "yorum": "TÜİK verilerine göre ağustos ayında ticaret satış hacmi aylık bazda yüzde 0,2 artarken, yıllık perakende ticaret satış hacmi yüzde 10,1 oranında yükseldi.",
+   "gorsel": "https://im.haberturk.com/l/2026/10/12/ver1791794112/3919066/jpg/1200x628",
+   "yorum": "Türkiye İstatistik Kurumu, Ağustos ayında ticaret satış hacmi endeksinin bir önceki aya göre %0,2, geçen yıla göre %0,6 arttığını bildirdi. Aynı dönemde perakende satış hacmi yıllık %10,1 yükselirken motorlu kara taşıtları ve motosikletlerin toptan ve perakende ticareti %11,2 artış gösterdi.",
    "neden": "",
-   "gundem": true,
-   "onem": 4,
-   "model": "gemini-flash-lite-latest"
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
   },
   {
    "id": "9a2154b8435e",
@@ -4873,6 +5055,12 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREhOY2pJd0ZuMml6Y3VMaFVEMjhsemZlR2x5d2JZNHFjbUh3SVA0VlR1RzUxZHdfaUd2LWU5TGJZVTNKanlBVWJoOFlBZVl6QzhWR184QUZhUnVxSFZTX0dYclNwNlN4bUNmaWxIXzF4NURyOFhGeFU5djRXaFdIVDVUVVlxQXUzNXVRbW1nMnIxYVJZOEM4SHIzb1BXaF9Z?oc=5",
      "tarih": "2026-10-08T07:00:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Sözcü Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVE5ncW8tdVd0QTJ3S2p5Ull5SWZXQ1pJWGljU0J4Q2JhSjM2Z09KeVBJVFpxS0FPRVBIUGQwZk1ra044VHhvRXNjbEVrU2lqRDRsLVpWZ04xemVlcnRUem1JSWV6R2s1dGxMY2s3ZnYteUEzYjFaOHlrdWxHMndWeWc2WDdnRVNnZ2s5c1YxNGtMRHhNbGxZaC1oZnlJek4xU1E?oc=5",
+     "tarih": "2026-10-08T07:00:00+00:00",
+     "guvenilir": true
     }
    ],
    "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/04/21/telefon-stok-istock-1-vw2b.jpg",
@@ -4929,138 +5117,6 @@
    ],
    "gorsel": null,
    "yorum": "Arçelik'in Beko markası, evcil hayvanlarla yaşamı kolaylaştırmak amacıyla yeni teknolojik özellikler geliştirdiğini duyurdu.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "e80424827c58",
-   "baslik": "Teknosa’dan satış sonrası teknoloji hizmetleri",
-   "marka": "Teknosa",
-   "kategori": "elektronik",
-   "oncelik": 1,
-   "tarih": "2026-10-07T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://www.dha.com.tr/yerel-haberler/istanbul/teknosadan-satis-sonrasi-teknoloji-hizmetleri-2958180",
-     "tarih": "2026-10-07T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Sabır Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEVUOTk0bVNweE1DRldGODR6TXpWR1pXeC1aRTR4VDJwalBxcVdRZTJrMUx0Mmh1dVhEVnlGXzhxMXNFRm9lV2R3NTMtdFFpMEFlZDA2eURkd1BPSHZySlNSU1J3R3JwSG1QNnRDNEV0S2Z3d1NPendDTjA4dmpjVmxPOXZ4amdVd1lJVHoxcVRXM00tNld6ZmFxcHBvQjljUlZZ?oc=5",
-     "tarih": "2026-10-07T11:27:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6ac6217eeb66e0e9f8f33a3b.jpg",
-   "yorum": "Teknosa, müşterilerine satış sonrası teknoloji hizmetleri sunacağını bildirdi. Hizmetler arasında mağaza ve yerinde kurulum ile uzaktan teknik destek yer alıyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "24721537302f",
-   "baslik": "Teknosa üst yönetimine iki yeni isim atandı",
-   "marka": "Teknosa",
-   "kategori": "elektronik",
-   "oncelik": 1,
-   "tarih": "2026-10-07T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://www.dha.com.tr/ekonomi/teknosa-ust-yonetimine-iki-yeni-isim-atandi-2958370",
-     "tarih": "2026-10-07T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomi Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUThrZUtZb1c2dWRONjFodWs1ZUhqR1dJTldkSTM4TU05SmhxOGxueGYzV2E3dXAxR1RVdTFmRUtuXzl2RkNjRUFLNDlxUEFhbUkxREI0QThsVGN0Z0ZCVEJBelpaQmplZmcwR0h1bFgyZndFazN6X25oXy1iT2xSNWs5SEN6MV9nbVFv?oc=5",
-     "tarih": "2026-10-07T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Investing.com Türkiye",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHdOekZVcGNQVjZZUDk5T25ycjNRYnBpMGl1SENPUjZrOVUxZUxwR1VuZzlJUmNKbjVhOGQtbFdfMXEwdnE1dkZMdzloSzc5aEd5WkdQNWlaZ3B5R1FOTDE5c3hvN3VlakF4cWgwRHFFOWw1RkZjaEsyNy0tcVo0Z25vbVIwZFlIRmxZNVg5Q1RaS1h5eE5qNEhYT080OW9M?oc=5",
-     "tarih": "2026-10-07T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Türkiye İş Dünyası Haberleri",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYTc4bC1iamdELTZtTkIzaWRNVE53cHRxMkMxQkQ3WC01LUdqR0J0MnVLSjJBWU1GX2M0cFJkVDZoSEpFbGxUcTBUd3VJSHl2V1VwR25BQXRTeUxPZVhqZm9Bd0NoYXNUWG1uT1VlalUyMlBOc3M1NC01OHpsNmVZMHRR?oc=5",
-     "tarih": "2026-10-07T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Borsatek",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1NKaUJfR2FyS0ZWUU5XT21MRU9NRzNQcVQyU3dNeFNEbG4xbDRtYldNdGxlRUVJLU9hLWpwWldiSW54ZGVIWm9EcUZENkFZb05LTFdBRTZxUlR0RFc1Uw?oc=5",
-     "tarih": "2026-10-07T12:17:16+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "hibya.com",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GWEFaZ2oxUWUweGNVX2F4bmo5WEdscXM3N1pYWXdzbGFkY2VscFpPLWJlY3BHZTZxZWNYY2plVlI0aVctVVVxdU1aSTRmcmxjSnpGMmlNQlJvUkdwdG9EMXNJMWU2M1NBQ3c0OTZaUkkzdl9qTTN4aw?oc=5",
-     "tarih": "2026-10-07T12:39:01+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Habererk.com",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGhBMzNudUNfemM0dEpzeUZMWUVqTy00Ynk4N1AwTVQtVTFMeS1NM1hnSXNBVjVZa1Z5V2pEZXZ0T2hscEVLNHJ4YmZYSkFCRFVEbEdTeXZkamx5UnU2RjVkWF82UFg4NGI2WEVWWGR4OHlkbTVCWG9PamF2LWlNbERvbS1LSUVT?oc=5",
-     "tarih": "2026-10-08T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "CHIP Online",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDdnQkJTWEEzQUFfVnZORTZ5TFdLWDZmYm5rYjBta0trTGZtNGtoLTZOS3RCUFVrQ0VWMDdkQXdUaGdvazExR3prcHlmblZzVjBOc2k1Q0FUTnplaTR5MVdxWVM3VzhTNVpxMFFYTUdacktiTHBhZV94a3ZyWUl5VjZzNE1kWXdDS1g0ckprbUd6bTlyc3hRVmhVdFVYc0RUc0ZwOGl4TkhWczDSAbABQVVfeXFMTVRWbnI4dURuaHVuQWphLTRnS0RzMmUtYTBYUWtDWDdRVm96ZnFibXlmY1hkMXJBam1jSnRtSEstaFdGYkZUVF9veEtvWmZuNGc3RWFMWUpRMTNZb3JfUks2UENCc0V5SnMxNUxNZjk1QWZfWTVSY3diYXRpNWF6OTVpMkF6d1ZHS2duRXkya1puS015XzZ2eFRwd0ktc1FENTQxVnlfTFR1SXlNeERldjQ?oc=5",
-     "tarih": "2026-10-09T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Mall Report",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BSDN0WG1JWHhKbFZyZlVQX21SV09mczBHZUJaeXJjMWRkSUNSdU1XZTBLR01OUHNmdzZoVUhHcFMzTE9RNFFOU1hibmxYc2ZXVl91RjNPYkUtR2VGelJreTVpejROUjZaS3AybE14SWMteEduQUU4bDB3?oc=5",
-     "tarih": "2026-10-07T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "MediaCat",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xOEw1UXhSbloxbjVRMDBVX0tJdVZIeDVfZ2diTGI1UXRyLVFoeS1zaXFBNFRXWTlhMVFEOTJsdjFYWVN1N0g0R1FzQ3RXRGVYdzVUU2ZSdmdyUFUwV1lTQS1Iald2SDNQUWZWWFpENWo?oc=5",
-     "tarih": "2026-10-09T07:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6ac64f9eff5887627ea232f6.jpg",
-   "yorum": "Teknosa, Sabancı Holding’in bir iştiraki olarak üst yönetimine iki yeni isim atadığını duyurdu. Atamalar 13 Ekim 2026 tarihinden itibaren yürürlüğe girecek.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "643268be9e6f",
-   "baslik": "Teknosa kurulumdan teknik desteğe kadar satış sonrası hizmetler sunuyor",
-   "marka": "Teknosa",
-   "kategori": "elektronik",
-   "oncelik": 1,
-   "tarih": "2026-10-07T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWDBkN3VQUC1JVU9NTW1mR29BVUR4TVhEQUFlTU8wSzZkUjV1NzRFQXVMUVFaeTZkNjQxRTdiUExNWTVZX0F5WDktaDRtSVlaNXlrdnBWUzJEeURRM3hxa19kc0JtWVNNZTgwZnBkd3doWWs0X0pjR1J6aGxmMFVva3FMUGFmaVM0dmhlSFAza0JFVmctUUxKYThHNjVsRnNZZmt5VUVtMDJJR25wQ2RDcXNnazU3cnZNOGhsQ0w5Sl8?oc=5",
-     "tarih": "2026-10-07T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUUtZDBna0tQU1ZsV05aTEdIZHdhLXRCOHNob2thRklHa1hyaWtLcUZDeG5uSGJ3NFJ5bGtQeWdyNHluX2RNVmtVYUxtdGJhSk95T0ZsZXhJZGtySTdPUHJtaU1HVWJ5eTBVSGFqdHN5WFBfUVZ2NnVoN3RjNTdfYUNIY3lUcGVER1dYQTRycTNjbXZhQlZZd2tTZUxfSmZyX1E?oc=5",
-     "tarih": "2026-10-07T10:36:09+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Teknosa, müşterilerine ürün kurulumundan teknik desteğe kadar kapsamlı satış sonrası hizmetler sunacağını duyurdu.",
    "neden": "",
    "gundem": false,
    "onem": 2,
