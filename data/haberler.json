@@ -1,7 +1,53 @@
 {
- "guncelleme": "2026-10-28T21:53:18.530869+00:00",
+ "guncelleme": "2026-10-29T11:03:45.407074+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "4a226d365a81",
+   "baslik": "Vestel Beyaz Eşya'da FAVÖK yeniden pozitife döndü",
+   "marka": "Sektör: beyaz eşya",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-28T11:38:59+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTUJXTDRjWWNEbVp0X19TT2tfR1JpX1h1SHl0QWdra0pNbjV4cDRyTFVTUnp4bjlWMG9uMmVLYnprM01HNFRwT1pxbWE3VjlIaGluZlJoMk55ZXhSRnBDRkw3Mm9CMUZlNWNURDY0WURnVUZLdnE2cUFxY21hVlVCSzJXWDloV09kdkVF?oc=5",
+     "tarih": "2026-10-28T11:38:59+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/vestel-beyaz-esyada-favok-yeniden-pozitife-dondu-3792727",
+     "tarih": "2026-10-28T12:19:19+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Mersin Haber",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORTgwemo0WGttSUEtdjhRb1I0bTg4M2RacXBLXy1mb3VMTzFBRktwU1U0RFdodGRfeWVCTG5iUGY2T1NTZlFROUNvdTJ0RXgxRk5fc3prbTYwdjRuYzJTQ01WTXV2bUNrRmhxSjVJaW5HMEYwQmQ0aUw4NXJTclRkbFJmMmI4NElsSl9DRVF0VU1TeC1XejN1TTFvMFA1OUNZaS1fMmxGSUJ6dlpFQ1BzMkFQYmYxUXh3SjJaZjR1ck9sd1R3ME9VU3BXbFnSAVdBVV95cUxNYXhoVXkxalYwTXZ2UzlXNFU2eHlGOEw1TUZaOFo3QVJUd3dmVG5rbWlobnE3aVNKR0hsUnNvT09mR1JKTGhhM1JHR3JLVkk5Yjg4b0NZN1E?oc=5",
+     "tarih": "2026-10-28T11:48:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Saray Medya",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVJBWS0wYXU0YVdLQ1RReWhCU2ZDMUpQdWIyT0VEWWhJZkstLW9pems2ZWZCY1p2akNWT0lPVzRPTEFLTGpQbWF3ZjZXeS1iRHFrZEtrZldBODgteGNOSDNhSEtvYTd6SVBmMnZhZkduWV9sRHFHcGZOdkhoRlExZTFmY0hHODIxdFZBY09hcVlsN2xReGo3VQ?oc=5",
+     "tarih": "2026-10-28T11:57:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Para Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV9hcDFvSVlMdnJwTFk2d0VBbkdYR3RsQ1NnTUxuUFQ1ekc2bzVYOVdmVXpMZEUxLWtIek5xZHkxTF9NS2p6QkZFRkVmS3c2eFpJclM5aWhNS0lkWmFETHcwNWRBMnhyYkg0VkRGTENvWUowd1luT1NINHVoZDlLdTZsX3ZUNGlMVUNJSlh3SkVkdE5Od0pQY0NYcEV4d0FwOFJVV0NvTWZDYkhZVS1wOWNyVGJmZWVM?oc=5",
+     "tarih": "2026-10-28T14:00:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/28/ver1793190111/3792727/jpg/1280x720",
+   "yorum": "Vestel Beyaz Eşya Sanayi ve Ticaret AŞ, 2026 yılı üçüncü çeyrek finansal sonuçlarını KAP'ta açıkladı. Satış gelirleri temmuz‑eylül döneminde 13,9 milyar TL’den 15,7 milyar TL’ye yükseldi. FAVÖK, bir önceki yılın aynı dönemindeki yaklaşık 1 milyar TL’den 1,6 milyar TL’ye çıkarak yüzde 10 marj elde etti ve negatiften pozitife döndü. Şirket, stratejik dönüşüm programı kapsamında yürütülen operasyonel iyileştirmelerin ve maliyet disiplininin etkili olduğunu vurguladı. Ayrıca beyaz eşya faaliyetlerine odaklandığını ve enerji depolama gibi yeni alanları büyüme hedefleri arasında gösterdiğini belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "92493adc8d44",
    "baslik": "Vestel Beyaz Eşya'da FAVÖK pozitife döndü",
@@ -106,6 +152,12 @@
      "ad": "Yeşil Afşin Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDBwRDFONXA2SnRnV29mVEJyX3hfMEY2MGtpY0lkUlZNUENuN1hiTHFCVTB2ckx5QWkzUGlVdy1SUXpvc1I1Z3BwY0ZaNTJGcFZ0QnlpNWxRVUwzUEl6dnJWR0w5Y2s4VHpXTkVTUHV0WmdxNDZfaHk2OWZYWHlBTmg3a1pzcFAwdEQyaFN2MmFpUVlfWkEzaDczb0Y1RkRW?oc=5",
      "tarih": "2026-10-28T08:46:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Medya Yenigün Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS0M1bnlDYnFHaTFaSl9VWXEyeE5oVXhPNzFXTmYzVS1FMGVCQkhyZEpvV0piTHBmYjRNMzhrNUdTX3FSWlZFR25sWDlTWHQ4MUJnQnBlc1Fscm1sNmpYNTRURjRCTldGb1dya0Zwenpsbi1GTkFXOUJQamdIc0c0NGFzTWd0emJvRWQwa2R6cHZOVjdOajUwQ3dfSWxiT084d0NkZU52TdIBpwFBVV95cUxOS0M1bnlDYnFHaTFaSl9VWXEyeE5oVXhPNzFXTmYzVS1FMGVCQkhyZEpvV0piTHBmYjRNMzhrNUdTX3FSWlZFR25sWDlTWHQ4MUJnQnBlc1Fscm1sNmpYNTRURjRCTldGb1dya0Zwenpsbi1GTkFXOUJQamdIc0c0NGFzTWd0emJvRWQwa2R6cHZOVjdOajUwQ3dfSWxiT084d0NkZU52TQ?oc=5",
+     "tarih": "2026-10-28T14:27:00+00:00",
      "guvenilir": false
     }
    ],
@@ -935,6 +987,12 @@
      "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/samsung-electronicse-trusted-brand-awards-2026dan-altin-madalya/705160",
      "tarih": "2026-10-23T12:25:38+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Diriliş Postası",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzc2SXNmYnhBRTRucE9FR1NHRFJyM20wcU5kWk1wU1ZMOTFDeXA2bzEwV3hJdTJXMk9YZlVaRnZYdG8waGVsQXRwVl9McktmMEJwcGMteDFwTHdpRzNVNENiaFpPQ1pjbUQzbmxFaFBtNEFHTUF0TTE3aXBDY25yeG5TUlZfYjRtbXlDektxYThaaTZt?oc=5",
+     "tarih": "2026-10-23T12:10:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/23/thumbs_b_c_17d6637c259f5ad9fd9c4a779aa46ba4.jpg",
@@ -2434,6 +2492,12 @@
      "ad": "RayHaber",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZkhHZzNtdlUxUDFxWHRfOExhNV9tdDRnb2FtWURKa1JoV3B3OFJZMmx2WmM2M2hnOEhXNHNKZWtLXzhKZXlDZGdKMFJtalk0c25mQnFwS3dxQzdnU3hDQkNZc1o5WVMwRGdfSHpIbW9JNF9LT2doVzRkZzFjbXlDNVJjWTR2ZXFZZm5mVnZmeVltb1djRGlhN0JGYjRwWWVlZjZ3b0p6dw?oc=5",
      "tarih": "2026-10-16T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Besni Güncel Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjNycEhSSHJXN1hDVHBQTDVnRi1WdXRqQkVKeDJ3MG1Rc09NVVZDVTdKYXZZblVCamZfZXloM2QyNkRSckV1OTZHSHNPZjd4MW1wVU1GLUFSRzQwVGY4QVhJakJfc09LVUhzX3pHUXJQRVBCNHc0Sl95NG45VTE2NGF4cW02bks3bVptZzktSnpxVkdvSlZJ?oc=5",
+     "tarih": "2026-10-16T11:08:00+00:00",
      "guvenilir": false
     }
    ],
