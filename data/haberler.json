@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-29T17:31:26.747611+00:00",
+ "guncelleme": "2026-10-29T21:58:32.765816+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -253,6 +253,28 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "2ec883454903",
+   "baslik": "Teknosa bilançosunda dikkat çeken tablo: Zarar yüzde 55 arttı",
+   "marka": "Teknosa",
+   "kategori": "elektronik",
+   "oncelik": 1,
+   "tarih": "2026-10-26T20:12:15+00:00",
+   "kaynaklar": [
+    {
+     "ad": "CNBC-e",
+     "url": "https://www.cnbce.com/sirket-bilancolari/teknosa-bilancosunda-dikkat-ceken-tablo-zarar-yuzde-55-artti-h40376",
+     "tarih": "2026-10-26T20:12:15+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2025/04/28/rekabet-kurumundan-teknosaya-sorusturma-gtj1.jpg",
+   "yorum": "Teknosa, 2026 yılının Ocak‑Eylül döneminde 2,577 trilyon TL net zarar açıkladı; bu, bir önceki yılın aynı dönemindeki 1,667 trilyon TL zarara göre %54,6 artış anlamına geliyor. Satış gelirleri 74,86 milyar TL'den 73,71 milyar TL'ye düşerek yaklaşık %1,5 azaldı ve brüt kârı 10,24 milyar TL'den 8,77 milyar TL'ye geriledi. Esas faaliyet zararı 1,65 milyar TL'den 2,14 milyar TL'ye yükselirken, finansman giderleri 4,77 milyar TL'den 5,66 milyar TL'ye çıktı. Toplam varlıklar 27,70 milyar TL'den 26,51 milyar TL'ye düşerken, yükümlülükler 26,80 milyar TL'den 28,19 milyar TL'ye yükseldi ve özkaynak negatif 1,678 trilyon TL'ye indi. Nakit ve nakit benzerleri 3,08 milyar TL'den 648,2 milyon TL'ye gerilemiş olsa da, işletme faaliyetlerinden sağlanan nakit akışı 1,39 milyar TL'den 4,37 milyar TL'ye artış gösterdi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "f733af9b4f8c",
    "baslik": "Arçelik’in (ARCLK) 9 aylık net zararı yüzde 42 azaldı",
    "marka": "Arçelik",
@@ -276,6 +298,18 @@
      "ad": "hibya.com",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNEJPWkNVSEJWd2NuN3pZeHZnbjFRTGd1LUhFMElxYkxUS1hTb0c1QnFDdEt0bXlmTTM4NGlOVWhwM3RUU2xmMmNkVUZLdUxNOW1QaEtmUU0yX2tiWkJQVGJIVHpyYWVNMEtnNzFiaFJQSThVV0E?oc=5",
      "tarih": "2026-10-26T15:26:40+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "EKOTÜRK",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ERWVNbklkeW5aRVM5R0ZJUVBGem8yVU1PRWRPbUtXcjhTQ1R2TXRhUkpGMXo2MXFwQkJQUVhvdFl6TTFFY2FGY1hjaDRkYkVTU1BlamVNaUtWWmpvVVMyTGVQU1FvQTNfQklmUm1yUXhCdjZ2Xy1fY0s4VUQ0Zw?oc=5",
+     "tarih": "2026-10-26T19:17:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "GZT",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTNNcXlKcUxoQ2lvV21iWHliS0ktV1FWeUo1MkwtV0tWanhNZnFGcFV5b2NsX3VueEZxNkRBUzFrUkdfM05FSVBpb2QxWkJqNDR2bEhSTHVtekUwSngwdkxiUjdpcWIyZ0hUM0R1LWlQQU5LZ0N2YUx5TnBXU2ZrRjJ6YnBQME5KVFcwOVAxajhvOC1lQWM5NnR2N0lfN2dNdkE?oc=5",
+     "tarih": "2026-10-27T06:03:45+00:00",
      "guvenilir": false
     }
    ],
@@ -1730,6 +1764,18 @@
      "ad": "Havadis",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGU0V0R2dkdCNGZTZWhGNExwXzMwZDBBcV9BVlBuVzFiVkN0cXZITXdUMVlfOWE5SG1GeXI4NU1zTzZWaXN3Vkg5QzFTSWJnQU9GNEpMYUZ1N1RvLV9IYjU5Ul9XV1JkZ2M2TXUzYzh1RHdleHZ4LXVtQjNQb3pxd0xRM0IwVU5UcWhRVWpwNkhkYmtFZmNnMlJnVkp0VVh5RHZwSXNGOTFsWG1PYjNIYjI0a3liUQ?oc=5",
      "tarih": "2026-10-21T22:35:31+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "SacitAslan.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRm9UckdKaU9OMUN0T3h4bVVabmZ6eUthSFhpZ1NET1p3UkJoc3ZPM3NOVUt4TE9YSGVadmp6eC1iSjNHdEljVXUyZnFkdVRhNnZvOExmM1dHOVk3aUotVks4bzh2c3FEc1VuU0lDVmFNc2JPTFpMRTEzMHhiN2VmdkZQVG01UURHeThnRGNSdU1zNjRSdThwZEd3cTdpN0JQdi11YjBoWTZLUXEzWDVOQjZTZzQ5cHN4dmxJ0gHAAUFVX3lxTFB2a0VJMGc1eDhYdG1NcFpXY0dMS2x4bTBrNGxmSW1LVEk3eTZVZUtoODBQSkxYdGl4d1pmc0YxNXY3Wk9EN1YyUzJPckgyUjlNRzI4Y253clBVcldZWHlVbGdEa3FYUWc4bUFBVUVOS08zR21LaGZoQ3hvQllJU0FyT3N5T2FNME9zREZFQ19hUTFyUE1GQUVpUk9CaHBKUnlBTVVkNE9kdzE5NzF4TFZJTExFZ0w3NHVTT2hhWS13Mw?oc=5",
+     "tarih": "2026-10-21T11:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "CHIP Online",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUJxRWhLeURyaHI1a0xMOEN3MTRYSUQxRDFLTGNDejB5bi1VNFN4QThhdllybGpZSkNLdHBpN2ZKTi1EQUpXTDBWNFUxd21BSnAwVFJhTkwySnpTd0xaLUFXN1ZTT20xNVNVUkVIenBjSUhxcjFPU0NJOTdTSnlDcWxXQjgtS1VhOTg5eGYwb0JPMGc5RlVGb29EUndJMXFMWEl0RWYwLTNCVjRkTnVhSldSaHVyWWZRSWx1eW5QV2tqNVVkdjFybmVTMA?oc=5",
+     "tarih": "2026-10-22T08:30:00+00:00",
      "guvenilir": false
     }
    ],
