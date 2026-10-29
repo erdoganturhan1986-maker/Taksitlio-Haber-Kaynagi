@@ -1,7 +1,57 @@
 {
- "guncelleme": "2026-10-29T11:03:45.407074+00:00",
+ "guncelleme": "2026-10-29T17:31:26.747611+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "842858f8ba3f",
+   "baslik": "Ekonomist Hakan Kara: Fon krizi ve piyasa kayıpları servetin yüzde 10’unu yuttu!",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-29T13:29:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/hakan-kara-fon-krizi-ve-piyasa-kayiplari-servetin-yuzde-10unu-yuttu-haberi-927837",
+     "tarih": "2026-10-29T13:29:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/29/hakan-kara-fon-krizi-ve-piyasa-kayiplari-servetin-yuzde-10unu-yuttu-je0r_cover.jpg",
+   "yorum": "Prof. Dr. Hakan Kara, fon krizi ve piyasa kayıplarının hane halkı servetinde yaklaşık yüzde 10’luk erimeye yol açtığını belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "fbe8feba1712",
+   "baslik": "AMB Ekim toplantısını pas geçti",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-29T13:04:56+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/amb-ekim-toplantisini-pas-gecti-3792802",
+     "tarih": "2026-10-29T13:04:56+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/ecb-yuksek-enflasyona-ragmen-faizleri-sabit-tuttu/4105014",
+     "tarih": "2026-10-29T13:19:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/29/ver1793279179/3792802/jpg/1280x720",
+   "yorum": "Avrupa Merkez Bankası (ECB) Ekim toplantısında ana refinansman faizini %2,65, marjinal fonlama faizini ise %2,90 seviyelerinde sabit tuttu. Karar metninde enerji fiyatlarındaki artışın enflasyon üzerindeki yukarı yönlü etkisi ve büyüme üzerindeki aşağı yönlü riski vurgulandı. Enflasyonun çekirdek kısmının istikrarlı seyrine dikkat edildiği ve ücretlerde belirgin bir tepkinin gözlenmediği bildirildi. Banka, para politikasının veri odaklı ve esnek bir yaklaşım çerçevesinde yürütüleceğini belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "4a226d365a81",
    "baslik": "Vestel Beyaz Eşya'da FAVÖK yeniden pozitife döndü",
@@ -38,6 +88,18 @@
      "ad": "Para Ajansı",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV9hcDFvSVlMdnJwTFk2d0VBbkdYR3RsQ1NnTUxuUFQ1ekc2bzVYOVdmVXpMZEUxLWtIek5xZHkxTF9NS2p6QkZFRkVmS3c2eFpJclM5aWhNS0lkWmFETHcwNWRBMnhyYkg0VkRGTENvWUowd1luT1NINHVoZDlLdTZsX3ZUNGlMVUNJSlh3SkVkdE5Od0pQY0NYcEV4d0FwOFJVV0NvTWZDYkhZVS1wOWNyVGJmZWVM?oc=5",
      "tarih": "2026-10-28T14:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTFhiTzRQVm1zSm96czItT19FUmZlQ1hESFRXcG5HT0RJbkpDWWdSQmlFMG1DN2duS3NfeDNydEY5VXdXbmstRTJBZXRfS2o2MmNyb2VTXzh2QUdJYV9kWDdac1hBZzhya01OTHFpSVFXNU05amgxdGZyYlI4Qnlvckcyc0lTdw?oc=5",
+     "tarih": "2026-10-28T11:38:38+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yozgat Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3p6dWYzVG95U3E3YmRWYXJfdk1ELWdoUVdCWXVXSUF1TzBOT0t5MHE1ZTBLWUcwcUJmX3BjOElZR1VodkVGWFdzRm5uLXR2NDI3QTlEdG5yLTJWc2c4NTlpSUxoUHRFN3c5LVotR2hXRkxLeVBxNHplMHZubTFGYktGbHQ0dkg2MGQ3N1pEcnZtX2dxU0lRcnhWYVJQbGpsT3RKM2g0ZGtZOG03ZFlPT05sUzhQODNPVXZCT0pLTEE?oc=5",
+     "tarih": "2026-10-28T12:01:53+00:00",
      "guvenilir": false
     }
    ],
@@ -5081,6 +5143,12 @@
     {
      "ad": "Ekonomi Ankara",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hJTjhXVjFvS3JQUHFhNzBWR0lwd04xb3FwcFlyUmxSZFpHRV9IYVRhTG92R2NLSW1abW5TZ2YtNTF2VGNHWDluN2RHYnU3cnUxMmlrVXQ0bnZQLWZNRzNrMmpHbkg1SjZTSkx4SVZzbi1tQlFZN1F3U3p5cDVhbzRoQVRrTDZJQ0tKZFBPeTQ3VTBSU1R6S21SMlNTRW95ODN2VVdYNE1FR2wzWE9xaXVfc2o?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Medya Gazete",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajlIeGhqTXZjby05Y3RDLUpnejdkeGN2Uk8xT3ZLekN3UW11cGxiRjlRc0k2bzYweU1xbXBQcnR1S1liVG44R1FTd3B0OUZtaFdORTN0U0ZMOEExWUNMSzZPVFVZeVRodnFQekkyaWVBeGtRYzVGRHNwUFVtdldHcFNGOXRfVWRIWTFJajBHVE9wWWVud0dkekotRHV0dWdsRUE?oc=5",
      "tarih": "2026-10-12T07:00:00+00:00",
      "guvenilir": false
     }
