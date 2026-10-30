@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-30T17:08:57.993880+00:00",
+ "guncelleme": "2026-10-30T21:41:04.988389+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -71,6 +71,48 @@
      "url": "https://www.haberturk.com/ekonomi/beyaz-esya-ihracatinda-dusus-3923694",
      "tarih": "2026-10-30T08:30:41+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Dünya Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ09yNVB2R1Y3Y29mMFA3X3NUeTMtRUdXV00xTGhzNmZ0ZFJmYUpfRUJwZlhBNlhRcWNxUE85cURZRXNBVkE5WU83aHlmaF9NbUR5ZkpjYklFTkNpZkdkU3htRUczbkgtWC1EMTIxM3pPX1hqQnpJc2I2QmtkNVRyUlpLM0haaGJHTkZVWmxpUFJxTDI0WHpNZ184b1NQOEJwWlJXcE1pUk13b290X2x4X0dSei0?oc=5",
+     "tarih": "2026-10-30T07:09:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb2ZOblJINjZBNmE4RHJKSDN1bGJmdVU1X01NMkJPaDdsdUJVMFdxWk5qTWZhN2dIUm9WTlZkaXpmRnI3YXNnQnVXN1pIV19EbFpmVkhfU0RZTE96dUIxTGxLYUJTZGNaNzZNdUNoZ1oyZEV4VzBqSkNLSUdVX1dpSkZocURvNE5nWjZwNnJOWWVubzY0cDA4TE04Z0pWVndMR0stTVp2ZzZWM2JqMmtmRWRmQV9oUDdKY05fOVQyckFyeldCbEE2VWh2aHJUdjZPY1kzZVMzSzB6bjJn?oc=5",
+     "tarih": "2026-10-30T06:52:40+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Ege",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTh0Z0xnV1hvVF9xTnBQeGtZNXNqZTJ0VmJqWWduVEhkRnVIZVZMU2R2ay05WmRrNF9XOW5HT3ZFVUlXd0NhZG8zZDdVc0hPNXZ5YUMyQVlPU1BwQUh3cEM2YllkcmxLWWxvMW5qYnVOcGtRN0ZXcmZBU0loZy1Zb1hJUDlRNXl6dGJkUWl2Ri1PNURpWWV3cnM1d0ljQlprUzhoaWZpQ3RNaEk?oc=5",
+     "tarih": "2026-10-30T08:23:21+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "RayHaber",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUEJ5ckZJbG9CeEszclJOSnV6N1NhbTR2d29aY1k5amU5ZXZ6V0F2dWtsd2VqYS00dHIwdlBacE9ZeFNfUUotZHFUeEpHbGlRRW5nd2tsS2NLeDV0M1V1TTEwSTRyZXlMUTdBU3VFVmdzRjFPOFl4dWVxNDdlSG1wWjI5MkNrR3BKLUFveWhCb1F1c0E?oc=5",
+     "tarih": "2026-10-30T09:40:35+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Fuar Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckgzQ2VwOFIybDFMZW1HOGFYcXBBcVlSNU5EWjdpdHdacHNqZDcyV1F3MFVwWkdKRjdqcVdObzdDRkMtNGt5bzhfWFhpQ1F5QXc3RVE0ajRJSzRZS3lxeHdtUjJtMmFLSVdKRzdqV0VsZGdxN29ONzczOUJrVHdlb2dRSjZjc3ZhRGJ3clRuMUk0QQ?oc=5",
+     "tarih": "2026-10-30T13:19:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Türkiye İş Dünyası Haberleri",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRVhRMDdPWklXci1BWjJKbHFXWFdFclZCTHozX015SmxPQldCeUtSRFIzVWVRaVJsSHBFc0UyRkVRSFZNUllBbFRxbndHOEt3dVlfczVRQ3NidThYVVZhaHhZdEhhem90RGFhSWxzT1JiMVhDRXNXZnNOQ3E2bURUdzZB?oc=5",
+     "tarih": "2026-10-30T13:52:16+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Para Durumu",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLW9xNG1wUDFpVV9ZNGNPVjljVUQ2cUVYQU1ITlVCRDh1UTlFcGRZbnZjNkVDT3Q2Z09jSURzREl6UTh1Qy1UUXJsVFNDRFR0NmNDaVUtUGR2MFhlTHVnMWMtNkNNYVJCWExLZ2VHNVdWYWdCd0lRaUhrT2NuLTVWMXNoREFFUFdjYTd0TEEtdldKUjBRTk1IdkkzaHZoaFJx0gGgAUFVX3lxTE8tb3E0bXBQMWlVX1k0Y09WOWNVRDZxRVhBTUhOVUJEOHVROUVwZFludmM2RUNPdDZnT2NJRHNESXpROHVDLVRRcmxUU0NEVHQ2Y0NpVS1QZHYwWGVMdWcxYy02Q01hUkJYTEtnZUc1V1ZhZ0J3SVFpSGtPY24tNVYxc2hEQUVQV2NhN3RMQS12V0pSMFFOTUh2STNodmhoUnE?oc=5",
+     "tarih": "2026-10-30T16:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/30/ver1793345170/3792861/jpg/1280x720",
@@ -2788,6 +2830,18 @@
      "ad": "Besni Güncel Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjNycEhSSHJXN1hDVHBQTDVnRi1WdXRqQkVKeDJ3MG1Rc09NVVZDVTdKYXZZblVCamZfZXloM2QyNkRSckV1OTZHSHNPZjd4MW1wVU1GLUFSRzQwVGY4QVhJakJfc09LVUhzX3pHUXJQRVBCNHc0Sl95NG45VTE2NGF4cW02bks3bVptZzktSnpxVkdvSlZJ?oc=5",
      "tarih": "2026-10-16T11:08:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Ege",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYl9iWmxKWldhZUV6YUxEY210UVNNTG1ETkhEYjZmU3hvWWc4RWZiaWE2MXpleFF6cGxxeVAxTXdkSlM0T09hNFNqVkp4UlRocEhkX1daWTAxblpMU2VubnVyU1Y2YVN3eExSRWlrSVZ6U1VnWW1kQmxNeldXSlhONmdIRDdtLTRHV2s3c01hc3o4b2JCVmlmdlNjVVNuSndHYk93eUE1XzJ3d2luazQ1dnN3?oc=5",
+     "tarih": "2026-10-17T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ayancık Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkdwNDlPYm4yWkwzMzRHeUxSTWhNYlFId3RnMVh6a2s4b0x1cVJqSWkzT1ZXdkdVbU1fbnI1eC1fanlPZkNrYjZ5UV9TRElDODMwVFJ4cEVoQWxXOFlBcWNsSDd6LTRvOE5NYlRwOFBYUjNmSkRTcWNSekVPSU90QjBrVl9MYnRoY090NmYycU5KdWkxZWIzSkI1bk5seTVhTXVEYm1wODc1VWgzbUZSX3d6a3Nkdw?oc=5",
+     "tarih": "2026-10-17T14:55:04+00:00",
      "guvenilir": false
     }
    ],
