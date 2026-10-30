@@ -1,7 +1,115 @@
 {
- "guncelleme": "2026-10-29T21:58:32.765816+00:00",
+ "guncelleme": "2026-10-30T10:59:47.253513+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "2a874aba36dc",
+   "baslik": "Piyasalar kasımda bütçe görüşmelerine ve Merkez Bankasının mesajlarına odaklanacak",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-30T08:15:24+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/piyasalar-kasimda-butce-gorusmelerine-ve-merkez-bankasinin-mesajlarina-odaklanacak/4105918",
+     "tarih": "2026-10-30T08:15:24+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/30/thumbs_b_c_c8a2de4c2809e420fb7b3b9b9331e4d1.jpg",
+   "yorum": "Kasım ayında TBMM Plan ve Bütçe Komisyonu bütçe görüşmelerine yoğunlaşacak ve 2027 yılı bütçe taslağı sunulacak. Merkez Bankası Başkanı Fatih Karahan, 12 Kasım’da yıl sonu enflasyon tahminini %28 olarak güncelleyerek, 2027‑2028 yıllarında enflasyonun sırasıyla %15 ve %9’a düşmesini öngördüğünü açıkladı. Aynı ay içinde Merkez Bankası ikinci Finansal İstikrar Raporu ve ödeme dengesi istatistiklerini yayımlayacak. Bu açıklamalar, kredi maliyetleri ve tüketici kredisi koşulları üzerinde doğrudan etkisi olacağı için piyasalar tarafından yakından takip edilecek.",
+   "neden": "",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "b0c2e360de8a",
+   "baslik": "Beyaz eşya sektöründe ihracat ve üretimde daralma sürdü",
+   "marka": "Gündem",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-30T07:13:17+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/beyaz-esya-sektorunde-ihracat-ve-uretimde-daralma-surdu-3792861",
+     "tarih": "2026-10-30T07:13:17+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/beyaz-esya-ihracatinda-dusus-3923694",
+     "tarih": "2026-10-30T08:30:41+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/30/ver1793345170/3792861/jpg/1280x720",
+   "yorum": "Türkiye Beyaz Eşya Sanayicileri Derneği, 2026 yılının Ocak‑Eylül döneminde beyaz eşya iç satışlarının %2, ihracatın %17 ve üretimin %11 azaldığını bildirdi. Toplam satışlar %12 düşerek 20,0 milyon adete geriledi. Eylül ayında iç satışlar %16 artarken ihracat %13 azaldı ve üretim %1 arttı. Dernek başkanı, iç pazarın kısa vadeli toparlanmasının sektöre destek sağladığını, ancak sürdürülebilir büyüme için kredi kartı taksit imkanlarının genişletilmesi ve faiz‑komisyon oranlarının düşürülmesinin gerektiğini vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "1b59abf05095",
+   "baslik": "Beyaz eşya sektöründe ihracat yüzde 17 geriledi, ithalat yüzde 73 arttı",
+   "marka": "Sektör: beyaz eşya",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-30T06:52:40+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya Gazetesi",
+     "url": "https://www.dunya.com/ekonomi/beyaz-esya-sektorunde-ihracat-yuzde-17-geriledi-ithalat-yuzde-73-artti-haberi-845814",
+     "tarih": "2026-10-30T07:09:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TVHRsSnRGWTI3ckdvamVnTGdlcV84VDlLQWhuc0h1eWFQNEpDcHZWV1FxNDBDdjkzOXY1U2twTkFQY0pGRVN2SXpBQWo1QW02STN1cXBkdDRqbXJLWlJNWHhGY2ZMNHpKeFdTbFM5SEVveE1EOEhGTGpB?oc=5",
+     "tarih": "2026-10-30T08:30:41+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb2ZOblJINjZBNmE4RHJKSDN1bGJmdVU1X01NMkJPaDdsdUJVMFdxWk5qTWZhN2dIUm9WTlZkaXpmRnI3YXNnQnVXN1pIV19EbFpmVkhfU0RZTE96dUIxTGxLYUJTZGNaNzZNdUNoZ1oyZEV4VzBqSkNLSUdVX1dpSkZocURvNE5nWjZwNnJOWWVubzY0cDA4TE04Z0pWVndMR0stTVp2ZzZWM2JqMmtmRWRmQV9oUDdKY05fOVQyckFyeldCbEE2VWh2aHJUdjZPY1kzZVMzSzB6bjJn?oc=5",
+     "tarih": "2026-10-30T06:52:40+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "turkhaber.com",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzFCZ3ZlMkNJNUt5bFZDSXlmMWJ3YnBWUWtsZndDS0Z4LVhjZzJpanlSMFFWanRmRlhuVWozRVRoQzJUcF9vMF9fSTdya0NmRWNJa2VxUDBLZUJVcjVjWERCRWlYX1dnSjQ2ZTc0U3Q0WXpaenY2eEhlR24zTDFhNzU4b01Ocno3Y2ZiM3E5VGxVYXQ2LXpnV0ZubGVXS2VqMENBVw?oc=5",
+     "tarih": "2026-10-30T07:15:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "https://www.bursa.news/",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTgzbmJlcmJ6VWdHaE5MdUdVVUFHcmxnR19BMkJoWHcwbkI3VWw2bGJWeVo2d1Nfc3B1T3RWS0I2amtRYWV0d0RDbWpLTDlRbUd2OU0xSjQyaS1LZ1FZaWpyYUJ1M19NTlJUUHQ2M2o1MnlSYU1OcGhEWjdoMk5zX1hwRXZpVWhZSnhLWEtyM2hYTTBoRm1zRWY2VQ?oc=5",
+     "tarih": "2026-10-30T07:37:30+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Ege",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTh0Z0xnV1hvVF9xTnBQeGtZNXNqZTJ0VmJqWWduVEhkRnVIZVZMU2R2ay05WmRrNF9XOW5HT3ZFVUlXd0NhZG8zZDdVc0hPNXZ5YUMyQVlPU1BwQUh3cEM2YllkcmxLWWxvMW5qYnVOcGtRN0ZXcmZBU0loZy1Zb1hJUDlRNXl6dGJkUWl2Ri1PNURpWWV3cnM1d0ljQlprUzhoaWZpQ3RNaEk?oc=5",
+     "tarih": "2026-10-30T08:23:21+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "RayHaber",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUEJ5ckZJbG9CeEszclJOSnV6N1NhbTR2d29aY1k5amU5ZXZ6V0F2dWtsd2VqYS00dHIwdlBacE9ZeFNfUUotZHFUeEpHbGlRRW5nd2tsS2NLeDV0M1V1TTEwSTRyZXlMUTdBU3VFVmdzRjFPOFl4dWVxNDdlSG1wWjI5MkNrR3BKLUFveWhCb1F1c0E?oc=5",
+     "tarih": "2026-10-30T09:40:35+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Beyaz eşya sektöründe ihracat %17 azalarak geriledi, ithalat ise %73 artış gösterdi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "842858f8ba3f",
    "baslik": "Ekonomist Hakan Kara: Fon krizi ve piyasa kayıpları servetin yüzde 10’unu yuttu!",
@@ -158,6 +266,18 @@
      "ad": "Para Ajansı",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV9hcDFvSVlMdnJwTFk2d0VBbkdYR3RsQ1NnTUxuUFQ1ekc2bzVYOVdmVXpMZEUxLWtIek5xZHkxTF9NS2p6QkZFRkVmS3c2eFpJclM5aWhNS0lkWmFETHcwNWRBMnhyYkg0VkRGTENvWUowd1luT1NINHVoZDlLdTZsX3ZUNGlMVUNJSlh3SkVkdE5Od0pQY0NYcEV4d0FwOFJVV0NvTWZDYkhZVS1wOWNyVGJmZWVM?oc=5",
      "tarih": "2026-10-28T14:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber 7",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclU5OVVyc3hmdjZqYlNDZW4yNVMyX1BJbG8wV0dlM3dLandlS0lKUUNjbmpWWUJ3c1RrOVQwRE1XMGJjZEhDWnJ1UlVYdDBheXF0RENvZ2tjSUlXMnM3MUhBSzY1SXRhbVJ2LU1rZ2dFNVNubVkxbmhyOVU0TUpuWDgxR3hzQmZGd1RoQUx3V2xoRWhWVkRnSzZVM2gyVndBdjNrak1LcVhRd281YU93dDJBcFJlOFplSlpRT3NTX2RXdw?oc=5",
+     "tarih": "2026-10-28T11:49:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yozgat Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3p6dWYzVG95U3E3YmRWYXJfdk1ELWdoUVdCWXVXSUF1TzBOT0t5MHE1ZTBLWUcwcUJmX3BjOElZR1VodkVGWFdzRm5uLXR2NDI3QTlEdG5yLTJWc2c4NTlpSUxoUHRFN3c5LVotR2hXRkxLeVBxNHplMHZubTFGYktGbHQ0dkg2MGQ3N1pEcnZtX2dxU0lRcnhWYVJQbGpsT3RKM2g0ZGtZOG03ZFlPT05sUzhQODNPVXZCT0pLTEE?oc=5",
+     "tarih": "2026-10-28T12:01:53+00:00",
      "guvenilir": false
     }
    ],
@@ -5196,6 +5316,42 @@
      "ad": "Medya Gazete",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajlIeGhqTXZjby05Y3RDLUpnejdkeGN2Uk8xT3ZLekN3UW11cGxiRjlRc0k2bzYweU1xbXBQcnR1S1liVG44R1FTd3B0OUZtaFdORTN0U0ZMOEExWUNMSzZPVFVZeVRodnFQekkyaWVBeGtRYzVGRHNwUFVtdldHcFNGOXRfVWRIWTFJajBHVE9wWWVud0dkekotRHV0dWdsRUE?oc=5",
      "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "ERTV Malatya",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU9MOXVMUV9TSnh5S2ROTU9TOEpRYjNrMlphOXo3QW0yZlFlendLN1NoTFFUcWVHZnBvWEd2V1VkWmNhcEsxRV9IVDdkWmZ6UnNiWUgwMlgzdkZKdjFOYzVtX1JsLWhyVnNIS1dadWJ3QmR2aC1wNmlaQmpWd3NHRnpvbXptejhHS0NUZzdfdnpVLThVMDZSU09LQUp6d9IBowFBVV95cUxPZmlQSlk4QjJOZUlEN08wN3lzakZYTVR2aTMxM1FGNEM3OHd4UjYybjcxV2wxdU1OaEd6b2pmaXcyc0hiSFFyTlRacHcyV2JIR0VLQmppa1RnbTU5LVlKZ1hKbnYzTDRwYkROUjlpbHFwM2dQTnNfTzdTOVF0TDhSVW4xbGRlYVB6RzR4amk4OHBEazlBWFV5YXM2cDNhdWFWTm04?oc=5",
+     "tarih": "2026-10-12T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "yeniufuk.com.tr",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjdBWHRkTk1XcElOaXJhTTNOX2lnNDMwYVlkb0hDMF9HR28yYjFJQnppU3FLdHBhSERzWkRIcG1TS3REN0kxb25MUTdKLVgydU5SR1NXNDdlR3JzbFpIbGpPUFd1cmx2cDg1SVlPUGNSWTVUcXZyZk5aTFZKeWNWcm1WSTdKdzZuV1ZRRS1vWmMtcGZab3I2VXBOanQ?oc=5",
+     "tarih": "2026-10-12T09:49:02+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Alparslan Diyarı",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON09EcGRaOWVBMlJhdU5xWHAxU1YtVDRZRmYyWlpGSUVSTGtFT0ZZelM5ZnY0NlFYai1zZVBKRUNHRjhBZldMYnktVk9FWFNEODZncUV3MWNIWktrb042cy1OeGNBRTFSOUdEYjBzbENnLTFiSXZMcmI0aWhCX21zSlplT28zUGZQYkEwSmNrN2RQWW1ubl9uS1pPYllicEIz?oc=5",
+     "tarih": "2026-10-13T05:52:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Uzmanpara",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1hlTnFSLXYyNkdtWHBkYnUyUE9zSTZOQmRuakRiYXRDNzk3TWxUMzhUa1dJc2FnX3h0bHVsT3RJMDNTUU41SXBRTnJTZmhyQjRLZnp3ZGUtengzVXh1VkhyZjNrVmdJdjZMN1RRTUZfMkhSRlU2bkptT2Z4MHducV9KTlJRRDFoSXdhWi1TdGNvS3ZsQ3Vodmt3?oc=5",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Doviz.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcV95b0pURllpZ2ljamV5R2RuQW1idEE4ekxxZzBWZ25VWTVQQXJuUm1HQjZ1QnZqVkdld0hLSzVucHgxcHozWVl1M3psVkYtaXZtWklRQWNzNG9zdUhIMXh4ZUtocTVaSTFULWg2RTg5UzRjQjBFdW1sNFowNkpHVDZBNWZHSmR1bmUxaks5cEPSAZgBQVVfeXFMUEhlaFZKSnFzUFdzdWc2Rk1PNlYzX1h5bThyU29kc1pjLXp6VGtJRmgxNzBYVlRseUxqY2Q1NDdJQXVFenIyZXZKZFRHa0dEVmUtaFRiUEdXQ2drOVZRanhWak9HRFplcEdDMEFlTDd3dk1xVGU1c3pybE9wakNMclc2TVRDYUJ1RnZiX0g1YnBSaUczT2xDckE?oc=5",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "EKOTÜRK",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnZMdXJUc1Q0X1lKR0diUWFuc0pKNUViV18zV25VNVBKbk03TTVGUHAxZUpsVi00TVpPUW9GM3FsZm4taWYybkFoek5vc0ttYkM1VE14dHpOcVY4T3FvOXlVTjRaeXlWRmI0TnllZ05CQlNCeXBibmJ0bTJ2dGxkeU1FTHlVYUJnblhKaHVtSVpTYU01NHZIc3BxMXJZaHpaQ1FSWGJScFh0UnlmaTQ2SUhyMDRLN29QQXhWRA?oc=5",
+     "tarih": "2026-10-15T13:19:31+00:00",
      "guvenilir": false
     }
    ],
