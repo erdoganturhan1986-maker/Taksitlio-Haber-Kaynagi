@@ -1,7 +1,35 @@
 {
- "guncelleme": "2026-10-30T10:59:47.253513+00:00",
+ "guncelleme": "2026-10-30T17:08:57.993880+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "b3480f16892c",
+   "baslik": "TCMB: Manşet enflasyondaki yükselişin ana eğilime etkisi sınırlı kalacak",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-10-30T11:16:28+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-manset-enflasyondaki-yukselisin-ana-egilime-etkisi-sinirli-kalacak-3792917",
+     "tarih": "2026-10-30T11:16:28+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-toplanti-ozeti-yayimlandi/4106218",
+     "tarih": "2026-10-30T11:36:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/10/30/ver1793359025/3792917/jpg/1280x720",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası, 22 Ekim tarihinde yapılan Para Politikası Kurulu toplantısının özetinde, manşet enflasyondaki yükselişin ana eğilime sınırlı etkisi olacağını belirtti. Çekirdek enflasyonun ılımlı seyretmeye devam edeceği vurgulandı. Gıda fiyatlarındaki mevsimsel etkiler dışındaki artışların, özellikle taze meyve ve sebze fiyatlarından kaynaklandığı ifade edildi. Enerji fiyatlarındaki yükselişin, jeopolitik gelişmeler nedeniyle akaryakıt, tüp gaz ve katı yakıt fiyatlarını artırmaya devam edeceği öngörüldü. Ekim ayında beyaz eşya ve dayanıklı tüketim mallarında fiyat artışları devam ederken, temel mal enflasyonu ılımlı kalacağı tahmin edildi.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "2a874aba36dc",
    "baslik": "Piyasalar kasımda bütçe görüşmelerine ve Merkez Bankasının mesajlarına odaklanacak",
@@ -101,10 +129,44 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUEJ5ckZJbG9CeEszclJOSnV6N1NhbTR2d29aY1k5amU5ZXZ6V0F2dWtsd2VqYS00dHIwdlBacE9ZeFNfUUotZHFUeEpHbGlRRW5nd2tsS2NLeDV0M1V1TTEwSTRyZXlMUTdBU3VFVmdzRjFPOFl4dWVxNDdlSG1wWjI5MkNrR3BKLUFveWhCb1F1c0E?oc=5",
      "tarih": "2026-10-30T09:40:35+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZU8zSXRCQ1RLaTNwbEN2VUdpNjViOGkwZWFnQ01PMWtOdTVTTkNuQzNuNDY0dXVUZENLdDF0VjFYRUlpQVFzTXA0c2stdTg4ZVVuZVhTbTVxUGZCLXNvOHJNUHc2ZFFSdlByTUJQRVUtV01yUVA0aVpTQmFTdTV5TGVLUG5mVHdhdjFpUmw0QWQ0MHdVb0h0RnJ5UE1ROWpnSTNodVN1M3hQXzQ?oc=5",
+     "tarih": "2026-10-30T07:27:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Fuar Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckgzQ2VwOFIybDFMZW1HOGFYcXBBcVlSNU5EWjdpdHdacHNqZDcyV1F3MFVwWkdKRjdqcVdObzdDRkMtNGt5bzhfWFhpQ1F5QXc3RVE0ajRJSzRZS3lxeHdtUjJtMmFLSVdKRzdqV0VsZGdxN29ONzczOUJrVHdlb2dRSjZjc3ZhRGJ3clRuMUk0QQ?oc=5",
+     "tarih": "2026-10-30T12:14:33+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
    "yorum": "Beyaz eşya sektöründe ihracat %17 azalarak geriledi, ithalat ise %73 artış gösterdi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "fa75a5a870b6",
+   "baslik": "ABD'den Çin'e yeni kısıtlama: Akıllı telefon ve bilgisayarları da kapsıyor",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-29T20:35:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "CNBC-e",
+     "url": "https://www.cnbce.com/teknoloji/abdden-cine-yeni-kisitlama-akilli-telefon-ve-bilgisayarlari-da-kapsiyor-h40589",
+     "tarih": "2026-10-29T20:35:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/05/13/abd-cin-stok-istock-idpv.jpg",
+   "yorum": "ABD Federal İletişim Komisyonu, iki yıl sonra yürürlüğe girecek yeni bir düzenleme ile ABD ile karşılıklı tanıma anlaşması olmayan ülkelerdeki laboratuvarların test faaliyetlerini dışlayacak. Bu karar, ABD pazarına sunulacak akıllı telefon ve bilgisayarların yalnızca ABD’de veya tanınan ülkelerdeki laboratuvarlarda test edilmesini zorunlu kılıyor. FCC Başkanı Brendan Carr, testlerin %3,6’sının ABD’de, %82,3’ünün ise Çin’de yapıldığını ve yeni düzenlemenin tedarik zinciri risklerini azaltmayı amaçladığını belirtti. Düzenleme, Huawei gibi Çinli şirketlerin laboratuvar onaylarının iptal edilmesi ve 2025’te 32 laboratuvarın sistemden çıkarılması gibi adımları da içeriyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
