@@ -1,17 +1,17 @@
 {
- "son_kontrol": "2026-10-29T23:28:15.338682+00:00",
+ "son_kontrol": "2026-10-30T13:24:46.004187+00:00",
  "kaynaklar": {
   "bddk": {
    "ad": "BDDK krediler",
    "siklik": "haftalık",
-   "son_veri": "2026-10-16",
+   "son_veri": "2026-10-23",
    "durum": "guncel",
    "adim": "success"
   },
   "npl": {
    "ad": "BDDK takipteki alacaklar",
    "siklik": "haftalık",
-   "son_veri": "2026-10-16",
+   "son_veri": "2026-10-23",
    "durum": "guncel",
    "adim": "success"
   },
@@ -19,7 +19,7 @@
    "ad": "TCMB kredi faizleri",
    "siklik": "haftalık",
    "son_veri": "2026-10-16",
-   "durum": "guncel",
+   "durum": "gecikmeli",
    "adim": "success"
   },
   "tufe": {
