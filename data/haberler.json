@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-31T15:51:24.476191+00:00",
+ "guncelleme": "2026-10-31T20:16:10.013473+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -1152,6 +1152,28 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "9082922de15d",
+   "baslik": "Arçelik'in 200 milyon euroluk fabrikası açıldı: Yılda 4 milyon üretim kapasitesi",
+   "marka": "Arçelik",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-23T13:32:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "CNBC-e",
+     "url": "https://www.cnbce.com/sirket-haberleri/arcelikin-200-milyon-euroluk-fabrikasi-acildi-yilda-4-milyon-uretim-kapasitesi-h40170",
+     "tarih": "2026-10-23T13:32:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/10/23/arcelik-200-milyon-euroluk-yatirimla-manisada-ileri-teknoloji-fabrikasini-acti-amnl.jpg",
+   "yorum": "Arçelik, yaklaşık 200 milyon euro yatırım ile Manisa’da yeni bir çamaşır makinesi işletmesi açtı. Tesis 92 bin metrekarelik alanda, ileri otomasyon ve veri odaklı üretim teknolojileriyle donatıldı ve yılda 4 milyon birim üretim kapasitesine sahip. Açılış töreninde Koç Holding Dayanıklı Tüketim Grubu Başkanı Polat Şen ve Arçelik CEO’su Can Dinçer, istihdam ve ihracat katkılarını vurguladı. Yeni fabrika, 1.800 kişiye istihdam sağlarken üretimin %44’ünü 106 ülkeye ihraç ediyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
