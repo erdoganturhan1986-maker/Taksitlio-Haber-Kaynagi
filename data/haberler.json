@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-30T21:41:04.988389+00:00",
+ "guncelleme": "2026-10-31T10:34:32.678185+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -112,6 +112,36 @@
      "ad": "Para Durumu",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLW9xNG1wUDFpVV9ZNGNPVjljVUQ2cUVYQU1ITlVCRDh1UTlFcGRZbnZjNkVDT3Q2Z09jSURzREl6UTh1Qy1UUXJsVFNDRFR0NmNDaVUtUGR2MFhlTHVnMWMtNkNNYVJCWExLZ2VHNVdWYWdCd0lRaUhrT2NuLTVWMXNoREFFUFdjYTd0TEEtdldKUjBRTk1IdkkzaHZoaFJx0gGgAUFVX3lxTE8tb3E0bXBQMWlVX1k0Y09WOWNVRDZxRVhBTUhOVUJEOHVROUVwZFludmM2RUNPdDZnT2NJRHNESXpROHVDLVRRcmxUU0NEVHQ2Y0NpVS1QZHYwWGVMdWcxYy02Q01hUkJYTEtnZUc1V1ZhZ0J3SVFpSGtPY24tNVYxc2hEQUVQV2NhN3RMQS12V0pSMFFOTUh2STNodmhoUnE?oc=5",
      "tarih": "2026-10-30T16:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZU8zSXRCQ1RLaTNwbEN2VUdpNjViOGkwZWFnQ01PMWtOdTVTTkNuQzNuNDY0dXVUZENLdDF0VjFYRUlpQVFzTXA0c2stdTg4ZVVuZVhTbTVxUGZCLXNvOHJNUHc2ZFFSdlByTUJQRVUtV01yUVA0aVpTQmFTdTV5TGVLUG5mVHdhdjFpUmw0QWQ0MHdVb0h0RnJ5UE1ROWpnSTNodVN1M3hQXzQ?oc=5",
+     "tarih": "2026-10-30T07:27:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Yorumla",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXUxSy1KQzMxblNNbzdENG5rdW4xcjNZdEEyaW9HajllR2stVkxmeHVQX1BHc2ozS1VvemxzWVgtV3NjMTlScnR5Mk9hUjVEUlE4dmtWbUJaUkxEMndpOG1CZmwxQVJsMHR5eDNOYnRmWEFhNVJLdnNGaXltdTdSYmFTV2dtSTFLdFE5T1gwX0EyQWRjTmgyY1BUY1VyUWxnRmlRbnAtYXk2QQ?oc=5",
+     "tarih": "2026-10-30T23:46:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Şafak",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVZweVEwMGw0eGQzci1GSWhMMUFqY2Z5VldYdjlCY3pvYnI5QWxZLVBic0RVbERtU3FPcGlLTlIxNWFDQWc1UGc2dnlBUVgyaHg5UUw0XzY5RkN6MXJLck03UnMxVUp2UkFlYS01LXE0NDBNOEs4eVhncFZ6UjVXNUxqSHhKZW9q?oc=5",
+     "tarih": "2026-10-31T01:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haberhergün",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlhCaTRja0J1Tll2ZGlOOTBSSlJmTTZsS25zTFl5OUxNUnJtVnJ0Q3pRVGI3WWxNZWlWRk9lSm1KUFUzdXc4NTJ0dHJRYnFXVnE3S3hEWGxIWlE0SUVvdk1YX1FfU3lISW9LaURxSFVpVjd6U0VkOEEzdE5ycDg3VTBEc0RLWm5kOWpfZFJVVEs?oc=5",
+     "tarih": "2026-10-31T05:41:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Analiz Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkxiX3JSZnpGN0w2XzVZR2pOUDVaeU1PTGQ4V1pROWZ3cXc1SWxIY3MycVFCRFBYZFZpOUtfdDBkbGJVSWctSlVQUjVGVGNQS2NQcU9JQTRVRmVFd2FJQ0RsdFJ2REppRExwQ3FyXzlCRnZUbmhkeERpM1prQ2tFcVZySWZOUFEyODdza1M3eUVpTy10UUpsdUp6UFB3Z3JOVFBiazVB?oc=5",
+     "tarih": "2026-10-31T07:40:58+00:00",
      "guvenilir": false
     }
    ],
@@ -2001,6 +2031,12 @@
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUJxRWhLeURyaHI1a0xMOEN3MTRYSUQxRDFLTGNDejB5bi1VNFN4QThhdllybGpZSkNLdHBpN2ZKTi1EQUpXTDBWNFUxd21BSnAwVFJhTkwySnpTd0xaLUFXN1ZTT20xNVNVUkVIenBjSUhxcjFPU0NJOTdTSnlDcWxXQjgtS1VhOTg5eGYwb0JPMGc5RlVGb29EUndJMXFMWEl0RWYwLTNCVjRkTnVhSldSaHVyWWZRSWx1eW5QV2tqNVVkdjFybmVTMA?oc=5",
      "tarih": "2026-10-22T08:30:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGpPZ3BBQWQ0TWdRMlNkQ1h1aGlVTkhDT21nSS1rVi1qQlpXWDJNazJkbmlQRjhxQnladzNYdzNMbkhVSFVZcjk5WTdDdm5HUVVrTldJRUVEQ29pR2tzbV96dzVyWi1GYmpseGI2QVBiSmtaMkpLeDFPdm1DNklDVzFNcV8wMmVGc1RULXlVWmVQSHB4dGc3aXJGLTBGc1ktWGhzb1Fsb1h3bUlSUzFHbEhCYlU1Ykts?oc=5",
+     "tarih": "2026-10-21T11:00:09+00:00",
+     "guvenilir": true
     }
    ],
    "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/21/thumbs_b_c_a8457d43ada587b7c69234378f1dd3d9.jpg",
@@ -2842,6 +2878,12 @@
      "ad": "Ayancık Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkdwNDlPYm4yWkwzMzRHeUxSTWhNYlFId3RnMVh6a2s4b0x1cVJqSWkzT1ZXdkdVbU1fbnI1eC1fanlPZkNrYjZ5UV9TRElDODMwVFJ4cEVoQWxXOFlBcWNsSDd6LTRvOE5NYlRwOFBYUjNmSkRTcWNSekVPSU90QjBrVl9MYnRoY090NmYycU5KdWkxZWIzSkI1bk5seTVhTXVEYm1wODc1VWgzbUZSX3d6a3Nkdw?oc=5",
      "tarih": "2026-10-17T14:55:04+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Marmara Yaşam",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYjlWUzRWNVJHVjRPdl9oWmMxbDNwYlBpdGhQZ0RndHdjM1dnb2dua2VBcnRrd2REbVg5SFdnWHZ1Q0JHcUJoOFV2UXpacmhoOUNRYmJSQmZackFrNTlRWWlxdXd2RFdSQ2J6SFlOWDV6NWsybzFCMERRYXRwNmRqbXBaVXhZMmdUYWhMSEpuUTdSTDFWckJCYUNDeHBMLWRXTjdnVlA3YVpGdnY1Q200Z2kwRlNoZGVaQkFz?oc=5",
+     "tarih": "2026-10-17T07:00:00+00:00",
      "guvenilir": false
     }
    ],
