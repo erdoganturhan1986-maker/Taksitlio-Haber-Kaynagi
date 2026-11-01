@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-01T11:27:55.396289+00:00",
+ "guncelleme": "2026-11-01T17:13:45.514403+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "535b96d6a439",
+   "baslik": "İstanbul'da aylık enflasyon Ekim'de hızlandı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-01T10:27:02+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/istanbulda-aylik-enflasyon-ekim-de-hizlandi-3793000",
+     "tarih": "2026-11-01T10:27:02+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/01/ver1793528968/3793000/jpg/1280x720",
+   "yorum": "İstanbul Tüketici Fiyat İndeksi (İTO) Ekim ayında bir önceki aya göre %2,47, yıllık bazda ise %32,47 artış gösterdi. Toptan Eşya Fiyatları İndeksi ise %1,20 aylık ve %25,51 yıllık artış kaydetti. En yüksek aylık artış %10,60 ile giyim ve ayakkabı harcama grubunda gerçekleşti; diğer gruplarda %5,32 (eğlence ve kültür), %5,05 (haberleşme) gibi artışlar görüldü. Toptan fiyatlarda en çok artış %3,44 ile kimyevi maddelerde oldu. Bu veriler, tüketici harcamaları ve kredi talebi üzerinde etkili olabilecek enflasyonist baskıları yansıtıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "5f521a221699",
    "baslik": "İstanbul'un ekim ayı enflasyonu açıklandı: En yüksek artış hangi grupta?",
@@ -322,6 +344,12 @@
      "ad": "SteelRadar",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkFxWlFOUWJKMDJlX0hNMlJtc3J3dXJyMmN6Z0VzYzZLQXlySlJnSGhENGF0TXlfdHp2Ulk1YzRVZ0Q0Ml9FMW9uN2ZyUWh0VUppeU8wVEo2SnJKcnpJa0pHQzVQVW93SW42SlVHdjRVWG13Uk0xcVh3UjZEeTM2aFhzM08waXE0NC12RmxyWjZWbm9MR3RjYWp1WTB2bmVwWXpjQTlZTFVUVEltX05UdlA2RzJEWGFneXNORQ?oc=5",
      "tarih": "2026-11-01T10:32:41+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Şafak",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVZweVEwMGw0eGQzci1GSWhMMUFqY2Z5VldYdjlCY3pvYnI5QWxZLVBic0RVbERtU3FPcGlLTlIxNWFDQWc1UGc2dnlBUVgyaHg5UUw0XzY5RkN6MXJLck03UnMxVUp2UkFlYS01LXE0NDBNOEs4eVhncFZ6UjVXNUxqSHhKZW9q?oc=5",
+     "tarih": "2026-10-31T01:00:00+00:00",
      "guvenilir": false
     }
    ],
