@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-02T12:50:08.376290+00:00",
+ "guncelleme": "2026-11-02T22:27:34.965088+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -22,6 +22,28 @@
    "neden": "",
    "gundem": false,
    "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "81577db06ec7",
+   "baslik": "Kuveyt Türk'te üst düzey atama",
+   "marka": "Kuveyt Türk",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-02T10:18:48+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/finans/kuveyt-turkte-ust-duzey-atama/705280",
+     "tarih": "2026-11-02T10:18:48+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/02/thumbs_b_c_01341be2496c1bd60ddce072239fcc46.jpg",
+   "yorum": "Kuveyt Türk, ödeme sistemleri ve finansal teknolojiler alanındaki iştiraki SağlamPay'in genel müdürlük görevine Mürsel Topuz'u atadı. Topuz, 2007'den bu yana bankada çeşitli görevlerde bulunmuş ve dijital ödeme çözümlerine yön verecek. Atama, SağlamPay'in büyüme ve gelişme sürecine liderlik etmesi amaçlanıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
