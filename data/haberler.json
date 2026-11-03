@@ -1,7 +1,151 @@
 {
- "guncelleme": "2026-11-02T22:27:34.965088+00:00",
+ "guncelleme": "2026-11-03T12:17:53.334793+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "05837ec95725",
+   "baslik": "Gedik Yatırım'dan enflasyon sonrası faiz tahmini: Aralık için 100 baz puan beklentisi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-03T11:30:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomik-veriler/gedik-yatirimdan-enflasyon-sonrasi-faiz-tahmini-aralik-icin-100-baz-puan-beklentisi-haberi-928852",
+     "tarih": "2026-11-03T11:30:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/09/11/merkez-bankasi-faizi-indirmedi-ama-indirim-icin-yesil-isigi-yakti-ntuo_cover.jpg",
+   "yorum": "Gedik Yatırım, Ekim ayında enflasyonun %2,58 ile beklentileri aşmasının ardından, TCMB’nin Aralık ayında faiz oranını 100 baz puan düşürme ihtimalini değerlendirdi. Ancak Kasım enflasyonu yüksek gelirse, bu indirimin daha sınırlı kalabileceği uyarısında bulundu.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "bf7117a7584e",
+   "baslik": "\"Bankacılıkta yeni normal daha az masraf\"",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-03T10:35:12+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/bankacilikta-yeni-normal-daha-az-masraf-3793261",
+     "tarih": "2026-11-03T10:35:12+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/03/ver1793702145/3793261/jpg/1280x720",
+   "yorum": "ING Türkiye’nin “Eskiyen Normaller Araştırması”, tüketicilerin banka hizmetlerinde yıllık kart aidatı, FAST/Havale/EFT ve SWIFT ücretleri gibi masrafları artık normal bulmadığını ortaya koydu. Katılımcıların büyük bir çoğunluğu bu ücretlerin önümüzdeki beş yıl içinde kaldırılmasını istiyor. Araştırma, 31 Temmuz‑9 Ağustos 2026 tarihleri arasında 500 kişiyle online anket yöntemiyle gerçekleştirildi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "0cd23b458d47",
+   "baslik": "İşPay yenilendi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-03T09:06:04+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/ispay-yenilendi-3924552",
+     "tarih": "2026-11-03T09:06:04+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/03/ver1793696707/3924552/jpg/1920x1080",
+   "yorum": "İş Bankası, İşPay uygulamasını yeni özelliklerle yeniledi. Müşteriler, İşCep üzerinden ihtiyaç kredisi ve taksitli ek hesap limitlerini görüntüleyip, belirledikleri tutar ve vadeye göre bakiyelerini yükleyebiliyor. Yüklenen bakiye ile alışveriş yapılabiliyor ve bakiye takibi aynı menüden sağlanıyor. Kasım ayı boyunca yapılan kampanyada, İşPay’e bu yollarla bakiye yükleyen kullanıcılar, belirli sektörlerde harcama yaptıklarında 25.000 TL’ye kadar nakit iade alabiliyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "07509e09402b",
+   "baslik": "İş Bankası İşPay’i yeniledi",
+   "marka": "İş Bankası",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-03T08:57:47+00:00",
+   "kaynaklar": [
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://www.dha.com.tr/yerel-haberler/istanbul/is-bankasi-ispayi-yeniledi-2974328",
+     "tarih": "2026-11-03T08:57:47+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6ae9a35e737688bad7769a07.jpg",
+   "yorum": "İş Bankası, İşPay uygulamasını yenilediğini duyurdu. Yenilenen sürümde kullanıcılar, limitlerini İşCep üzerinden görüntüleyebilecek ve ihtiyaçlarına uygun tutar ve vadeyi belirleyerek İşPay bakiyelerini doldurabilecek.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "b97f4da8e751",
+   "baslik": "Yumurta viyollerinden ilham alınan projeyle mobilya üretiminde 100 yerine 60 ağaç kesilecek",
+   "marka": "Sektör: mobilya",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-11-03T07:58:14+00:00",
+   "kaynaklar": [
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://www.dha.com.tr/amp/foto-galeri/yumurta-viyollerinden-ilham-alinan-projeyle-mobilya-uretiminde-100-yerine-60-agac-kesilecek-2974248",
+     "tarih": "2026-11-03T07:58:14+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkhlN3gwT0xPLWRrbk5xNHJaMmNtVUh5enJkTWplZkNyamltR1RybTF2N0tXTU56TXBORlU4R0VlMHpZWW1QcjRNU3RwRTc3WmNDMFBFQU0tRWRHRXhDUWN4bkwyTHdQekJqbFVwdDVQVm9TM3gyV2szZFl3VHFWd0JfZlhmYy1PSmVuSFlHTE9jZjM2eWF5SUlUOGpOV0Zzc1hWQk5NMGxWbGlzWjJRdnJpMDItNXoxWTdnSTB6bTAtM0lkaUJMQ29BTnRVcXM1Y3FPU0c3a1ZrRGVx?oc=5",
+     "tarih": "2026-11-03T08:31:02+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Bursa Teknik Üniversitesi Orman Fakültesi, TÜBİTAK 1001 desteğiyle \"Yarı piramidal çekirdekli sandviç levha üretimi\" projesini 24 ay sürecek şekilde hayata geçirdi. Proje, mobilya üretiminde kullanılan ağaç miktarını 100 yerine 60'a düşürmeyi hedefliyor. Projede Prof. Dr. Ergün Güntekin ve Doç. Dr. İbrahim Halil Başboğa, Doç. Dr. Çağatay Taşdemir, Doç. Dr. Mesut Uysal gibi akademisyenler görev alıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d81e079643d2",
+   "baslik": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-03T02:53:51+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/togg-da-anadolu-grubu-ve-vestel-in-paylari-tvf-ve-turkcell-e-geciyor-3793139",
+     "tarih": "2026-11-03T02:53:51+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/togg-da-hisse-devri-icin-sozlesmeler-imzalandi-iste-yeni-ortaklik-yapisi-3924462",
+     "tarih": "2026-11-03T05:54:39+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/03/ver1793674490/3793139/jpg/1280x720",
+   "yorum": "AG Anadolu Grubu Holding, TOGG'daki %23'lük hissesinin %11'ini Turkcell'e, %12'sini ise Türkiye Varlık Fonu'na 184 milyon euro karşılığında devretmek üzere sözleşme imzaladı. Vestel de aynı oranda TOGG hissesini 184 milyon euro bedelle TVF'ye satma kararı aldı. İşlemlerin tamamlanmasıyla Turkcell'in TOGG'daki toplam payı %34'e yükselecek. Turkcell, bu yatırımı teknoloji altyapısı ve dijital hizmetler stratejisiyle uyumlu olarak nitelendiriyor. Vestel'in satıştan elde edeceği fonun %90'ı, nakdi banka kredilerine ilişkin vadesi gelmiş borçların ödenmesinde kullanılacak.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "f7d9fb313143",
    "baslik": "Bankacılık sektöründe mevduat geriledi: Kredilerde yükseliş sürdü",
@@ -5130,7 +5274,7 @@
    "marka": "Sektör: cep telefonu",
    "kategori": "telefon",
    "oncelik": 2,
-   "tarih": "2026-10-14T07:00:00+00:00",
+   "tarih": "2026-10-14T14:45:25+00:00",
    "kaynaklar": [
     {
      "ad": "Habertürk",
@@ -5143,36 +5287,6 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1g0RFBaSTFsLUlLdmJQdmtiRlNpWk5SSVRXd2dvU2lFS1M3eGJ0bU1hYlRXV1ptTllHZjBTOWJURzNGMXJMRlk5bmJLc1REZnhsRmhKUW9QQ081Si1lLXdkQmpCM3JlMUZla08xZzBPT0dneEVmNXRrcmRweVZCMDhieFRkVVBCUlRISFhvYXp2OGxDLTB6WF9OVTl0dlhabG5HU2wtay1rSTJzY3BDRE9uLV92MlV5Q1JDWA?oc=5",
      "tarih": "2026-10-15T07:00:00+00:00",
      "guvenilir": true
-    },
-    {
-     "ad": "Technopat",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlNkclIyYmM5WlVzZGpJamVCWkNfdjVWdXhUVzJfaE1SdVNXbGNnTkE5QjNBLXFxNHVwUHFUMGxnWkd1XzVvRVkzZV9ZR0RCOFEwV21VNFRZMUl0bUNMX3NLQ2Y5RUtqU3liaEx4d09NRFRBMTAzWl9hSDh1NkNrM2k3ZXRBSmdvZVg5Q21tdnE3R0xzalV5ZmZ3RTE1bGNEbUNR0gGoAUFVX3lxTE9fR1Ftakk1V0NTMUkxN0dWbF9pNmVQRlJ3b2ZfT2RTTXoxeGg1WkJ0MmN0S3ZjMzd3dXJpcXdndUFYQ2lfVDZoU0NxNHRJRWw3bGZrWFY4R1d0ZWxocnBVdFh1UERmOEt6MGxBQmtHOUNvSVcxYVNidjJqY3dkZ1Nlc3B2Nk1UTmVjVzB6WnhieXZTdnpETElJNmlzellDbjZLVEJPZnB4Zg?oc=5",
-     "tarih": "2026-10-14T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Pasquale Pillitteri",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDdGZzZPaV96bWpRd3JoYzlKWXRCRTJHazA0ZzZEdkp6SjFySEJBZG1QZElVa2Vnc3NOczk0NnZ3cDVsd08wZDdzcDFrNHV3bV81eTJtTnNfSVgzYkFaYzVidE0xWm1veG8yMC1kMXNyZEppWFFMVWlDNk0zTlhtY2h0M19MV1RkUU1jWEVlZkVPLWdvQVFZZDRB?oc=5",
-     "tarih": "2026-10-14T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Mynet",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODNsdWl2MGtCSEZjMERTd3JzOUU5dUVaN0FPRVRqNzZLWUpXOTk3bmhvUXhySngyQzMwajVzZFpDeC1oeDJkYVh2Vm9CXzBQcEkwdGdadGRsRW5BSjd0MkFqNURSMFpVTXBROFQybXlySk5WTTl3LXphalVwbVhZRGVwR1ZXLVZnbVJLTWtQcmhQbm9FamVaXzN2emXSAaIBQVVfeXFMTUxocThrMzZibWtQTnFaMGdBY1FCellHS1JOLUltdnlQd0M4Tk9YVmktaTVwQUlYb2V1U1VZdWk5bHpNZ3pYQlFvNjhrXzJmQUhPVXg3ZWE3OGtkUXo0cUthWWVBSFZpTm5IcWd6RmktdFY3T2UzX0NET2VpVUNydHlGZ3dudVNYaTJUdHhGQXp2MTJfcjljYk9IcVFCSllNSUdB?oc=5",
-     "tarih": "2026-10-14T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Bursada Bugün",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemlDYmdOY0d1ZjlzUFZMVGphRkY2TzY3MkZiMHNWdl9tNmJZdmxjSUxmTUdYSXNSbUtQR2hBMFQ4UzVadk4yNUF6Rlo1R25QdmdhckMwQWJ0cmtHWVg4TXdlR1VZZmdORUZiSDZVOGNfNmt6LU9xdmFrSkw1YXBtdjRtMzJaMGRxaXpsUVNLTWVxYVYtY3VmdzUxcHUwcGVRYmhpbjNVb29lYl82MkVQaldabzlKQ0RHNXVTTXJnMkREYzhzUkNDc9IBywFBVV95cUxPOGttODFDaTk1N3dhWmNFU29maFJrbG9Ma05takZpSUhMRktYTWpFcURqcm1ETWF3c0syY09zODF2SjlfX1Z2UzlHUDIzeDdaZTZWZ1VZOUY0Y21QTHFKWDRjRzgtMjJyazN3N0lMNXpXNmt4TEhDM0JHLWJCaDNGcUcyODF5VVdaTDFrdi1pTGpLbkFIN0ZScDluUGkxdzRzSjVLQ0FRNUl2SFh4WXFYdGJKTEJqOHdKQURnM0FDYjRHZFQ2bW1lSWRtQQ?oc=5",
-     "tarih": "2026-10-14T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Teknoport",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd29LaDZ2X25hVXFvMXFIWERKdWtscnd2SlNGVUxHX2pfSXJVRWxiTkZydnRTdk1MWW1qdU5UbGN1alY5YTB2bTZIdEpPM3Frbi1TLXA3eUU3NHRjOVEweHRvOFlZRTFkN3dFTEg4bUdSb1NuMy1PbXA4TDZYWmdvVFBweWpRamtfVTRyWFRGSFRIUUdFN3ZGVVZLemw0QjJzbXFkOVF0bjY0NlN0b2c?oc=5",
-     "tarih": "2026-10-14T12:15:17+00:00",
-     "guvenilir": false
     },
     {
      "ad": "İlke Kocaeli",
@@ -5218,57 +5332,7 @@
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/10/15/ver1792055445/3919907/jpg/1200x628",
-   "yorum": "IDC’nin Dünya Çapında Üç Aylık Cep Telefonu Takip Raporu, 2026 yılının üçüncü çeyreğinde küresel akıllı telefon satışlarının %22 düşerek 255,3 milyon adede gerilediğini gösterdi. Düşüşün temel nedenleri arasında yapay zeka kaynaklı bellek çipi krizi, parça maliyetlerindeki hızlı artış ve tedarik zinciri aksaklıkları yer alıyor; bellek fiyatları geçen yıldan %350 oranında yükseldi. IDC, 2027 boyunca sınırlı bir büyüme öngörürken toparlanmanın en erken 2028’de gerçekleşebileceğini belirtiyor. Yüksek maliyetli premium telefonlara odaklanan üreticilerin büyümeye devam edeceği, düşük segmentteki Çinli markaların ise zor bir dönemle karşı karşıya olduğu ifade edildi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b1ca8fd31ab7",
-   "baslik": "Uzmanından ekonomi analizi: TCMB 22 Ekim'de 100 baz puanlık faiz indirimine gidebilir",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-14T06:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/uzmanindan-ekonomi-analizi-tcmb-22-ekimde-100-baz-puanlik-faiz-indirimine-gidebilir-haberi-924535",
-     "tarih": "2026-10-14T06:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/14/uzmanindan-ekonomi-analizi-tcmb-22-ekimde-100-baz-puanlik-faiz-indirimine-gidebilir-nou1_cover.jpg",
-   "yorum": "Ekonomi uzmanı, TCMB’nin 22 Ekim’de faiz oranlarını 100 baz puan düşürerek indirim yapabileceğini öngörüyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "1dd987117f0e",
-   "baslik": "TCMB Başkanı Karahan: Fon çıkışları, yerleşiklerin TL varlık tercihini kayda değer ölçüde zayıflatmadı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-14T05:12:40+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/tcmb-baskani-karahan-fon-cikislari-yerlesiklerin-tl-varlik-tercihini-kayda-deger-olcude-zayiflatmadi-3791298",
-     "tarih": "2026-10-14T05:12:40+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-bangkokta-turkiyede-makroekonomik-gorunum-ve-para-politikasi-baslikli-sunum-yapti/4088205",
-     "tarih": "2026-10-14T08:41:10+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/14/ver1791954787/3791298/jpg/1280x720",
-   "yorum": "TCMB Başkanı Fatih Karahan, fon çıkışlarının Türkiye’deki yerleşik yatırımcıların TL varlık tercihine önemli ölçüde zarar vermediğini belirtti.",
+   "yorum": "IDC'nin Dünya Çapında Üç Aylık Cep Telefonu Takip Raporu'na göre 2026 yılının üçüncü çeyreğinde küresel akıllı telefon satışları bir önceki yılın aynı dönemine göre %22 düşerek 255,3 milyon adede geriledi. Düşüşün temel nedenleri arasında çip krizi, artan parça maliyetleri ve tedarik zinciri aksaklıkları yer alıyor. IDC, 2027 boyunca büyümenin sınırlı kalacağını ve toparlanmanın en erken 2028'de başlayabileceğini öngörüyor. Fiyat artışları tüketicilerin yeni telefon alımını ertelemelerine yol açarken, Samsung ve Apple gibi üst segment markalar pazar payını artırırken, Xiaomi, OPPO ve Vivo gibi markalar satış düşüşü yaşıyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
