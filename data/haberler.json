@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-03T12:17:53.334793+00:00",
+ "guncelleme": "2026-11-03T19:46:20.408944+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "d8ffe0e9ffd2",
+   "baslik": "Barclays: TCMB TL'deki değer kaybı hızında 'teknik ayarlama' yaptı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-03T12:14:38+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/barclays-tcmb-tl-deki-deger-kaybi-hizinda-teknik-ayarlama-yapti-3793296",
+     "tarih": "2026-11-03T12:14:38+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/03/ver1793708327/3793296/jpg/1280x720",
+   "yorum": "Barclays ekonomisti Ercan Ergüzel, 3 Kasım tarihli notunda Türkiye Cumhuriyet Merkez Bankası’nın Ekim ayında liranın dolar karşısındaki değer kaybı hızını %1,6’dan %1,8’e yükselttiğini belirtti. Küresel enerji fiyatlarında bir düzeltme olmaması durumunda bankanın bu hızlanmayı yavaşlatmayacağını ifade etti. Daha hızlı değer kaybının dolarizasyon baskısını artırabileceği ve rezervler üzerinde baskı oluşturabileceği görüşünü paylaştı. Ergüzel, cari açık finansman endişeleri artarsa yetkililerin lira mevduatlarına uygulanan stopaj oranını düşürerek dolarizasyonu sınırlamayı düşünebileceğini söyledi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "05837ec95725",
    "baslik": "Gedik Yatırım'dan enflasyon sonrası faiz tahmini: Aralık için 100 baz puan beklentisi",
@@ -1826,6 +1848,30 @@
      "ad": "Ekonomi Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1BlYll2TzhMVHF2Z3B4X3pKdmRYTDE5T215a0tfSG1zcFFYaDAwak5Vc1c4VXNwN2UwRXhIa0d2cmNGeDMxNWFVUkh1Qi1QNGdRZ25RRVVnWnBLbjFteDRvVU9zdXkxQV9INDkzYXE4YmtJRlVSamx1SF9MTmF0UjRsaVRXSXROeGV1MkQ5NU9YQ3NRVjBTeWJ3YXhhT1Vld1hYamRKZy1DVGp2bGo5THZmTWNVRGxRX2JRMzE4aHBhR19H?oc=5",
      "tarih": "2026-10-26T07:41:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Paratic Haber",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzZkdU1yaDR6TWNlbFVqUng0aTFtNkpiTHdCNmxPb0tMQTBVbEFwNnRzT0Q4aEZsMDFBNkx2TXkwNzdCU0dIWlBEbnd4TktoQU1xemVPWGdJWmdJRy00dnh4TzVUcmRaVTY4bnZudGZDaEJ0YnRsbW5DNmlYWk8wNnpn?oc=5",
+     "tarih": "2026-10-23T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc0lXREs0bnRnM2htaF9yWnZTTG9Xam0wc2VRWDRfQ3hTdHZRTXgwcVNOMWxzbGxOaVdnT09tLWl6TXJJQjlRdWs4ZmhpV3J4RE1jaUNoM2dSRlZHdzU4R2piZ0REaElqNDdxQVYwZXBCMkkzdmR6XzF3YXlTTzVPelp4Q0hPXzVaZWU2Qw?oc=5",
+     "tarih": "2026-10-23T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "https://www.damla.nl/",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSzBKUlpfaUpmSFBseXVRSEY0X1cxVzBNc1lGMFNzcF9IVTlXMVh2VC1neUNYV09ZMW84ZnlsRm5ob2kzNTltOFNFTC1OcDEzbFN4RmlpdVBSNkFoejFZOEpfd1prQTVGcW01bzY4NDRKM1RmQVlHdnp5ajRRWDhpbWI5TVllaTI5Q3VTdVFqNFFwS2k4UDdtNmhyUzg0V2F5ZVY4?oc=5",
+     "tarih": "2026-10-23T13:33:17+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Son Saat Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaE5oQ3RfX0Q5N2RqLWZreURsNm5UUTVxaDRYc1RBMmJXc1RCbUFFM05GaE1WcWdiSGZqOXRZaXNBNEdlUHNOTjZMS3BoclZnUk5Cb1lJUFk4bG82NjlKYld6X3FyWWxlNzYxbUpGeXl3Y2JKV1NFQkpWcVdldlBYb0k4RTdVN2FXS2FiUWVIekhPYTNMMnRyZzI3OFVCaVJJb1UwMW04cXJHX0ZZZk1Nc1E2cnR5cllQbWNoa9IBwgFBVV95cUxNcUdRYnYyNU9naWF2ckh1Um10cmNPYkRyQW1fdnRnR1VVSTYwRk9wMDVtQkJQb1RwQVYtbThaVmxPNW81MTVpNy13UVNpdFR2Rkt3dmswLWhWOU5lTmJDSVhPOWt1Qk5kMjdCeUM2Z0p0ZFpGeXJwamRIaWJZenB6NXB1QXZheHJ0eFRNMGE2YkhUdkluelJZSDZDTVhCMjFoNk1KSy1wektMSTZYRUh4cXNJNE1qeGdEVm5EaVU3TF9Jdw?oc=5",
+     "tarih": "2026-10-26T12:30:00+00:00",
      "guvenilir": false
     }
    ],
@@ -4539,6 +4585,70 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "5bbf501517f7",
+   "baslik": "Akıllı telefon pazarında tarihi çöküş",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-10-15T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/akilli-telefon-pazarinda-tarihi-cokus-3919907",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1g0RFBaSTFsLUlLdmJQdmtiRlNpWk5SSVRXd2dvU2lFS1M3eGJ0bU1hYlRXV1ptTllHZjBTOWJURzNGMXJMRlk5bmJLc1REZnhsRmhKUW9QQ081Si1lLXdkQmpCM3JlMUZla08xZzBPT0dneEVmNXRrcmRweVZCMDhieFRkVVBCUlRISFhvYXp2OGxDLTB6WF9OVTl0dlhabG5HU2wtay1rSTJzY3BDRE9uLV92MlV5Q1JDWA?oc=5",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bigpara",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkR6dm1SUTVHT1hOcC1nb3AzM2F1aTFYQTdGS1FoWUJtRWJrVS1raHRGV2pUQXpPUjYzbGtTUlUxamVDWWR0dFRoLUJDUnFqdnA2YkRXU25CUTU5SV9KcjIwdUxOZDJOWm15ampBNWxjUDFTcW1TVVRDaGVfaTZUMndTMVAwQUhwZWdYSk45WTFET2pNYVlyeXBYME80UWpzSzhJclN4OU1COTI1QnB4LUhxOXlzWTljMFlWaA?oc=5",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkVIWVF2dkp0dmk2WmVsdllBRGNOOGJpa2dVSHFaWFZnZ0czNWRSQ192dDNyRm13YnRMNUJwUUl2c25ja2FLN3ROdmpadng0YVVuc203OWVTWjJMc3E0dE1rX1ZRQWZPdDRIS1NZODYyMnBCZTVxbS1yblpmangzVmUtMDVBRkx1TE4wYy1wT0E5cFpyY191MXRyc0lZQ2FLaGl2SzJHR2VVd3RXbEtXSU12MWFuVVc3OVFYRA?oc=5",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Doviz.com",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZE1DTnVqSzVSV0JJSjNVaEhoMG9wQVF0NE1IdC01bTlQNkxlTDZuRS1hckd0bDR5Z1NZNzBUbVpkdXl2a3JzcG5MdlNNYlFtWHNLcS1VVTJudEtqNEstLWcya0Y1bmFJN0VCZTNGWWFIem5USGFxTWlQdFAzZUdKdVluSGc5T0o2U0JLcGlB0gGWAUFVX3lxTE5iOGRvZnVKOFdWaFRINlpKVDR6b1FTS3JXRWNfTUtnbUVEcy0wUE03MkU4UUlLTzRQazV1T0FSTWNjWmw5eDVFM1Z2Y0V1cDBLYjJIaUZFUVhKaUtLZjd6RDRQRWZwOGl5Vzd6V2szWUdrTlZRZUdPNFZCOUk1a0xmN3FTX01hbEhycTdWbVUwTW1wdTFtZw?oc=5",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kütahya Ekspres",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObXU2Y3pZeGVLT1Jnd1N2bHVkVHN3ckEzTHQzLVNQU1dXM2M2Z1pyVVB5QVJHSW9rakJQV3FvOFNseVpPZXhrNWJNVlZHbzNLbWFpRGVJejd2eGx3MkwtRUZDd2FCZHg5ekFLRUg4TGxINmp0amxhUlRlSTdtZkJQYQ?oc=5",
+     "tarih": "2026-10-15T07:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Para Analiz",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHN4M0dfQU9rNWxLWmlJY1pEdmpfaEozUDN4V2JFTnZISGM2Sm9VRzFtV29MTGVxdy13R1dLNFFnWk02TEVNSE9ZRWJsUkcxd1Y4SUFZdlNDTlRzeTR3b1BZVGU5UTQ3TlAxQ1gxQ2ZWYXhJRW5kaHJJYTlmVnU0bTdsZzFYb1FRSzF6dWhTdmczeENHSmx3VVpvclc?oc=5",
+     "tarih": "2026-10-15T09:37:15+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hey Haber",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkxfcGZHNU9wbTVwSDFuNFU4ZVpudUhFbm1tV2JKT1FIRUhvYWZhODlncXI5M054WmxNV2N2MGZHOGZsUGVuaWNmdFowUXV4WjdWUDRncVNMbGhmZ0o1M3QzUTFMWXZUUTRJZmxfcVN3SVBkeU9IOW5xX1V6NnhDa0djVVJ3dnZ3VWU1MHM2OUhtZjM0UE5r?oc=5",
+     "tarih": "2026-10-15T10:00:04+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/10/15/ver1792055445/3919907/jpg/1200x628",
+   "yorum": "IDC’nin Dünya Çapında Üç Aylık Cep Telefonu Takip Raporu, 2026’nın üçüncü çeyreğinde küresel akıllı telefon satışlarının bir önceki yılın aynı dönemine göre %22 düşerek 255,3 milyon adede gerilediğini gösterdi. Düşüşün temel nedenleri arasında yapay zeka kaynaklı çip krizi, artan parça maliyetleri ve tedarik zinciri aksaklıkları yer alıyor. Bellek fiyatları geçen yıldan bu yana yaklaşık %350 artmış ve üreticilerin kâr marjlarını zorlamaya devam ediyor. IDC, 2027 boyunca sınırlı bir büyüme öngörürken toparlanmanın en erken 2028’de gerçekleşebileceğini belirtiyor. Maliyet artışına uyum sağlayabilen üreticilerin pazar payı kazanacağı, tüketicilerin ise yeni telefon almayı erteleyerek mevcut cihazlarını daha uzun süre kullanmayı tercih edeceği vurgulandı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "270a7c0b2e41",
    "baslik": "BDDK Başkanı Kavcıoğlu'ndan fon krizi açıklaması",
    "marka": "Gündem",
@@ -5223,120 +5333,6 @@
    "gundem": false,
    "onem": 2,
    "model": "Google Gemini (gemini-flash-latest)"
-  },
-  {
-   "id": "0342680ff823",
-   "baslik": "Bloomberg'in 'devalüasyon' haberine toplantıya katılan ekonomistten itiraz!",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-14T16:35:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/gundem/bloombergin-devaluasyon-haberine-toplantiya-katilan-ekonomistten-itiraz-haberi-924719",
-     "tarih": "2026-10-14T16:35:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/13/merkez-bankasinin-ekim-ayi-faiz-karari-icin-beklentiler-belli-oldu-ezcl_cover.jpg",
-   "yorum": "Bir ekonomist, Bloomberg'in devalüasyon haberine ilişkin açıklamalara bir toplantıda itiraz etti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "0af9b100d594",
-   "baslik": "Ali Ağaoğlu’ndan faiz mesajı: Merkez Bankası’nın faiz indirimi için yeri var",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-14T15:30:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/ali-agaoglundan-faiz-mesaji-merkez-bankasinin-faiz-indirimi-icin-yeri-var-haberi-924715",
-     "tarih": "2026-10-14T15:30:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/14/ali-agaoglundan-faiz-mesaji-merkez-bankasinin-faiz-indirimi-icin-yeri-var-axpr_cover.jpg",
-   "yorum": "Ali Ağaoğlu, Merkez Bankası’nın faiz oranlarını düşürmesi gerektiğini belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "5bbf501517f7",
-   "baslik": "Akıllı telefon pazarında tarihi çöküş",
-   "marka": "Sektör: cep telefonu",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-10-14T14:45:25+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/akilli-telefon-pazarinda-tarihi-cokus-3919907",
-     "tarih": "2026-10-15T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1g0RFBaSTFsLUlLdmJQdmtiRlNpWk5SSVRXd2dvU2lFS1M3eGJ0bU1hYlRXV1ptTllHZjBTOWJURzNGMXJMRlk5bmJLc1REZnhsRmhKUW9QQ081Si1lLXdkQmpCM3JlMUZla08xZzBPT0dneEVmNXRrcmRweVZCMDhieFRkVVBCUlRISFhvYXp2OGxDLTB6WF9OVTl0dlhabG5HU2wtay1rSTJzY3BDRE9uLV92MlV5Q1JDWA?oc=5",
-     "tarih": "2026-10-15T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "İlke Kocaeli",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDA1UmRsalhHUUplUmdrckJuS3FQcmpJM3pseHpzYXVBeVR0VWJoZ0c1NmJkSGdPZ1BJN1pIS2tJUndSUVRWcUZyTUNMNzBmTVhMNUZqY196OXN0YUZMdWVPaVNycE42V0VwNWRGTVEzNFU1NkNpb0Z5Y2t5MEdIVjc0WE9VZ19GNDY0aEpITzRVYUswejZvRWZTb0ZmeU5O?oc=5",
-     "tarih": "2026-10-14T14:45:25+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Bigpara",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkR6dm1SUTVHT1hOcC1nb3AzM2F1aTFYQTdGS1FoWUJtRWJrVS1raHRGV2pUQXpPUjYzbGtTUlUxamVDWWR0dFRoLUJDUnFqdnA2YkRXU25CUTU5SV9KcjIwdUxOZDJOWm15ampBNWxjUDFTcW1TVVRDaGVfaTZUMndTMVAwQUhwZWdYSk45WTFET2pNYVlyeXBYME80UWpzSzhJclN4OU1COTI1QnB4LUhxOXlzWTljMFlWaA?oc=5",
-     "tarih": "2026-10-15T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Foreks.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkVIWVF2dkp0dmk2WmVsdllBRGNOOGJpa2dVSHFaWFZnZ0czNWRSQ192dDNyRm13YnRMNUJwUUl2c25ja2FLN3ROdmpadng0YVVuc203OWVTWjJMc3E0dE1rX1ZRQWZPdDRIS1NZODYyMnBCZTVxbS1yblpmangzVmUtMDVBRkx1TE4wYy1wT0E5cFpyY191MXRyc0lZQ2FLaGl2SzJHR2VVd3RXbEtXSU12MWFuVVc3OVFYRA?oc=5",
-     "tarih": "2026-10-15T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Doviz.com",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZE1DTnVqSzVSV0JJSjNVaEhoMG9wQVF0NE1IdC01bTlQNkxlTDZuRS1hckd0bDR5Z1NZNzBUbVpkdXl2a3JzcG5MdlNNYlFtWHNLcS1VVTJudEtqNEstLWcya0Y1bmFJN0VCZTNGWWFIem5USGFxTWlQdFAzZUdKdVluSGc5T0o2U0JLcGlB0gGWAUFVX3lxTE5iOGRvZnVKOFdWaFRINlpKVDR6b1FTS3JXRWNfTUtnbUVEcy0wUE03MkU4UUlLTzRQazV1T0FSTWNjWmw5eDVFM1Z2Y0V1cDBLYjJIaUZFUVhKaUtLZjd6RDRQRWZwOGl5Vzd6V2szWUdrTlZRZUdPNFZCOUk1a0xmN3FTX01hbEhycTdWbVUwTW1wdTFtZw?oc=5",
-     "tarih": "2026-10-15T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Kütahya Ekspres",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObXU2Y3pZeGVLT1Jnd1N2bHVkVHN3ckEzTHQzLVNQU1dXM2M2Z1pyVVB5QVJHSW9rakJQV3FvOFNseVpPZXhrNWJNVlZHbzNLbWFpRGVJejd2eGx3MkwtRUZDd2FCZHg5ekFLRUg4TGxINmp0amxhUlRlSTdtZkJQYQ?oc=5",
-     "tarih": "2026-10-15T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Para Analiz",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHN4M0dfQU9rNWxLWmlJY1pEdmpfaEozUDN4V2JFTnZISGM2Sm9VRzFtV29MTGVxdy13R1dLNFFnWk02TEVNSE9ZRWJsUkcxd1Y4SUFZdlNDTlRzeTR3b1BZVGU5UTQ3TlAxQ1gxQ2ZWYXhJRW5kaHJJYTlmVnU0bTdsZzFYb1FRSzF6dWhTdmczeENHSmx3VVpvclc?oc=5",
-     "tarih": "2026-10-15T09:37:15+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Hey Haber",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkxfcGZHNU9wbTVwSDFuNFU4ZVpudUhFbm1tV2JKT1FIRUhvYWZhODlncXI5M054WmxNV2N2MGZHOGZsUGVuaWNmdFowUXV4WjdWUDRncVNMbGhmZ0o1M3QzUTFMWXZUUTRJZmxfcVN3SVBkeU9IOW5xX1V6NnhDa0djVVJ3dnZ3VWU1MHM2OUhtZjM0UE5r?oc=5",
-     "tarih": "2026-10-15T10:00:04+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/15/ver1792055445/3919907/jpg/1200x628",
-   "yorum": "IDC'nin Dünya Çapında Üç Aylık Cep Telefonu Takip Raporu'na göre 2026 yılının üçüncü çeyreğinde küresel akıllı telefon satışları bir önceki yılın aynı dönemine göre %22 düşerek 255,3 milyon adede geriledi. Düşüşün temel nedenleri arasında çip krizi, artan parça maliyetleri ve tedarik zinciri aksaklıkları yer alıyor. IDC, 2027 boyunca büyümenin sınırlı kalacağını ve toparlanmanın en erken 2028'de başlayabileceğini öngörüyor. Fiyat artışları tüketicilerin yeni telefon alımını ertelemelerine yol açarken, Samsung ve Apple gibi üst segment markalar pazar payını artırırken, Xiaomi, OPPO ve Vivo gibi markalar satış düşüşü yaşıyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
 }
