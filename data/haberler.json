@@ -1,7 +1,41 @@
 {
- "guncelleme": "2026-11-04T12:28:41.211692+00:00",
+ "guncelleme": "2026-11-04T19:59:39.193097+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "d2298a04d426",
+   "baslik": "TCMB ekim ayı raporu: Enerji fiyatları enflasyonu yukarı çekti",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-04T15:20:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/tcmb-ekim-ayi-raporu-enerji-fiyatlari-enflasyonu-yukari-cekti-haberi-846442",
+     "tarih": "2026-11-04T15:20:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi/4111816",
+     "tarih": "2026-11-04T16:26:05+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-enflasyonun-ana-egilimi-ekim-de-yataya-yakin-seyretti-3793545",
+     "tarih": "2026-11-04T16:34:37+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/04/tcmb-gocz_cover.jpg",
+   "yorum": "TCMB’nin ekim ayı fiyat gelişmeleri raporuna göre tüketici fiyatları aylık yüzde 2,58, yıllık yüzde 29,77 arttı. Enflasyonun yükselmesinde enerji ve işlenmemiş gıda fiyatları öne çıkarken hizmet enflasyonu yavaşlamaya devam etti. Rapor, enerji fiyatlarındaki artışın genel enflasyonu yukarı çektiğini vurguluyor. Bu makro veriler, tüketici kredileri ve perakende fiyatlaması üzerinde doğrudan etkili olduğu için sektörel kararlar için kritik öneme sahip.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "a8b16843d2ae",
    "baslik": "Teknosa ve Hopi arasında teknoloji alışverişinde işbirliği",
@@ -15,6 +49,30 @@
      "url": "https://www.aa.com.tr/tr/isdunyasi/e-ticaret/teknosa-ve-hopi-arasinda-teknoloji-alisverisinde-isbirligi/705352",
      "tarih": "2026-11-04T11:46:38+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Yeşil Afşin Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGVNZFp5R3FGam9hZW9qcy1wQzVoaU83ZWJTWjRaWXRSaEk2UnZ1ZmJzVFBmTkNaRHp6eWNzZi1QUXR4YzgtTjJCV1h2ZlRVS2lYRVlkR2V3VE5YemhPQ2pQS0FJazVvR2NUbW90aHJvaTR6RFBaM2hXaEtIOGxIMGJhcVZxcEVM?oc=5",
+     "tarih": "2026-11-04T10:54:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTEpNZXItbjV1OTNYTmQ5UkRFamkwNUlrTXl5MlYyZTlBbkVFWGRZQWVsMWpOa3dTQmFDNm5peHg1aDhWdFZRYVUzT1FieHAwTlRBUjJNNU13eG5jWkJLREMyQ25ybjhjeThYcDc0a21FcXZnOE80WThKS0EwU3ZBdmc4WWt5NWhtY3BRRC1HT2I?oc=5",
+     "tarih": "2026-11-04T11:52:37+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Olsun",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lTzR6OUtEaDlzZURYdFRscFF5OTR3Q3pWWlVRcllhR3VPV3FaSXYzbUZRR3gwUExYRzN4U1g4S215MkFGWHAteklhRFdHV0Rmb3plOUR5dURBNXNhYlZGMXJtUkxUNmpK?oc=5",
+     "tarih": "2026-11-04T12:22:50+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Medya Gazete",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFN6enpVLUFpOVlfWEk5Mm4wcm8tVGdxTzI5SVVMMTFFdHZzdlJvZDFORjFhNDFuRE90XzRkeWY1RTFxWTcwTDl6dHhWQlFJUWxseEVsU0ZtSlR1UlpvWTd2QVJtZWlfYUR1aDhGUm91a1VVRk1mQTdZWS1zUHZYOU82LWsyUG0xTjI1emJ1WmhlRzA3aTR3?oc=5",
+     "tarih": "2026-11-04T13:49:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/04/thumbs_b_c_0974c76845d3a14f3aafceb5d63c5f7f.jpg",
@@ -44,6 +102,40 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "911ff8beb043",
+   "baslik": "Arçelik'ten sürdürülebilir yaşam teknolojilerine erişimi kolaylaştıran kampanya",
+   "marka": "Arçelik",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-11-04T11:34:29+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/sirketler/arcelikten-surdurulebilir-yasam-teknolojilerine-erisimi-kolaylastiran-kampanya/705351",
+     "tarih": "2026-11-04T11:36:02+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmxtTmVLTXdkVW5ZSVlXTkdYc19jUGVoMk9QdUFOU3Q3aExGR1RyaUlJN2ZCTGkwTGJBZnNvV0RsWlJGUTZhYzY4RWNmdVc0d3ZtZVA3VW10OXNfUU0yaks2d1BRX2ZtVDVPTm1oVXFrN2FKQTk5VmhHeXhGaW5VMC0zZlk?oc=5",
+     "tarih": "2026-11-04T12:04:51+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "insaatyatirim.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTk1mWjQtRHBHUThmalNKN0tJdmRLVjNYNG85X0oyaW1fbjRVOTlCZDlrSnR4eUkyMHNaaG9IQTZYLTFOSTlWdjJ2RklPd3JPUEpmb2phaFhIUmR4aDJIZ3Y2OVR0N3lnS3V5SnBDM0ZYcV9GRFJSVEUtTHhQM0Q5QUlzMlNkU2Z5QmhtYjI2NXJZNy1LTmloZ2Fyd0dWNlRRZmhOXzZCd2VLRlFDaWtfYk52SVBZb3VnNnFzWQ?oc=5",
+     "tarih": "2026-11-04T11:34:29+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/04/thumbs_b_c_385ec581ce4458d659c96b3606493d1f.jpg",
+   "yorum": "Arçelik, COP31 öncesinde seçili Arçelik ve Beko ürünlerinde yüzde 40’a varan indirim kampanyası başlattı. Kampanya, beyaz eşya, ankastre ürünler, klima ve küçük ev aletlerini kapsıyor. Bazı modellerde yapay zeka destekli teknolojiler sayesinde enerji tüketiminde yüzde 20’ye, su tüketiminde ise yüzde 50’ye varan tasarruf sağlanıyor. Kampanya, Kasım ayı boyunca geçerli olacak ve sürdürülebilir yaşam teknolojilerine erişimi kolaylaştırmayı hedefliyor. İndirimler, enerji verimliliği ve ev bütçelerine katkı sunarak tüketicilerin daha tasarruflu ürünlere yönelmesini amaçlıyor.",
+   "neden": "",
+   "gundem": true,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -4077,56 +4169,6 @@
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792134146/3791574/jpg/1280x720",
    "yorum": "Bloomberg HT, Türkiye Cumhuriyet Merkez Bankası’nın enflasyon beklenti anketinin sonuçlarını paylaştı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "891a37c10248",
-   "baslik": "İş Yatırım/Şekerci açıkladı: Dolar ve faizde yıl sonunda ne bekleniyor?",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-15T16:51:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/is-yatirimsekerciden-yil-sonu-dolar-ve-faiz-tahmini-haberi-924992",
-     "tarih": "2026-10-15T16:51:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/is-yatirimsekerciden-yil-sonu-dolar-ve-faiz-tahmini-2hef_cover.jpg",
-   "yorum": "İş Yatırım ve Şekerci, yıl sonu için dolar kuru ve faiz oranı beklentilerini açıkladı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "d8d60e425ca1",
-   "baslik": "Bloomberg HT'nin Ekim ayı faiz anketi sonuçlandı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-15T13:46:23+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/bloomberg-ht-nin-ekim-ayi-faiz-anketi-sonuclandi-3791499",
-     "tarih": "2026-10-15T13:46:23+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/tcmbnin-ekim-ayi-piyasa-katilimcilari-anketi-yayimlandi/4090688",
-     "tarih": "2026-10-16T08:14:42+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/15/ver1792072062/3791499/jpg/1280x720",
-   "yorum": "Bloomberg HT, 17 kurumun katıldığı bir anketle Türkiye Cumhuriyet Merkez Bankası’nın 22 Ekim toplantısında politika faizini %36 seviyesine indirmesini beklediğini bildirdi.",
    "neden": "",
    "gundem": false,
    "onem": 4,
