@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-03T19:46:20.408944+00:00",
+ "guncelleme": "2026-11-04T00:51:46.502772+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -669,6 +669,12 @@
     {
      "ad": "Yeni Şafak",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVZweVEwMGw0eGQzci1GSWhMMUFqY2Z5VldYdjlCY3pvYnI5QWxZLVBic0RVbERtU3FPcGlLTlIxNWFDQWc1UGc2dnlBUVgyaHg5UUw0XzY5RkN6MXJLck03UnMxVUp2UkFlYS01LXE0NDBNOEs4eVhncFZ6UjVXNUxqSHhKZW9q?oc=5",
+     "tarih": "2026-10-31T01:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bigpara",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbDNrZi1uTEFsUXlCMWs1anVWUmNDZEpiWDBQelFnRDVoTGFMV1k1Sm9aSXlUeFVsUmFiWTNSWEhyVzk3d3BWQzI0VURUa0kxbExYRi10dl9Ra1llUDFEUGZjN1JZOXFuSzE4WVJnRTJ4aHNMQmRQN3VsSFlTZ0xBdEN6ejA5R0JJZUtORUJmdmo4YkJyWEVlVjlZSDBySi1EVTh6T1NlWVlkU2syWFE?oc=5",
      "tarih": "2026-10-31T01:00:00+00:00",
      "guvenilir": false
     }
@@ -5265,74 +5271,6 @@
    "gundem": true,
    "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "7efa6b3419c4",
-   "baslik": "Ürün ve hizmet alımında 12 ay taksit sınırı kaldırıldı!",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-14T21:35:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/12-ay-taksit-siniri-kaldirildi-bakanlik-sure-ve-tutar-siniri-belirleyebilecek-haberi-924747",
-     "tarih": "2026-10-14T21:35:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/15/12-ay-taksit-siniri-kaldirildi-bakanlik-sure-ve-tutar-siniri-belirleyebilecek-eqjh_cover.jpg",
-   "yorum": "Ürün ve hizmet alımlarında uygulanan 12 ay taksit sınırı kaldırıldı.",
-   "neden": "",
-   "gundem": true,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "80fc09795246",
-   "baslik": "Mobilya sektörü İngiltere ihracatını artıracak",
-   "marka": "Sektör: mobilya",
-   "kategori": "mobilya",
-   "oncelik": 3,
-   "tarih": "2026-10-14T21:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya Gazetesi",
-     "url": "https://www.dunya.com/sektorler/mobilya-sektoru-ingiltere-ihracatini-artiracak-haberi-843911",
-     "tarih": "2026-10-14T21:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Gözlem Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQU8zaTBrbURIWlczSWk0LV9OUGNKSU9mTGpEbjA3Nl8wRFB6QlNCcEFjUllRZlJFNmdtTWdCY1NJWnZNdWRZSW5uZnNpVHpReklJMjdFTjJVdTkxOVZVS1V0d3NmSWVRZk85b0MxZEhibWNBSTZSTHNkaDlUM2FyelNqdmc5RHRhMzZrSzVyY29ZRVJLS0Z6dmVYaHJ2VkpoX1VMbnlPbTladVkt?oc=5",
-     "tarih": "2026-10-17T19:14:59+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ingilizlerin-mobilyasi-egeden-43348605",
-     "tarih": "2026-10-20T11:52:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Turkchem.net",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnpidFhFVFgtOHN0Qy1FeWJvT0pqbE9CdXM3aW51R3BZLXdSdmw1QzZqNDJvanZFWTBQV1dZbkMwZk1ZbFh4Z1Z2dVY3YTB6UXhlVVN2azdIRUZRR3pqbTVOWXQwVGpoY2RkQjFuMGI2aXZWdkg2b1lhWHc3a1p4dmk1MGRISXRvYjFpTGV3OUphelo4eE0ycExKNXo3VTlkbjNOX1VsQXpuUQ?oc=5",
-     "tarih": "2026-10-14T07:42:53+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Haber Ekspres",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDM1cmtFTU45ZVo4VW8xNllQNlFhd1dpYmRIRnoxaWp1RVFOODN3MF9rRWVaUUhOLU5TcVN0em1LdDVqWWU5dHlvQmtxMEppcFpHYnN6TUhoNExGT0poLWkyUGlzY2E0RFp6MVZsVzBjZjY4Q3J5ODRvZjAzaG1yN1BfT2tkemlKOUpHS1Y0MUtCRlA0aUNKYVpBZzJwZnBzX2tvbQ?oc=5",
-     "tarih": "2026-10-14T09:24:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/14/mobilya-emqf-cover-0rlo_cover.jpg",
-   "yorum": "Ege Mobilya, Kâğıt ve Orman Ürünleri İhracatçıları Birliği, Türk mobilyasının Birleşik Krallık pazarındaki payını artırmak amacıyla Londra'da ticari heyet programı gerçekleştirdi. 6-10 Ekim tarihlerinde düzenlenen organizasyonda 19 Türk şirketi, 30 İngiliz ithalatçı ve sektör temsilcisiyle bir araya geldi. Türkiye'nin İngiltere'ye mobilya ihracatı 2025 yılında 156 milyon dolar seviyesinde gerçekleşirken, Birlik Başkanı Ali Fuat Gürle bu rakamı 250 milyon dolara çıkarmayı amaçladıklarını bildirdi. Birlik Başkan Yardımcısı Hikmet Güngör ise temasların otel, restoran, ofis ve konut projelerinde yeni iş birliklerine dönüşmesini hedeflediklerini ifade etti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Google Gemini (gemini-flash-latest)"
   }
  ]
 }
