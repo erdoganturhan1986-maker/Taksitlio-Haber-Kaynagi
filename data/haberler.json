@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-05T12:42:32.600274+00:00",
+ "guncelleme": "2026-11-05T20:48:34.478655+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -302,6 +302,18 @@
      "ad": "Medya Gazete",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFN6enpVLUFpOVlfWEk5Mm4wcm8tVGdxTzI5SVVMMTFFdHZzdlJvZDFORjFhNDFuRE90XzRkeWY1RTFxWTcwTDl6dHhWQlFJUWxseEVsU0ZtSlR1UlpvWTd2QVJtZWlfYUR1aDhGUm91a1VVRk1mQTdZWS1zUHZYOU82LWsyUG0xTjI1emJ1WmhlRzA3aTR3?oc=5",
      "tarih": "2026-11-04T13:49:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "N Gazete",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRG5BRi1XdHY3TGlCVmltb1dmUl9qWXJmdjZEVS1hZkt1VGY1Q1RZWlg5SnR1VHZ2NFRkRzJBRk94YW5aMXhrYkJXcWNhaVQ5dFRRZ3JieTNzMjBSY013Vl9PQUJiYzRoNHk3UFR6a2pIempEX0IxeVRhWjB4WGc2OFFZTWJDTW0zcEFTV3JhZkpXNC1OLXcxVXIzazlXSF9LTEVRLXFWX05tZ9IBqgFBVV95cUxPRG5BRi1XdHY3TGlCVmltb1dmUl9qWXJmdjZEVS1hZkt1VGY1Q1RZWlg5SnR1VHZ2NFRkRzJBRk94YW5aMXhrYkJXcWNhaVQ5dFRRZ3JieTNzMjBSY013Vl9PQUJiYzRoNHk3UFR6a2pIempEX0IxeVRhWjB4WGc2OFFZTWJDTW0zcEFTV3JhZkpXNC1OLXcxVXIzazlXSF9LTEVRLXFWX05tZw?oc=5",
+     "tarih": "2026-11-04T11:30:26+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yorumla",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTlidEMzdXdtZWF6ME9MQTV5QlJNZzJleFE0cVFTa01WV1VIUXBXb1RwS1VDVXlqdUhXZV94SjZaTmJEU1E5ekZLbk1KcWtfUTNmRTdRRmhEc0pTODhqT3dKTDhYT3g5dXJxVmltcE1DR1h1S3hhZnQ5clp1NXhXQjYtUGFxOHF5MFMwTjdseFJneFZvMjRyYnhGTzVDbEo3eTJfXw?oc=5",
+     "tarih": "2026-11-05T09:06:47+00:00",
      "guvenilir": false
     }
    ],
@@ -3796,116 +3808,6 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "1081487c3967",
-   "baslik": "Yemeden içmeden kesildik",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-16T18:40:03+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/fondan-kaybettik-haracama-freni-yaptik-3920306",
-     "tarih": "2026-10-16T18:40:03+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792175939/3920306/jpg/1920x1080",
-   "yorum": "Yatırım fonlarındaki likidite sıkıntısı, tüketicilerin harcamalarını kısıtlamasına yol açtı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "f60eea1bdcd9",
-   "baslik": "Tasarruf finansmanında sözleşmeler değişmeyecek",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-16T16:55:08+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/katilimevim-ve-birevim-in-emlak-katilim-a-devrinde-mevcut-sozlesmeler-korunacak-3920305",
-     "tarih": "2026-10-16T16:55:08+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792169459/3920305/jpg/1920x1080",
-   "yorum": "Emlak Katılım, Katılımevim ve Birevim, 30 Eylül'de Rekabet Kurumu'na devir başvurusunda bulundu.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "85e38383121c",
-   "baslik": "Bireysel kredilerde takip alarmı: İhtiyaç kredilerinde oran rekor seviyeye çıktı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-16T13:10:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/bireysel-kredilerde-takip-alarmi-ihtiyac-kredilerinde-oran-rekor-seviyeye-cikti-haberi-925191",
-     "tarih": "2026-10-16T13:10:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/16/bireysel-kredilerde-takip-alarmi-ihtiyac-kredilerinde-oran-rekor-seviyeye-cikti-s6on_cover.jpg",
-   "yorum": "Ekonomim haberine göre, ihtiyaç kredisi faiz oranları rekor seviyelere ulaştı ve bireysel kredi maliyetleri artış gösterdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b45ec5dfc254",
-   "baslik": "Tüketici kredilerinde sert gerileme",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-16T13:04:03+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/tuketici-kredilerinde-sert-gerileme-3791681",
-     "tarih": "2026-10-16T13:04:03+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792155944/3791681/jpg/1280x720",
-   "yorum": "BDDK ve Macrohub verilerine göre, 9 Ekim itibarıyla tüketici kredilerinin yıllık büyüme oranı %14,5’e geriledi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "df2dd8ce8f6f",
-   "baslik": "Fon krizi sonrası ihtiyaç kredilerinde takibe dönüşüm oranı zirve yaptı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-16T12:51:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/fon-krizi-sonrasi-ihtiyac-kredilerinde-takibe-donusum-orani-zirve-yapti-3791680",
-     "tarih": "2026-10-16T12:51:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/16/ver1792155111/3791680/jpg/1280x720",
-   "yorum": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) verilerine göre, 9 Ekim itibarıyla ihtiyaç kredilerinde takibe dönüşüm oranı %6,83'e yükselerek önceki %6,66 seviyesini aştı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
