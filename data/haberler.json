@@ -1,7 +1,57 @@
 {
- "guncelleme": "2026-11-04T19:59:39.193097+00:00",
+ "guncelleme": "2026-11-05T01:02:02.020743+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "be390f03201e",
+   "baslik": "Pazarama’da \"Bi’ Başka Kasım\" kampanyası başlıyor",
+   "marka": "Gündem",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-11-04T20:24:38+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/pazaramada-bi-baska-kasim-kampanyasi-basliyor-3924994",
+     "tarih": "2026-11-04T20:24:38+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/04/ver1793823878/3924994/jpg/1920x1080",
+   "yorum": "Türkiye İş Bankası’nın %100 iştiraki Pazarama, Kasım ayı boyunca “Bi’ Başka Kasım” kampanyasını başlatıyor. Kampanya kapsamında elektronik ve teknoloji ürünleri dahil çeşitli kategorilerde indirimler ve 9 taksite kadar taksit avantajları sunulacak. Anlaşmalı banka kredi kartları, Vodafone Pay ve Pluxee gibi ödeme yöntemleriyle alışveriş yapılabilecek. Ayrıca puan ve mil dönüşüm seçenekleriyle tüketicilerin bütçelerini zorlamadan alışveriş tamamlamaları hedefleniyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "a05e25fcc4c1",
+   "baslik": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-04T16:26:05+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi/4111816",
+     "tarih": "2026-11-04T16:26:05+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-enflasyonun-ana-egilimi-ekim-de-yataya-yakin-seyretti-3793545",
+     "tarih": "2026-11-04T16:34:37+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_ab5497c55994fdccad7a39acd958e16d.jpg",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Ekim ayı fiyat gelişmeleri raporunu yayımladı. Raporda, tüketici enflasyonunun ana eğiliminin ay içinde ve üç aylık ortalamalar bazında yataya yakın seyrettiği belirtildi. Bu durum, son dönemde gözlenen enflasyon gerilemesinin teyit edildiği anlamına geliyor. Rapor, enflasyonun ana eğilimindeki bu yavaşlamanın ekonomik görünümde bir istikrar sinyali verdiğini vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "d2298a04d426",
    "baslik": "TCMB ekim ayı raporu: Enerji fiyatları enflasyonu yukarı çekti",
@@ -156,6 +206,24 @@
      "ad": "Finans Hattı",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTEpNZXItbjV1OTNYTmQ5UkRFamkwNUlrTXl5MlYyZTlBbkVFWGRZQWVsMWpOa3dTQmFDNm5peHg1aDhWdFZRYVUzT1FieHAwTlRBUjJNNU13eG5jWkJLREMyQ25ybjhjeThYcDc0a21FcXZnOE80WThKS0EwU3ZBdmc4WWt5NWhtY3BRRC1HT2I?oc=5",
      "tarih": "2026-11-04T11:52:37+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeklucGpnZUYtVEZDdjdfWk1KOVdXRUNGX29yN0NTNTEwWE01MmxyTXgxazQybFJRZDRfV0NTZ1FZR2F5aWFyaXAtdHVvSGRDUW94SU1lSmtRTE51Wkh4NFIwVUhnOUZqUTZfcGFHVDJCVDBvQUw1YVl0Z1d2NENLWkYySFc4STlvMUVRRXd5amJBTzBBaGFOamMybWhza3BYSGZua0hibldNLTRtT0FB?oc=5",
+     "tarih": "2026-11-04T12:43:57+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haber Olsun",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lTzR6OUtEaDlzZURYdFRscFF5OTR3Q3pWWlVRcllhR3VPV3FaSXYzbUZRR3gwUExYRzN4U1g4S215MkFGWHAteklhRFdHV0Rmb3plOUR5dURBNXNhYlZGMXJtUkxUNmpK?oc=5",
+     "tarih": "2026-11-04T12:22:50+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Medya Gazete",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFN6enpVLUFpOVlfWEk5Mm4wcm8tVGdxTzI5SVVMMTFFdHZzdlJvZDFORjFhNDFuRE90XzRkeWY1RTFxWTcwTDl6dHhWQlFJUWxseEVsU0ZtSlR1UlpvWTd2QVJtZWlfYUR1aDhGUm91a1VVRk1mQTdZWS1zUHZYOU82LWsyUG0xTjI1emJ1WmhlRzA3aTR3?oc=5",
+     "tarih": "2026-11-04T13:49:00+00:00",
      "guvenilir": false
     }
    ],
@@ -2433,6 +2501,34 @@
    ],
    "gorsel": "https://img.paratic.com/dosya/2026/10/arcelik-genel-muduru-kredi-karti-taksitleri-artirilmali.jpg",
    "yorum": "Arçelik Genel Müdürü Can Dinçer, Manisa’da düzenlenen çamaşır makinesi açılış töreninde, iç pazarın canlanması için kredi kartı taksit sayısının artırılması gerektiğini belirtti. Dinçer, özellikle Türk tüketicisinin daha fazla taksit seçeneğiyle alışveriş yapmasının satışları destekleyeceğini vurguladı. Açıklama 23 Ekim 2026 tarihinde yapıldı. Bu görüş, perakende kredi ve taksit uygulamalarının geliştirilmesine yönelik bir öneri olarak kayda geçti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "4ff3f30e9b9f",
+   "baslik": "Perakende ve Kamu, TAMPF Perakende Şurası’nda Bir Araya Geldi",
+   "marka": "Sektör: perakende",
+   "kategori": "ev",
+   "oncelik": 2,
+   "tarih": "2026-10-23T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Mall Report",
+     "url": "https://mallreport.com.tr/perakende-ve-kamu-tampf-perakende-surasinda-bir-araya-geldi/",
+     "tarih": "2026-10-24T06:55:15+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haber Ege",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0Z4YjZ4STBPXzhVa1NWZEs1MGpRYTlLTjVONEkwaFBqQ0xERVpaWFI3RzVUM2lLWnNUVWJTbnlUZ2RnZmd4RS1EU09XRE5VejFfQTFPU1dBMlZjZ0E4V2ZxNXhGNmJ2bGJhYTIxQVZIaDRWVDRDZzZ4RUtJUFhVUlY4Y1p0SVhHcTRpUnYyUG9ZeWVxdEF4bnN6NXJGSDA?oc=5",
+     "tarih": "2026-10-23T07:00:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://mallreport.com.tr/wp-content/uploads/2026/10/1792766065_TAMPF_Perakende_S__uras___2-scaled.jpg",
+   "yorum": "Perakende Şurası, kamu ve sektör temsilcilerinin bir araya geldiği bir platform olarak düzenlendi. Toplantıya 10 bakanlık, 8 kamu kurumu ve organize perakende sektörünün lider kuruluşları katıldı. Görüşmelerde mevzuat, istihdam, yatırım ve sürdürülebilir büyüme konuları ele alındı ve ortak çözümler üretildi. Şura, iki gün süren oturumların ardından Ticaret Bakan Yardımcısı Mahmut Gürcan’ın kapanış konuşmasıyla sona erdi.",
    "neden": "",
    "gundem": false,
    "onem": 3,
