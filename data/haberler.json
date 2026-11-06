@@ -1,7 +1,35 @@
 {
- "guncelleme": "2026-11-06T19:39:44.453646+00:00",
+ "guncelleme": "2026-11-06T23:48:56.484029+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "b855446c17c4",
+   "baslik": "Yataş'ın (YATAS) 3. çeyrek bilançosu beklenti altında kaldı: İşte detaylar!",
+   "marka": "Yataş",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-11-06T18:08:54+00:00",
+   "kaynaklar": [
+    {
+     "ad": "CNBC-e",
+     "url": "https://www.cnbce.com/sirket-bilancolari/yatasin-yatas-3-ceyrek-bilancosu-beklenti-altinda-kaldi-iste-detaylar-h41239",
+     "tarih": "2026-11-06T19:38:19+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Rota Borsa",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1dLWG1rakxORThsbWNLU3dqakxhOGtFbElRZ2lUb0ZFaEVOT0tUM0s3M1JpZUdEbXdSUkEzNWVyaWYwaEpISHoyUk1DWHlva3dfOHpNZDJHYlBrcEpYTjhuMEZKRGFXLTZVcWk3TzNROHNNanZLaDl5WDJtYWR6cnlmYldPMk9IN1E?oc=5",
+     "tarih": "2026-11-06T18:08:54+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/11/06/yatasin-yatas-3-ceyrek-bilancosu-beklenti-altinda-kaldi-iste-detaylar-co7x.png",
+   "yorum": "Yataş Yatak ve Yorgan Sanayi ve Ticaret A.Ş., 2026 yılının üçüncü çeyreğinde 366,272 milyon TL net zarar açıkladı. Analistlerin ortalama 130,8 milyon TL net kâr beklentisi ve medyan beklentisi 133,5 milyon TL iken, şirketin önceki dokuz ayda 240,825 milyon TL net kâr elde ettiği belirtiliyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "bbc59ccd78c9",
    "baslik": "TCMB Başkanı Karahan'dan 'fon' açıklaması",
