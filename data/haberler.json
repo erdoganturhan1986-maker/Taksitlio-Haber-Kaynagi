@@ -1,7 +1,133 @@
 {
- "guncelleme": "2026-11-05T20:48:34.478655+00:00",
+ "guncelleme": "2026-11-06T12:25:22.792567+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "060d79f0d286",
+   "baslik": "Beyaz eşya sektöründen 25 yılda ekonomiye 441,8 milyar dolar etki",
+   "marka": "Sektör: beyaz eşya",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-06T06:57:52+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/beyaz-esya-sektorunden-25-yilda-ekonomiye-441-8-milyar-dolar-etki-3793758",
+     "tarih": "2026-11-06T06:57:52+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/beyaz-esya-sektorunden-25-yilda-ekonomiye-441-8-milyar-dolar-etki-3925362",
+     "tarih": "2026-11-06T08:33:18+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEVtd1lVdWFhUF9GQWNqOWl5dkJ1d2FnZ3RwNUVsXzNCV3RuNmFnSnJYQVlsOXRQTFdrX2JIdW8xdU1kLUc2anU2X09ua1ZTMW1aMUtHZldqM0ZkcFdFdHp6aWh2cFgzY1VSM19QLWVqR2VMMEprVlFPSUQybE56SnZQYjF6UDFZcjdWRmxiNFFrNkhweUtIOVplYUR1aU43c2RIT1d2RDlCUGtNNVc3RXVzTDJwSy1ocWJmZTRQVGU2ZWc3VXpKZHVNdWlGTWFuN3NYaTFyLU9zVE96UU50Ykh0NFhYdGxsQ3lXXzR4UHQ?oc=5",
+     "tarih": "2026-11-06T07:03:43+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "gazetegundem.tr",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelVGekp1b1l5WHNyWHZmVEh0T0l1bmZVcjQtakVlcFNYaWVoWExwSmR2QktrZVh5U0dxQXVKUE8yU00zUTFVQmRDTFh5VG1hekdZdF9ReWRqdDdobGVxUFZQbDk1VjM0QUVrTjRpRFVsbnk1WlBNYTlkckVuT2YzTWs1WDNoUTlhRTZQQ2Nyb2RSTHBKU0hnUGJfbEFtVXQ1c1lCMnVvSlVWdkZSakHSAa4BQVVfeXFMUGhSbDNueU5NNXpETzU0YVJ4MUpkc1hPamRrNEtfX0FBSW4wTkJrZTVIbE5jVXBUMnVoVGc1Q294VEFuVy1iZ25Lb3ZZb1pTVzk3QWdGaTFtT2M5VnpoTzRRR0FXdEtWOXBhN1ByVjctaTcxVC1aUDU2RHBJVXRhZkptVk9fR0MtUy0waWVYUzhOYXI1NzRUb1hPeTVHbDdTVHd6c2liS2RhdldNMnZR?oc=5",
+     "tarih": "2026-11-06T11:02:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "yeniufuk.com.tr",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXY3OUZXVVVDVGFpMmdtOW1QTjVUM3ZlMnQ4Um5pVW90ZHRvOUF0ZVBQZE1aZjZpYUN3SkRMNGhOcGE4Y3lJX0tRRHpxTXJ5bUo3QXhFOVZTeW1ySERWc3JMVEQ4TDUzWGRZMUEyaG1sOXdfeUExbEVqTjJBUERCUi1TNGZXMU5HUHhjNUotQVluMGRZVWVYVHhxQVJnQlQ3NjR1a0NWU3VtV1lJOExNVWhRTnNtS0Z2?oc=5",
+     "tarih": "2026-11-06T11:04:44+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDYtV05OX0tCZTdfTEI2SlYzNVJFVk5vbmI3X3dVMDg1WFdvdzRlVXpxOXpzVGRyNWNhaHk2R0hyWVhIRWxzX2E4UnpKbzhsNE9tb0dqZ21EaXotbGc4dGJNSk1Cd1hyT25rRmxhVW9ueTgxRzZCSENqXy1CYWo5aERJbUV3bjJmY1kySWdCN09BeE5GV3lMYS0ySXFxVkpvNHk2VjRoZVZqUlplRVgtSUFB?oc=5",
+     "tarih": "2026-11-06T11:13:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Alparslan Diyarı",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUJlTzBsMTVfcC1RdzVvUW1IRTF1Q0o5TC1DRmNYVW5YQ20xVlM4VTVRWHlmTTVpYk9YZElyUzBXUkEtM0t4N3BqdkthS1NCb1pJTmJuWVdZOVV0YlFlVzlOcDFHOFhDSUgwR0Q1MW95YXBlSGxhTzBUOU1vVFc3QmUzR190cy1VQ3lQaHlPVkptb1oyVlFrNWN0V3dpMDJiVHlDUTNjZzh2ajNKUUlxd1RyMnJ4dw?oc=5",
+     "tarih": "2026-11-06T11:20:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "CNBC-e",
+     "url": "https://www.cnbce.com/haberler/turkiye-beyaz-esyada-dunya-devlerini-geride-birakti-avrupada-birinci-dunyada-ikinci-h41171",
+     "tarih": "2026-11-06T07:27:36+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0hPdGN2R2ZKdU8weFZBUGlWcnU0VVdyNzd3M0VsSHdiTTBCVU50UTZyelZFNXlSVDhMSHNBc0JmMlphbzJHVmNjU2NuN0NQVkNfT2RPX2RUdWlkRFR1R2lSeGJCZVJSVm9QbGlWVjBEVlJiOHdJUy1kcTBoZHhya0ZDRVR5V3FqRHc?oc=5",
+     "tarih": "2026-11-06T07:37:38+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "TRHaber",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmVuX1gtMTg3U2RjaG9kUEkxeFE2SjhLTjM5eWMtcGFjclJkSVBKQ0U3ZUFZQTBVWGFKUWdtT003RnFXcl9IMFVKWHEwRFlfT2piT3hWeFZWVC0zdHRacXNBY1FsMmFVY3QxZklMc2hJQnBuXzl5NFV4RHNvVm5WV041Q3JFR3YwcHV6UnZIQ1BCbTRvbnpsMUljc2ludDU4d0xPRXFxNW8zdw?oc=5",
+     "tarih": "2026-11-06T07:40:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/06/ver1793948312/3793758/jpg/1280x720",
+   "yorum": "Türkiye Beyaz Eşya Sanayicileri Derneği (TÜRKBESD) 40. yılı kapsamında hazırladığı raporda, 2000‑2025 dönemi boyunca sektörün ekonomiye 441,8 milyar dolar katkı sağladığı ve net dış ticaret fazlasının 63 milyar dolar olduğu belirtildi. Üretim 1986’da 1,2 milyon adetten 29,1 milyon adede yükselmiş, bu da Türkiye’yi küresel beyaz eşya üretiminde %7 payla, Avrupa’nın en büyük ve dünyanın ikinci büyük üretim merkezi konumuna getirmiş. Toplam yatırım etkisi 156 milyar dolar olarak hesaplanmış; bunun 115,6 milyar doları bağlantılı sektörlerde gerçekleşmiş. İstihdam açısından doğrudan 141 bin kişi, tedarik zinciri ve hizmetlerle birlikte 633 bin kişiye ulaşmış. Rapor, rekabet gücünün korunması için maliyet düşürme, Gümrük Birliği güncellemesi ve teknoloji yatırımlarının desteklenmesi gibi önlemler öneriyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "92320f322ad4",
+   "baslik": "TCMB yılın son Enflasyon Raporu'nu 12 Kasım'da sunacak",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-06T06:27:18+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-yilin-son-enflasyon-raporunu-12-kasimda-sunacak-3793745",
+     "tarih": "2026-11-06T06:27:18+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/06/ver1793946932/3793745/jpg/1280x720",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, yılın dördüncü ve son Enflasyon Raporu'nu 12 Kasım 2026 Perşembe günü saat 10:30'da İstanbul Finans Merkezi Yerleşkesi'nde sunacağını duyurdu.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "3f5a76a98108",
+   "baslik": "BDDK, Golden Global Yatırım Bankası'nın faaliyet iznini kaldırdı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-05T21:05:33+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/bddk-golden-global-yatirim-bankasi-nin-faaliyet-iznini-kaldirdi-3793715",
+     "tarih": "2026-11-05T21:05:33+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/bddk-golden-global-yatirim-bankasi-nin-faaliyet-iznini-kaldirdi-3925269",
+     "tarih": "2026-11-05T21:34:55+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/06/ver1793912881/3793715/jpg/1280x720",
+   "yorum": "Bankacılık Düzenleme ve Denetleme Kurulu (BDDK), Golden Global Yatırım Bankası A.Ş.'nin faaliyet izninin kaldırılmasına karar verdi. Karar, 4 Kasım 2026 tarihli BDDK toplantısında alındı ve Resmi Gazete'de 6 Kasım 2026'da yayımlandı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "11097cfd467a",
    "baslik": "BDDK verileri açıklandı: Kredi kartı borçları 3,5 trilyon liraya dayandı",
@@ -43,6 +169,24 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGFad0NKNEEzSHpyVTBPQk52czBrcnBZOVdZR3RQcE04bnlCc1llcEdnQUtHZmZ5YnZfSkg0eHNrbWFZR2Z0LUlJUGFTLUFoS0NDUU5DTGRmMW45UTM2d054bHJrSExnTThhbHJtMTBFMXJyTlF3clNUWUY3bGktSGQ4T0pYTzVqdkJIN1FDM2tTRk9odDJMYTd0Rk5TQW5nZUgxMkxEOWdKd2hVckIxNTZYMVNvbW5STlVKanhHbkVwOGxWdnBLQmg3OUVSd9IBzgFBVV95cUxOcGFad0NKNEEzSHpyVTBPQk52czBrcnBZOVdZR3RQcE04bnlCc1llcEdnQUtHZmZ5YnZfSkg0eHNrbWFZR2Z0LUlJUGFTLUFoS0NDUU5DTGRmMW45UTM2d054bHJrSExnTThhbHJtMTBFMXJyTlF3clNUWUY3bGktSGQ4T0pYTzVqdkJIN1FDM2tTRk9odDJMYTd0Rk5TQW5nZUgxMkxEOWdKd2hVckIxNTZYMVNvbW5STlVKanhHbkVwOGxWdnBLQmg3OUVSdw?oc=5",
      "tarih": "2026-11-05T08:09:48+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Teknoloji haberleri - LOG",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFJBRlR2Vk9UZlFOSHdfSzZUYzV1aUJLM2VJeUR5bmJ0Y3k4NWc3Mi1TOEhoS2M1b0RiTmFHbVFDUU5MZ3FUZGlrdEdVaEtuTEdKZFhaaE8tRmdwV1BycWNtc0lFUUt6Um1YSGdxcGRCcmtDZmxTS3lmbU9xMVRPcWVLMnYyamlPeXFoaWNfMUdHNkpDeEFYX3lfakZmdFBiQzFVbW5OaE9YNGlvR1RLQmRqUDYyaTdQVlIzb2xn?oc=5",
+     "tarih": "2026-11-05T07:22:08+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İşçi Haber",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblZNVmxTNnl2dmVnRU5Qa2F4bXdORTNTMURhdW5rYTFqcXpmY1VYR1B3elR6dG1PMGkyY3otb3dmcnNMMU1EVVd1cnFLQ290eE56Y09BMHR3cHU3RTFwTW92eFdzYTlTbjVrd1lYVkhOVXh3SzE0OWw4MkdRR2RzWmU1VUxQdmRudlJjLUJFS2UwVk1WdERJenFLYWNPdzNkdXc2c0RySHF5VXdqOXVIbmdRUC1fOFYyRnZudkxCbw?oc=5",
+     "tarih": "2026-11-05T09:09:57+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "PC Hocası",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2xjdHN4bXVISWM2WHRoQ2RQcDBsMG5ERmFqQVI1T3RhRjdkMFJELWpZQVd6WTBaSEg4RTRabVN5VTVzLVNsN0RBZzI2ZVVwMUV5ZV9kWnEybE1Wa2lSb0NXem5FSFZXWTRfUnJ0cGFpOEtxY19qeVlDMlZqWTllUnVxYU5wMWtyTDNVZGI0YjQzVWlfV2xQNUF1V1VoeGpxc2ZPQ0tUcnJ5c2JB?oc=5",
+     "tarih": "2026-11-05T10:53:30+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -342,6 +486,24 @@
      "ad": "insaatyatirim.com",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTk1mWjQtRHBHUThmalNKN0tJdmRLVjNYNG85X0oyaW1fbjRVOTlCZDlrSnR4eUkyMHNaaG9IQTZYLTFOSTlWdjJ2RklPd3JPUEpmb2phaFhIUmR4aDJIZ3Y2OVR0N3lnS3V5SnBDM0ZYcV9GRFJSVEUtTHhQM0Q5QUlzMlNkU2Z5QmhtYjI2NXJZNy1LTmloZ2Fyd0dWNlRRZmhOXzZCd2VLRlFDaWtfYk52SVBZb3VnNnFzWQ?oc=5",
      "tarih": "2026-11-04T10:14:36+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İndigo Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkRRanVkQVM4V1dFc0hSTTc0cmNtTUJrVUNwMkNCdHFtVm1UaUVPX3dIQjdPMkZmQUx2Ry01NWNublQzMnBHd1ZneHhlaVlEd0MzVHduUk5sLTFiRWptMVFWRnhYRkdXZy1od2c0YWlaWlNNZS14Rl9zZlR1NWRzVHlHaEg?oc=5",
+     "tarih": "2026-11-04T03:30:10+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Enerji Ekonomisi",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVRjNEZPOThYbDlxbFNYMDhIM0Y1U1g3dkVCb3l4ZGdyYUFTdzBmZWN4cllXV0RzNWZYd2ZLbjVacjY5VXY1S0RicnpXYUhzT1NkN3Y2YUNEWWR3aXdPdEFYanE4X01VNThucFBTc1ZOazVpNE5vSTRtbHlqSXpEQ1ZOSVZkYXZHcGJFeDMyckI4YzFYcEhwY0JhcENZQ0FoWUE?oc=5",
+     "tarih": "2026-11-05T06:10:12+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Mebpersonel.Com",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFhFaWR1VFktbkpiSkg0aFMtN2Y3d1pvb0l2RFJhWlR3MUJXWmlsX0NnZ1NPb1VaazkzX2JnZ1BCdzlvLTJlNUVaSzl5aUM5ZTFzcU1BX09DVDJpUm1aZHg5VVZzUktWRnozcHAtcTRkMHV3UjhJSVNjTm01S0FNRWtjSUk1d3BfRUZlRlZjenRNWmwtaTdlQXhHOEp6M2pZc0lsQnZtcDBYXy1uYmxMN29xSVpLSWdLWHc?oc=5",
+     "tarih": "2026-11-06T05:33:37+00:00",
      "guvenilir": false
     }
    ],
@@ -3786,28 +3948,6 @@
    "neden": "",
    "gundem": true,
    "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "6220b6e7170c",
-   "baslik": "Kredi kartıyla yemeğe fren yaptık",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-17T09:37:23+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/kredi-kartiyla-yemege-fren-yaptik-3920306",
-     "tarih": "2026-10-17T09:37:23+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/16/ver1792229387/3920306/jpg/1920x1080",
-   "yorum": "Son dönemde kredi kartı harcamalarında belirgin bir düşüş yaşandığı bildirildi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
