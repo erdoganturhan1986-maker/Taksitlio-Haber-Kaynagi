@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-07T16:58:49.980194+00:00",
+ "guncelleme": "2026-11-07T21:03:57.013999+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -744,6 +744,12 @@
      "ad": "Notbir",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWhGOWZ4R0NSaFplYVZTbGczUkkwbS13dlRrN0Vtcno1eE1xaFllSmFDYl9sb2s2MnNYQzVzenhLTHBNUFNfQmJXUFVMaHdtX3Q4V3VYU0xzcDhTN1JueTFEY0hsMXRIblBPTVZ4UXZBbmRhOUc1YklXRVNWQUlFOFRIMFB1UTFnellsdmFmUQ?oc=5",
      "tarih": "2026-11-07T09:22:55+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Herbir Emlak",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0gtY1pIbndndDducWFHd3lyY1ZCWjZYY2toR3BGMnRrRG85azJQdTd6WXJzUjhyc0tIWERGWmp0Z2FfeV9HQTkzc3FISlJIREZRYzhpWmJIYnNTNXhWUjBYbk9iV19VeHItYzBseWJHZXlQX1hMSlZMS09FNFM0NVZjOTk4Y2pId1Y0NVJLVXUxbGFka1ZMV3BGX3lUeUNIblNnNHUyOA?oc=5",
+     "tarih": "2026-11-06T23:32:35+00:00",
      "guvenilir": false
     }
    ],
@@ -4566,28 +4572,6 @@
    "neden": "",
    "gundem": false,
    "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "1cad7b538685",
-   "baslik": "Küresel elektronik üretiminde dengeler değişti! Türkiye'nin küresel payı belli oldu",
-   "marka": "Gündem",
-   "kategori": "elektronik",
-   "oncelik": 2,
-   "tarih": "2026-10-18T17:06:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/foto-galeri/teknoloji/kuresel-elektronik-uretiminde-dengeler-degisti-turkiyenin-kuresel-payi-belli-oldu-galeri-925471",
-     "tarih": "2026-10-18T17:06:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/18/kuresel-elektronik-uretiminde-dengeler-degisti-turkiyenin-kuresel-payi-belli-oldu-fcgx_cover.jpg",
-   "yorum": "Ekonomim haberine göre, küresel elektronik üretiminde dengeler değişmiş ve Türkiye'nin bu alandaki payı ortaya konulmuş.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
