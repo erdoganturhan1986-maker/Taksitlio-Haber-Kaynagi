@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-07T11:17:07.482732+00:00",
+ "guncelleme": "2026-11-07T16:58:49.980194+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "c241d6c48b53",
+   "baslik": "Türkiye'de online alışverişte dikkat çeken sonuç, tüketicinin yüzde 69'u bunu yapmıyor",
+   "marka": "Gündem",
+   "kategori": "ev",
+   "oncelik": 2,
+   "tarih": "2026-11-07T14:56:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/turkiyede-online-alisveriste-dikkat-ceken-sonuc-tuketicinin-yuzde-69u-bunu-yapmiyor-haberi-929830",
+     "tarih": "2026-11-07T14:56:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/07/turkiyede-online-alisveriste-dikkat-ceken-sonuc-tuketicinin-yuzde-69u-bunu-yapmiyor-8mqm_cover.jpg",
+   "yorum": "Ekonomim'in araştırmasına göre, 2025'te Türkiye'de e‑ticaret hacmi %52,2 artarak 4,57 trilyon TL'yi aşacak. Ancak tüketicilerin %69'u, aynı ürün %10 daha ucuz olsa bile tanımadıkları bir platformdan alışveriş yapmayı tercih etmiyor. Bu durum, fiyat avantajı yerine güven unsurunun ön planda olduğunu gösteriyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "4c7f9d26a795",
    "baslik": "JYSK 2027 yılında 12 yeni mağaza ile henüz bulunmadığı şehirlere girecek",
@@ -258,6 +280,12 @@
      "ad": "SteelRadar",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjNNM25CTktDQm1iSmtNdHo1em5nNWxxNXl1U1VZd1VjV25tUFdOc25HUXpTZjBpWHJURnAxb0J4ZzZFQXpnY2FTay0zSTlHMGYybkJmcXkyX0RmblhKc3p2QkRadVlpb3RkT1QzVVMtOFhQNHp4Qk0xellQZnZyakxtSVYySWU5VXFqZXJPV3hHcVdOLVN2LV9nTzdRMkh0VVVfODRCc0FBbHMt?oc=5",
      "tarih": "2026-11-06T14:00:47+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hey Haber",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa19xak1JbVJKT2p1dkhEY2doaV92bE0zOV9acFYzWmdsZm1fa2tGS3FsY3Rid05FNzJpYkZqc3QwTWRjemp3RFZSRTJTamtKeWpnN3lZSWdkWndpVWpXYkhCQWRhUkJrMlh2QlQ1cXRIa0s5WU5rcGNtVmpTUTBLSVVZdlVmZS03cHc3NzRaQ3ZqNW1OUFZtUw?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
      "guvenilir": false
     }
    ],
@@ -954,6 +982,12 @@
      "ad": "Medya Gazete",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFN6enpVLUFpOVlfWEk5Mm4wcm8tVGdxTzI5SVVMMTFFdHZzdlJvZDFORjFhNDFuRE90XzRkeWY1RTFxWTcwTDl6dHhWQlFJUWxseEVsU0ZtSlR1UlpvWTd2QVJtZWlfYUR1aDhGUm91a1VVRk1mQTdZWS1zUHZYOU82LWsyUG0xTjI1emJ1WmhlRzA3aTR3?oc=5",
      "tarih": "2026-11-04T13:49:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomist",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQanNrWkl5SENlTjRaNFktQThpZFdvcnBEQWI5VW1XNVBYZ1lSTm11Qko3X2dxcDZCU0p5TUNENjZvWXZFYmdoVmp3TWlDMWdPRm5sOHFHbWFITi1iNG5DcXRGU3d3QjdpN0FialBDSXdaSW1Ia3kwZU1BejNqajA4eg?oc=5",
+     "tarih": "2026-11-05T08:58:36+00:00",
      "guvenilir": false
     }
    ],
