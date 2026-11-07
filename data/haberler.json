@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-06T23:48:56.484029+00:00",
+ "guncelleme": "2026-11-07T11:17:07.482732+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "4c7f9d26a795",
+   "baslik": "JYSK 2027 yılında 12 yeni mağaza ile henüz bulunmadığı şehirlere girecek",
+   "marka": "Gündem",
+   "kategori": "mobilya",
+   "oncelik": 2,
+   "tarih": "2026-11-07T10:07:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sirketler/jysk-2027-yilinda-12-yeni-magaza-ile-henuz-bulunmadigi-sehirlere-girecek-haberi-929788",
+     "tarih": "2026-11-07T10:07:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/07/jysk-2027-yilinda-12-yeni-magaza-ile-henuz-bulunmadigi-sehirlere-girecek-87fg_cover.gif",
+   "yorum": "Danimarka merkezli perakende zinciri JYSK, Türkiye’deki mağaza sayısını artırıyor. Mall of İstanbul’da açılan yeni mağaza, şirketin ülkedeki 18. mağazası ve İstanbul’daki dokuzuncu şubesini oluşturuyor. Ülke Direktörü Fatih Tezcan, 2027 yılına kadar 12 yeni mağaza açarak henüz bulunmadığı şehir ve bölgelere ulaşmayı hedeflediklerini belirtti. Bu strateji, JYSK’in Türkiye pazarındaki varlığını güçlendirmeyi ve daha fazla tüketiciye ulaşmayı amaçlıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "b855446c17c4",
    "baslik": "Yataş'ın (YATAS) 3. çeyrek bilançosu beklenti altında kaldı: İşte detaylar!",
@@ -20,6 +42,12 @@
      "ad": "Rota Borsa",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1dLWG1rakxORThsbWNLU3dqakxhOGtFbElRZ2lUb0ZFaEVOT0tUM0s3M1JpZUdEbXdSUkEzNWVyaWYwaEpISHoyUk1DWHlva3dfOHpNZDJHYlBrcEpYTjhuMEZKRGFXLTZVcWk3TzNROHNNanZLaDl5WDJtYWR6cnlmYldPMk9IN1E?oc=5",
      "tarih": "2026-11-06T18:08:54+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "YatırımX",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1V3el90dEQ5WldjZ1laaXVFeWhjSUo0ZDMya2d4NnpCNUpKT18ydS1YOU5WVkxnUUd0aTlobTV2dklTWHAtNEoweVY5anB5aHhkLVFNTjVTYUc3d3RZSTgtaWEwd0ZqTTZPcEN0cjN1LThGMFFXTW02RXRFRE83M216bmtOR2JkbnZLTU80Y0c0cWo5cEtjMFNmT3JQUmNBR0lQZS1BODlZWE5KQW9uTl9UWXVjeE1F?oc=5",
+     "tarih": "2026-11-07T06:34:52+00:00",
      "guvenilir": false
     }
    ],
@@ -156,6 +184,88 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "28205bfdf2f4",
+   "baslik": "25 yılda ekonomiye 441,8 milyar dolar etki",
+   "marka": "Sektör: beyaz eşya",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-06T07:03:43+00:00",
+   "kaynaklar": [
+    {
+     "ad": "CNBC-e",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN2FJQlYxTTdfRUV5bkQ5YXlMQU1fUll0WkdVRVQ5RkpFUmZwYXMycnlFM01DRXczdzVJS01sTU1xcm5nbVdMSTR5RXYtRTJ6V2x0eFhGcXBfV0RITGVfNkxPZnpPdWpKMlRHbVRaelVkOGdfWWExU0dGTWd1RmdoSE5lS2x5d0pWQWJDaFh5RnBsR3RteEhGN3RUQ1R2M1p4SU1hNXBSeEJRRnQ2WkdFYkVpVGVXc0RSQWlvRkhn?oc=5",
+     "tarih": "2026-11-06T07:27:36+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/beyaz-esya-sektorunden-25-yilda-ekonomiye-441-8-milyar-dolar-etki-3925362",
+     "tarih": "2026-11-06T08:33:18+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEVtd1lVdWFhUF9GQWNqOWl5dkJ1d2FnZ3RwNUVsXzNCV3RuNmFnSnJYQVlsOXRQTFdrX2JIdW8xdU1kLUc2anU2X09ua1ZTMW1aMUtHZldqM0ZkcFdFdHp6aWh2cFgzY1VSM19QLWVqR2VMMEprVlFPSUQybE56SnZQYjF6UDFZcjdWRmxiNFFrNkhweUtIOVplYUR1aU43c2RIT1d2RDlCUGtNNVc3RXVzTDJwSy1ocWJmZTRQVGU2ZWc3VXpKZHVNdWlGTWFuN3NYaTFyLU9zVE96UU50Ykh0NFhYdGxsQ3lXXzR4UHQ?oc=5",
+     "tarih": "2026-11-06T07:03:43+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0hPdGN2R2ZKdU8weFZBUGlWcnU0VVdyNzd3M0VsSHdiTTBCVU50UTZyelZFNXlSVDhMSHNBc0JmMlphbzJHVmNjU2NuN0NQVkNfT2RPX2RUdWlkRFR1R2lSeGJCZVJSVm9QbGlWVjBEVlJiOHdJUy1kcTBoZHhya0ZDRVR5V3FqRHc?oc=5",
+     "tarih": "2026-11-06T07:37:38+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "TRHaber",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmVuX1gtMTg3U2RjaG9kUEkxeFE2SjhLTjM5eWMtcGFjclJkSVBKQ0U3ZUFZQTBVWGFKUWdtT003RnFXcl9IMFVKWHEwRFlfT2piT3hWeFZWVC0zdHRacXNBY1FsMmFVY3QxZklMc2hJQnBuXzl5NFV4RHNvVm5WV041Q3JFR3YwcHV6UnZIQ1BCbTRvbnpsMUljc2ludDU4d0xPRXFxNW8zdw?oc=5",
+     "tarih": "2026-11-06T07:40:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "gazetegundem.tr",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFpRQlNGaFA0T0xFMW1MODU5OFowdVBGN0RCRV84YTVOQTVFSGNCMEUxNi0xT2hueDhGUzhIZHZPWE1lSDlBYzVRTEFvbXIwTTBKbmg1ZktNa2labzJ5cURKMzNFbkVSZ0pKSzVtR29zQURJNHdFYXBsOWEwTHQ0QmRoeTVnY0ZWOUxpaFdPTFpsMS1PQV9WWWxJYkx1X0dpemRpUW5SUmnSAa4BQVVfeXFMUGhSbDNueU5NNXpETzU0YVJ4MUpkc1hPamRrNEtfX0FBSW4wTkJrZTVIbE5jVXBUMnVoVGc1Q294VEFuVy1iZ25Lb3ZZb1pTVzk3QWdGaTFtT2M5VnpoTzRRR0FXdEtWOXBhN1ByVjctaTcxVC1aUDU2RHBJVXRhZkptVk9fR0MtUy0waWVYUzhOYXI1NzRUb1hPeTVHbDdTVHd6c2liS2RhdldNMnZR?oc=5",
+     "tarih": "2026-11-06T11:02:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "yeniufuk.com.tr",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXY3OUZXVVVDVGFpMmdtOW1QTjVUM3ZlMnQ4Um5pVW90ZHRvOUF0ZVBQZE1aZjZpYUN3SkRMNGhOcGE4Y3lJX0tRRHpxTXJ5bUo3QXhFOVZTeW1ySERWc3JMVEQ4TDUzWGRZMUEyaG1sOXdfeUExbEVqTjJBUERCUi1TNGZXMU5HUHhjNUotQVluMGRZVWVYVHhxQVJnQlQ3NjR1a0NWU3VtV1lJOExNVWhRTnNtS0Z2?oc=5",
+     "tarih": "2026-11-06T11:04:44+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDYtV05OX0tCZTdfTEI2SlYzNVJFVk5vbmI3X3dVMDg1WFdvdzRlVXpxOXpzVGRyNWNhaHk2R0hyWVhIRWxzX2E4UnpKbzhsNE9tb0dqZ21EaXotbGc4dGJNSk1Cd1hyT25rRmxhVW9ueTgxRzZCSENqXy1CYWo5aERJbUV3bjJmY1kySWdCN09BeE5GV3lMYS0ySXFxVkpvNHk2VjRoZVZqUlplRVgtSUFB?oc=5",
+     "tarih": "2026-11-06T11:13:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Alparslan Diyarı",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUJlTzBsMTVfcC1RdzVvUW1IRTF1Q0o5TC1DRmNYVW5YQ20xVlM4VTVRWHlmTTVpYk9YZElyUzBXUkEtM0t4N3BqdkthS1NCb1pJTmJuWVdZOVV0YlFlVzlOcDFHOFhDSUgwR0Q1MW95YXBlSGxhTzBUOU1vVFc3QmUzR190cy1VQ3lQaHlPVkptb1oyVlFrNWN0V3dpMDJiVHlDUTNjZzh2ajNKUUlxd1RyMnJ4dw?oc=5",
+     "tarih": "2026-11-06T11:20:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kanal 46",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjRvVnEyYzBQRnVmWFYzcWNjMG1BdlhGMElNNUpLWXdkUGdCZ2VFdHIybUlvVDNaTE9TLU14bU02RHpmeU80VTM5TTdLQmVCN2hEYzNuM0NtX1ktUTVEcU93Y2pKTFJRVGNodnFSQW1jdWxsVl9QQmZMamZWZnFNR0pMa3ByU3NpRFNsLTF3UC1xVlhWYUVucExsR3RKM1BudVIxQTJwUkk?oc=5",
+     "tarih": "2026-11-06T12:45:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "SteelRadar",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjNNM25CTktDQm1iSmtNdHo1em5nNWxxNXl1U1VZd1VjV25tUFdOc25HUXpTZjBpWHJURnAxb0J4ZzZFQXpnY2FTay0zSTlHMGYybkJmcXkyX0RmblhKc3p2QkRadVlpb3RkT1QzVVMtOFhQNHp4Qk0xellQZnZyakxtSVYySWU5VXFqZXJPV3hHcVdOLVN2LV9nTzdRMkh0VVVfODRCc0FBbHMt?oc=5",
+     "tarih": "2026-11-06T14:00:47+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793953998/3925362/jpg/1920x1080",
+   "yorum": "Türkiye Beyaz Eşya Sanayicileri Derneği, 40. yıl dönümünde sektörün 1986‑2025 dönemini kapsayan Etki Analizi Raporu’nu yayımladı. Rapora göre, beyaz eşya üretimi 1986’da 1,2 milyon adetten 2025’de 29,1 milyon adede yükselmiş ve 2021’de 34,1 milyon adetle tarihsel zirveye ulaşmış. Sektör, 2000‑2025 yılları arasında toplam 441,8 milyar dolar ekonomik katkı sağlamış; üretimin her bir birimi ekonomiye 4,4 birim değer katıyor. İhracat 395 milyon adetle toplam üretimin üçte birini oluşturmuş ve net dış ticaret fazlası 63 milyar dolar olarak kaydedilmiş. Sektör, doğrudan 141 bin, dolaylı olarak ise 633 bin kişiye istihdam sağlıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -577,10 +687,80 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFF5am1PcEg5ZGktQ3VrcFgxVE1qNnM0b0FESnMxMFNCY2k0MzEwTzdIV3paTC15OGJPQmdzNng3cFkzMkl5OUNPdklfU3NUU2dmVDE1WEhwdkFRazRHZ1JacHlFUGFKS0hteVFyNkVXZVJBX2M1a2c3OERUaVQ4LTVzMldVbUw3OVlkTHJHUnN4d0VhbzU2U0hyVi1UWE4wcy1NWUdsVXkwVDNqbXNoUjNQZUs0Ry1hakxCcQ?oc=5",
      "tarih": "2026-11-06T17:49:02+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Kocaeli Halk Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNwQlZDdlQtd1hJOHRwWWVaOGhEVXRBd0dMbkdYNkwxek5SSUtrdl9USmd3akJXWEZ1QnhzOUJKY3piYXZub25RNjgydjR4MkcxTlF0N2ZmcmdDSk04WUpDbkNYeDI4a2hBbW02bFNHWHItQmhXa1VTLWVnWWVpdE0waG9ncVlBZWNMM1dkazcxY29IaFJTc2RIa1ZRUlUyQXhjeGNTSzdFeTdVQ2VtdlpB0gG3AUFVX3lxTE5Ed0VSVUplWXZxalVmQjY2VDJERUtsYVZuLTZ2S0d1WThiZUZKNjlmSzVSbF9xeXhuOHhFU0lVbjJTbHNoSktQallIXzNscVBiQXBnWHVySWhOVGxtNno1dGhLdVJic0FZOGw5Q2dpc0p0YkhoNjNzTHFZSF9zUTBMVjBpclhJQ1N1bjJ0Rzk0WTdqSDRIME1IREQxcFVsaUc0S0JINi1MSzd0b29XdzNPWmJDaTkxdw?oc=5",
+     "tarih": "2026-11-06T11:25:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "politikam.com",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNm5vRVQzd1o1X1Y5VzFRMjdVNDA5VjhmYU5UQ2tQOHFzdlI5U3NGMjZFcTNIOVktZ1JjVEd3dmh4MDlreXpKdUVnUXJRWVMzdk8ta0NzcU4zQkZvYVJhNnVXYVRtb0UzeThQMXlPaDlvVFFRRGxYcl80dWV4ZWJTMVQ2bXpwQ0pScy1XdVRWZlAyQkU?oc=5",
+     "tarih": "2026-11-06T13:56:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İş'te Gündem",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzhsRzdQRlZIZTA4dlBhVVRVV0ZkLVdiclZrV01aRTVHLTUzLWpEMnBIaTlHTWotdG1NTDFYMkptWHIyVzFycENMTnBqcFNSM2h6M3kzTk9RbUt6dGZQMVN4a2hRRk55STJXT18xRlp4b190cjdrTTZvVWxrU2JUT1pKdEhObUFaZ0hSZUgxWWptNEpwTFI0?oc=5",
+     "tarih": "2026-11-07T07:06:15+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Odatv",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUlpGX0hKRWVadEtVMFU1VzNRSTdjRVVJQ1hVcGU2UWxvQjVmOXFJNG51Tmt2UGdFcDJpV2NmTHJhRUh2WGFGU2stMVMteXItQUlNRHdrakJJakdad2xCeFI3QTZRdDVhcUxZdWYwbTBWOVFtMFQ5aDN2bFhueVpSVW1QeUd0bndKdVlrZXNuMmVYazctMG4wRTBHWHB3QVRWdll6cFVseGhnQm5RTFNhMmh5OGpOQQ?oc=5",
+     "tarih": "2026-11-07T07:15:11+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Notbir",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWhGOWZ4R0NSaFplYVZTbGczUkkwbS13dlRrN0Vtcno1eE1xaFllSmFDYl9sb2s2MnNYQzVzenhLTHBNUFNfQmJXUFVMaHdtX3Q4V3VYU0xzcDhTN1JueTFEY0hsMXRIblBPTVZ4UXZBbmRhOUc1YklXRVNWQUlFOFRIMFB1UTFnellsdmFmUQ?oc=5",
+     "tarih": "2026-11-07T09:22:55+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://img.paratic.com/dosya/2026/11/alarko-carrier-gebze-fabrikasinda-uretimi-sonlandiriyor-183-calisan-etkilenecek.jpg",
    "yorum": "Alarko Carrier, Gebze’deki fabrikasındaki Carrier markalı ürünlerin üretimini mevcut siparişlerin tamamlanmasının ardından durduracağını duyurdu. Şirket, KAP üzerinden yaptığı açıklamada 183 çalışandan 119’unun yıl sonunda, 64’ünün ise 2027 Şubat ayı sonuna kadar iş sözleşmesinin feshedileceğini bildirdi. Üretimin sonlandırılması, fabrikanın yeniden yapılanma sürecinin bir parçası olarak değerlendirildi. Karar, şirketin üretim faaliyetlerine yönelik stratejik bir değişikliği yansıtıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "e4d4285452f5",
+   "baslik": "Daikin'in Merkezi Sistemler Uygulama Merkezi İstanbul'da açıldı",
+   "marka": "Daikin",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-11-05T10:22:54+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/daikinin-merkezi-sistemler-uygulama-merkezi-istanbulda-acildi/705372",
+     "tarih": "2026-11-05T10:22:54+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Başak Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlRHTTRJWGd6cTNnWk5QQU5IRUZaWEJ6NkFNQ2JyWGlBR3A5c3JyWWtSakFWWWkzZzVzNlY1WkhzVlFUbkthWHEyU29sVEZlQW1LNTFRSG9vNXpTWTNZWTZtNHM5UW9CNGl2MUNCMEhnQk5kWXg3OTl6TDlMcFMzVXFMSTlJQVo1MGg5RE01NHBzS1JFRjBUMERsMl8wXzJFdFNWWmxkNG9oc3RRYVpmdHZpNNIBuAFBVV95cUxQeWMyRU95R18wTHdwTmxVbEhPUVVCQU5kSmFLbzNoaDRpNm54dTFBNHhQSFBYZEc0OXBmaU5jZmhKVWVmTXJvSUg0akU2YWZOdGxINEJwVFgySG54QXNCMExja1BnQXdNaW9fbV9xSGhsRXl5Zk5GN2RhaVd4UElEaDlKOThVZXpHbW1oYVRRXzlLaUJZeWJiekN6RHNrUVBWRkxHVmNTRjVIcW5KVFdlY2dYYWRfRExK?oc=5",
+     "tarih": "2026-11-05T11:23:36+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "KARAR",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQckI2Smw4VWxyS3Rfc0tfLVBnUEV6eGtKRW5EUnV3R2ZTNHI5WGs2NkdGN19abGwxNVQtZE9mRkc1SkFLOEs0WkNIUVl2V0hxa2NmX2JmMVR0Y21SVXM2RlMzbklObThucmkteWRNRnpEV0xBdmkyRXVULUQ2UHU3OGtOMDU2Mm9EV0lmelhHOGFNY2w0TVBOazVWQlF6cmt6bHF1MTJaTExhMEliZkNKb2p0Q1JkS3lVUUE?oc=5",
+     "tarih": "2026-11-05T16:34:26+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Cumhuriyet",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0RvcDFleHloTElsMF8xRVkxRTB4VmhZT3U5VHBOQnhGRzhRVHBUdmtmNnJralJ0N082dGF1UmhwRDdoVFNLRzZsdVo3Vkh6TkUtbVJ0c1R4ams1NEhBNnk4SW1NSERGY0NWUVdVWTNSN09vTEtLVFV0OVp0bHVqSXlMVV9ibTJCU0x6N2QzVFM5a2xULURQMWlNRXRoTlBhdl8yMGRaYVhfV3FhSnFXUVJ3enloYW51LUE?oc=5",
+     "tarih": "2026-11-05T16:48:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/05/thumbs_b_c_2af03aa8d51e5c7f8207f20f7ba85d0b.jpg",
+   "yorum": "Daikin Türkiye, Orta Doğu ve Afrika Bölgesi Başkanı Hasan Önder, İstanbul Maltepe'de yeni bir Merkezi Sistemler Uygulama Merkezi açtığını duyurdu. Merkez, 110 metrekarelik bir alanda klima santralleri, mini chiller, kompresörler ve yeni nesil kontrol sistemlerini sergileyen bir deneyim alanı olarak tasarlandı. Açılışa Daikin bayileri, yetkili servisler, basın ve şirket yöneticileri katıldı ve merkezin teknik eğitim ve satış sonrası hizmetlere katkısı vurgulandı. Merkez, otel, hastane, ofis, fabrika ve veri merkezlerinde kullanılan iklimlendirme sistemlerinin uygulamalı incelenmesine imkan tanıyor. Önder, şirketin veri merkezi projelerinde 300 chiller sağlayacağını ve Afrika pazarına yönelik büyüme planlarını da paylaştı.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -940,6 +1120,18 @@
      "ad": "Mebpersonel.Com",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFhFaWR1VFktbkpiSkg0aFMtN2Y3d1pvb0l2RFJhWlR3MUJXWmlsX0NnZ1NPb1VaazkzX2JnZ1BCdzlvLTJlNUVaSzl5aUM5ZTFzcU1BX09DVDJpUm1aZHg5VVZzUktWRnozcHAtcTRkMHV3UjhJSVNjTm01S0FNRWtjSUk1d3BfRUZlRlZjenRNWmwtaTdlQXhHOEp6M2pZc0lsQnZtcDBYXy1uYmxMN29xSVpLSWdLWHc?oc=5",
      "tarih": "2026-11-06T05:33:37+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Aktüel",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXlCZk5vN09rMFdFM1I4cWpCWVJzX2xCWmZ6eHF3WV9FY1RvVmtTSTZfWU5vYWdfeHp5LVlKeHdySVF1NW85Uk1td014V0VOOVByeDdUUDFPODYzSzFJdTB6bHFJQUJFaXJQNVJ5ekVOeW9Zc0t5eGJIOTMwXzYwNkxQVTU3VW1ob1o2ZzdIbw?oc=5",
+     "tarih": "2026-11-06T06:33:40+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Öğretmenler Sitesi",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTjR4R1pDa251MGVHZDlNMzl2UEFrdUpRemtDX1R4cHNzeFprTmlNSDJ4dFJtMkY5eXBWZWxaS3dmNklSZ1V5MjRLRUFlYVN6TlNiMi1GUERGblNKVFJnUzVjUExTSGROTjMwa180aHRkM21DQkRGbmJBZjZ0Q184dklFc25wRTFpVUNJbzZ5WGduLW1QOXJwd1BaZTFwemRlYmstbGZlQkJrYXg4ZUN4SDZrbnp1Sk91WXVJQUc2Vnc0alAyRzJBWE1GdFVtbGp4MnZwYThnaW4weFA4YmpB0gHkAUFVX3lxTFAxOVptbmhyQjJVeUkxMFlDX05SeWJnbXlXXzRHa3B0SGl3V0duWUxhdmY2U29RLWRncVRMVm1GYkROSlE3bjhyc2pGVXNkZ2E4NVo0QmtjUm1wTllfVWJqLU9ncjZrV0d3WExrbHBBWnNIbTFpZDRKT0tjSDhzSVZvalpRb0lJQnBHb0JHV1JaY2RSUXdsQXRxUHdSYXRHUVVwUjE1bFFhUkFJY1ZLMFFlOVI0U1RybG4wTGVKeGxoOFlfVXl4QXd4a3pmODJWU3BCYzVERkg4ckNjOFItV3lrSlctTw?oc=5",
+     "tarih": "2026-11-07T09:33:11+00:00",
      "guvenilir": false
     }
    ],
@@ -4362,28 +4554,6 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "f9c9e5fb7dba",
-   "baslik": "Piyasaların gözü TCMB'nin faiz kararında: Ekonomistler ne bekliyor?",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-18T07:51:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/piyasalarin-gozu-tcmbnin-faiz-kararinda-ekonomistler-ne-bekliyor-haberi-925418",
-     "tarih": "2026-10-18T07:51:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/07/tcmb-faiz-indirecek-mi-prof-dr-binhan-elif-yilmazdan-kritik-degerlendirme-ceie_cover.jpg",
-   "yorum": "Ekonomistler, Merkez Bankası’nın yaklaşan faiz kararını yakından izliyor ve olası bir artış ya da düşüş senaryolarını değerlendiriyor.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
