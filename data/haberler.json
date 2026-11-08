@@ -1,7 +1,35 @@
 {
- "guncelleme": "2026-11-07T21:03:57.013999+00:00",
+ "guncelleme": "2026-11-08T11:28:57.205647+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "92a3f9f77eb2",
+   "baslik": "Kasım indirimleri esnafın satış beklentisini artırdı",
+   "marka": "Gündem",
+   "kategori": "ev",
+   "oncelik": 2,
+   "tarih": "2026-11-08T08:20:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/kasim-indirimleri-esnafin-satis-beklentisini-artirdi-haberi-846849",
+     "tarih": "2026-11-08T08:20:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/esnafin-gozu-kasim-indirimlerinde-satis-beklentileri-artti-haberi-929904",
+     "tarih": "2026-11-08T08:37:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/08/esnaf-c3pj_cover.jpg",
+   "yorum": "Türkiye Esnaf ve Sanatkarları Konfederasyonu (TESK) Genel Başkanı Mehmet Yiğiner, kasım ayı indirimlerinin perakende esnafının satış beklentilerini artırdığını belirtti. Özellikle kampanyaların müşteri trafiği ve cirolara olumlu yansıyacağı vurgulandı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "c241d6c48b53",
    "baslik": "Türkiye'de online alışverişte dikkat çeken sonuç, tüketicinin yüzde 69'u bunu yapmıyor",
@@ -751,6 +779,18 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0gtY1pIbndndDducWFHd3lyY1ZCWjZYY2toR3BGMnRrRG85azJQdTd6WXJzUjhyc0tIWERGWmp0Z2FfeV9HQTkzc3FISlJIREZRYzhpWmJIYnNTNXhWUjBYbk9iV19VeHItYzBseWJHZXlQX1hMSlZMS09FNFM0NVZjOTk4Y2pId1Y0NVJLVXUxbGFka1ZMV3BGX3lUeUNIblNnNHUyOA?oc=5",
      "tarih": "2026-11-06T23:32:35+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "İşte Kocaeli Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX21SdXRnNUZVYTdCZHNfZC1xVTY5OVVMQ1V3aHA5anh1YTROWnhjSGxFYnNTRjFVMUVJN0t2TS1lSGJ5cUNfUloyd1dseWl3YjhYc1R0VTM0TzhwSjhiODZyZ083cW1LdDF4ZDNrZFh1dWdSbnA0cEgycDhrYXY3OHZRRmRPdHVDTTBXX3JWa0ZkeDRNZmMyR0JTc3VDQdIBpgFBVV95cUxQVnZ3OXB4eExiQmZqX3pDWUdpRTcyYTlyLUkwMno2Rk9XWlZ2SFhnc3lRcVcyMG9KVDFKTVA5THZmLXNFZkg0VlZOS2laR3V3MGZRelUxVWxUQ2syVW1BRkJOT1RJeHpmQlIyeVZwdTFXbkJpVUtfQ3Z5cklKUE9peFZnU01MX185dElBSlpQd3o3TU1IU3hoRkhQQkVTTEZJdU5HdGZ3?oc=5",
+     "tarih": "2026-11-06T08:18:14+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kocaeli TV",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjhaWHJOa3JoNzIxYl81Zm50Y181b2VQNWJfbkFCSm45NnZucWJUTU1ObHJrcW1xWVlPeHFiNDNBYzB5WWJjREc1SnVYYUFrOFM0Nk1qQVE4b3JpQTVqQVRYQkVwdlZoNjF5TEN6eUJvYVRuX2lRQXliaXAyVHBUc2FQOXE4UHp1WUx5d3dnNDlEOUtzNzFqTk9PbzdPRS1RR0pTbDJXNlNZajg?oc=5",
+     "tarih": "2026-11-08T10:21:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://img.paratic.com/dosya/2026/11/alarko-carrier-gebze-fabrikasinda-uretimi-sonlandiriyor-183-calisan-etkilenecek.jpg",
@@ -837,6 +877,12 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2xjdHN4bXVISWM2WHRoQ2RQcDBsMG5ERmFqQVI1T3RhRjdkMFJELWpZQVd6WTBaSEg4RTRabVN5VTVzLVNsN0RBZzI2ZVVwMUV5ZV9kWnEybE1Wa2lSb0NXem5FSFZXWTRfUnJ0cGFpOEtxY19qeVlDMlZqWTllUnVxYU5wMWtyTDNVZGI0YjQzVWlfV2xQNUF1V1VoeGpxc2ZPQ0tUcnJ5c2JB?oc=5",
      "tarih": "2026-11-05T10:53:30+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdS1MZXZ4UDBWVjFqQWFXN2t4M3RCSmE0N2tsWjYzVXd2WHQxWEt4UDZpTFlXMFBnbTltbVZfZFpqZXRqYTlZUjA0OWhieFRMbVgxbVpzaGNhcVNiTDgwLTZna1hqdFBzSHpTM3MxRUw1TkFtV29la0R1WTU3ZEVfcm5fUEhaRVloSVQwN1JXc3MydldLNEc4OWRDamVZQXlPRm81b3pDQjBGalotZGRmLXd1UkFNd3U0akUzU1FiMzFzcy1uMmhzVlh3?oc=5",
+     "tarih": "2026-11-06T08:28:16+00:00",
+     "guvenilir": true
     }
    ],
    "gorsel": null,
@@ -1172,6 +1218,12 @@
      "ad": "Öğretmenler Sitesi",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTjR4R1pDa251MGVHZDlNMzl2UEFrdUpRemtDX1R4cHNzeFprTmlNSDJ4dFJtMkY5eXBWZWxaS3dmNklSZ1V5MjRLRUFlYVN6TlNiMi1GUERGblNKVFJnUzVjUExTSGROTjMwa180aHRkM21DQkRGbmJBZjZ0Q184dklFc25wRTFpVUNJbzZ5WGduLW1QOXJwd1BaZTFwemRlYmstbGZlQkJrYXg4ZUN4SDZrbnp1Sk91WXVJQUc2Vnc0alAyRzJBWE1GdFVtbGp4MnZwYThnaW4weFA4YmpB0gHkAUFVX3lxTFAxOVptbmhyQjJVeUkxMFlDX05SeWJnbXlXXzRHa3B0SGl3V0duWUxhdmY2U29RLWRncVRMVm1GYkROSlE3bjhyc2pGVXNkZ2E4NVo0QmtjUm1wTllfVWJqLU9ncjZrV0d3WExrbHBBWnNIbTFpZDRKT0tjSDhzSVZvalpRb0lJQnBHb0JHV1JaY2RSUXdsQXRxUHdSYXRHUVVwUjE1bFFhUkFJY1ZLMFFlOVI0U1RybG4wTGVKeGxoOFlfVXl4QXd4a3pmODJWU3BCYzVERkg4ckNjOFItV3lrSlctTw?oc=5",
      "tarih": "2026-11-07T09:33:11+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Elbistan Olay",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnRMSmphSFJubnNLbnpEbS1rWjNUZzB1MFFSTzJweDdKX20wRzRXVGkxazVvNnNwaFhXbEZVVEcyUkNtNGViUkx0TnNaVDF5S3BDOVBXTGlKenRQUzlMOGZjOTg3aUZTQmY3b0t3aDcxZ0JFM2owMHpEWmtudzdvVThUM0tWVmpqbkFyNkJMSUZ0NTh5bVB1QXJ0cVFhRW13eU9kWWRrblQwREXSAbABQVVfeXFMTzhVUFV1WGdxZWlzYUpUeV80VmNBdHpaaWZORGdmTkc0Sjh1R3BzYkFncXdmM1lNSmdtZVo5VlhVM0tfbXhUQnJTUkZSaEhaMmxkU29uWlFLUHBjUTRkZjhMUkhBSlN4a2VEbUoySkZzNVNoOFZLdFRfbGE4aXg4WXB4aFdscllkeTZRZUJTcmpOd3ZpS1lwR0xuZXo3eU1ueERUYWZvYXlRaExPTk9iMDE?oc=5",
+     "tarih": "2026-11-06T08:48:00+00:00",
      "guvenilir": false
     }
    ],
@@ -4522,56 +4574,6 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "789c1777310b",
-   "baslik": "Daikin Türkiye AR-GE Merkezi 10. yılını kutluyor",
-   "marka": "Daikin",
-   "kategori": "iklim",
-   "oncelik": 3,
-   "tarih": "2026-10-19T10:05:29+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/isdunyasi/genel/daikin-turkiye-ar-ge-merkezi-10-yilini-kutluyor/705048",
-     "tarih": "2026-10-19T10:05:29+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/19/thumbs_b_c_0512776984f685dffb6a3525d55f56f5.jpg",
-   "yorum": "Daikin Türkiye AR‑GE Merkezi, Hendek'teki üretim tesisinde 10. yılını kutladı. Bu dönemde patent başvuruları 31, tescilli patent 25'e ulaştı; proje sayısı 9’dan 30’a çıkarıldı ve personel %53 büyüdü.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "955407be5a75",
-   "baslik": "\"Faiz indirimi beklentisi dengeleri değiştiriyor\"",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-19T09:54:21+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/faiz-indirimi-beklentisi-dengeleri-degistiriyor-3920802",
-     "tarih": "2026-10-19T09:54:21+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/tcmbnin-22-ekim-faiz-karari-icin-kritik-beklenti-yuzde-37-degisecek-mi-haberi-925631",
-     "tarih": "2026-10-19T11:28:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/19/ver1792403661/3920802/jpg/1920x1080",
-   "yorum": "Türkiye’de enflasyonun yüzde 30’un altına düşmesi, bireysel finansmanda faiz indirimi beklentilerini artırdı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
