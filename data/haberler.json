@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-08T11:28:57.205647+00:00",
+ "guncelleme": "2026-11-08T17:13:34.671264+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "b4fae8e83f95",
+   "baslik": "Gösteriş ekonomisi büyüyor: Alışveriş merkezlerinde dengeler değişti",
+   "marka": "Gündem",
+   "kategori": "ev",
+   "oncelik": 2,
+   "tarih": "2026-11-08T12:29:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/gosteris-ekonomisi-buyuyor-alisveris-merkezlerinde-dengeler-degisti-haberi-846871",
+     "tarih": "2026-11-08T12:29:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/08/yeni-proje-2026-11-08t154456-ksdh_cover.jpg",
+   "yorum": "ABD'de güzellik, kişisel bakım ve fitness hizmetlerine olan talep, perakende sektörünün yapısını değiştirmekte. Bu yıl imzalanan dört perakende kira sözleşmesinden birinden fazlası bu hizmet odaklı işletmelere ait oluyor. Alışveriş merkezlerinde geleneksel mağazaların yerini giderek hizmet sunan işletmeler alıyor. Bu dönüşüm, perakende alanındaki kira ve mağaza dağılımını yeniden şekillendiriyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "92a3f9f77eb2",
    "baslik": "Kasım indirimleri esnafın satış beklentisini artırdı",
@@ -4530,50 +4552,6 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b9e5563a4544",
-   "baslik": "Alaattin Aktaş: Merkez Bankası bu iki adımı atarsa işe yarayabilir",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-19T16:02:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/aktas-merkez-bankasi-bu-iki-adimi-atarsa-ise-yarayabilir-haberi-925685",
-     "tarih": "2026-10-19T16:02:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/19/aktas-merkez-bankasi-bu-iki-adimi-atarsa-ise-yarayabilir-rozo_cover.jpg",
-   "yorum": "Ekonomi analisti Alaattin Aktaş, Merkez Bankası'nın iki belirli adımı atması durumunda enflasyonla mücadelede daha etkili olabileceğini savundu.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c6ee2f515aab",
-   "baslik": "Fintables/Gözen “makul senaryoyu” açıkladı: Fed ekimde nasıl bir karar alacak?",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-19T15:21:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/fintablesgozen-makul-senaryoyu-acikladi-fed-ekimde-nasil-bir-karar-alacak-haberi-925680",
-     "tarih": "2026-10-19T15:21:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/19/fintablesgozen-makul-senaryoyu-acikladi-fed-ekimde-nasil-bir-karar-alacak-wstp_cover.jpg",
-   "yorum": "Ekonomistler, Fed'in ekim ayında alacağı faiz kararı üzerine senaryolar ortaya koydu.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
