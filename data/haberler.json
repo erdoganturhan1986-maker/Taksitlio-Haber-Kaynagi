@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-08T17:13:34.671264+00:00",
+ "guncelleme": "2026-11-08T21:20:59.882306+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "d58e5c3bb1ff",
+   "baslik": "İnternetten alışverişte Türkiye'ye soğuk duş! Dünya devlerinin arasındaki yeri belli oldu",
+   "marka": "Gündem",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-11-08T20:07:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/foto-galeri/ekonomi/internetten-alisveriste-turkiyeye-soguk-dus-dunya-devlerinin-arasindaki-yeri-belli-oldu-galeri-929972",
+     "tarih": "2026-11-08T20:07:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/08/internetten-alisveriste-turkiyeye-soguk-dus-dunya-devlerinin-arasindaki-yeri-belli-oldu-uqxu_cover.jpg",
+   "yorum": "Ekonomim haberine göre, küresel e‑ticaret pazarının büyüklüğü 2025 yılında rekor seviyeye ulaşırken, Türkiye’nin bu pazardaki konumu da netleşti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "b4fae8e83f95",
    "baslik": "Gösteriş ekonomisi büyüyor: Alışveriş merkezlerinde dengeler değişti",
@@ -482,6 +504,46 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "c01913641380",
+   "baslik": "Albaraka Türk'ün 9 aylık kârı 5,8 milyar TL oldu",
+   "marka": "Albaraka Türk",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-05T20:20:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/albaraka-turk-un-9-aylik-kri-5-8-milyar-tl-oldu-3925275",
+     "tarih": "2026-11-05T22:10:51+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "turkhaber.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGZxVktHTjF4V0VEMzBjeW43WGVzNUVjMDdGbjhRcmxaTFBnRzBKWlduaVZ0OE1Eb2puR1VQc2tIczB5b3JIUldncHlSYWkweFJwT3lIZm45MXF3MzRReWFaREdmeHhqczlSWUc4c0JNV2NtWHJiWE9kTHg2dks4Y2VzTDh0R1ladDRMRzNNMHA4MU9kRjVaUEdUYTJET0lWZkJjNXpsQWVjNjA?oc=5",
+     "tarih": "2026-11-05T20:20:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Fintechtime",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRk01VExBcnc5YVRjb3U4eGo5NWhWZmpvZWdLYnBiaGFEX3VLQU5waTdTNGNubTBYOGl3Rml0Q3lHNnV3UU9KSUxYS0pRczdUSzREbEZMUjR0aTZvSlEyc1FUYTMzaEdtWkcyUHJjTkU1bDhQVFRuZGx3dE5wR3l1VjA1bkF0Zw?oc=5",
+     "tarih": "2026-11-06T07:27:12+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "FintekWins",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0ZGVEhhdTZHSEw5Wm0yYzJEU2h6MTNPWEZidVpNNlBEd1M1MGRoZUp2aEstWVAtRURfbHcwZTlsdnJKck5qLVlWOHQ2UHc4UDB1X2FsX2IyektKcWpsNmVUWnl2TzFPQktrRVRHdERIbjBxYzVvbjFJUWx3ajhGMWNXYXpoZVhFUnc?oc=5",
+     "tarih": "2026-11-06T08:09:26+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793916641/3925275/jpg/1200x628",
+   "yorum": "Albaraka Türk, 2026 yılının ilk dokuz ayında 5,8 milyar TL net kâr elde ettiğini Kamuyu Aydınlatma Platformu’na bildirdi. Banka, aynı dönemde ekonomiye 398,6 milyar TL nakdi ve gayrinakdi finansman desteği sağladı ve aktif büyüklüğünü 589 milyar TL’ye çıkardı. Erdeme yeterlilik oranı %17,6 olarak gerçekleşti, katılım fonları %41 artarak 400 milyar TL seviyesine ulaştı. Yönetim kurulu üyesi Malek K. Temsah, küresel jeopolitik ve piyasa dalgalanmalarına rağmen büyüme stratejisini sürdürdüklerini vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
