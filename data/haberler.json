@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-09T13:18:50.258221+00:00",
+ "guncelleme": "2026-11-09T23:07:52.274875+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -4538,56 +4538,6 @@
    "neden": "",
    "gundem": true,
    "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b038bfb79468",
-   "baslik": "TCMB'nin faiz kararı öncesi uzmanların beklentisi ne? Aralık için görüşler ayrışıyor",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-20T18:32:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/tcmbnin-faiz-karari-oncesi-uzmanlarin-beklentisi-ne-aralik-icin-gorusler-ayrisiyor-haberi-925956",
-     "tarih": "2026-10-20T18:32:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/tcmbnin-faiz-karari-oncesi-uzmanlarin-beklentisi-ne-aralik-icin-gorusler-ayrisiyor-g2yl_cover.jpg",
-   "yorum": "Ekonomim haberine göre, TCMB'nin Aralık ayı faiz kararı öncesinde uzmanlar arasında beklentiler bölünmüş.",
-   "neden": "",
-   "gundem": true,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "46c010bf0e45",
-   "baslik": "Vestel'den eurobond sahiplerine iki seçenekli yapılandırma teklifi",
-   "marka": "Gündem",
-   "kategori": "elektronik",
-   "oncelik": 2,
-   "tarih": "2026-10-20T17:42:32+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/vestel-den-eurobond-sahiplerine-iki-secenekli-yapilandirma-teklifi-3792011",
-     "tarih": "2026-10-20T17:42:32+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/vestelden-500-milyon-dolarlik-borc-icin-eurobond-sahiplerine-iki-secenek-haberi-925964",
-     "tarih": "2026-10-20T19:46:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/20/ver1792518179/3792011/jpg/1280x720",
-   "yorum": "Vestel Elektronik, 2029 vadeli 500 milyon dolarlık eurobondlarının yeniden yapılandırılması için yatırımcılara iki alternatif sunacağını bildirdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
