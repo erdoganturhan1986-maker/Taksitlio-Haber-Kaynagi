@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-08T21:20:59.882306+00:00",
+ "guncelleme": "2026-11-09T13:18:50.258221+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "c9649e04aadd",
+   "baslik": "Daikin Türkiye İSİB'de üç ödül elde etti",
+   "marka": "Daikin",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-11-09T08:51:23+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/sanayi/daikin-turkiye-isibde-uc-odul-elde-etti/705446",
+     "tarih": "2026-11-09T08:51:23+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/09/thumbs_b_c_75a9d83af001f1969c84ccc848628c81.jpg",
+   "yorum": "Daikin Türkiye, İklimlendirme Sanayi İhracatçıları Birliği (İSİB) tarafından düzenlenen 2026 Strateji Toplantısı'nda üç ödül kazandı. Şirket, 'En Çok Split Klima İhracatı Yapan Firma' kategorisinde art arda 11. kez birinci olarak seçildi. Ayrıca 'En Çok İhracat Yapan Firmalar' kategorisinde birincilik ve 'En Çok Klima Santrali, Rooftop, Fan‑Coil ve Paket Tipi Klima İhracatı Yapan Firmalar' kategorisinde ikincilik elde etti. Daikin'in Sakarya’nın Hendek ilçesindeki 163 bin metrekarelik üretim tesisi, split klima, klima santrali, fan‑coil, kombi ve VRV sistemleri üreterek ihracata yön veriyor. Şirket, bu başarıların ardından AR‑GE yatırımlarıyla bölgesel ihracat üssü konumunu güçlendirmeyi ve farklı pazarlara uygun iklimlendirme çözümleri geliştirmeyi hedefledi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "d58e5c3bb1ff",
    "baslik": "İnternetten alışverişte Türkiye'ye soğuk duş! Dünya devlerinin arasındaki yeri belli oldu",
@@ -278,6 +300,40 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "c34badc1124a",
+   "baslik": "Mitsubishi Electric Klima'dan ikinci klimaya yüzde 50 indirim kampanyası",
+   "marka": "Sektör: ısıtma ve soğutma",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-11-06T08:12:19+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/enerji/mitsubishi-electric-klimadan-ikinci-klimaya-yuzde-50-indirim-kampanyasi/705396",
+     "tarih": "2026-11-06T08:12:19+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "NNC Haber",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXNTcS16Qll4OWJkRTdJaUpaekdrTUs4eUZ2akdsOXhpQmF5dEdCWUVwRjJ4M3JwSVF3YTRxazFwdGhKQWV5RnFZdXlWMkVMZUFzNGJZdnl2WjdJQzNMM1VjbDdSMThweVNPeDF5N2ZxWHhDcnhEdTA2MTlUTDN3N3RxX0RuQkVudWhTaEFMbk9iOENJ0gGaAUFVX3lxTFBqMmVhTnAwaXIyeGN6VDBsa2ZSckhUZW9ITnQ1X2xxVDlzQ3JPMHR0dlVjSzhFRXhJbVlRZFFJNE1VckFhUzl2SmkwZlZidzRZNDNNRHgtdDZ3SXBEaC1ibV83VllHVXhhQ0ZIUGVzSjQxS3Y2Y3UtYjctY2xwdVA0eW5YN0xUU0hjUHVtTnBOTnJISEtvZngyNEE?oc=5",
+     "tarih": "2026-11-06T11:21:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Şantiye Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeDFBazJ0TUVTY2FiQllRM0lvamx0aGVfRnpfa3E5clkzd0pXWGZQMkw1MXdXR29zXzlsYkppck9MN3NBQjYwd0lYRVNmSkRvS25iOTFvMmdTUHFhOWdfSFdQNlNRS1F4LUs1bkktUFFPQXNuQ19KV2thQ1dqV1hoWmRTZFB3Wlk1MUZmaVRDMGZVTEw0QjRYdURQWV81ZmVzdC11VExvbHBQeDdOOU5zS094THdUa3EyaGpyNnVGUlA?oc=5",
+     "tarih": "2026-11-06T18:20:36+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/06/thumbs_b_c_f5bbd88b491304651635dfa12cc98688.jpg",
+   "yorum": "Mitsubishi Electric Klima Sistemleri, seçili modellerde ikinci klima satın alana yüzde 50 indirim ve 10 yıla kadar garanti sunduğunu duyurdu. Kampanya 31 Aralık’a kadar anlaşmalı yetkili bayilerde geçerli ve MeClub üyeleri için ek taksit avantajları sağlıyor; 6 taksitli fiyat üzerinden 7 taksite, ayrıca uygun kart ve ürünlerde 12 aya varan taksit seçenekleri mevcut. İndirim, Hare, Enviro, Noviro, Kirigamine Zen ve Legendera gibi serilerde uygulanıyor, DW serisi hariç. Garanti süresi ürün bazında 6 yıl ile 10 yıl arasında değişiyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -874,6 +930,12 @@
      "ad": "Kocaeli TV",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjhaWHJOa3JoNzIxYl81Zm50Y181b2VQNWJfbkFCSm45NnZucWJUTU1ObHJrcW1xWVlPeHFiNDNBYzB5WWJjREc1SnVYYUFrOFM0Nk1qQVE4b3JpQTVqQVRYQkVwdlZoNjF5TEN6eUJvYVRuX2lRQXliaXAyVHBUc2FQOXE4UHp1WUx5d3dnNDlEOUtzNzFqTk9PbzdPRS1RR0pTbDJXNlNZajg?oc=5",
      "tarih": "2026-11-08T10:21:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Okur Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVk4dHJ2V2w0NWxPdl9JU01ZMXR6YVlfWkpTdG9vbFhIaERSRFJFaWd1VGZVWWVRc2s4S01uSndjZFAybkdCak1hWEg5VjRHRFNfZ0s2cmZXLUM3TV8tU1dGd2FMUk9ocWRKRkxiNGFyTmswaC1jNHNyekZvVUVDUWRuS0l0OVMtRU13RGNHQW55UTVt?oc=5",
+     "tarih": "2026-11-06T11:08:29+00:00",
      "guvenilir": false
     }
    ],
@@ -4523,94 +4585,6 @@
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/10/20/ver1792518179/3792011/jpg/1280x720",
    "yorum": "Vestel Elektronik, 2029 vadeli 500 milyon dolarlık eurobondlarının yeniden yapılandırılması için yatırımcılara iki alternatif sunacağını bildirdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c2761c38a391",
-   "baslik": "OMAC’a E-İhracatta Başarı Ödülü",
-   "marka": "Gündem",
-   "kategori": "elektronik",
-   "oncelik": 2,
-   "tarih": "2026-10-20T09:25:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/sehirler/omaca-e-ihracatta-basari-odulu-haberi-925855",
-     "tarih": "2026-10-20T09:25:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/omaca-e-ihracatta-basari-odulu-rlyd_cover.jpg",
-   "yorum": "OMAC, e‑ihracat performansı nedeniyle bir başarı ödülü aldı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "af7b81cf56db",
-   "baslik": "Yataş’ın 3Ç26 kârında yüzde 70’lik düşüş bekleniyor",
-   "marka": "Yataş",
-   "kategori": "mobilya",
-   "oncelik": 3,
-   "tarih": "2026-10-20T08:35:14+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Paratic Haber",
-     "url": "https://paratic.com/yatasin-3c26-karinda-yuzde-70lik-dusus-bekleniyor/",
-     "tarih": "2026-10-20T08:35:14+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.paratic.com/dosya/2026/10/yatasin-3c26-karinda-yuzde-70lik-dusus-bekleniyor-1024x614.jpg",
-   "yorum": "Yataş, 2026 üçüncü çeyrek (3Ç26) finansallarında net kârının 176 milyon TL olacağını öngörüyor. Bu rakam, bir önceki çeyrekte açıklanan 583 milyon TL kârdan yüzde 70 azalmayı gösteriyor. Şirket, aynı dönemde zarardan kâra geçmeyi beklerken, çeyreklik bazda kârın önemli ölçüde düşeceği tahmin ediliyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "01aa60d0057a",
-   "baslik": "TEPAV’dan faiz mesajı: Fon krizi nedeniyle politika faizi yüzde 37’de tutulmalı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-20T07:11:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/tepavdan-faiz-mesaji-fon-krizi-nedeniyle-politika-faizi-yuzde-37de-tutulmali-haberi-925809",
-     "tarih": "2026-10-20T07:11:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/19/murat-sagman-fon-krizinde-takvime-dikkat-cekti-yatirimci-parasini-ne-zaman-alacak-tewx_cover.jpg",
-   "yorum": "TEPAV, fon krizinin etkileri nedeniyle politika faizinin yüzde 37 seviyesinde tutulması gerektiğini savunuyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "84497341d12c",
-   "baslik": "Societe Generale'den TCMB tahmini: Faiz sabit kalacak",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-20T06:20:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/societe-generaleden-tcmb-tahmini-faiz-sabit-kalacak-haberi-925793",
-     "tarih": "2026-10-20T06:20:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/societe-generaleden-tcmb-tahmini-faiz-sabit-kalacak-ccsi_cover.jpg",
-   "yorum": "Societe Generale, Türkiye Cumhuriyet Merkez Bankası’nın (TCMB) politika faizini sabit tutacağı yönünde bir tahmin paylaştı.",
    "neden": "",
    "gundem": false,
    "onem": 3,
