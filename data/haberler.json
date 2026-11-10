@@ -1,7 +1,63 @@
 {
- "guncelleme": "2026-11-09T23:07:52.274875+00:00",
+ "guncelleme": "2026-11-10T12:56:11.507316+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "6a3968044d8e",
+   "baslik": "AMB/Lane: Veriler değişmezse Aralık'ta faiz artışı ihtiyatlı adım olur",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-10T08:14:35+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/amblane-veriler-degismezse-aralikta-faiz-artisi-ihtiyatli-adim-olur-3794048",
+     "tarih": "2026-11-10T08:14:35+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/10/ver1794298561/3794048/jpg/1280x720",
+   "yorum": "AMB’nin başkanı Lane, Bloomberg HT’ye yaptığı açıklamada, mevcut ekonomik veriler değişmezse Aralık ayında faiz artışının ihtiyatlı bir adım olacağını ifade etti. Enflasyonun yıl sonuna kadar yüzde 4’ün biraz üzerinde seyredeceğini ve gelecek yılın ilk çeyreğinde gıda ile çekirdek enflasyonunun hızlanabileceğini öngördü. AMB’nin faiz oranını bir çeyrek puan yükseltmesinin büyüme üzerindeki etkisinin nötr kabul edilen aralığın üst sınırına iteceğini belirtti. Bu değerlendirmeler, Avrupa ekonomisinin istikrarlı büyüme temposunu sürdürdüğü görüşüyle sona erdi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "35d28e85a1cd",
+   "baslik": "Arçelik CEO'su Dinçer: 2027'de sürdürülebilirlik üzerine farklı ürünlerimiz olacak",
+   "marka": "Arçelik",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-10T07:56:17+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTk0a19DT1FzYXlZVzRvZVdaYTFwYlBELUtLMUJJUGp1WjIwd0hfSFlhX1FlRW51cm5JcXZKVjRidDZVQmN6ajI4S0xFRkxLVVFMN2p1OVVLU1ZQNmxZajlLbHdJbGtZTUZWeWVLdjZ0eDNtWjg1NTBzREdpOHJ2TmktRC1SM2tOVVF2VlJvLUdGVFplc2g1ODNWUQ?oc=5",
+     "tarih": "2026-11-10T07:56:17+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/arcelik-ceosu-dincer-2027de-surdurulebilirlik-uzerine-farkli-urunlerimiz-olacak-3794058",
+     "tarih": "2026-11-10T09:11:54+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRklZR3NqRGtGLWRCTEZHTjhYRUxCSG5MTjd0bmpmS0hMdEV6SGhuc21YTmVRVXFtVjhKNnRObXFiaVh2ZktOZUZCYmJvcjQ0YU1mOUNqOFlyRHhMb2VFdXBvMTRIdjZDeVNmbjl1NjU3cUg5OVFMSjhET1pwYThEWXVNVWFpcVlseXVUUS1iZWMwcnVxUVpPeWo2cmt4akhXMjQwNVp0Q1N3ZEdJQk5Ld2R3MlFuUQ?oc=5",
+     "tarih": "2026-11-10T09:16:19+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/10/ver1794302396/3794058/jpg/1280x720",
+   "yorum": "Arçelik CEO’su Dinçer, Antalya’da düzenlenen COP‑31 iklim zirvesinde şirketin sürdürülebilirlik odaklı yeni ürün planlarını açıkladı. Gümüşhane’de Voleybol Federasyonu ile yaklaşık 6 MW kapasiteli bir güneş enerjisi santrali kurma anlaşması imzaladıklarını ve bu projenin yıllık 2,3 bin ton CO₂ azaltacağını belirtti. Bu tesisin federasyonun tüm statlarının elektrik giderini sıfırlayarak ek gelir sağlayacağını vurguladı. Dinçer, 2027 yılına kadar tüketicilerin karşısına sürdürülebilirlik temelli farklı ürünlerin çıkacağını söyledi. Ayrıca beyaz eşya pazarının Avrupa’da bir puan, Türkiye’de 2‑3 puan daraldığını, önümüzdeki dönemde iyileşme beklentisi olduğunu dile getirdi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "c9649e04aadd",
    "baslik": "Daikin Türkiye İSİB'de üç ödül elde etti",
@@ -936,6 +992,30 @@
      "ad": "Okur Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVk4dHJ2V2w0NWxPdl9JU01ZMXR6YVlfWkpTdG9vbFhIaERSRFJFaWd1VGZVWWVRc2s4S01uSndjZFAybkdCak1hWEg5VjRHRFNfZ0s2cmZXLUM3TV8tU1dGd2FMUk9ocWRKRkxiNGFyTmswaC1jNHNyekZvVUVDUWRuS0l0OVMtRU13RGNHQW55UTVt?oc=5",
      "tarih": "2026-11-06T11:08:29+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTdQUjVCc3RMX19BUnB2LXpxOWlnVFhrZ0k3dDBYcUtzZUdTTFNJQ0tmNXJ3eW40X3Q5YTUxUndvQjZqdXlyQk5neEh2TUZUTUtkY01JeGRuRnRTbzY4Q2w3bU43SlUwS3hDcUxvOEdvVmg2eDhQMV9ZeWgtQkFuVHNGb0dvWHJRQWVlSWV1a2tBQ2JsQmc?oc=5",
+     "tarih": "2026-11-06T06:34:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haber Sunum",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUwtLWlzU0xvOExIZ0FZQVcxNDBDSE54VXREdThxQjRxcGh6ekdKTXVzblVzUTlwMmRLQkFlWU9jM3c2WWNNTjJUdlJvNUlLNnRxdHN1SEJkekZTa194cmRPVFBlTXdLZXlMWjFsV1ZvOFNaZU5kVW0zOWRHa2RYdjM0YWdnTHhJMGZESGI2WUwybWNuNTNxaUNBRFV4bE9ZWkl5cmszZw?oc=5",
+     "tarih": "2026-11-06T07:15:11+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Evrensel",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUhSWVc5YzZ6Z19TX3Frc1VxRG10eEI1bHo0SDQ5VnZYOHlPbUtvNmNibEJ5T1RXRWdGNEhicnMzc2hXemJoWWhlZGlsTVk1bW52UVF1MEFMY194SjFpWnZIN0FvM25tRDhla1FUY1NMWmNmS1czVXlOc1RScjNUMkFmWVBCcTFVMzhya3pfeDdyQ3NxdjZoN2FRNEpHQklXRVBxQXNZWmlaRmRf?oc=5",
+     "tarih": "2026-11-06T11:52:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "canlihaber.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXBEeXBOdnBwbWQtVG9rLWRWaTQ0WXRBekp4LUl4LTR3UDY1aEhpREhHT1ZmanBCemFiUmF3aE5KX010VGVteGZ1eEdnU09zd2RqcXpyVG5GVURQX3N5WDdvNDVJenVKRXhGc2dVOExoTmJhYW80Nm1tbTI0NzBtblhzQkFaNXpqWmZaMHdKYWhmWi1vNTZGVFpwdXgyMzBRN1NKa1FGREJnZHByTjVjbDhKTlZERUFnXy1uSGVoNlp2dw?oc=5",
+     "tarih": "2026-11-06T12:21:00+00:00",
      "guvenilir": false
     }
    ],
@@ -4226,318 +4306,6 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "dd1de246b08b",
-   "baslik": "Merkez Bankası Finansal Hesaplar Raporu'nu açıkladı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T12:03:27+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/merkez-bankasi-finansal-hesaplar-raporu-nu-acikladi-3792107",
-     "tarih": "2026-10-21T12:03:27+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-bugun-aciklanacak-beklentiler-ne-yonde-haberi-844827",
-     "tarih": "2026-10-22T05:40:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/ingden-faiz-ve-dolar-tahmini-yil-sonu-beklentilerini-acikladi-haberi-926347",
-     "tarih": "2026-10-22T07:36:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/21/ver1792584326/3792107/jpg/1280x720",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası, 2026’nın ikinci çeyreğine ait Finansal Hesaplar Raporu'nu yayımladı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "1707b9532d5f",
-   "baslik": "Vatandaşın finansal varlıklarının yüzde 54'ü para ve mevduatta",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T12:03:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/vatandasin-finansal-varliklarinin-yuzde-54u-para-ve-mevduatta-haberi-844746",
-     "tarih": "2026-10-21T12:03:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/21/evde-butce-hesaplari-ht76_cover.jpg",
-   "yorum": "TCMB'nin 2026 ikinci çeyrek Finansal Hesaplar raporuna göre, Türkiye'deki hanehalkı finansal varlıklarının %54'ü nakit ve mevduat şeklinde bulunuyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "37f1e9f972c4",
-   "baslik": "Beko \"SuperWash\" teknolojili çamaşır makinelerini tanıttı",
-   "marka": "Arçelik",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-21T11:20:01+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/isdunyasi/genel/beko-superwash-teknolojili-camasir-makinelerini-tanitti/705100",
-     "tarih": "2026-10-21T11:20:01+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Donanım Günlüğü",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51a0tOZzRpWlBOM0lIX1BUYk50WGMxZUMxOHZraXVLVmxSRUEzQTFOaG80VFBVMTcxaklwMV94UW15dUk2N2RRMGZTOWkxTG84d1FIbWJKRFh0c3JUZXN0RmNzazRQUHVnS0ZuSXQ5YThSX1BnVHBWSmp3ckw0UQ?oc=5",
-     "tarih": "2026-10-22T09:00:10+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/21/thumbs_b_c_c0204dda7f5e71919550b9a23c7698a7.jpg",
-   "yorum": "Beko, patentli SuperWash teknolojisine sahip yeni çamaşır makinelerini tanıttı. Yeni modeller 40 dakikalık programla %35'e varan zaman ve enerji tasarrufu sağlıyor, 10‑13 kg kapasitelerde ve A sınıfı enerji verimliliğiyle satışa sunuluyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "e0b0b0ecc055",
-   "baslik": "Mobilya, kağıt ve orman ürünleri ihracatı 5,8 milyar dolara ulaştı",
-   "marka": "Sektör: mobilya",
-   "kategori": "mobilya",
-   "oncelik": 3,
-   "tarih": "2026-10-21T11:17:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/sektorler/mobilya-kagit-ve-orman-urunleri-ihracati-58-milyar-dolara-ulasti-haberi-926140",
-     "tarih": "2026-10-21T11:17:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/rcman/Cw1280h720q95gc/storage/files/images/2024/07/09/mobilya-kagit-ve-orman-urunlerinde-ilk-6-ayda-38-milyar-dolarlik-ihracat-2nw3_cover.jpg",
-   "yorum": "Türkiye'nin mobilya, kâğıt ve orman ürünleri ihracatı 5,8 milyar dolar seviyesine ulaştı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Google Gemini (gemini-flash-latest)"
-  },
-  {
-   "id": "e6dca1657de5",
-   "baslik": "Teknosa ile Digitürk’ten televizyon ve dijital yayın paketi alanında iş birliği",
-   "marka": "Teknosa",
-   "kategori": "elektronik",
-   "oncelik": 1,
-   "tarih": "2026-10-21T11:00:09+00:00",
-   "kaynaklar": [
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://www.dha.com.tr/amp/ekonomi/teknosa-ile-digiturkten-televizyon-ve-dijital-yayin-paketi-alaninda-is-birligi-2966961",
-     "tarih": "2026-10-21T11:00:09+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEZQd3RoVVFyZ3cxd2xBZ1hYV211X21mckVxNXpPY1p6bWZuMWRCMjdDdkR0WFJyWlgxYWZYVmQ5OXZSYlcxci1zVzRXV2dmMVFQbTlfajdXNHljVmtqRHJWM2Z0eXVlcHFTMVBsRXZxQm9RNFRXRTRVOUlQUjMxeHdjUmtZcnA1RnMwMno1YThCOGtmWGFWU2tnMGZCTTI1TXRZNGtRUjlkMENIT3RjXzR5dTZxSUlrZnJMc3hGdThDRkJjMlhQRQ?oc=5",
-     "tarih": "2026-10-21T15:59:45+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Havadis",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGU0V0R2dkdCNGZTZWhGNExwXzMwZDBBcV9BVlBuVzFiVkN0cXZITXdUMVlfOWE5SG1GeXI4NU1zTzZWaXN3Vkg5QzFTSWJnQU9GNEpMYUZ1N1RvLV9IYjU5Ul9XV1JkZ2M2TXUzYzh1RHdleHZ4LXVtQjNQb3pxd0xRM0IwVU5UcWhRVWpwNkhkYmtFZmNnMlJnVkp0VVh5RHZwSXNGOTFsWG1PYjNIYjI0a3liUQ?oc=5",
-     "tarih": "2026-10-21T22:35:31+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "CHIP Online",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUJxRWhLeURyaHI1a0xMOEN3MTRYSUQxRDFLTGNDejB5bi1VNFN4QThhdllybGpZSkNLdHBpN2ZKTi1EQUpXTDBWNFUxd21BSnAwVFJhTkwySnpTd0xaLUFXN1ZTT20xNVNVUkVIenBjSUhxcjFPU0NJOTdTSnlDcWxXQjgtS1VhOTg5eGYwb0JPMGc5RlVGb29EUndJMXFMWEl0RWYwLTNCVjRkTnVhSldSaHVyWWZRSWx1eW5QV2tqNVVkdjFybmVTMA?oc=5",
-     "tarih": "2026-10-22T08:30:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Sabancı Holding iştiraki Teknosa, Digitürk ile ortaklık başlattı. Ortaklık kapsamında, Teknosa mağazalarında televizyon satın alan müşterilere dijital yayın paketleri ve kurulum hizmeti sunulacak. Müşteriler, televizyon seçiminde Digitürk paketleri hakkında bilgi alabilecek ve tek noktadan hizmet alabilecek. Teknosa, geniş mağaza ağıyla Digitürk'ün yayıncılık uzmanlığını birleştirerek alışveriş deneyimini zenginleştirmeyi hedefliyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "3f23b2e8e7f5",
-   "baslik": "S&P'den Türkiye'ye faiz ve enflasyon tahmini: Kredi notu artışı için 3 kritik koşul",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T09:20:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/spden-turkiyeye-faiz-ve-enflasyon-tahmini-kredi-notu-artisi-icin-3-kritik-kosul-haberi-844717",
-     "tarih": "2026-10-21T09:20:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/20/sp-global-ratings-zjle_cover.jpg",
-   "yorum": "S&P Global Ratings, Türkiye'nin kredi notunun yükselmesi için enflasyonda güçlü bir düşüş, rezervlerde iyileşme ve Türk lirasına güvenin sürmesi gerektiğini belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "e9f881763f5d",
-   "baslik": "TCMB faiz beklentisinde iki dev banka piyasaya karşı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T07:38:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/tcmb-faiz-beklentisinde-iki-dev-banka-piyasaya-karsi-haberi-844695",
-     "tarih": "2026-10-21T07:38:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/kuresel-ekonomi/reuters-anketi-japonya-merkez-bankasindan-faiz-artisi-beklentisi-guclendi-haberi-926072",
-     "tarih": "2026-10-21T07:43:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/cin-merkez-bankasi-ndan-sessiz-faiz-adimi-3792072",
-     "tarih": "2026-10-21T08:02:34+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/21/01-ana-gorsel-faiz-karari-7jd6_cover.jpg",
-   "yorum": "Goldman Sachs ve Societe Generale, Merkez Bankasının 22 Ekim faiz kararında politika faizinin %37'de sabit kalacağını öngörüyor.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "e9e60596a7e5",
-   "baslik": "Reel kesim güveni ekimde geriledi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T07:10:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/reel-kesim-guveni-ekimde-geriledi-haberi-926066",
-     "tarih": "2026-10-21T07:10:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2023/12/01/hesaplama-wsxu_cover.jpg",
-   "yorum": "Ekonomim'in yayımladığı verilere göre, Türkiye'de reel kesim güven endeksi Ekim ayında gerileme kaydetti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "7b95a1cdc31b",
-   "baslik": "Neslihan Köroğlu'ndan kritik veriler: Bilançolarda sektörel ayrışma ve faiz indirimi beklentisi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T05:52:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/neslihan-koroglundan-kritik-veriler-bilancolarda-sektorel-ayrisma-ve-faiz-indirimi-beklentisi-haberi-926015",
-     "tarih": "2026-10-21T05:52:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/neslihan-koroglundan-kritik-veriler-bilancolarda-sektorel-ayrisma-ve-faiz-indirimi-beklentisi-vkdt_cover.jpg",
-   "yorum": "Ekonomist Neslihan Köroğlu, bilanço verilerindeki sektörel ayrışmanın sürdüğünü ve önümüzdeki dönemde faiz indirimi beklentisinin arttığını belirtiyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "6f26529628a9",
-   "baslik": "İhtiyaç kredisi faizlerinde son durum! 250 bin TL’nin güncel geri ödemesi ne kadar? İşte oranlar...",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T05:43:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/foto-galeri/ekonomi/ihtiyac-kredisi-faizlerinde-son-durum-250-bin-tlnin-guncel-geri-odemesi-ne-kadar-iste-oranlar-galeri-926014",
-     "tarih": "2026-10-21T05:43:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/ihtiyac-kredisi-faizlerinde-son-durum-250-bin-tlnin-guncel-geri-odemesi-ne-kadar-iste-oranlar-fbil_cover.jpg",
-   "yorum": "Haberde, Türkiye'de ihtiyaç kredisi faiz oranlarının güncel seviyeleri açıklanıyor ve 250 000 TL tutarındaki bir kredi için aylık geri ödeme tutarı hesaplanıyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "616425dea935",
-   "baslik": "Garanti BBVA Genel Müdürü Mahmut Akten: Faiz indirimi bekliyoruz, fonlardan ciddi çıkış yok",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T04:47:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/garanti-bbva-genel-muduru-mahmut-akten-faiz-indirimi-bekliyoruz-fonlardan-ciddi-cikis-yok-haberi-926005",
-     "tarih": "2026-10-21T04:47:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/garanti-bbva-genel-muduru-mahmut-akten-faiz-indirimi-bekliyoruz-fonlardan-ciddi-cikis-yok-u5ns_cover.jpg",
-   "yorum": "Garanti BBVA Genel Müdürü Mahmut Akten, önümüzdeki dönemde faiz indirimi beklentilerini dile getirerek bankanın kredi politikalarında gevşeme olasılığını vurguladı.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "0359a3dfb188",
-   "baslik": "TCMB'nin faiz kararı belli oluyor! Ekonomistlerin beklentisi açıklandı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T04:23:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/tcmbnin-faiz-karari-belli-oluyor-ekonomistlerin-beklentisi-aciklandi-haberi-925999",
-     "tarih": "2026-10-21T04:23:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/tcmbnin-faiz-karari-belli-oluyor-ekonomistlerin-beklentisi-aciklandi-ue8r_cover.jpg",
-   "yorum": "Ekonomistlerin analizlerine göre TCMB'nin faiz kararı yaklaşıyor.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
