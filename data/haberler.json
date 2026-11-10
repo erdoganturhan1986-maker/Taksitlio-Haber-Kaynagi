@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-10T12:56:11.507316+00:00",
+ "guncelleme": "2026-11-10T20:35:27.230587+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -1061,6 +1061,40 @@
    ],
    "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/05/thumbs_b_c_2af03aa8d51e5c7f8207f20f7ba85d0b.jpg",
    "yorum": "Daikin Türkiye, Orta Doğu ve Afrika Bölgesi Başkanı Hasan Önder, İstanbul Maltepe'de yeni bir Merkezi Sistemler Uygulama Merkezi açtığını duyurdu. Merkez, 110 metrekarelik bir alanda klima santralleri, mini chiller, kompresörler ve yeni nesil kontrol sistemlerini sergileyen bir deneyim alanı olarak tasarlandı. Açılışa Daikin bayileri, yetkili servisler, basın ve şirket yöneticileri katıldı ve merkezin teknik eğitim ve satış sonrası hizmetlere katkısı vurgulandı. Merkez, otel, hastane, ofis, fabrika ve veri merkezlerinde kullanılan iklimlendirme sistemlerinin uygulamalı incelenmesine imkan tanıyor. Önder, şirketin veri merkezi projelerinde 300 chiller sağlayacağını ve Afrika pazarına yönelik büyüme planlarını da paylaştı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "c76ee06ada84",
+   "baslik": "Birol Sülük: “Beş yıl içinde Türkiye akıllı telefon pazarında anlamlı bir pay hedefliyoruz”",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-11-05T09:09:57+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/birol-suluk-bes-yil-icinde-turkiye-akilli-telefon-pazarinda-anlamli-bir-pay-hedefliyoruz-3925356",
+     "tarih": "2026-11-06T08:28:16+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "İşçi Haber",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblZNVmxTNnl2dmVnRU5Qa2F4bXdORTNTMURhdW5rYTFqcXpmY1VYR1B3elR6dG1PMGkyY3otb3dmcnNMMU1EVVd1cnFLQ290eE56Y09BMHR3cHU3RTFwTW92eFdzYTlTbjVrd1lYVkhOVXh3SzE0OWw4MkdRR2RzWmU1VUxQdmRudlJjLUJFS2UwVk1WdERJenFLYWNPdzNkdXc2c0RySHF5VXdqOXVIbmdRUC1fOFYyRnZudkxCbw?oc=5",
+     "tarih": "2026-11-05T09:09:57+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "PC Hocası",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2xjdHN4bXVISWM2WHRoQ2RQcDBsMG5ERmFqQVI1T3RhRjdkMFJELWpZQVd6WTBaSEg4RTRabVN5VTVzLVNsN0RBZzI2ZVVwMUV5ZV9kWnEybE1Wa2lSb0NXem5FSFZXWTRfUnJ0cGFpOEtxY19qeVlDMlZqWTllUnVxYU5wMWtyTDNVZGI0YjQzVWlfV2xQNUF1V1VoeGpxc2ZPQ0tUcnJ5c2JB?oc=5",
+     "tarih": "2026-11-05T10:53:30+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793953632/3925356/jpg/1200x628",
+   "yorum": "Yeni teknoloji markası ZEED, 3 Kasım’da The Peninsula İstanbul’da düzenlenen basın toplantısıyla Türkiye pazarına giriş yaptı. Akıllı telefonların yanı sıra tablet, akıllı saat ve kablosuz kulaklık gibi ürünleri tanıttı. CMO Birol Sülük, beş yıl içinde Türkiye akıllı telefon pazarında anlamlı bir pay elde etmeyi hedeflediklerini belirtti. Marka, farklı yaşam tarzlarına uygun teknolojiyi erişilebilir fiyatlarla sunmayı ve üç yıl garanti avantajı sağlamayı amaçlıyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -4235,74 +4269,6 @@
    ],
    "gorsel": "https://img.ekonomim.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/21/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-ptwd_cover.jpg",
    "yorum": "Beyaz eşya sektöründe birim fiyatların artması, ihracat gelirindeki kaybı telafi edemedi. Artan fiyatlar sektörel karlılığı zorlayıcı bir hâle getirdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "5627b85772bb",
-   "baslik": "Teknosa ve Digitürk televizyon ve dijital yayın hizmetlerinde işbirliği yaptı",
-   "marka": "Teknosa",
-   "kategori": "elektronik",
-   "oncelik": 1,
-   "tarih": "2026-10-21T15:59:45+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/teknosa-ve-digiturk-televizyon-ve-dijital-yayin-hizmetlerinde-isbirligi-yapti/705108",
-     "tarih": "2026-10-21T15:59:45+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Havadis",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGU0V0R2dkdCNGZTZWhGNExwXzMwZDBBcV9BVlBuVzFiVkN0cXZITXdUMVlfOWE5SG1GeXI4NU1zTzZWaXN3Vkg5QzFTSWJnQU9GNEpMYUZ1N1RvLV9IYjU5Ul9XV1JkZ2M2TXUzYzh1RHdleHZ4LXVtQjNQb3pxd0xRM0IwVU5UcWhRVWpwNkhkYmtFZmNnMlJnVkp0VVh5RHZwSXNGOTFsWG1PYjNIYjI0a3liUQ?oc=5",
-     "tarih": "2026-10-21T22:35:31+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "SacitAslan.com",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRm9UckdKaU9OMUN0T3h4bVVabmZ6eUthSFhpZ1NET1p3UkJoc3ZPM3NOVUt4TE9YSGVadmp6eC1iSjNHdEljVXUyZnFkdVRhNnZvOExmM1dHOVk3aUotVks4bzh2c3FEc1VuU0lDVmFNc2JPTFpMRTEzMHhiN2VmdkZQVG01UURHeThnRGNSdU1zNjRSdThwZEd3cTdpN0JQdi11YjBoWTZLUXEzWDVOQjZTZzQ5cHN4dmxJ0gHAAUFVX3lxTFB2a0VJMGc1eDhYdG1NcFpXY0dMS2x4bTBrNGxmSW1LVEk3eTZVZUtoODBQSkxYdGl4d1pmc0YxNXY3Wk9EN1YyUzJPckgyUjlNRzI4Y253clBVcldZWHlVbGdEa3FYUWc4bUFBVUVOS08zR21LaGZoQ3hvQllJU0FyT3N5T2FNME9zREZFQ19hUTFyUE1GQUVpUk9CaHBKUnlBTVVkNE9kdzE5NzF4TFZJTExFZ0w3NHVTT2hhWS13Mw?oc=5",
-     "tarih": "2026-10-21T11:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "CHIP Online",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUJxRWhLeURyaHI1a0xMOEN3MTRYSUQxRDFLTGNDejB5bi1VNFN4QThhdllybGpZSkNLdHBpN2ZKTi1EQUpXTDBWNFUxd21BSnAwVFJhTkwySnpTd0xaLUFXN1ZTT20xNVNVUkVIenBjSUhxcjFPU0NJOTdTSnlDcWxXQjgtS1VhOTg5eGYwb0JPMGc5RlVGb29EUndJMXFMWEl0RWYwLTNCVjRkTnVhSldSaHVyWWZRSWx1eW5QV2tqNVVkdjFybmVTMA?oc=5",
-     "tarih": "2026-10-22T08:30:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGpPZ3BBQWQ0TWdRMlNkQ1h1aGlVTkhDT21nSS1rVi1qQlpXWDJNazJkbmlQRjhxQnladzNYdzNMbkhVSFVZcjk5WTdDdm5HUVVrTldJRUVEQ29pR2tzbV96dzVyWi1GYmpseGI2QVBiSmtaMkpLeDFPdm1DNklDVzFNcV8wMmVGc1RULXlVWmVQSHB4dGc3aXJGLTBGc1ktWGhzb1Fsb1h3bUlSUzFHbEhCYlU1Ykts?oc=5",
-     "tarih": "2026-10-21T11:00:09+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/21/thumbs_b_c_a8457d43ada587b7c69234378f1dd3d9.jpg",
-   "yorum": "Teknosa, Digitürk ile televizyon ve dijital yayın hizmetlerinde iş birliği yaptı. Ortaklık sayesinde, Teknosa mağazalarından televizyon satın alan müşterilere Digitürk'ün yayın paketleri ve kurulum hizmetleri sunulacak. Bu sayede müşteriler tek noktada televizyon seçimi ve dijital içerik erişimini sağlayabilecek. İş birliği, Teknosa'nın mağaza ağı üzerinden Digitürk ürün ve hizmetlerinin daha geniş kitlelere ulaşmasını hedefliyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "36ec14842344",
-   "baslik": "Faiz indirimi bekleniyor ama ekonomistler temkinli: Görüşler ne yönde?",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-21T15:25:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/faiz-indirimi-bekleniyor-ama-ekonomistler-temkinli-gorusler-ne-yonde-haberi-926194",
-     "tarih": "2026-10-21T15:25:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/faiz-indirimi-bekleniyor-ama-ekonomistler-temkinli-gorusler-ne-yonde-dadi_cover.jpg",
-   "yorum": "Ekonomistler, önümüzdeki dönemde faiz indirimi beklentisi olduğunu ancak bu konuda temkinli olduklarını belirtiyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
