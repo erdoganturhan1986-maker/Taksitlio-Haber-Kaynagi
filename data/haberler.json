@@ -1,7 +1,301 @@
 {
- "guncelleme": "2026-11-11T00:52:26.999691+00:00",
+ "guncelleme": "2026-11-11T12:06:28.647690+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "893ee76b11ff",
+   "baslik": "Akbank’tan Daikin ile iş birliği",
+   "marka": "Daikin",
+   "kategori": "finans",
+   "oncelik": 3,
+   "tarih": "2026-11-11T08:30:40+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/akbanktan-daikin-ile-is-birligi-3926509",
+     "tarih": "2026-11-11T08:44:15+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Aksiyon.com.TR",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVNCSy1TMG1kMVFvMVhXX1U1TGVfR3p0OWdHb2x4Q29lLTlMNGloTG1IUEdzODJ3QnpoQmRydENIVEdGai1sbnJIU3oxRi1IQlZ0aW9PRkJoajRSMVI4MXVldTdTS2hsQXN4d3oxN3Y1NWpLMENjczh3WkVrY0IxVVl5YnAtbXJZemhlLWpOcFFrZk1OY0Fsa3J0YUdLbzdSQlhCem9GaDdTRmgtRFHSAbMBQVVfeXFMTkR0dTcyNmF2YTVOc1lnRXJxU3NPVmRnNWNILWg4d0lLcjdCdy1iX25sWFQxdjRUSnN3QnM3bjBrMTVpOVdSamhyNnlLVUxBNHl0UGVZcUxNbUp5UlU2VmVqWV9YT2tCSzAzRmtvTUVoU0REcmFfQ05KR1RRZXBGQWNGSmRyRmN2djRpMjRhNk51Yi16dWFHY3NfazJsUDJ6SDFpYkZsaXJKS1RQUVBPQ05MMkE?oc=5",
+     "tarih": "2026-11-11T08:30:40+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Saray Medya",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFA3V0NLdldJeVNQMGVMdk1fNTc2X1E2TmpfMWh1NV9sMkkzMkFtbDlvM2lmNEwxakVWLU1CTmJWbEJvaEo4YWNhZDFnLWdON3pZQWFfZ2VNWnUzak1KZUg5RHJzMHNSYzBROFZHMjgweUk2UC1tVjdMRVE3aENWdDMxVjRZX1VTZlV3eFZuVTFXN29WLW5TMnByVkFmN1BuWm8yT2tpVHVfVDVD?oc=5",
+     "tarih": "2026-11-11T08:38:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "ParaMedya",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGQzUlJlTlY3Z3lJOXRvU1BLT3ZOVWt1NEhNaERFaWg2ejBjLXkyS3VRem5IcVVac2VNX2lVUmxiZ1laVzZFUFBybDk3VC16azNpMmRTSm5pVzlmUzRvelZobzhjU0E2NVMtbjdwYVBIQ2tVaXRLLWQwMDR1Y1podFpJY1dBWXdTR3lPRFM2ZUtWeF9QVnhreWc2RFB2MHl2bGdzYzBjY25CSmt1MmdhQm5XRHBnck3SAbwBQVVfeXFMTTFXLVN6eUQxVkJkRnVLclhLS3Y4VVB6aEJiT3Z2RW1vQVdZeWVTdDV3R0RNVHhwTk10RWJhMU9aQXpaNk1KVndBZVlRd2ZTSmRNWENpa1pFMW1kVXZfS1d6R1dZOTBiNFlUdExwRmZHcU9RaGEzZ19qbjhaYy12WkZEVDZOU0xjYkZMdHc1bEtlTFcxVGtTWTJwbklTRXdvYnlZWUNia3UtU3ZBeldoZ2VtMUlRYi1laWFkUFI?oc=5",
+     "tarih": "2026-11-11T08:38:15+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "FintekWins",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUElEaDZXS05meVpjWlhCRG1XRTdVbE5qdHI0eGJrQUN5cEVRdzR0am5rM0thY1hTVEhCSGVZSG9LSlgzRHF0WkIweFl2X2hlZ3pVTm5KYTdSX0Rsc2FRRDdySmEybW1kOWFmdWVwSGVIZE1fUTJoOWplbmhiMEFzcnZwX2xXWGd2RnNNak5yd0VKWmZ5a2xOLW56QQ?oc=5",
+     "tarih": "2026-11-11T08:51:56+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Dosya Haber",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUpBbmRCN1l0b2d4cmczaGprY2ptSlBDZHJYbnlXWVBZUHZqaVRzMWNyaC1RRnJRRTVlWldneE12emRLYXF1M0Ffam91b1RSdjRqVnhpd2NaeklTUVZ0dHFQbnFuRkVZUFVTYTNMTEVqU0ZRa3o2Snlma2ZnNXVPX1dfTzN4bGFkMHFiT19PSUVfSHJrelhDdXktSnRqdnl4?oc=5",
+     "tarih": "2026-11-11T11:35:27+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/11/ver1794386275/3926509/jpg/1200x628",
+   "yorum": "Akbank, Daikin Türkiye ile sürdürülebilir iklimlendirme finansmanı iş birliği anlaşması imzaladı. Anlaşma, teknoloji ve finansman çözümlerini birleştirerek enerji verimli ısıtma‑soğutma sistemleri ve düşük küresel ısınma potansiyelli soğutucu akışkanlara geçiş yatırımlarını desteklemeyi amaçlıyor. Program, Akbank’ın Sürdürülebilir İklimlendirme Finansman Programı kapsamında KOBİ Eko Dönüşüm, Ticari Yeşil Büyüme ve Düşük Karbon Ekonomisine Geçiş paketleriyle finanse edilecek. İmza töreni COP31 Yeşil Bölge standında gerçekleşti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "c8ee0c14eca1",
+   "baslik": "BDDK Başkanı Kavcıoğlu istifa etti",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-11T07:55:40+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/bddk-baskani-kavcioglu-istifa-etti-3794169",
+     "tarih": "2026-11-11T07:55:40+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/bddk-baskani-kavcioglu-gorevinden-affini-istedi/4119824",
+     "tarih": "2026-11-11T08:09:10+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/son-dakika-bddk-baskani-kavcioglu-istifa-etti-3926489",
+     "tarih": "2026-11-11T08:32:10+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/11/ver1794383762/3794169/jpg/1280x720",
+   "yorum": "BDDK Başkanı Şahap Kavcıoğlu, sosyal medya üzerinden istifa ettiğini duyurdu. İstifanın nedeni, kurumun son günlerdeki iddialar nedeniyle daha fazla yıpranmaması yönündeki talep. Cumhurbaşkanı Erdoğan’dan affını istediğini belirtti. Fon krizi sürecinde BDDK’da yönetim değişiklikleri yaşanıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "abee371a32b8",
+   "baslik": "Ticaret satış hacmi eylülde yıllık bazda azalırken perakende satış hacmi arttı",
+   "marka": "Sektör: perakende",
+   "kategori": "ev",
+   "oncelik": 2,
+   "tarih": "2026-11-11T00:00:48+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTFjWnI4MWlyaVdVQ0xSaE1JWTMxWlR6RTU1dGJ4M29vTmtPRUhqdVhGdUplSWR4VTMxR1BBZDVvSlZVWDZUZnBNLU5pNEpGcS1YQUpqRGZOQ0VXM2U5NWFmN3BYNEJWa1FSeDhJQXVLNl9OT1B5dndWdk1jTDBhVkdDS3ZabERyOVFqQThraE9QVnZOY2pQNjRZeWNjLUQ1TDFvY3g2Ti1USmpXVER0dHV3OGpxNHlW?oc=5",
+     "tarih": "2026-11-11T07:02:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkpvMTZZV3Nyc3dQelVMdWd0Y2pUVGxYUEpidUNBTzVsdm5ESUg4bGlVM3hBb1ZiZ1YxdnJmUlQ5V19acWRjTUtjMmJRWGZzNlRTOEQ2T0ZHUmc5VTg2WEptY2xNcHVKcWtSQ2gweFFJVDZrM2RBdGtfbF80OGZZLV8zekNEVnZIZjJiUUFVUHB5cEpmZ25lTXRVcUkzUEVWc1E?oc=5",
+     "tarih": "2026-11-11T07:06:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Sabah",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXFwRkwzQUt3RURUTWJkZ2NpNDlJY08xT1JWVXN1akJRRmNuUFJYT2VjWGd0X2dVOUNWQU52RUVXUXNSZ0RsZFV2LXFDRnc5djVsdmh1Zjl5ZVJQZmVNS0R4WFRlUmxEX1IteVBsVlRfUlcwbXFoUElVcFRNZEZabkdlYW1UZHg3WEN2YkVZeVRaSXBsVlc1MzdUNms0b2NTQV9Ba1VLV3k?oc=5",
+     "tarih": "2026-11-11T07:08:48+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/ticaret-satis-hacmi-eylulde-yillik-bazda-azalirken-perakende-satis-hacmi-artti/4119738",
+     "tarih": "2026-11-11T07:31:40+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "EKOTÜRK",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzRqdWdkcV9WLWd3aTUxNHQ3MFd4WFJSRV8zOGZHVHNxM2JLeTFRUUtTM0lvUGF4NUpiWldoNmctSl9BNmU1Q1ZNT0JlUWFmcG1jak1QM2g0VENXMk9UVTVxTUZHcFp2MHJVSC1qVTl2Vm04ZmhTX0Jlc0RNeEJLSzk1RE9ZZWJkZDdObzVkcE5NM0JVNHBrYjNIbm9vdDduZnc?oc=5",
+     "tarih": "2026-11-11T00:00:48+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV2pKSl9GSGtGNDZXalVMZjVLOGhTdlZMMnVTSUVoTzA2UnV0OGZ1a29scXhJd1dfeTctbWR2SGlWSGpXaElKR0VSdE9uZ3ZiMnY1XzhUc3JLYUlfQmI3T3drdnZKLS12ZXZFX2NkX0tGazBKZXpBV3dOdmhReDBkQTlGemhkb3lJLUEwbWhzR2x1Sld4OF9US1E3eGpGV2EyTmt3ay1FS2gzWVJTcVlmcXBRSTREZG1ZLW9ETzFJYWJGdG5COGdUQ1BTMlZlU0VycjZwMzRTTUI3bklsQkE?oc=5",
+     "tarih": "2026-11-11T07:02:30+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXFFdm1sWi16eXBXd1hoVndmZUFhQVNON1VjVjEyRk03ZGxNN0NSTkVjbGtRNFQxUjRjcDdkUjJOdTVlYkNEWmlDT3JFQXY5dERiTzVZQ2Z0ZFhYNTNpYjdsUXN4N1J0Z1RpUVFnSjdISGZZRlRxTW1CV3A0ZERMSzJBbXg5bl93RTVJ?oc=5",
+     "tarih": "2026-11-11T07:08:12+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomist",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbElYUHZGWkhHS0ZScTlTYmY5bHhNN2x2RTVFYkRaVWdvWFF0emc1SnhXWjg4QkNtVThJaGVsUFl4dEtwdnFCeGNtZUFqSEktVTl6VEp1RFQtc0g5S2luaTRvUk1JNDN6MzFhLWVVZ0lHX05lN0dGYTBTd2k1TkdHVFRCTm5odFEwTDJCb09pQ1VlMkg2MGZqek02Q3VpTGh6NnRCTGd0UG9sM2MxQ01QTkozWWY0T2NSbEdMRjdfbjJubzYyN2ptNDIxQ2pyQQ?oc=5",
+     "tarih": "2026-11-11T07:11:27+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yorumla",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2tvQllIUkNyR2NWeDJBYkJyWWRrQjN1OGRRa3F2TkNFSVB6cm5PcnN6TGYyMHRmNTY0Wm1nMVBBNER0SG1OaTNCUW04SG9SajBiX2Jtb1A3TWUwT0JjUXlUNjRxSDE1YzRaaTF0MEFQNThrTDZRN1hsNmF5MzBmMVVBOWY3NGlZYjZYN0w0aVBKVE9yZ196ZVVLQnpJSzk0NGlTYkJMak1PRjVIY3ZJNm5R?oc=5",
+     "tarih": "2026-11-11T07:16:53+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Son Dakika",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFhZZ0l0c0tWLWMxNGJCS3F5QWFDUS05M2UxNUVSWC1tVWg2NVFVR3hXTi1idm9icEdfUWdCNUxLY3lnX2lKTHNUMGp1b19WRWd4UGJTS2VoYU4wU3dfMUV4UFh6ZEFfSGhsRG9JUVBPc01QSHBib0lXLVdLUm9UUzlfdFEtNXpqRzU0eWU0a21meVd4aUZ5Y0d2Z1jSAZwBQVVfeXFMUHhYWWdJdHNLVi1jMTRiQktxeUFhQ1EtOTNlMTVFUlgtbVVoNjVRVUd4V04tYnZvYnBHX1FnQjVMS2N5Z19pSkxzVDBqdW9fVkVneFBiU0tlaGFOMFN3XzFFeFBYemRBX0hobERvSVFQT3NNUEhwYm9JVy1XS1JvVFM5X3RRLTV6akc1NHllNGttZnlXeGlGeWNHdmdY?oc=5",
+     "tarih": "2026-11-11T07:19:53+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Para Analiz",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWw3WjFYWkF1cVlyYjJPd3hPR2FSOENVWTFSQU1sd1JkbFJxaXdlcDF3NGJMZERsQlB4Vm1MX24xb0FhbHltSWJXUGtnc1k1dDh2czdBQWhxRFExeDFsSGdUZmg3c1RsTEQ3NzVQREdjcndET1hUVDJZbkd6QUZzZDNrR1dYcURkckVOa21RMHNnRHNTRXhtWE5VcmlVa014OUUyMlZxUXJRR1VONXRPdDMxOWgxT2c?oc=5",
+     "tarih": "2026-11-11T07:20:14+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ereğli Önder Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1QzlGWF9CVjB3V3NGQkxKY1lJVHlpUmtkendYNmUwTnZPSWhkRHJ2RkFIT3ZlakpEVEt2aTJJRVdFWnNDckFZcmlhU0p2S2toRHZzUk92NUhJSTNqbnpydXFHcWlhSV8ycGZ3YWtwSnBSY053VElmak9lY28?oc=5",
+     "tarih": "2026-11-11T07:30:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Canlı Gaste",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0d4dXp0WG5hYnJBdjZhVTJFVzRBeTQwQjg4UnFNZjRaaHRYR3IwSDQzV0J3NzFySHAxd09id2dDYXl5UWNwNHZVX2hMRWdQLTN0cHFDZTRycEpUVzB2YmlKUmVjSTRkaHlLSFFUYWRzM29kZUhPMFFqcGFTR2Vocl9SZWxLZlVhOHBabTVydE80NGc?oc=5",
+     "tarih": "2026-11-11T07:30:30+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Cumhuriyet",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdU4tSjJ0SlFMNDJyYmc1RDlHYWU5cXdmUjNBa1ZUbTdscFJSMDRtS2dyMVc5MmJpaFdxZW9VT2R2WmZpNV9tZ2tzZXZUdkRReXVJMzZ1NHFpeTNsc3NTUVI4MDAtV1RIUEZTQkFUTUZ2Wk9KYTJvUVV6WWFmX2xCaVBZbHM5SlRlUW43cG9HQjJRU01ibVp3bnNpaGlySUkydjRGSExqUmZVUTA?oc=5",
+     "tarih": "2026-11-11T07:38:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjFON1B2ZkIwTlZ6S21QNFVIQ1VFdlVuSGRnMjBqenZ4NXlGeFRVMTFVZTVBVnZMN0xyTjhhUVJ6MVBCcFJ1cUVXVE5tS01adzV5ZWtzUXBnT3pFNEZoTURLLVpnQzVhaDhKSjNJaUc1VmozU0tUVkVabUZBVFBJM29ycmtpNU9vZllRdy03U201dkswYnlIRg?oc=5",
+     "tarih": "2026-11-11T07:45:45+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsa Gundem",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOGp6TGNLNVVDSkxnd2JheE8wUGlPMFItZ0xuNWtXNWhLRkdGTTNFaEl0aEhvU0FYQWZWdTZiS19tZy1xNmlCbW5aVjRHUUE1TlU1LVd4WnNjLXZPaDdET3UzTDV3dnJPQmdRQ0MzUmVDYUhGLW5IN2N6QWJZWDRkVVg4WEhDZmRWQ2c?oc=5",
+     "tarih": "2026-11-11T07:54:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ticari Hayat",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZER4SXBfSXZDcHZEMXc0dlFUY0g3ZXp4ZFJpT2c2UW5teXVoQkdRTGZDajA5dklZMk1OcTQ5elJaT2FZM2VoRi10b2xqYjVyempTQUJsMG1IbWhKSGxoZ0xacHdpckMyODY4c1gzMjdwbHh6d2V2bEhzaFBlcEtER3ZVYzVfVk1qR1ZpSmlRM3c?oc=5",
+     "tarih": "2026-11-11T07:55:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İz Gazete",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1VtTXh2UGFncnNyMmprdVMyLTU3M2pMRUdTZkV0dkVvd2drWnZNMGV0M2RJYjM1UE5KZldicnhUUXFCV0pBMUx4cnhPUkpKdTdzX0wxaUlHeTdUUFkyMkt4VGRtMnF4UFhkNXZtX04wT1N6blBvWEFidEN0SnY5QmJRUk5CcE00V1YzMHo0WnA?oc=5",
+     "tarih": "2026-11-11T07:59:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Van Olay",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzRGdDRDdXkxQ2J4U0JaZU9UYjlScFlHTUh3ck5tVjBkcl90S240bDY5T2pmc1lCZ05TRDVPR3daUGRlUkhBOEZxVVFCdll1ZjUzWG5YSmRUZ2pGNWZTa0pLZXU0N0ZCcGRXYktwamNRX3hZZW9tZTFrNzUyOENEYXhsTzJoczhVci1wbFFuckQ3cnloTDlncg?oc=5",
+     "tarih": "2026-11-11T08:11:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsanın Gündemi",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmpQT2FCcldobnQ1NGw2VzZpeTZfeGl4TzNMc1o1czJHX1NsNFdDZ3dGNThRRWZyMzFvRnNTVTBsSWpzN0tOa0hNam1zb2g3UHIwRVFHS2pCXzJaMlpQdHM4VWo4bEJXY1BrSHh6dEhNajlab0NaWXgyS3Zkdm82ZUFuODlmZ25tdlhNOW5UcXR5U2U3YzV3OThQMG4wLURFR1BYS2hQY21yZkRvSGlRUVl3?oc=5",
+     "tarih": "2026-11-11T08:11:54+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Amida Haber",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaXR4cXU2U0lQMEFYbVNFdGlrTzVreWhYR2U3UjdPNWN6TXE1ODloTEd1QmFVZHdBek9rSVZiM3hQUGo5YVlENDZqVVNacUloUGp5QXZSekRIU2NTYmxxeUlReUVVUVlZTndncmpNNDVDdlFCdDNDSFFiU3FEeGpMR2tfeTMyWFhJMGg5aUUzSExRZw?oc=5",
+     "tarih": "2026-11-11T08:17:50+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İstanbul Ticaret Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ05wekZsNTN0YXFNN3VZYkdPbWV2a21WRERDSFNkTXBmZjcxRGxNSllsQjJNbXFGeGpvNG04UFZ2QUtFeHpuTlhHUDNNMFUtR25sblF5bUpIRFpvUFhDUkhEUGxxWjA3OUloS2VwUlRST1JlejE0WW5mUnFXczU0NEYyWlJfaEFqYjZWZmV5NXVQRHU1YVNpNFZsMFdMQQ?oc=5",
+     "tarih": "2026-11-11T08:28:35+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Milli Gazete",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTE5vLXBKbW5xdVdOWTY5bm0yVDNpamN4UEVvdHJaNzk3OHRSZTJiYk9nSlNSOW4tYXB5VlVHa1BIQlBDaXlBdTU3RmJqdXozT3pGSkdkLV9yVmJTM3JOcEphTFFqRVNFdGJoa3NjNFZkQ3BmUE1OLTlsTGV2TnlGV1hzRVJTckFYaVVxTHp3?oc=5",
+     "tarih": "2026-11-11T09:15:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREYybGlCQ0J3SzRDU0hxV3dNakZxbjRvaTJRUmxqajRRTTlQdTRzd0V0OW13UTU1N0hNYmRfSFRIaXpFbERKb1ZtV0NuSTktdjhibmIxN0IxRWw0VTlWdlh2bUFHVWRXdV9yTHpteS1IVU1rSTRLbEpNYkNYZGdaTkhqbDZiemtKdWZsekhLUi1rZHdUX0RLNDBaU1c?oc=5",
+     "tarih": "2026-11-11T09:15:09+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Dosya Haber",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLU9SQlllTkF1Qkw5RS16RVZzUTZrbXlSTXVjbmtWVGJ4ajY5TnNJYnJUY2loM1RvT3pfaVFvc3ZLeWhWNlRCMWZyX1JTeVJ0LW01RzF1cVBSdUt6X0w0RWtoN0k1YnFvRXJOc2NPZHZwZVRLZmJpMnAxQnJMR3BiVWlXN0oxLU9pRXpv?oc=5",
+     "tarih": "2026-11-11T09:38:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Malatya Söz",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUtESnZZakdHYWZ2VG5iVXowWDFaYTBmRVYyMWhoblpsNnhXMVhuOVV5Y0sxM3g5cGlGQVdPMEZJQ2lGUnU2VTZxWUxheGNmTW4tSHJCTmE5UUhKRE8xWmY0b0VSNTJ5NW01S2hmZmk5MG5YVHFiSXdQTjlQRU9MYWdIUGF0Q0lQcVhRempDS3RGejN5RnhJd00zYWQ5RkZwMDFNaG5UTEFIMFNY?oc=5",
+     "tarih": "2026-11-11T10:15:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "www.ticarigm360.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcThCMVJTX2pLaVJTcTlJOGUyUi02VjBXejBsbVM1dVhKbkpuTXpsR1FmYTN2dDBmWGN1Q1I4Z25Ba2t5Z1hjRnZYNUZXWXdUVFVObUplRVBJUUMtZl9YeElDZ2ItU3p6ZXJPU1FmeXNUZXVOeVRkOEp3QXROQmN5Mm1uVDVHQWNtSHBGNVhCVXNPOXZORG9pendmMmk0Rmt4d09uUzdBX2dUOEZQNXdFRWJwUnVkdw?oc=5",
+     "tarih": "2026-11-11T10:42:56+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Para Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXBwcjNPejJabE5VN1NrZk9FNzhLNUdBekR6VFVZRkExbDdXRWpsOWl2ZlNLSzRzRUhndnRqNllNWDhGWEZKMElOanRRTW1wNzRub0pxTGFKWVpQSzJZdlZPSXp0Q3dsZUQyM0hfTmZvNzR5RVU2NzdwQ09tZENhZGJteVJTTDdHYWc?oc=5",
+     "tarih": "2026-11-11T11:45:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Denizli Haber",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkNFemFVbmZzUmltRTE4aGRqelE3SmtpZGpkTktvNFpsVFY3dGxQYlo5TGx0elUyRTBtMUxnMUE2eUxVTURsWkNBQ0ZWdzIzRktIdF9ES2RIbW5pcWlsZFl2T1VIYUQwc1lkR0VNS1hZd0dwM2l4Q203TXFBQVdtc1pVMWtYSmc?oc=5",
+     "tarih": "2026-11-11T11:47:12+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/perakende-satislar-3794154",
+     "tarih": "2026-11-11T06:31:22+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12MElQNjJGSkp5RDVVcGRUTzI0V0w5eUJacUM3cC1NZ29BUGkzYlEtTUxnZVpPSzRsQ3RCLXctc2wtVWVkUWcxTWpmdnJJRnRRcERKaEZ3RWRhS0pvV25HZXUtLWM?oc=5",
+     "tarih": "2026-11-11T07:06:22+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Paranın Yönü",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkwxcUVhbjJyT3J0WWJmdXpiMW5TRmpBb21sVHBkQ093bXFobGlWNzJDLUZva3pHTS1rZTNlUklzdWgtS2ZYazhsSHhTV1ZRN19kaDZoemZ0THlsOVlydW5NNjc5N04yNVRSckE1MElKdlNVMWdZYWw1aXlqN21wMXRfMFROaDJibGhSOVpFb3MzRTFPYnpDdUowLW1uX2R3T0pzVEF6QzRsUjl0WUFpYUpR?oc=5",
+     "tarih": "2026-11-11T08:29:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/11/thumbs_b_c_f6641b89101928db6a54cc481fe75a74.jpg",
+   "yorum": "Türkiye İstatistik Kurumu (TÜİK) verilerine göre, Eylül 2026’da ticaret satış hacmi yıllık %5,6 azaldı. Aynı dönemde perakende satış hacmi ise yıllık %7,7 artış gösterdi. Perakende hacmi aylık %0,1 artarken, ticaret hacmi aylık %0,7 azaldı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "1fd23f3ceac8",
    "baslik": "İmalatta görülen daralma yayılıyor",
@@ -84,6 +378,64 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "6b801af309a5",
+   "baslik": "Arçelik CEO'su Can Dinçer: \"Yolculuğumuzun kalbinde sürdürülebilirlik var\"",
+   "marka": "Arçelik",
+   "kategori": "iklim",
+   "oncelik": 2,
+   "tarih": "2026-11-10T07:56:17+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/video/haber/izle/yolculugumuzun-kalbinde-surdurulebilirlik-var/922638",
+     "tarih": "2026-11-10T07:56:17+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRklZR3NqRGtGLWRCTEZHTjhYRUxCSG5MTjd0bmpmS0hMdEV6SGhuc21YTmVRVXFtVjhKNnRObXFiaVh2ZktOZUZCYmJvcjQ0YU1mOUNqOFlyRHhMb2VFdXBvMTRIdjZDeVNmbjl1NjU3cUg5OVFMSjhET1pwYThEWXVNVWFpcVlseXVUUS1iZWMwcnVxUVpPeWo2cmt4akhXMjQwNVp0Q1N3ZEdJQk5Ld2R3MlFuUQ?oc=5",
+     "tarih": "2026-11-10T09:16:19+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Dosya Haber",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW9zMDZWSzFRLTlLZHNYcHBINVpZYWZ2djgtaWdPQnlZdHctUFpIVndONzhEeUtPZmowMTFOcDBjRmZwblhyUktjb2g1Zk9NaWJDLVltdWZGT3NTTkhFN2tsS2tZcFYtb2hCOVFVQWcwd2p3ckNubWd1aWliNXN4NGR6dm5LbkZoeFdMWmM1eVFSMUl1R1U2NEVMT0E4dXlGMzBHZ0YwVzU?oc=5",
+     "tarih": "2026-11-11T00:06:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Fuar Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUVOcWpCcU1Ea1ExZjB2QzBrTDNyUGZSWlpaNjZjQ0xISGpIS0duYlhYekN0di14NEVwTkcxUnN5eXRlU1RLWVNOaGN6cFZHYlNRZTV6RVluR1NtUHBMODlSX1Y1eHdvdkxYVG9JZXVyc1F2VUdVUm1EOGIzQlpEMFo3YVVwY19sVGh5ZTNFTDV5MDJkNDNaaXFsWm83M2FfR2ZackNKMWw5Q2V3SkloQklnT3J3QQ?oc=5",
+     "tarih": "2026-11-11T08:46:22+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomist",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlVtWnVmYzRGeHBWNHA5UUlTZzk4RHo0LXF1OS1jQ3BBSFhybTR6X0stejFNeGQ1TVduOGRQY1ZXdXI1aXgtMlFCOWNtNUkwdF8tY0J3R3AxSEZlVVVkUEVGb2t4U3JHSllBQWVpajcxc1dDb29qeHNGT2NGRjA5ZWJWLTF0aGdSX244NE9kbE5TdzZLUXI5OEEzVENxb0Z6UFpXQVVEdk9XOER0NGJTaTRZcDNaMlBranJHU25pV2U?oc=5",
+     "tarih": "2026-11-11T08:53:16+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İnternet Haber",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHVrbm1CaG9CWTdQNms3N0docUtPR2lURlJGd0dReWZpcTNTR3FWeU9KOW0zTkxYc0RST05yWHVBSTNYUTI5RXFvOWpGS3podHp3eTRxQTRTYWpnNHRzN2VMa3RiSnF2aHhsaFVYWjlNcDVPZU9TR0tzTjlKNTI5amtCVUtDTlVSZWxkNEcxbC1aVDdrV3d4YUFYVWtTRVpUMEZkdkI5ZGJ5TEhCeUpEenRTS2NMWF9RbjNybA?oc=5",
+     "tarih": "2026-11-11T09:16:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yorumla",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRE1NOVdCLW40d3pld3NmelFnX3VjMFE5RTBkNTY4c3dkOWxYd0xZOVVWcDB2VHUtclhrMUcwNkc0Y1FPaXVWSGYwVjZ2aWZ5RndvZUxsX0wtYnoxVW9JdExBRHFDYlo5eVZfNDNsUnJ2ZXdPQjE0WTRLMGdHdGZSWm9ZR0s5MzlrVG9xekxva3dSb1F0ZFg1RGFtaE4zWUVSWXdvVkkyTXJ3VEN5?oc=5",
+     "tarih": "2026-11-11T09:37:34+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://mo.ciner.com.tr/video/2026/11/10/ver1794297842/A918F8C2F613FF7267411C47DCD685E6_750x422.jpg",
+   "yorum": "Arçelik CEO’su Can Dinçer, sürdürülebilirliğin şirketin yolculuğunun kalbinde olduğunu vurguladı. Şirket, COP31 kapsamında Türkiye Voleybol Federasyonu ile sürdürülebilir enerji iş birliği yaptı. Gümüşhane’de yaklaşık 50 dönüm arazi üzerine 4 MW kapasiteli bir güneş enerjisi santrali kurulacak. Bu santral, federasyonun elektrik ihtiyacını karşılamayı hedefliyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -3968,326 +4320,6 @@
    "neden": "",
    "gundem": false,
    "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "8491684254fb",
-   "baslik": "Bankacılıkta mevduat 33,1 trilyon liraya ulaştı: Kredilerde artış, bireysel borçlarda gerileme",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T11:29:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/bankacilikta-mevduat-331-trilyon-liraya-ulasti-kredilerde-artis-bireysel-borclarda-gerileme-haberi-926420",
-     "tarih": "2026-10-22T11:29:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/22/bankacilikta-mevduat-331-trilyon-liraya-ulasti-kredilerde-artis-bireysel-borclarda-gerileme-z7fg_cover.jpg",
-   "yorum": "Ekonomim'in haberine göre, Türkiye'de toplam mevduat 33,1 trilyon TL'ye yükselmiş ve kredi hacmi artarken bireysel borçlar gerilemiş.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "ac33b7db5cd2",
-   "baslik": "Merkez Bankası'ndan faiz indirimi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T11:17:34+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-3921686",
-     "tarih": "2026-10-22T11:17:34+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/22/ver1792667388/3921686/jpg/1920x1080",
-   "yorum": "TCMB Para Politikası Kurulu, bir hafta vadeli repo faiz oranını %37'den %36'ya, gecelik borç verme faizini %40'tan %39'a ve gecelik borçlanma faizini %35,5'ten %34,5'e düşürdü. Bu karar, yıl içinde ikinci kez faiz indirimine gidildiğini ve toplamda 200 baz puanlık bir azalış gerçekleştiğini gösteriyor. Karar metninde enflasyonun ana eğilimindeki gerileme ve ekonomik verilerin sınırlı fiyat etkisi vurgulandı. Yeni faiz seviyelerinin enflasyonla mücadelede daha esnek bir politika izlenmesine hizmet edeceği belirtildi.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "02635f205170",
-   "baslik": "Son dakika... Merkez Bankası faiz kararını açıkladı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T11:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-haberi-844883",
-     "tarih": "2026-10-22T11:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-politika-faizini-yuzde-36ya-indirdi/4097070",
-     "tarih": "2026-10-22T11:02:03+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-3921686",
-     "tarih": "2026-10-22T11:17:34+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/yeni-proje-79-3i6p_cover.jpg",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim 2026 tarihinde politika faizini %37'den %36'ya indirdi. Ayrıca gecelik vadeli borç verme faiz oranı %40'tan %39'a, gecelik vadeli borçlanma faiz oranı ise %35,5'ten %34,5'e düşürüldü. Karar, Para Politikası Kurulu'nun beklentileri doğrultusunda alındı ve enflasyon, jeopolitik riskler ve ekonomik göstergeler dikkate alındı. TCMB, fiyat istikrarı sağlanana kadar sıkı para politikası duruşunu sürdüreceğini belirtti.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "9f1d89bbbe75",
-   "baslik": "TCMB'de Ocak'tan bu yana ilk faiz indirimi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T10:55:12+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/tcmb-de-ocak-tan-bu-yana-ilk-faiz-indirimi-3792208",
-     "tarih": "2026-10-22T10:55:12+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/tcmbnin-faiz-kararini-ekonomistler-degerlendirdi-indirimlere-devam-mesaji-mi-verildi-haberi-844894",
-     "tarih": "2026-10-22T12:04:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-politika-faizini-yuzde-36ya-indirdi/4097070",
-     "tarih": "2026-10-22T11:02:03+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-3921686",
-     "tarih": "2026-10-22T11:17:34+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/kuresel-ekonomi/avrupa-merkez-bankasi-faiz-artiracak-mi-iste-beklentiler-haberi-926551",
-     "tarih": "2026-10-23T05:49:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/22/ver1792666732/3792208/jpg/1280x720",
-   "yorum": "TCMB, Ocak ayından bu yana ilk kez politika faizini 100 baz puan indirerek yüzde 36'ya çekti. Aynı toplantıda gecelik vadeli borç verme faiz oranı yüzde 40'tan yüzde 39'a, gecelik vadeli borçlanma faiz oranı ise yüzde 35,5'ten yüzde 34,5'e düşürüldü. Merkez Bankası, enflasyonun ana eğilimindeki gerileme ve arz şoklarının sınırlı etkisini vurgulayarak sıkı para politikası duruşunu sürdüreceğini belirtti. Enflasyon üzerindeki yukarı yönlü risklerin devam etmesi halinde politika daha da sıkılaştırılabilir.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "21f08159753b",
-   "baslik": "Piyasalarda 'güvensizlik' ve 'belirsizlik' hakim: Dr. Nuri Sevgen’den borsa ve faiz değerlendirmesi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T07:29:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/piyasalarda-guvensizlik-ve-belirsizlik-hakim-dr-nuri-sevgenden-borsa-ve-faiz-degerlendirmesi-haberi-926345",
-     "tarih": "2026-10-22T07:29:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/22/piyasalarda-guvensizlik-ve-belirsizlik-hakim-dr-nuri-sevgenden-borsa-ve-faiz-degerlendirmesi-3vp0_cover.jpg",
-   "yorum": "Dr. Nuri Sevgen, piyasalarda hâlâ güvensizlik ve belirsizlik hakim olduğunu belirterek borsa ve faiz durumunu değerlendirdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "e12c0961286c",
-   "baslik": "Borç görüşmeleri süren Vestel hacimden değere yöneliyor",
-   "marka": "Gündem",
-   "kategori": "elektronik",
-   "oncelik": 2,
-   "tarih": "2026-10-22T07:10:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/sirketler/borc-gorusmeleri-suren-vestel-hacimden-degere-yoneliyor-haberi-926339",
-     "tarih": "2026-10-22T07:10:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/borc-gorusmeleri-suren-vestel-hacimden-degere-yoneliyor-3921630",
-     "tarih": "2026-10-22T07:25:18+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/20/vestelden-500-milyon-dolarlik-borc-icin-eurobond-sahiplerine-iki-secenek-vtw7_cover.jpg",
-   "yorum": "Vestel, borç müzakereleri kapsamında satış stratejisini hacim odaklı olmaktan kârlılık ve değer odaklı bir modele kaydırıyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "cd29b15a0228",
-   "baslik": "Merkez Bankasının faiz kararı bugün açıklanacak: Enflasyon ve maaş zamlarına dolaylı etkisi ne?",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T07:03:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/foto-galeri/ekonomi/merkez-bankasinin-faiz-karari-bugun-aciklanacak-enflasyon-ve-maas-zamlarina-dolayli-etkisi-ne-galeri-844846",
-     "tarih": "2026-10-22T07:03:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/turk-lirasi-sayan-dogal-eller-qjej_cover.jpg",
-   "yorum": "Merkez Bankası, bugün yılın en kritik faiz kararlarından birini açıklayacak.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "30246855d7dc",
-   "baslik": "Beyaz eşyada artan birim fiyat, ihracatta gelir kaybını önleyemedi",
-   "marka": "Sektör: beyaz eşya",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-22T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-haberi-926237",
-     "tarih": "2026-10-22T07:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Beyaz eşya sektöründe birim fiyatların yükselmesi, ihracatta elde edilen gelirin düşmesini engelleyemedi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "7fe09662db7f",
-   "baslik": "Yurt içinde gözler TCMB'nin faiz kararına çevrildi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T06:02:35+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/yurt-icinde-gozler-tcmbnin-faiz-kararina-cevrildi/4096625",
-     "tarih": "2026-10-22T06:02:35+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/tcmb-de-ocak-tan-bu-yana-ilk-faiz-indirimi-3792208",
-     "tarih": "2026-10-22T10:55:12+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-haberi-844883",
-     "tarih": "2026-10-22T11:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-3921686",
-     "tarih": "2026-10-22T11:17:34+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/merkez-bankasinin-9-ay-sonra-ilk-kez-faiz-indirmesi-ne-anlama-geliyor-haberi-926448",
-     "tarih": "2026-10-22T12:52:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/22/thumbs_b_c_f0356f1500e6afb6f9a442de770b8484.jpg",
-   "yorum": "TCMB'nin faiz kararına odaklanan piyasa, karar anını yakından izliyor. Merkez Bankası’nın faiz oranı belirlemesi, tüketici kredileri ve taksitli alışveriş koşullarını doğrudan etkiliyor.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "04ee8d562f96",
-   "baslik": "Yurt içinde piyasaların gözü faiz kararında",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T04:58:17+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/merkez-bankasi-faiz-kararini-aciklayacak-beklentiler-ne-yonde-3921594",
-     "tarih": "2026-10-22T04:58:17+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/yurt-ici-piyasalarda-gozler-tcmbnin-faiz-kararinda-ekonomistler-ne-bekliyor-haberi-926301",
-     "tarih": "2026-10-22T05:14:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/yurt-icinde-gozler-tcmbnin-faiz-kararina-cevrildi/4096625",
-     "tarih": "2026-10-22T06:02:35+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/22/ver1792644980/3921594/jpg/1920x1080",
-   "yorum": "Para Politikası Kurulu (PPK) bu yılın yedinci toplantısında faiz kararını açıklayacak.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "135f9028ea5d",
-   "baslik": "Yurt içi piyasaların gözü faiz kararına çevrildi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T04:56:50+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/merkez-bankasi-faiz-kararini-aciklayacak-beklentiler-ne-yonde-3921594",
-     "tarih": "2026-10-22T04:56:50+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/22/ver1792644980/3921594/jpg/1920x1080",
-   "yorum": "Para Politikası Kurulu, yılın yedinci toplantısında faiz kararını açıklayacak.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
