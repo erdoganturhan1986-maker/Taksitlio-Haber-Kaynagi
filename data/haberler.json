@@ -1,7 +1,63 @@
 {
- "guncelleme": "2026-11-11T12:06:28.647690+00:00",
+ "guncelleme": "2026-11-11T19:50:03.112769+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "9e7bf985d1bc",
+   "baslik": "Merkez Bankası kredi büyüme sınırlarını yükseltti",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-11T19:16:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/tcmbden-kredi-buyume-siniri-karari-haberi-930684",
+     "tarih": "2026-11-11T19:16:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-kredi-buyume-sinirlarini-yukseltti-3794251",
+     "tarih": "2026-11-11T19:21:30+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/tcmbden-kredi-buyumesine-yeni-duzenleme-limitler-yukseltildi-haberi-847323",
+     "tarih": "2026-11-11T19:29:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/23/prof-dr-evren-bolgunden-tcmb-faiz-karari-degerlendirmesi-100-baz-puanlik-indirim-beklentilerle-uyumlu-1yk6_cover.jpg",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası, ihtiyaç, taşıt ve ticari kredilerde büyüme sınırlarını yükseltirken zorunlu karşılık uygulamasında da değişikliğe gitti.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "8258ec9b15f7",
+   "baslik": "Bloomberg yazdı: Avrupa'nın yeni kuralları Türk beyaz eşya devine yarayabilir",
+   "marka": "Gündem",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-11T18:13:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sirketler/bloomberg-yazdi-avrupanin-yeni-hamlesi-turk-beyaz-esya-devine-yarayabilir-haberi-930680",
+     "tarih": "2026-11-11T18:13:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/11/bloomberg-yazdi-avrupanin-yeni-hamlesi-turk-beyaz-esya-devine-yarayabilir-uxdy_cover.jpg",
+   "yorum": "Bloomberg, Avrupa Birliği'nin ithalat ve yerel üretime yönelik yeni düzenlemelerinin Türk ihracatçıları arasında endişe yarattığını, ancak Arçelik'in Avrupa’daki mevcut fabrikaları sayesinde Çinli rakiplerine karşı avantajlı konumda olduğunu belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "893ee76b11ff",
    "baslik": "Akbank’tan Daikin ile iş birliği",
@@ -44,6 +100,30 @@
      "ad": "Dosya Haber",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUpBbmRCN1l0b2d4cmczaGprY2ptSlBDZHJYbnlXWVBZUHZqaVRzMWNyaC1RRnJRRTVlWldneE12emRLYXF1M0Ffam91b1RSdjRqVnhpd2NaeklTUVZ0dHFQbnFuRkVZUFVTYTNMTEVqU0ZRa3o2Snlma2ZnNXVPX1dfTzN4bGFkMHFiT19PSUVfSHJrelhDdXktSnRqdnl4?oc=5",
      "tarih": "2026-11-11T11:35:27+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdU9ZdFNQZU9iczJSNlBnVDNGMHJkazRkRnZaaXplSWFCVjFuTE1GQmhRVDBxbDVoUU83WGM4S3lzTlF3aHIxdVFRZHhFVHUtUW92MDVKcDIxSjNmcVg5Q2VYZE5IYjNpTklxQ2pzeGJRaVhIaWFONVJhR1BJaFlSNnJ3N2I0eUNubmllVnh4N1Y5QVkxNXFLbXA4Sm1TT19XSUcybDlZd2U0LWVGLTJpelFvYTJuN2hXWTRySHlmZjN6Zk1rZm9VcG1mRE5naVV1dE9fa3M2MV9IZw?oc=5",
+     "tarih": "2026-11-11T17:25:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "İnternet Haber",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMmx5cFdXQjg2c0ZYZFFFajNfNG5rR1JHTHU1dzdIaXdKN2cxTmFOdEhrZHd2aGFOdEJLTmhqeFVrWkZTRlF2cXVPRDZ5eUN6TndwVURrQTdDTFFZTjdqWjc5djZBTkd5OW1kQ0trWERSU1V6WWhRWVhzSWFxTlhjdzdiaUxuczZGSFBLVzVWQVYwZWJGaE4xQzJuVzBhYXU5LXJoNGNrRm5ZdGFBMDJuYUFFSWlWVWluMVJ2X0VDQWg0endONTlZdVJIZDdva0xZZ2c?oc=5",
+     "tarih": "2026-11-10T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Havadis",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2trbjJVR3htRl83dks3V2pJemEyY0d6dHNncGt3RGFpaGFlTVVnOUdHUlBhd3RhUjNCQlItZnZfTDQ0aXJ1VnVDMjh6bkplUlU5ZXZMamctRWI5TF9meHlJdXhqWm9PRzRVQWVVNWVIT19Ib29uYTF1QTFwc1ZzUUxZSmtTYTNXYnlZa29WTjlGcjUxbDRRWTIzTFpTRlpnUkRZbEd6UDd4RXZKM3ZiX0FDdWdTbGJa?oc=5",
+     "tarih": "2026-11-11T08:31:26+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yenidevir Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS2ViSjU5cDhxRllHTTl1REF3N3EyZGcxU2xtWDN2UF9wN3ZyNHBqMFcyZkRWTU1acGUzWUFqNmRQXzNuRVFGSFdKbno3MVhRYnA1R0U0UlBUU3lkN1hXdDBfaE40dW8zdzVBVHNOUW03VWdmc0VidEJ6eElyM1pYLWtxZEt0SHpYUTJscHBMcG9OTnhTeEN1UzlWRUh1c3hCV0Ffckl5Y3paRWZxQzFWQUkxak1jOTVwd0lSckRzVXVRRHNWVGc?oc=5",
+     "tarih": "2026-11-11T08:33:05+00:00",
      "guvenilir": false
     }
    ],
@@ -739,6 +819,64 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "fca770d7deaa",
+   "baslik": "Beyaz eşyada Avrupa'nın üretim lideri Türkiye: Ekonomiye 441,8 milyar dolarlık katkı",
+   "marka": "Sektör: beyaz eşya",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-06T08:15:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya Gazetesi",
+     "url": "https://www.dunya.com/ekonomi/beyaz-esyada-avrupanin-uretim-lideri-turkiye-ekonomiye-4418-milyar-dolarlik-katki-haberi-846676",
+     "tarih": "2026-11-06T08:15:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Pembe Pusula",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmRFWkN4QzVEREZmWVp6VXp5a29VMVpRa1NDY2dzdDEydDNVVld2bnNYdWpaemNRY1YxeUZqWU9XVmJ2OTk4SnlfUHNhV2dRZk5Jb2dBdkFwcTRfY0ZwRXEwejNTTXVPTUY3TG94SV9uX093SjZvQWx1T2VpdnBQd1ptYjZuMjl3ZzhYOEJ5eURYRC05akNpU2t5Zno1ZW5Qb2dqLUVTOXZ4MjZhMlHSAbsBQVVfeXFMTVV1MEU5NTNqRmZZenRTOFlBVXAwMXRzeDJLS2QzQ2owVnhGSkJWV3A3cW9qSWw3Q2RoaHVVSS1kTFhUTk9wRXRGN0RjeEk3YTdBVDMxLUQtcDlZcURKVGlTYWt2djFwZXNlck50a29pWEpBX2V4ZDRFa190OWpnYmlfVm1MWEpMQmRuU0JLejZyUndNMlFERXp4WWxLWk1oQnFScndaRm9qWTNxT01pc1Z2RnBobkxVQUg0VQ?oc=5",
+     "tarih": "2026-11-06T11:00:07+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Marmara Yaşam",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVRvM2FRVkx2RzBTQjNWS3BHV1dscmZpOVY0MlRFdlJ0LXBQQTNqZmxHUHdKMTBka0gtQkgzc09DYnpiSi1fbFNVcUxxRnZhMkdicGtsemZ1TkgzT0JlVUk2NExZcHQ5Z3JibnQ4RDVFbTl1U3RCMHpfU0VrOXJSMDRDYWNRS3JreE1GeG8tejZEVDlwTldjV0d3c2RPR3otaUVuakh1S0plVl8ybWNmbUYtSDBSd2pPMFFJQ3hMUlk?oc=5",
+     "tarih": "2026-11-06T11:11:43+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kanal 46",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjRvVnEyYzBQRnVmWFYzcWNjMG1BdlhGMElNNUpLWXdkUGdCZ2VFdHIybUlvVDNaTE9TLU14bU02RHpmeU80VTM5TTdLQmVCN2hEYzNuM0NtX1ktUTVEcU93Y2pKTFJRVGNodnFSQW1jdWxsVl9QQmZMamZWZnFNR0pMa3ByU3NpRFNsLTF3UC1xVlhWYUVucExsR3RKM1BudVIxQTJwUkk?oc=5",
+     "tarih": "2026-11-06T12:45:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "SteelRadar",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjNNM25CTktDQm1iSmtNdHo1em5nNWxxNXl1U1VZd1VjV25tUFdOc25HUXpTZjBpWHJURnAxb0J4ZzZFQXpnY2FTay0zSTlHMGYybkJmcXkyX0RmblhKc3p2QkRadVlpb3RkT1QzVVMtOFhQNHp4Qk0xellQZnZyakxtSVYySWU5VXFqZXJPV3hHcVdOLVN2LV9nTzdRMkh0VVVfODRCc0FBbHMt?oc=5",
+     "tarih": "2026-11-06T14:00:47+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNElkX05DOE56WURMSGwxazFwTjZEMzZEWE5oNFM4NGNfN2lZUUM1X1A4U2VubUdsRWlTeUxvUlZzYi14WmxXdVlUYXNFcnFwUENmeTJ4dFdOWXMtSFREdVpYYWZtT2ZGeThFcC1yUS1aODZPQlJRemh2RTdQNzFkUGZ5dVpCei1Pd0hPdjV2SU9OX0RadmNMNW92eVlsNTZOSG5IUnREaXlKMi1rZEpOQW50X2JMd0oyc3Rr?oc=5",
+     "tarih": "2026-11-07T04:33:49+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Anayurt Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFdOMFVIMy00U2o4Mnc0SEdEWGlVN29uQmNkX2FnYmk5NEphUTBIUXp6elBxd3RfTHJWUEdPYTc1RjRHdUc1cloxRGxjdDhGc25lYVJPVXdnQ19lTHYwSjJUbTYyMW9lUEtwQjFBNVM2RWZyUWk5MzZnQ1ZPLTF5VlZwc2lzVV9aRXVSLU9xQVNsNTdmS0FNT1hvd9IBoAFBVV95cUxON25PZ0RibHZnV2gxMzVjUGs5bXliSENoQnlEYWFkbTdJZEdzYTViQ0lXcC0tSW1RWkwxN0cxQTg5QThzbE5rSXE4YllRZjRaQVA4VlVCOVNDS1BZbXBEazVVZGNmQ1g2NnFtR1llUFlyeldSUGFiQ1ZqV3oyV2FsdzlMWHNEMGpfeEFEdzlPVDEwM2RZODFob01VeTE3bG13?oc=5",
+     "tarih": "2026-11-09T07:14:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Türkiye, Avrupa'da beyaz eşya üretiminde lider konumda olduğunu ve bu sektörün ekonomiye 441,8 milyar dolar katkı sağladığını belirtiyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "c34badc1124a",
    "baslik": "Mitsubishi Electric Klima'dan ikinci klimaya yüzde 50 indirim kampanyası",
    "marka": "Sektör: ısıtma ve soğutma",
@@ -1396,6 +1534,12 @@
      "ad": "canlihaber.com",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXBEeXBOdnBwbWQtVG9rLWRWaTQ0WXRBekp4LUl4LTR3UDY1aEhpREhHT1ZmanBCemFiUmF3aE5KX010VGVteGZ1eEdnU09zd2RqcXpyVG5GVURQX3N5WDdvNDVJenVKRXhGc2dVOExoTmJhYW80Nm1tbTI0NzBtblhzQkFaNXpqWmZaMHdKYWhmWi1vNTZGVFpwdXgyMzBRN1NKa1FGREJnZHByTjVjbDhKTlZERUFnXy1uSGVoNlp2dw?oc=5",
      "tarih": "2026-11-06T12:21:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "KARAR",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFNuUXNvSXRPZjFwcVFQNE40MWxrdDZjaDJGeUVwRE1SRDIydFdDc0FWdHJid3l1ek1vLUZuMVNLeG4xVGRRUjNwSktkZjFOaFh5czY2ZmdQTWJMV1lHU29YR0FqbVU1ZExNd3U5RDBiYnFUeUV6cVZMM0hLaHJyWkNUdHc0UkhYZzdrODlCUzhLODZteTAzbW5xWmtPY1dfa0hycll2UC1CeEFwZGpheGhYVFc?oc=5",
+     "tarih": "2026-11-06T06:57:00+00:00",
      "guvenilir": false
     }
    ],
@@ -4200,126 +4344,6 @@
    "neden": "",
    "gundem": true,
    "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c41be3923286",
-   "baslik": "Yabancı bankalardan TCMB değerlendirmesi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T13:55:53+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/yabanci-bankalardan-tcmb-degerlendirmesi-3792278",
-     "tarih": "2026-10-22T13:55:53+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/22/ver1792677396/3792278/jpg/1280x720",
-   "yorum": "TCMB, Ocak ayından bu yana ilk kez repo faizini 100 baz puan indirerek %36 seviyesine çekti. Gecelik vadeli borç verme faiz oranı %40'tan %39'a, gecelik vadeli borçlanma faiz oranı ise %35,5'ten %34,5'e düştü. ING Başekonomisti Muhammet Mercan, bu indirimin enflasyon görünümüne dayalı ve gelecekte de devam edebileceğini belirtti. HSBC ekonomisti Melis Metiner, indirimin piyasa beklentileriyle uyumlu olduğunu ve enflasyon dinamiklerinin iyileşmeye devam ettiğini vurguladı. HSBC, yıl sonu enflasyon tahminlerini 2026 için %30, 2027 için %15 olarak tutarken, politika faizinin 2026 sonunda %35, 2027 sonunda %21 seviyelerine gerileyeceğini öngördü.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "d80e8886c7e9",
-   "baslik": "Van’da klimalar kışın da ısıtma amacıyla tercih ediliyor İhlas Haber Ajansı",
-   "marka": "Sektör: ısıtma ve soğutma",
-   "kategori": "iklim",
-   "oncelik": 3,
-   "tarih": "2026-10-22T13:09:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "İhlas Haber Ajansı",
-     "url": "https://www.iha.com.tr/van-haberleri/vanda-klimalar-kisin-da-isitma-amaciyla-tercih-ediliyor-504468427",
-     "tarih": "2026-10-22T13:36:53+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Van Haber Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPajJYUkRWdml5cWE1dk9lVER0UVQ0ekQwS3RXRWZXOGVOcDlyRlVzS3JzTHlSaG95SHhkSEF6SGhwRU1VR1Mya2FyUXhEWUZ5XzhhVmNGaXRCUDdSR1RkeDhYekFxaDRnNHlWSEItMUIxSWRpb2hIZGxhbjkwNUJtQlluU1Y1UDJhM19lVm42ZVZ0QVlU?oc=5",
-     "tarih": "2026-10-22T13:09:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Mersin Haber",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXd4cWJ4c0piOFV4Q0xFUjhqaFB6eXgxSm5NYkMtUjMzcjRXaUpTSWdfMVMzRmExQjd6UVZLNVB4Z3BDS0N2WWNmOTRnTzZaeE5fcVkxeTJwM2puUUx5M2o5b1ZYYnhHSFNJRTJtWUlNWDVBdE9VQnB2SXB1SDZBM2Yza2dsdmJZMHRfSkgyeTZXSzlqRXAxeFQ2U0N0bWRvZ1hnRHZNN2E0VFhR0gFXQVVfeXFMUGpFODM1Qng4amxzTFNRVFNjbHJkbVRLNGZya21ZN09pV1NFb3VQTmd5T1B0RkF1dklaRWhhbVFxLXUxY19MM2gyYXMwbF91ZUU3Yml5cmc0?oc=5",
-     "tarih": "2026-10-22T13:36:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Doğubayazıt Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjRiVzhicEVXYzdhWEtidm9keTNySzVLMVk2eTVrYVpnVkFzcFlYWGdwLVU5WThwVFprZkZGVmNidDVBR1F5akRSVnpCZm5NYnhPQmF0bktLcWtCY1liOVp3UHctUlpGcUVoeUYyeFZyTkNnSE1wSGpUMWcxbjJJVTNn?oc=5",
-     "tarih": "2026-10-22T13:40:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Van Postası Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTl5NHFhZVh0ZEtzUDdrMlBzZkR2RW1BWjBuc3FZMlI3YlBwR0xhUGJRWFBlc0pTRFZONmJQMXVwMHZxeXM5RGpKb0F5Qk5OdmViSlB4eWhrUzI2czh0cmc2LTJMcjBSNXFDQnNXOEVuYWh0V3dCZnB1NkJOampER3otMjktRHIta2UtYTFMN0ZxdVZJaWtrdTAwLVNyVkplbG5xTdIBpAFBVV95cUxQc1RHNldmdWpRbldGMUtRU0ZERjRQVTM5d3NnU25VLUswM2djN1M2anVPaTJ5V2xtcU9EdU03eXRKdFpXcDE3bWdHaHgxVVN1VmpSTGJwTzRYZjRKSFVRUkplZ2dsakt5T2ZpSV9ab2xaOUZHaHhBeHo5UVpSTzBjVkVzLXhjaVE5aTVRTUp6WGk3NFFpcXNvUWMySnBGZ3gxX0NSeg?oc=5",
-     "tarih": "2026-10-22T13:42:32+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "kayseri gürhaber",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjNHMFhTZFdwaW1VZmFhcDV3VnlMdk56dkVjX1NWS3JsZkpIa25CRXdzOU1uQnBBb2RUd0dEb2R6REY4S2wxOWEzYlU1U1VIb0s5aVpQNlowUGoxQUlQTEV0M3hveUhiNDFockhOWGhOcVhBNVhtVWVCa0VCbFRBVEpFMEVENnprcUJ4TXdpZGd2c0NkeFHSAZYBQVVfeXFMTWIzRzBYU2RXcGltVWZhYXA1d1Z5THZOenZFY19TVktybGZKSGtuQkV3czlNbkJwQW9kVHdHRG9kekRGOEtsMTlhM2JVNVNVSG9LOWlaUDZaMFBqMUFJUExFdDN4b3lIYjQxaHJITlhoTnFYQTVYbVVlQmtFQmxUQVRKRTBFRDZ6a3FCeE13aWRndnNDZHhR?oc=5",
-     "tarih": "2026-10-22T13:49:06+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "https://www.ajansturkhaber.com/",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSUxZWmRKOUZaYmpvdW9fV3YyXzZJeWNxRk9yY202Q2JZME1iN3ZYVjUyc1pyZUhkbnNYOUtjN01XaXBJMHZpX2l3blhrM1FlejBYTkx3dGR0eWI0QkVuWllNb0w4c0UxV1lRc3pyM01aWjBwRXp6ZXZlQUppb19kdWZ1QkNlRjZ6cU9jRHFQNXFlTDg?oc=5",
-     "tarih": "2026-10-22T13:43:16+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Erzurum Günebakış",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOalgtSk1EMUVWM0RpdWlKOEtQd0doN3ZVNVBFYUczT2JUVmNzTVExcEZ0dktJOVIySzQ0Qk12MW56R0p6OGlxMFIzYzJVMVl3QlFmWUY0WDBsWGs4c3lZYlNGVGgtMzNobGNVSjNoWUc4LXJDd19vaEtxbWxvRmR0Z3pmRVhwRlVfNnFZMnBTSEJiUWNjakVXR2dXeEQyMmtDWkU0?oc=5",
-     "tarih": "2026-10-22T14:04:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Saray Medya",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXduVW5NdVFudjR0d25lYWEyT3d2VjhQbGhTQkxKVHhnLXdRTjFCLXU0cFltYzMzdXZrSkRtWndjLXZqUmR2OG9fSVhXMHhjTTRIRGdoLXdPc1l1ZnRIbXA5dWRFaHoySjNxQUFPSmpQazJiVDVYQlJ0WWNsUkVPQk4wb2l5Z2FzbWFIamxnakMwUEVtRDY5dw?oc=5",
-     "tarih": "2026-10-22T23:34:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Akdeniz Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tcDFqNG12dEpQTzY3SmN6RlFFemN6Q1ozYW1GLUNkZTFMeHF0N0xZY0EyLTZCWDFRWGNicS1uYlhlcWxUbWpBRkF2ZmUyMjNQUHJrWU1fcjdWSjhWM3dOMUN2Ui1IVmhBWm4xVy0wNlhMcDJFT3c?oc=5",
-     "tarih": "2026-10-23T03:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://cdn.iha.com.tr/Contents/images/2026/10/22/20261022aw816165-0.jpg",
-   "yorum": "Van’da hava sıcaklıklarının düşmesiyle birlikte vatandaşlar ve işletmeler, klimaların ısıtma özelliğini kullanmaya başladı. Klima satışları kış aylarında da artış gösteriyor ve hem konutlarda hem de ticari mekanlarda ısıtma alternatifi olarak tercih ediliyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "df540763d2d9",
-   "baslik": "Bankacılıkta dikkat çeken tablo: Krediler artarken kart borçları geriledi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T12:29:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/bankacilikta-dikkat-ceken-tablo-krediler-artarken-kart-borclari-geriledi-haberi-844898",
-     "tarih": "2026-10-22T12:29:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/yeni-proje-99-rryu_cover.jpg",
-   "yorum": "Bankacılık sektöründe toplam kredi hacmi bir hafta içinde 41,71 milyar TL artarak 28,678 trilyon TL seviyesine yükseldi. Aynı dönemde mevduatlar 761,4 milyar TL artışla 33,108 trilyon TL oldu. Tüketici kredileri 23,583 milyar TL düşerek 3,489 trilyon TL'ye geriledi; bunların 2,600 trilyon TL'si ihtiyaç kredileri, 846 milyar TL konut kredileri ve 41,767 milyar TL taşıt kredileri oluşturdu. Bireysel kredi kartı alacakları 81,566 milyar TL azalarak 3,390 trilyon TL'ye indi; bu tutarın 1,317 trilyon TL'si taksitli, 2,072 trilyon TL'si taksitsiz borçları kapsıyor. Taksitli ticari krediler 32,508 milyar TL artışla 4,361 trilyon TL'ye ulaştı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
