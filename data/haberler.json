@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-10T20:35:27.230587+00:00",
+ "guncelleme": "2026-11-11T00:52:26.999691+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "1fd23f3ceac8",
+   "baslik": "İmalatta görülen daralma yayılıyor",
+   "marka": "Gündem",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-10T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/imalatta-gorulen-daralma-yayiliyor-haberi-930453",
+     "tarih": "2026-11-10T21:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/10/imalatta-gorulen-daralma-yayiliyor-4z7t_cover.jpg",
+   "yorum": "Tekstil ve hazır giyim sektörlerinde yüksek girdi maliyetleri ve kur baskısı, sektörel daralmayı tetikledi. Bu durum otomotiv, beyaz eşya, makine, ana metal ve yapı malzemeleri gibi ekonominin ana motorlarına da yayıldı. Sektörel veriler, üretimin düşüşte olduğunu, sipariş defterlerinin boşaldığını ve ihracat adetlerinin gerilediğini gösteriyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "6a3968044d8e",
    "baslik": "AMB/Lane: Veriler değişmezse Aralık'ta faiz artışı ihtiyatlı adım olur",
@@ -48,6 +70,12 @@
      "ad": "Bloomberght",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRklZR3NqRGtGLWRCTEZHTjhYRUxCSG5MTjd0bmpmS0hMdEV6SGhuc21YTmVRVXFtVjhKNnRObXFiaVh2ZktOZUZCYmJvcjQ0YU1mOUNqOFlyRHhMb2VFdXBvMTRIdjZDeVNmbjl1NjU3cUg5OVFMSjhET1pwYThEWXVNVWFpcVlseXVUUS1iZWMwcnVxUVpPeWo2cmt4akhXMjQwNVp0Q1N3ZEdJQk5Ld2R3MlFuUQ?oc=5",
      "tarih": "2026-11-10T09:16:19+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Dosya Haber",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW9zMDZWSzFRLTlLZHNYcHBINVpZYWZ2djgtaWdPQnlZdHctUFpIVndONzhEeUtPZmowMTFOcDBjRmZwblhyUktjb2g1Zk9NaWJDLVltdWZGT3NTTkhFN2tsS2tZcFYtb2hCOVFVQWcwd2p3ckNubWd1aWliNXN4NGR6dm5LbkZoeFdMWmM1eVFSMUl1R1U2NEVMT0E4dXlGMzBHZ0YwVzU?oc=5",
+     "tarih": "2026-11-11T00:06:06+00:00",
      "guvenilir": false
     }
    ],
@@ -4139,6 +4167,28 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "30246855d7dc",
+   "baslik": "Beyaz eşyada artan birim fiyat, ihracatta gelir kaybını önleyemedi",
+   "marka": "Sektör: beyaz eşya",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-10-22T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-haberi-926237",
+     "tarih": "2026-10-22T07:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Beyaz eşya sektöründe birim fiyatların yükselmesi, ihracatta elde edilen gelirin düşmesini engelleyemedi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "7fe09662db7f",
    "baslik": "Yurt içinde gözler TCMB'nin faiz kararına çevrildi",
    "marka": "Gündem",
@@ -4238,40 +4288,6 @@
    "neden": "",
    "gundem": true,
    "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "30246855d7dc",
-   "baslik": "Beyaz eşyada artan birim fiyat, ihracatta gelir kaybını önleyemedi",
-   "marka": "Sektör: beyaz eşya",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-21T21:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-haberi-926237",
-     "tarih": "2026-10-21T21:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomi Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalktc2pEd3lKc0JGVnEycmdnWlp0Vkx4bnFzZjI2Vk16SFY4ekNRR0JwdkY3OXhRQnBkRGZLeF94TVY1Q20tUXJNM1pFNFZZSDJEQzNwYndHcGlMejI1QzFTQzFLOC1VNmVsNVQzRVlZUzNNUFQwWmVUUnlaX0swNWEyZF9pMXpuVWNSY19kNmRpMXAtWmlrSXNlM1RvWEhiU29QcXB5YWJmaEJVSFl5VWcyTGk3cldoZkpKYw?oc=5",
-     "tarih": "2026-10-22T11:16:56+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Para Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDBxelp2MWdOdGNMcUNQaXNrVVNOMElsQjVuVmxENzlvdVhaaTd6WGxpRUFXU1FjSTlmTHFnUlhhMXpoYXlHOE1laUk1bGo3UVNfVkRpUk5ZMGNaMWZyTUMzRWYwa1NkOTBad3VtZlpqZlBDXzFpR1prTjIwc3YyOWZYRUxVdGM5eWFFMUxyUUxCcnRqNklCMnhoWUdfVE4x?oc=5",
-     "tarih": "2026-10-24T12:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/21/beyaz-esyada-artan-birim-fiyat-ihracatta-gelir-kaybini-onleyemedi-ptwd_cover.jpg",
-   "yorum": "Beyaz eşya sektöründe birim fiyatların artması, ihracat gelirindeki kaybı telafi edemedi. Artan fiyatlar sektörel karlılığı zorlayıcı bir hâle getirdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
