@@ -1,7 +1,35 @@
 {
- "guncelleme": "2026-11-11T19:50:03.112769+00:00",
+ "guncelleme": "2026-11-12T01:59:22.049220+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "0ca152571613",
+   "baslik": "Dış pazarda büyüyen havacılık oldu beyaz eşya ve çelik ihracatta zorlandı",
+   "marka": "Sektör: beyaz eşya",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-11T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/kose-yazisi/dis-pazarda-buyuyen-havacilik-oldu-beyaz-esya-ve-celik-ihracatta-zorlandi/930697",
+     "tarih": "2026-11-11T21:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Borsanın Gündemi",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1pBUkRxai0zOVcyT3BoSk0zcFMtRTBTaXlZYVVTa1RjbC1rNnBnaG1WRFJJWVY0TkFuSmRyTjVldUJnTUl3VGo0d2djWnk3T0lCbzY3bTJLWVhVRE5FeFBRNzc2ZHlyNEdHTjVWUHpYbV9IUldsdG1UTkZvY0doRnhsR2RqOWNNNHp0bmNzYmxOZEpEeElzSFJmVzNSdmhzWTlmUFZVYTd3UDU1NkE?oc=5",
+     "tarih": "2026-11-11T21:43:46+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Yurtdışında havacılık sektörü büyürken, beyaz eşya ve çelik ihracatı zorlanıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "9e7bf985d1bc",
    "baslik": "Merkez Bankası kredi büyüme sınırlarını yükseltti",
@@ -26,6 +54,12 @@
      "ad": "Dünya",
      "url": "https://www.dunya.com/ekonomi/tcmbden-kredi-buyumesine-yeni-duzenleme-limitler-yukseltildi-haberi-847323",
      "tarih": "2026-11-11T19:29:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-kredi-sinirlarini-yukseltti-3926658",
+     "tarih": "2026-11-11T20:10:43+00:00",
      "guvenilir": true
     }
    ],
@@ -2599,6 +2633,12 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkFxWlFOUWJKMDJlX0hNMlJtc3J3dXJyMmN6Z0VzYzZLQXlySlJnSGhENGF0TXlfdHp2Ulk1YzRVZ0Q0Ml9FMW9uN2ZyUWh0VUppeU8wVEo2SnJKcnpJa0pHQzVQVW93SW42SlVHdjRVWG13Uk0xcVh3UjZEeTM2aFhzM08waXE0NC12RmxyWjZWbm9MR3RjYWp1WTB2bmVwWXpjQTlZTFVUVEltX05UdlA2RzJEWGFneXNORQ?oc=5",
      "tarih": "2026-11-01T10:32:41+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Yeni Birlik",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1hNSzg5WGdOcE9XdDBGYnpWUUhDWHdMdEVTWFpiN2k3WnlmOTJaRFNOaWhjeEV6cVJTQUxSOGFUYlN3M1RDajIwM1dMeWlpWGFTSWw5UjAtUkphUzQ0RmpqU2RBdTlqbDE3UTc2Q1hwWnNkV0dYeGxleTA3dEZCemlMMkZHeFc0R1BJYS1RWXBHR3htS1czWk1EXzQzaXV4ZF8xRA?oc=5",
+     "tarih": "2026-10-30T23:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -4316,34 +4356,6 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "09948da9509a",
-   "baslik": "Merkez’den 100’lük indirim geldi bir ‘100’ puan daha bekleniyor",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-22T21:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/merkezden-100luk-indirim-geldi-bir-100-puan-daha-bekleniyor-haberi-844935",
-     "tarih": "2026-10-22T21:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/tcmb-indirime-1-puan-ile-basladi-devam-hizi-belirsiz-haberi-926486",
-     "tarih": "2026-10-22T21:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/1-rkya_cover.jpg",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Para Politikası Kurulu toplantısında politika faizini 100 baz puan düşürerek bir hafta vadeli repo faizini %37'den %36'ya, gecelik vadeli borç verme faizini %40'tan %39'a, borçlanma faizini ise %35,5'ten %34,5'e indirdi. Kurul, gecelik vadeli borç verme ve borçlanma faizleri arasındaki farkı 450 baz puanda sabit tuttu. Piyasa, Aralık ayındaki bir sonraki toplantıda da benzer ölçekte bir indirim beklentisi taşıyor. Ekonomistler, bu adımların enflasyonla mücadele ve rezerv baskılarını yönetme amacı taşıdığını belirtiyor.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
