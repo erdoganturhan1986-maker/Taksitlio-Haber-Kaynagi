@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-12T13:12:02.417708+00:00",
+ "guncelleme": "2026-11-12T21:04:02.039931+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "37313fb1e931",
+   "baslik": "Miles&Smiles Kuveyt Türk TROY Kart Lansmanı düzenlendi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-12T14:26:01+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/milessmiles-kuveyt-turk-troy-kart-lansmani-duzenlendi/4122830",
+     "tarih": "2026-11-12T14:26:01+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/12/thumbs_b_c_16b9557ebe36d3c0a051899965448897.jpg",
+   "yorum": "Miles&Smiles ve Kuveyt Türk ortaklığında TROY ödeme kartının lansmanı gerçekleştirildi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "d2e6f00031c2",
    "baslik": "2027 asgari ücret zammında yeni hesap: Yüzde 30-34 artış senaryosu",
@@ -264,6 +286,18 @@
      "ad": "Hatay Asi Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVl0d0dNUUF4NUhQNFEtUFRWMWZQNEJBVXBfRjcxSFUtNmQ1cUQtTXYwMy03WEtjbl9CNy12Sm0zMlAzdTZmenJVNnlBTThMc3pmODBwUmQtMkxIUTlQM19ZYVR4N2s3ZUl6SUFGSXBVc2tsdWtJVTFzRS1aLWt2SGUyU0JtbmlJVkxyNkJrS1JyNXJaaGVCRUgweTNObF9qZDd4ZjNmMEdmSk9XM1VDU19tckE5OGN4LU5ueHR1NE0?oc=5",
      "tarih": "2026-11-12T06:13:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "BESNİ GÜNCEL",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVQxdEJqc3Z3YU1kZENleGs1UzVEckI5LUxrWnpyRlJKcjVDZ1ZFY09pa3BJel84U0xqVU1UTDAzWjJxd3p3MzdIaWdJazFQWmdCd0U5b09RT09Kc1BncGhIbjFUTkh1RnZCWXQ1V09PYTZNV08yUVl5aTRTMXh2T19rTW5YVjhLVVV5Xw?oc=5",
+     "tarih": "2026-11-12T06:32:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Başak Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlRoMm90QmpncWdoVlN1N2JZOWRkcmM5T2ZVWXRlM25FOGVSUWVMeWhUb0Ewa3cwXzdIUVdIampReU9TdTBNSllzUE92bndQRjFzX1ZCUXBBVzU0ZnJuc1F0dUlsZUJsUDFtZzNmQVpRcHdCb1VPUFFrUmV3X29GNjBSbml4cFNpS2s3Mk91NkZ0VGhtb1o2VmlOWFZOaVZFYlowYi1uMl9XRzhoNFhVdjY0Ny1sUdIBtgFBVV95cUxPQlRoMm90QmpncWdoVlN1N2JZOWRkcmM5T2ZVWXRlM25FOGVSUWVMeWhUb0Ewa3cwXzdIUVdIampReU9TdTBNSllzUE92bndQRjFzX1ZCUXBBVzU0ZnJuc1F0dUlsZUJsUDFtZzNmQVpRcHdCb1VPUFFrUmV3X29GNjBSbml4cFNpS2s3Mk91NkZ0VGhtb1o2VmlOWFZOaVZFYlowYi1uMl9XRzhoNFhVdjY0Ny1sUQ?oc=5",
+     "tarih": "2026-11-12T07:04:26+00:00",
      "guvenilir": false
     }
    ],
@@ -1900,6 +1934,12 @@
      "ad": "KARAR",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFNuUXNvSXRPZjFwcVFQNE40MWxrdDZjaDJGeUVwRE1SRDIydFdDc0FWdHJid3l1ek1vLUZuMVNLeG4xVGRRUjNwSktkZjFOaFh5czY2ZmdQTWJMV1lHU29YR0FqbVU1ZExNd3U5RDBiYnFUeUV6cVZMM0hLaHJyWkNUdHc0UkhYZzdrODlCUzhLODZteTAzbW5xWmtPY1dfa0hycll2UC1CeEFwZGpheGhYVFc?oc=5",
      "tarih": "2026-11-06T06:57:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Eskisehir.Net",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclBrb1MyWW1UY0RRS3NsRkFGLXdldTlPSXlGR1Q5V2dNT29zMl81ZWZFTElaTFVVanZaSEpMcjRnejZ4NnJmaDFIS2tYd1BnakFOaWY5eUd5cEFyZEZzbXBDcU1BR3lnNDFKeFNTTnB1cGlKcUpVT1JCSkk1QlZLeUw2SkZwaUR5TXB4Q0N4TEM0dnIzNFZvUQ?oc=5",
+     "tarih": "2026-11-05T11:28:00+00:00",
      "guvenilir": false
     }
    ],
@@ -3707,6 +3747,34 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "a01ca43bc39e",
+   "baslik": "SALONİ Mobilya 52.’ci mağazasını Kahramanmaraş’ta açtı",
+   "marka": "Sektör: mobilya",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-10-26T07:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sehirler/saloni-mobilya-52ci-magazasini-kahramanmarasta-acti-haberi-927243",
+     "tarih": "2026-10-27T07:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Yıldırım Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakNZTk5adXE0Zk92a1djYTQ2bm9ESUtLYXZ6ZUd4Z3ZGdmFNYzM4X1NWYWFCdm5vUnNpRFJpUTBPeFlQdmdlM0FkbS1kci1FU2Nsa0laSl9HLUhTSVdEbnFKWFpMejU5SWFRVzU3ZGZ2ZHY0ZTFSSjFiTFMxVFZ5UW0wbDRlZ3BLY3ZkMlJR?oc=5",
+     "tarih": "2026-10-26T07:00:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "SALONİ Mobilya, Kahramanmaraş’ta 52. mağazasını açarak bölgedeki mağaza sayısını artırdı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "b915bceb4596",
    "baslik": "Sektörel güven hizmette geriledi, perakende ve inşaatta arttı",
    "marka": "Gündem",
@@ -3962,110 +4030,6 @@
    "neden": "",
    "gundem": true,
    "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "a01ca43bc39e",
-   "baslik": "SALONİ Mobilya 52.’ci mağazasını Kahramanmaraş’ta açtı",
-   "marka": "Sektör: mobilya",
-   "kategori": "mobilya",
-   "oncelik": 3,
-   "tarih": "2026-10-23T19:58:05+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/sehirler/saloni-mobilya-52ci-magazasini-kahramanmarasta-acti-haberi-927243",
-     "tarih": "2026-10-27T06:55:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Maraş Son Haber",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWJFeFBIMjhyYnJwZUpqVjhEeXE2RnpmWU1LZVJTazA3VHg1NVJmUzJ5bVdPWktIVjlIQXRvNkxBN2J0d3Jja2ZNS05VSjlTV0Y4N3pNV1JKWk83alQ2TnJidDJxdXd6bE1SQ3dwNWdLUjdsX0RmT0V2MzB3SlRiODFqanVPNUd2d0HSAZIBQVVfeXFMTV9BMTVxdy1iczYzNGJtNWtXeUdXZnUwYl9XaXBVMm1YTjN3OGM2MldTVExucUlzcEZEYVA1cTZOaTVkZFFzUUdkNVhhLXBhRElwRk9FVDBYS042RWFRSEd4ejNoVDBQTTlONWpxYUpJSlJNU19xdVhzZG9Qcmt0MU52SXRsQUpuRmlaY2RGdlh5LWc?oc=5",
-     "tarih": "2026-10-23T19:58:05+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Batman Sonsöz Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRElJRUlWX2NONEI5ajBZTkdVMnRySXhnRndnWTNmUXdzRTlkRFpPbXljWnpJaVc1YXhIWXowQ2RpWlNyYzRFTGZJVUJnaTVSZWFMNjhQWGM2WGJubU15ME5jdjZSMDNqMGM2NVNpT19FOGtGc2d5ZG5XRlBPMkQtU0Z4NjR1Z2c?oc=5",
-     "tarih": "2026-10-25T11:30:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Yıldırım Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakNZTk5adXE0Zk92a1djYTQ2bm9ESUtLYXZ6ZUd4Z3ZGdmFNYzM4X1NWYWFCdm5vUnNpRFJpUTBPeFlQdmdlM0FkbS1kci1FU2Nsa0laSl9HLUhTSVdEbnFKWFpMejU5SWFRVzU3ZGZ2ZHY0ZTFSSjFiTFMxVFZ5UW0wbDRlZ3BLY3ZkMlJR?oc=5",
-     "tarih": "2026-10-26T11:04:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Ekonomi Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNU15dmJYTWlJWVNXdEZxSTdWU1N6YTNReW53VnNaU043SE1FendPblJObWdZT2c2QVFtSVBHWTVQSFNIRlRCOVJCMGtOeC0tdVRPNjV1ekdLdTcwXzZoT2JNVE9tYzNwcFJuMTNqckx1M2pzZFNfRE5SMzNabXZ5aFZnUThwZkJ1RDJITTc4QmVER1FQb19rbDJSZW5GdDdMZXppRERtam1BQQ?oc=5",
-     "tarih": "2026-10-27T07:07:11+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "SALONİ Mobilya, Kahramanmaraş'ta 52. mağazasını açtı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "9082922de15d",
-   "baslik": "Arçelik'in 200 milyon euroluk fabrikası açıldı: Yılda 4 milyon üretim kapasitesi",
-   "marka": "Arçelik",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-23T13:32:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "CNBC-e",
-     "url": "https://www.cnbce.com/sirket-haberleri/arcelikin-200-milyon-euroluk-fabrikasi-acildi-yilda-4-milyon-uretim-kapasitesi-h40170",
-     "tarih": "2026-10-23T13:32:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkt1NHdXX09aY0pCcmU5NHdSYm5MbkJVUEtnbGl2dy1FUlc2S3h1Y0ViODB6a2RIVlZrTHVIOTJsYklnak1CaEZaTFY1UzMwVEc1Z0N3aDRBNkxhZXdHdHI0X3RBUWpibFo5ZlE5SFZ4anpmMHRsVHJTUTZlY3J6THlUUXdBNHppd3lCRGJ2Q29TYTBWbjMwZmRjUmhhcEJMa2hfRnhHWmFhbGt3dGt1WjlaN21qbG9XSUV1Nw?oc=5",
-     "tarih": "2026-10-23T13:39:14+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmI1blNZUVJsSVBnNzZFVmIxOGVUQzZOVkZ1ak5QS3JhY1pNNHFhaElFbFVOTFE5SHJPcTlDZHFmMjg5VERtNFFoRWZVa3ZNbEVXclpaQmZhVWkySnc4YVFyV19rSWVRdno1RUZVakt3dW9LR3dtR0VVSlpUejR4SVNUMFhqUDdPSElvaV9JdjItSDltdHdMeUtLb0hxUQ?oc=5",
-     "tarih": "2026-10-24T08:17:33+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Bloomberght",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSjRucGk3WnE4MDhhVXd2Y1gwbEZ5YUlZSENOR2dzVTJadUc3MHJ5MXppeXhiRlFoSTk3NkRJWFkxOGNSLVEyLWdiOXJFYkhaWnhkX1RRaTdzUWo2N3FTalhhZEQwZ05sal9yNy1naU0xY3JSUW5GSEZUNktMRFU?oc=5",
-     "tarih": "2026-10-23T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Platin Dergisi",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjZIVWJXSTBGSlBrY1VnLUVzc0JnSjRkaDhxbWcyN1VyOWZJeTNwMS1mZkxwT1VER1dpOWN4RExDeDZ3SHlEcksxdURucHBMcTRIQ3FEa2sySks4RTFOUkhrNXY3T3phOFZuMDByUDU2bzFVNWlPZmJrSDQ4MlJua3cyYWt5UnRRaTVkUUtUVVVCZU5y?oc=5",
-     "tarih": "2026-10-23T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Finans Hattı",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc0lXREs0bnRnM2htaF9yWnZTTG9Xam0wc2VRWDRfQ3hTdHZRTXgwcVNOMWxzbGxOaVdnT09tLWl6TXJJQjlRdWs4ZmhpV3J4RE1jaUNoM2dSRlZHdzU4R2piZ0REaElqNDdxQVYwZXBCMkkzdmR6XzF3YXlTTzVPelp4Q0hPXzVaZWU2Qw?oc=5",
-     "tarih": "2026-10-23T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Ekonomi Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1BlYll2TzhMVHF2Z3B4X3pKdmRYTDE5T215a0tfSG1zcFFYaDAwak5Vc1c4VXNwN2UwRXhIa0d2cmNGeDMxNWFVUkh1Qi1QNGdRZ25RRVVnWnBLbjFteDRvVU9zdXkxQV9INDkzYXE4YmtJRlVSamx1SF9MTmF0UjRsaVRXSXROeGV1MkQ5NU9YQ3NRVjBTeWJ3YXhhT1Vld1hYamRKZy1DVGp2bGo5THZmTWNVRGxRX2JRMzE4aHBhR19H?oc=5",
-     "tarih": "2026-10-26T07:41:20+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/10/23/arcelik-200-milyon-euroluk-yatirimla-manisada-ileri-teknoloji-fabrikasini-acti-amnl.jpg",
-   "yorum": "Arçelik, yaklaşık 200 milyon euro yatırım ile Manisa’da yeni bir çamaşır makinesi işletmesi açtı. Tesis 92 bin metrekarelik alanda, ileri otomasyon ve veri odaklı üretim teknolojileriyle donatıldı ve yılda 4 milyon birim üretim kapasitesine sahip. Açılış töreninde Koç Holding Dayanıklı Tüketim Grubu Başkanı Polat Şen ve Arçelik CEO’su Can Dinçer, istihdam ve ihracat katkılarını vurguladı. Yeni fabrika, 1.800 kişiye istihdam sağlarken üretimin %44’ünü 106 ülkeye ihraç ediyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
