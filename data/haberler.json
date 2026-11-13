@@ -1,7 +1,63 @@
 {
- "guncelleme": "2026-11-13T12:34:19.362626+00:00",
+ "guncelleme": "2026-11-13T19:59:21.721574+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "655a6f14e06f",
+   "baslik": "Alarko Holding’in Alarko Carrier alımına Rekabet Kurumu onayı",
+   "marka": "Alarko Carrier",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-11-13T19:08:01+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Paratic Haber",
+     "url": "https://paratic.com/alarko-holdingin-alarko-carrier-alimina-rekabet-kurumu-onayi/",
+     "tarih": "2026-11-13T19:22:02+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Rota Borsa",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUJxZTgwRGZyYXRwTVVXZHVUM1piTVpzeEU0OXlYV05LakR6M3FzenBzd29haEU2LUZUbzlVYnFnbUQzQUEtVl9ydXdEYTQxWnZJSGotVG83TU1CVHRPd1JiaGptZXlUY212eXk3eUlPZWlPVi1NQ2Zjam1HbDNMSmdn?oc=5",
+     "tarih": "2026-11-13T19:08:01+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://img.paratic.com/dosya/2026/11/alarko-holdingin-alarko-carrier-alimina-rekabet-kurumu-onayi.jpg",
+   "yorum": "Alarko Holding, Alarko Carrier Sanayi ve Ticaret A.Ş.'nin %42,03'lük hissesini satın alma işlemi için Rekabet Kurumu onayı aldı. İşlem, Alarko Holding ile Carrier HVACR Investment B.V. arasında 7 Ağustos 2026 tarihinde imzalanan bağlayıcı pay alım sözleşmesi çerçevesinde gerçekleşti. Onay, 13 Kasım 2026 tarihinde Kamuyu Aydınlatma Platformu (KAP) üzerinden duyuruldu.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "26bd7cd70b67",
+   "baslik": "Malatya'da telefon alacaklar dikkat! Bu ücret 70 bin TL'ye dayanıyor",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-11-13T09:40:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bu Sabah Malatya",
+     "url": "https://www.busabahmalatya.com/malatyada-telefon-alacaklar-dikkat-bu-ucret-70-bin-tlye-dayaniyor",
+     "tarih": "2026-11-13T13:27:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Kesin Karar",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oNERhN05LZ0JFVV9aQWpFWlpMTGZXTm9adWF4S2xBbVlHZW5LcElrZEV5VWVJVXBER2hPRmhqc29Scmx0TU5KMk9LSXJ5U3d2bTJEcnZVZ3RiOFFzQWNVX2NIczJSQjBDMUMwZG45ck9GRmpDZl9jMNIBeEFVX3lxTE1oNERhN05LZ0JFVV9aQWpFWlpMTGZXTm9adWF4S2xBbVlHZW5LcElrZEV5VWVJVXBER2hPRmhqc29Scmx0TU5KMk9LSXJ5U3d2bTJEcnZVZ3RiOFFzQWNVX2NIczJSQjBDMUMwZG45ck9GRmpDZl9jMA?oc=5",
+     "tarih": "2026-11-13T09:40:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://busabahmalatyacom.teimg.com/crop/1280x720/busabahmalatya-com/uploads/2026/11/malatyada-telefon-alacaklar-dikkat-bu-ucret-70-bin-tlye-dayaniyor.jpg",
+   "yorum": "Malatya'da yurt dışından getirilen cep telefonlarının IMEI kayıt harcının 2026 yılında 54.258 TL iken, %27,83'lük yeniden değerleme oranıyla 2027'de yaklaşık 69.358 TL'ye yükselmesi bekleniyor. MOBİSAD Başkanı Mustafa Kemal Turnacı, ücret artışının iç piyasadaki satışları destekleyebileceğini ve yurt dışı telefon getirmenin ekonomik avantajını ortadan kaldıracağını belirtti.",
+   "neden": "",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "4ac5fc55a8eb",
    "baslik": "HSBC Türk bankaları için görünümünü pozitife yükseltti",
