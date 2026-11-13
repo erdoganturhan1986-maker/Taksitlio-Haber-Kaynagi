@@ -1,7 +1,155 @@
 {
- "guncelleme": "2026-11-12T21:04:02.039931+00:00",
+ "guncelleme": "2026-11-13T12:34:19.362626+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "4ac5fc55a8eb",
+   "baslik": "HSBC Türk bankaları için görünümünü pozitife yükseltti",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-13T08:32:58+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/hsbc-turk-bankalari-icin-gorunumunu-pozitife-yukseltti-3794559",
+     "tarih": "2026-11-13T08:32:58+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/13/ver1794558810/3794559/jpg/1280x720",
+   "yorum": "HSBC Global Investment Research, Türkiye bankalarına yönelik görünümünü nötrden pozitive yükseltti. Rapor, politika faizindeki normalleşmenin net faiz marjlarını destekleyeceği beklentisini gerekçe gösteriyor. Türk bankalarının, Polonya ve Güney Afrika bankalarına kıyasla daha cazip değerleme koşullarına sahip olduğu vurgulandı. HSBC, bölgesel olarak da bankacılık sektörünün toparlanma sinyalleri verdiğini belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "48792a9f1d73",
+   "baslik": "Küresel telefon pazarı küçülüyor, Türkiye için büyüme bekleniyor",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-11-13T06:47:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/kuresel-telefon-pazari-kuculuyor-turkiye-icin-buyume-bekleniyor-haberi-930997",
+     "tarih": "2026-11-13T06:47:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Küresel cep telefonu pazarı daralmaya devam ederken, analistler Türkiye pazarının büyüme kaydedeceğini öngörüyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "7e4dc27f685e",
+   "baslik": "ING'ye göre TCMB'nin mesajları Aralık'ta faiz indirim beklentilerini destekliyor",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-13T06:22:55+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/ing-ye-gore-tcmb-nin-mesajlari-aralik-ta-faiz-indirim-beklentilerini-destekliyor-3794526",
+     "tarih": "2026-11-13T06:22:55+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/tcmbnin-kasim-ayi-piyasa-katilimcilari-anketine-gore-tufe-yil-sonu-artis-beklentisi-yuzde-30-04e-yukseldi/4123672",
+     "tarih": "2026-11-13T07:24:03+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/piyasanin-enflasyon-beklentisi-yukseldi-3927090",
+     "tarih": "2026-11-13T10:02:36+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/13/ver1794551006/3794526/jpg/1280x720",
+   "yorum": "ING Bank, Türkiye Cumhuriyet Merkez Bankası’nın (TCMB) enflasyonun ana eğilimindeki iyileşmeye dair mesajlarının Aralık ayında 100 baz puanlık bir faiz indirimini destekleyeceğini belirtti. Bankanın başekonomisti Muhammet Mercan, TCMB Başkanı Fatih Karahan’ın enflasyonun ana eğilimini olumlu yönde değerlendiren açıklamalarını vurguladı. Mercan, bu gelişmenin TCMB’nin Aralık ayında ek bir faiz indirimi yapma beklentisini güçlendirdiğini ifade etti. TCMB’nin 2026 ve 2027 yıl sonu için öngördüğü enflasyon oranları sırasıyla yüzde 29,5 ve yüzde 21 olarak revize edilmişti.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "c9279525351a",
+   "baslik": "S&P, Arçelik'in kredi notunu düşürdü: 2027 için dikkat çeken tahmin",
+   "marka": "Arçelik",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-13T02:04:29+00:00",
+   "kaynaklar": [
+    {
+     "ad": "CNBC-e",
+     "url": "https://www.cnbce.com/borsa/sp-arcelikin-kredi-notunu-dusurdu-2027-icin-dikkat-ceken-tahmin-h41700",
+     "tarih": "2026-11-13T04:22:28+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "hibya.com",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jUHRsMDRCY3U2ZG1QS09yS2V3VHhzTk5YM3o1NlY2dmthMHZpVDE2X3ljLVhaMnRtTGpuYzZkMWNJU0F5Ni1yaWd6YnNkVzRGUHdfRklpRFprSEdYMGpGMTZZYmNZWVJ3Um1uS0pn?oc=5",
+     "tarih": "2026-11-13T02:04:29+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelhZVHVxYUo0RV9zWm1BYXFtX2dlbVphVktVLTRjaFZJeHliZk1XSzNZc0t0bU8xRXRjalY3amV6Mmdsc0RGSEJIMi04OXByaWZybVNRNGRwMzJnc196NDktbVJ6cnVxaEpoVzlGQ2ZBdy1RSG9uLTA4emZfZUFmSVVRREpRQzRQT21XUFBxRFpKeUJGMnlma2JMWmFhR21qN0lRaFc3SHE5ckhwdTJadzR5aGNsS19TY05FX2E2ekFYaHZvMUEzUmdIZW9KSmRBN1pWVUd3?oc=5",
+     "tarih": "2026-11-13T04:05:02+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "YatırımX",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjNzblRRdGVDcVNHeXUzNWJhWWRxMkluOHNWa0YtYUdsbkZxWjY1emF2VENMTmkzV3hkUlVMMEdrZ3J1TVdwTENUdHJ5cng5N1pBRDRqOXFwLVlqWmp0Ri1KYm1ZNjlwaUJLSTdGaUd4V1R1Rll2c1BvazZ5ZzYyeENic05WYktXdGxhWG5XeUs1YjlxaHVQcmdMNzZBOExnZ3dvbjBhVjZPWHVNYlVXSmx1X3h2V2pPZEItdk9RMk9mMklp?oc=5",
+     "tarih": "2026-11-13T04:46:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsamatik",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rUmdlN0I4VE8tdGdXaExjZF9IX0tPb1ptYlNJV09OTGRLZ3U3MmJ1ckR3S2ZkMHdhWDlxVnpBUEo0cXJJN0pEMXdUUTBaM0Iyb3BFZlNvZVdUdW9kbWpqSHh1TUVoWmVBdkludWVHMEJ0WHNsNXh3N0ZR?oc=5",
+     "tarih": "2026-11-13T05:27:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Patronlar Dünyası",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYU5Iclp2WjhCRXBqZjl4XzJSR18xVlhDWm9HVFhzN28yNHAybDNFd3N3aks5S1E4Nk5IaWF1N2pSY1EzbWIzSTZvNHJQRGo3OTNQVGxmamhNeDRNREFoT1BjN3pPNTJ3OWducUhycktySmt1eWYycDV1RHZVSmFzTFNtX1BBYW1RVkg1cENCbXVrc1lGWTlaUG4xR3JDUUZxWFhEX3g0OTlhcmh0cXI4TDFEX0ZpTGxMajNZVmpWZlhtTTZZbVZxblV3SGJoaXpXZUJpUmhPNElzRnVSZldncUVVUzgwX0w4V2YzMFhXSWNsalFt?oc=5",
+     "tarih": "2026-11-13T06:27:39+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsatek",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HbW1aQ0VVNF9OZGFCeUNqX3ZlakVXajhiYldEWTNCc09IeVFpdVJJUllZejQ3OGlFU3F1S0dJZlNjSVZtMnc1VjZwLUtRV2s1MXRYQ3IyWF9lUTE3RC1OdG1iWmVyQUpN?oc=5",
+     "tarih": "2026-11-13T07:03:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Investing.com Türkiye",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOU9BV05YenBTbUM2UmxBc1ZqSWJ0SUJqYmh4cXRiMldVMHpsekZ2dVlvM3BCeTQ2NEdCQ0NkRTBxV2FZMk1vS1Zxd2dKUEFHZEN5OVBrSkdCOVF6SWxWeEdJa0JROFNkVEd4dDNWeXdnVmM0SkVuRE5JTC1FVnFLdzV2bTIzVVN0VUliSGp6d21tMzd1QU82S0JkeUs0bTZIdVh4Z2FabUdzZkZlSlE?oc=5",
+     "tarih": "2026-11-13T08:26:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "EKOTÜRK",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90VmRYRWY2ZzU0M1NWYlNzemd2cnJPMzZtSXhpeTRvc21rb28zbVRtVDlDREZVd2NKMEdINTFVWjhlV2FEblVDTVhiYk5QYjY1aXlQWjVqTmNUTzY1S0VER2Z5SUJlZVVvNkVmZ2JZX2toOFBWRFNF?oc=5",
+     "tarih": "2026-11-13T08:31:46+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/06/24/arcelik-beko-europe-pay-devri-icin-imzayi-atti-5emi.jpg",
+   "yorum": "S&P Global Ratings, Arçelik'in uzun vadeli kredi notunu B+’dan B’ye düşürürken görünümünü negatif olarak korudu. Aynı zamanda şirketin 2028 vadeli 500 milyon dolarlık tahvil notunu B‑den B‑'ye çekti. Not düşüşünün nedeni, zayıf tüketici talebi, fiyat baskıları ve yüksek finansman maliyetleri olarak gösterildi. Arçelik'in 2026 yılının ilk dokuz ayında gelirleri yüzde 14, FAVÖK ise yüzde 47 azaldı; uluslararası satışlar yüzde 18, Türkiye içi satışlar yüzde 4,5 geriledi. Şirketin 2026 yılı gelir tahmini 595‑597 milyar TL olarak belirlendi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "37313fb1e931",
    "baslik": "Miles&Smiles Kuveyt Türk TROY Kart Lansmanı düzenlendi",
@@ -552,6 +700,12 @@
      "ad": "EKOTÜRK",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzRqdWdkcV9WLWd3aTUxNHQ3MFd4WFJSRV8zOGZHVHNxM2JLeTFRUUtTM0lvUGF4NUpiWldoNmctSl9BNmU1Q1ZNT0JlUWFmcG1jak1QM2g0VENXMk9UVTVxTUZHcFp2MHJVSC1qVTl2Vm04ZmhTX0Jlc0RNeEJLSzk1RE9ZZWJkZDdObzVkcE5NM0JVNHBrYjNIbm9vdDduZnc?oc=5",
      "tarih": "2026-11-11T13:06:42+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Aydın Haber, Son Dakika Aydın Haberleri | Aydinpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUk9YaXFvVmd2R2o2T204WkVTY21ZODNjcFFVYVQtTEJiampfM0s2OTBSbEV6QU1US1NsRUo0RzI0WXFBakRXM0pUWkk0RXlHVGRLU2JtOXhPRHhMcnpnbkdTX1I5bEI0R3YtMGhYQ2oyZm5RMVRsSnRIRlQzei1EM0ZIUmpFSE50RkdwYnBPNDZJS25wUXJNZ2oweGZLRG9rQmdrQTloakpxNkpKOXQ1UzRiN1dhdXlXTlg4TW9NWlp1ZTVyZzN0WnRn?oc=5",
+     "tarih": "2026-11-11T07:41:00+00:00",
      "guvenilir": false
     }
    ],
@@ -3912,124 +4066,6 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "d3b37079ad38",
-   "baslik": "Koleksiyon Mobilya’da kâr yüzde 81 geriledi",
-   "marka": "Sektör: mobilya",
-   "kategori": "mobilya",
-   "oncelik": 3,
-   "tarih": "2026-10-24T09:44:55+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Paratic Haber",
-     "url": "https://paratic.com/koleksiyon-mobilyada-kar-yuzde-81-geriledi/",
-     "tarih": "2026-10-24T09:44:55+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.paratic.com/dosya/2026/10/koleksiyon-mobilyada-kar-yuzde-81-geriledi.jpg",
-   "yorum": "Koleksiyon Mobilya Sanayi AŞ, 2026 yılının Ocak‑Eylül döneminde 39,8 milyon TL net zarar açıkladı. Geçen yıl aynı dönemde 62,3 milyon TL net kâr elde etmişti. Satış gelirleri %1,5 artarak 1,90 milyar TL’ye yükselse de, faaliyet zararı ve finansman giderlerindeki artış kârlılığı olumsuz etkiledi. Esas faaliyet sonucu geçen yıl 20 milyon TL kâr iken bu dönemde 70,8 milyon TL zarara dönüştü.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "bda6d1def273",
-   "baslik": "Arçelik'ten Manisa'da 200 milyon euroluk yatırım: Yeni çamaşır makinesi fabrikası açıldı",
-   "marka": "Arçelik",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-10-24T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/sirketler/arcelikten-manisada-200-milyon-euroluk-yatirim-yeni-camasir-makinesi-fabrikasi-acildi-haberi-926699",
-     "tarih": "2026-10-24T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmI1blNZUVJsSVBnNzZFVmIxOGVUQzZOVkZ1ak5QS3JhY1pNNHFhaElFbFVOTFE5SHJPcTlDZHFmMjg5VERtNFFoRWZVa3ZNbEVXclpaQmZhVWkySnc4YVFyV19rSWVRdno1RUZVakt3dW9LR3dtR0VVSlpUejR4SVNUMFhqUDdPSElvaV9JdjItSDltdHdMeUtLb0hxUQ?oc=5",
-     "tarih": "2026-10-24T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Para Analiz",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPazROc3cwQmVicWs5OGprdjV3VFVrY29ORWNXRWVwdVZpR1hiZFVISXlpVktDZnFUeHZLM1FmeEgzSlpBSjlBeHlyODQwMXhobU5QYVRmb25wR19CN3UxS0MzcHkzenI5YUxCM1NLRHdVWHpSbjNIMTlyLVhlbWZhWkJYa0p6c1JzWlVScEt5TGlxZEczRHVMZEh5d3hjN1lfMWVoVFIzRUFWZFZGUExfSw?oc=5",
-     "tarih": "2026-10-24T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Posta",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEJGMlhYR1NDSWZaVG5wTGoyVVE3WlJLX0dRZW1FX3VSWUp1MW1HYjVMSGRoZFlKRkxpdEY0dzc1enhXNUZSZ1I0by1Ib01SSGpaM29KNlIyY0MyN1BzTDJjdVJ3SHNQZ1VfS01KU05fTmdnSGFhUlQzWEpYVV96cmZzb2V2RlB4eVFVdVpjYXdUSHRhc05rUkVkQW1sQmpuOXlTYUln?oc=5",
-     "tarih": "2026-10-24T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Ekonomi Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1BlYll2TzhMVHF2Z3B4X3pKdmRYTDE5T215a0tfSG1zcFFYaDAwak5Vc1c4VXNwN2UwRXhIa0d2cmNGeDMxNWFVUkh1Qi1QNGdRZ25RRVVnWnBLbjFteDRvVU9zdXkxQV9INDkzYXE4YmtJRlVSamx1SF9MTmF0UjRsaVRXSXROeGV1MkQ5NU9YQ3NRVjBTeWJ3YXhhT1Vld1hYamRKZy1DVGp2bGo5THZmTWNVRGxRX2JRMzE4aHBhR19H?oc=5",
-     "tarih": "2026-10-26T07:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Türkiye İş Dünyası Haberleri",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1VJYTg0LWtkSl9pVWpXNUJzU2daejVDUUNBLVRGZlM5V1paZmJFTlpPc1FROHRGbVRDaUo2SmN0VjBwRXJXTEl0cDZuX0VmN04td3BwSTJpOWJkWmUxOEdPVnB6UEFwNEpQM0xwOC1NNlBmaE5rVGcxakFxdGxZZ2V5SWZWR3JDUFNxUHpB?oc=5",
-     "tarih": "2026-10-26T07:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Arçelik, Manisa'da 200 milyon euro tutarında bir yatırım gerçekleştirerek yeni bir çamaşır makinesi fabrikası açtığını duyurdu.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "4ff3f30e9b9f",
-   "baslik": "Perakende ve Kamu, TAMPF Perakende Şurası’nda Bir Araya Geldi",
-   "marka": "Sektör: perakende",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-24T06:55:15+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Mall Report",
-     "url": "https://mallreport.com.tr/perakende-ve-kamu-tampf-perakende-surasinda-bir-araya-geldi/",
-     "tarih": "2026-10-24T06:55:15+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://mallreport.com.tr/wp-content/uploads/2026/10/1792766065_TAMPF_Perakende_S__uras___2-scaled.jpg",
-   "yorum": "Perakende Şurası, kamu ve perakende temsilcilerini bir araya getirerek mevzuat, istihdam, yatırım ve sürdürülebilir büyüme konularını ele aldı. Toplantıya 10 bakanlık ve 8 kamu kurumu katıldı; organize perakende sektörü yıllık 7,4 trilyon TL ciro ve bir milyondan fazla istihdam sağlıyor. İki gün süren oturumlarda sektörel sorunların kaynağı tespit edilerek çözüm önerileri geliştirildi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "aaa431b99a74",
-   "baslik": "Prof. Dr. Erhan Aslanoğlu: Faiz indirimi bir sinyal, belirsizlikler sürüyor",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-24T05:50:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/prof-dr-erhan-aslanoglu-faiz-indirimi-bir-sinyal-belirsizlikler-suruyor-haberi-926739",
-     "tarih": "2026-10-24T05:50:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/24/prof-dr-erhan-aslanoglu-faiz-indirimi-bir-sinyal-belirsizlikler-suruyor-ythg_cover.jpg",
-   "yorum": "Prof. Dr. Erhan Aslanoğlu, Ekonomi Masası programında Türkiye Cumhuriyet Merkez Bankası'nın 100 baz puanlık faiz indirimini değerlendirdi. Faiz indiriminin reel sektöre etkisinin sınırlı olacağını ve bu kararın bir indirim patikası garantisi vermediğini belirtti. Ayrıca AB'nin Made in Europe düzenlemesine karşı aktif bir ekonomi diplomasisi yürütülmesi gerektiğini vurguladı. Açıklamaları, kredi maliyetleri ve tüketici harcamaları üzerindeki potansiyel etkileri nedeniyle perakende ve tüketici kredileri açısından kritik bir gelişme olarak görülüyor.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
