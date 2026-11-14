@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-14T18:27:30.882323+00:00",
+ "guncelleme": "2026-11-14T22:42:43.289334+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -2257,6 +2257,12 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclBrb1MyWW1UY0RRS3NsRkFGLXdldTlPSXlGR1Q5V2dNT29zMl81ZWZFTElaTFVVanZaSEpMcjRnejZ4NnJmaDFIS2tYd1BnakFOaWY5eUd5cEFyZEZzbXBDcU1BR3lnNDFKeFNTTnB1cGlKcUpVT1JCSkk1QlZLeUw2SkZwaUR5TXB4Q0N4TEM0dnIzNFZvUQ?oc=5",
      "tarih": "2026-11-05T11:28:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "24 Saat Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUoyQ0RtNEliTEtLU0E5VzJCN1AyZkFoaXQ2M3RpaGFDaUpYYXpheEZVbkI0NzQ2bWxGblpJMHJzbDYxOHpuS0tTUWk0S21rdGxXV0k1dTdyWDhpUmtmZ3k2dW1qZU1RR1NSTVNzWkZGQ1FycWVabFEzMXBKakV4V3pOeE84ajVSVWV4cGdiNWZDaTVmUlRJb1RPeUlLTVgwT0VoZXAzeklodw?oc=5",
+     "tarih": "2026-11-06T09:16:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://img.paratic.com/dosya/2026/11/alarko-carrier-gebze-fabrikasinda-uretimi-sonlandiriyor-183-calisan-etkilenecek.jpg",
@@ -3327,6 +3333,12 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1hNSzg5WGdOcE9XdDBGYnpWUUhDWHdMdEVTWFpiN2k3WnlmOTJaRFNOaWhjeEV6cVJTQUxSOGFUYlN3M1RDajIwM1dMeWlpWGFTSWw5UjAtUkphUzQ0RmpqU2RBdTlqbDE3UTc2Q1hwWnNkV0dYeGxleTA3dEZCemlMMkZHeFc0R1BJYS1RWXBHR3htS1czWk1EXzQzaXV4ZF8xRA?oc=5",
      "tarih": "2026-10-30T23:00:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGtBZ2p0SktvcGR1b0czRUZoMVhxN2M3Vm5helpEcFV1blRrRjdIVTl1dTVNa1BOdXhpZnZfSzVWZU9kaFljcV96LVBuVTQ5bE4zeVhvaEtRcDhDNC1mSzBXVGgzMnoyM09iOFI3MWxXWXN1bEMtaTFLYUlQSFJUMkNhV1VyV1E3M0JqMnVvMWNhOXN1bkE?oc=5",
+     "tarih": "2026-10-30T07:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -4184,28 +4196,6 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "303032f06592",
-   "baslik": "Bankaların takipteki alacak oranı zirvede",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-25T21:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/bankalarin-takipteki-alacak-orani-zirvede-haberi-926977",
-     "tarih": "2026-10-25T21:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/25/bankalarin-takipteki-alacak-orani-zirvede-88pc_cover.jpg",
-   "yorum": "Ekonomim haberine göre, 2026 yılının yaklaşık on ayında bankaların tahsili gecikmiş alacak satışı 75 milyar TL'ye yaklaşmış. Takipteki alacak oranı %5,12 seviyesine yükselerek son beş yılın en yüksek seviyesini kaydetmiş. Aynı dönemde tüketici kredileri ve bireysel kredi kartları da tarihî zirveye ulaşmış.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
