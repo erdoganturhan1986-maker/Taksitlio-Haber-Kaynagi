@@ -1,7 +1,51 @@
 {
- "guncelleme": "2026-11-14T11:43:32.067666+00:00",
+ "guncelleme": "2026-11-14T18:27:30.882323+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "476a06bcae20",
+   "baslik": "Asgari ücrette hesaplar değişti: Beş senaryoda maaşlar ne kadar olacak?",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-14T16:26:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/foto-galeri/ekonomi/asgari-ucrette-hesaplar-degisti-bes-senaryoda-maaslar-ne-kadar-olacak-galeri-847627",
+     "tarih": "2026-11-14T16:26:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/14/yeni-proje-2026-11-14t193301-145d_cover.jpg",
+   "yorum": "Merkez Bankası'nın enflasyon tahminlerini güncellemesi, asgari ücrette zam hesaplarını yeniden gündeme taşıdı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "f539434a0e24",
+   "baslik": "Bloomberg/Baziki fon krizinin görünmeyen etkisini anlattı: Harcamalar da etkilenecek",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-14T15:54:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/bloombergbaziki-fon-krizinin-gorunmeyen-etkisini-anlatti-harcamalar-da-etkilenecek-haberi-931293",
+     "tarih": "2026-11-14T15:54:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/14/bloombergbaziki-fon-krizinin-gorunmeyen-etkisini-anlatti-harcamalar-da-etkilenecek-hfha_cover.jpg",
+   "yorum": "Bloomberg Türkiye ve İsveçli ekonomist Selva Baziki, fon krizinin şirketler ve hanehalkının harcamaları üzerindeki etkilerini değerlendirdi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "6a37dd502666",
    "baslik": "Milyonlarca kart kullanıcısını ilgilendiriyor, para puanlar için geri sayım",
@@ -818,6 +862,12 @@
      "ad": "Aydın Haber, Son Dakika Aydın Haberleri | Aydinpost.com",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUk9YaXFvVmd2R2o2T204WkVTY21ZODNjcFFVYVQtTEJiampfM0s2OTBSbEV6QU1US1NsRUo0RzI0WXFBakRXM0pUWkk0RXlHVGRLU2JtOXhPRHhMcnpnbkdTX1I5bEI0R3YtMGhYQ2oyZm5RMVRsSnRIRlQzei1EM0ZIUmpFSE50RkdwYnBPNDZJS25wUXJNZ2oweGZLRG9rQmdrQTloakpxNkpKOXQ1UzRiN1dhdXlXTlg4TW9NWlp1ZTVyZzN0WnRn?oc=5",
      "tarih": "2026-11-11T07:41:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Doviz.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1h6bFd2eXh6RkhnSm9uTV8tUUVibVRIeFNaSzNoVG5KQVdXQ3V0OF9Lakx4SXc1cF9aNEZ0Y1BLZnZrd2Q3Rm5zNWVMYVNtWV9KR0tqOWlHYUtVWlc1NFFlN0w0QkNtVE5DZzlCYkp4VFhlWmZwXzdEN0hxek9Renl5SksyZkdobmh0TkxYSkgwN042X3lvOV9Iem1mTGdlazc4R3Zn0gGrAUFVX3lxTFBWTVVFeVpfakZKdVpoTVY5SWhwUUl1b1QzajlkaFlVNVFHcm5oMmhJTkZnM3FRSjFubEpMMUVoRnVobEtNR1YyLWV3MFhqWE01QnhZZnRVcDFJQWNyaXJmR0h4TWlfcHp5MGozVm9vczhfLWVYTUo4YV94UXl5YW43NFFGYm80OVFIRERZOThWcFJya0lneFE0aTVHTExwWVZMVXJRZF9TeG5yNA?oc=5",
+     "tarih": "2026-11-11T07:15:36+00:00",
      "guvenilir": false
     }
    ],
