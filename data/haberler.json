@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-14T01:00:03.502439+00:00",
+ "guncelleme": "2026-11-14T11:43:32.067666+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "6a37dd502666",
+   "baslik": "Milyonlarca kart kullanıcısını ilgilendiriyor, para puanlar için geri sayım",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-14T11:01:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/milyonlarca-kart-kullanicisini-ilgilendiriyor-para-puanlar-icin-geri-sayim-haberi-931248",
+     "tarih": "2026-11-14T11:01:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/14/milyonlarca-kart-kullanicisini-ilgilendiriyor-para-puanlar-icin-geri-sayim-m6n6_cover.jpg",
+   "yorum": "Ekonomim, yıl sonuna kadar kredi kartı ve sadakat programı kullanıcılarını uyarıyor; 31 Aralık akşamına kadar harcanmayan para puanlar, mil ve ödül bakiyelerinin sıfırlanabileceği belirtiliyor ve kullanıcıların bakiyelerini kontrol etmeleri isteniyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "655a6f14e06f",
    "baslik": "Alarko Holding’in Alarko Carrier alımına Rekabet Kurumu onayı",
@@ -28,6 +50,28 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "e97f6a17da78",
+   "baslik": "Piyasanın enflasyon beklentisi yükseldi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-13T10:02:36+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/piyasanin-enflasyon-beklentisi-yukseldi-3927090",
+     "tarih": "2026-11-13T10:02:36+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/13/ver1794564156/3927090/jpg/1920x1080",
+   "yorum": "TCMB, 70 katılımcıdan oluşan Kasım ayı Piyasa Katılımcıları Anketi'ni yayımladı. Ekim ayı TÜFE artışı beklentisi %1,18'den %1,09'a geriledi. Yıl sonu enflasyon beklentisi %30,04, 12 ay sonrası %24,04, 24 ay sonrası %18,02 olarak yükseldi. Dolar/TL beklentisi yıl sonu için 51,6146, 12 ay sonrası için 60,7654 seviyelerine çıktı. Politika faizi beklentileri ise ilk toplantı %35, ikinci %34,30, üçüncü %33,37 ve 12 ay sonrası %28,90 olarak belirlendi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
