@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-15T19:04:35.838283+00:00",
+ "guncelleme": "2026-11-15T23:29:44.658804+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -54,6 +54,18 @@
      "ad": "Bursada Bugün",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUYzaTJuNGVSUVl6dzJDMVhMMjdnNHlFMnJCQ2VuTGNIQWRsNWZZWHJGTXZNQ2pPQUY5UFNmc3hWc3NmYnVYbG1oaTdPanBKbVVWRmVKVFBTeWRFRl9KR21EWWQ5THU1LXZkcXAxencxSWVVQUo3TGFoUDRLTVZXUFQ3WHlIenNVVElfajg0SjRrUmM1emw0T1c2OFJFUWVXVmcwUzk3UEFIZ3Y2LW1oVVNWbERRQnY5SmdvSXFR0gHAAUFVX3lxTE82NzBzU2x6bGpkWDZqNWRod0xwR2hUbVRtdFU0U1dLWmFzd25KUnkxckZhZlNVNzdzdnRHZXQtR3h4UnlYQkdRWE9ZWlNDVFl6NDFSVWJkVDBvNWhxYkhoV0FtSDdpQ3lCT2hkSElnS0RDbHFhalVKYVdScURfUWhDamJmWXFWVDRXbG1oMnBoZmNRM09IRFowQURnTHVjUHFsRHlvQ0xydlFlVzdtc0c4ZXdpa21wbmxhUDZLTlJfRA?oc=5",
      "tarih": "2026-11-15T11:41:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kocaeli Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcmI1Vy1OMVUyZ3hnWjh1blllYXUwOWt0MUN1UU5RRTRLakNZU3NKdFdnZ3NkZGoya3NhSDhoN05xc0lKczFXZ25tcWJ3RlptYk9faXZJM05HdVlIdFFWelVFWVZpZ0k0WGNJUTlhNlVfdWtBSWk2S2l3dmVNcnItUVl1TFBTSW5Td0Zid2ZuMFgyMXhMOTNzSldpV2VHVkZnZ003UjdfQVpsN3JNQ29PR3A1ZkxfbHV3a3VIQVZTNkRvM2VEQnBhQlNxYmPSAcwBQVVfeXFMTnJiNVctTjFVMmd4Z1o4dW5ZZWF1MDlrdDFDdVFOUUU0S2pDWVNzSnRXZ2dzZGRqMmtzYUg4aDdOcXNJSnMxV2dubXFid0ZabWJPX2l2STNOR3VZSHRRVnpVRVlWaWdJNFhjSVE5YTZVX3VrQUlpNktpd3ZlTXJyLVFZdUxQU0luU3dGYndmbjBYMjF4TDkzc0pXaVdlR1ZGZ2dNN1I3X0FabDdyTUNvT0dwNWZMX2x1d2t1SEFWUzZEbzNlREJwYUJTcWJj?oc=5",
+     "tarih": "2026-11-15T11:50:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yıldırım Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjBwR0lhaWVfZGUybGViV0duQkxUV1cyS1RMdnZtYWVkeFRzT3VxZjN4UkpoQVh4S0haRkR1RmpQMm5HSG4wSGVmNmZQZFB6Y0VfVllROXQ4eGxYV1pLNDd3Xzcxc3JqTUlQb3liLVNUeVludm8wZExTZjJMNm5odXV6bEt0bmlsbW15N3hTcWFiWVZ4?oc=5",
+     "tarih": "2026-11-15T16:23:00+00:00",
      "guvenilir": false
     }
    ],
@@ -2737,6 +2749,12 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUhSWVc5YzZ6Z19TX3Frc1VxRG10eEI1bHo0SDQ5VnZYOHlPbUtvNmNibEJ5T1RXRWdGNEhicnMzc2hXemJoWWhlZGlsTVk1bW52UVF1MEFMY194SjFpWnZIN0FvM25tRDhla1FUY1NMWmNmS1czVXlOc1RScjNUMkFmWVBCcTFVMzhya3pfeDdyQ3NxdjZoN2FRNEpHQklXRVBxQXNZWmlaRmRf?oc=5",
      "tarih": "2026-11-06T08:00:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Milli İrade Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDFNdFZ2YUV6NVQ0RjJKaUJNR0JQWjZFNWRBbC12WkhjRll5WDZkWjJySHFaaTg4d0pSeEhteGZiSkhoX0s5RDRneXE5QnR6M1V0aFJ4Sy1WTEFpaTJ3X0FTQWtGbUJNb0lIQXY5VHV5NkVWQld1V01fZXJPUmptSDBEbXJoUXhxRTRHbXNxWTJVeWZlTU1mTjNoMWVFQQ?oc=5",
+     "tarih": "2026-11-05T08:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -4130,28 +4148,6 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "2ec883454903",
-   "baslik": "Teknosa bilançosunda dikkat çeken tablo: Zarar yüzde 55 arttı",
-   "marka": "Teknosa",
-   "kategori": "elektronik",
-   "oncelik": 1,
-   "tarih": "2026-10-26T20:12:15+00:00",
-   "kaynaklar": [
-    {
-     "ad": "CNBC-e",
-     "url": "https://www.cnbce.com/sirket-bilancolari/teknosa-bilancosunda-dikkat-ceken-tablo-zarar-yuzde-55-artti-h40376",
-     "tarih": "2026-10-26T20:12:15+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2025/04/28/rekabet-kurumundan-teknosaya-sorusturma-gtj1.jpg",
-   "yorum": "Teknosa, 2026 yılının Ocak‑Eylül döneminde 2,577 trilyon TL net zarar açıkladı; bu, bir önceki yılın aynı dönemindeki 1,667 trilyon TL zarara göre %54,6 artış anlamına geliyor. Satış gelirleri 74,86 milyar TL'den 73,71 milyar TL'ye düşerek yaklaşık %1,5 azaldı ve brüt kârı 10,24 milyar TL'den 8,77 milyar TL'ye geriledi. Esas faaliyet zararı 1,65 milyar TL'den 2,14 milyar TL'ye yükselirken, finansman giderleri 4,77 milyar TL'den 5,66 milyar TL'ye çıktı. Toplam varlıklar 27,70 milyar TL'den 26,51 milyar TL'ye düşerken, yükümlülükler 26,80 milyar TL'den 28,19 milyar TL'ye yükseldi ve özkaynak negatif 1,678 trilyon TL'ye indi. Nakit ve nakit benzerleri 3,08 milyar TL'den 648,2 milyon TL'ye gerilemiş olsa da, işletme faaliyetlerinden sağlanan nakit akışı 1,39 milyar TL'den 4,37 milyar TL'ye artış gösterdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
