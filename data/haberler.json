@@ -1,7 +1,69 @@
 {
- "guncelleme": "2026-11-14T22:42:43.289334+00:00",
+ "guncelleme": "2026-11-15T12:12:36.784019+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "297d70c1e26a",
+   "baslik": "2027 enflasyonunun risk haritası",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-15T11:06:21+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/2027-enflasyonunun-risk-haritasi-3794677",
+     "tarih": "2026-11-15T11:06:21+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/15/ver1794740822/3794677/jpg/1280x720",
+   "yorum": "TCMB, 2027 yıl sonu enflasyon tahminini %21 olarak güncelledi. Bu tahmin, Orta Vadeli Program çerçevesinde petrol ve gıda fiyatlarındaki gerileme, iç talebin zayıflığı, sıkı para politikası ve dezenflasyonu destekleyen maliye politikası varsayımlarına dayanıyor. Enflasyonun risk haritası, bu varsayımların gerçekleşip gerçekleşmeyeceği üzerine odaklanıyor. Rapor, 2027 enflasyonunun seyrine ilişkin öngörüleri ve potansiyel risk faktörlerini içeriyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "99898626a78f",
+   "baslik": "Her AVM'de mağazası olan teknoloji devi Çinlilere satıldı",
+   "marka": "Sektör: elektronik perakende",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-11-15T05:56:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Sözcü Gazetesi",
+     "url": "https://www.sozcu.com.tr/her-avm-de-magazasi-olan-teknoloji-devi-cinlilere-satildi-p381436",
+     "tarih": "2026-11-15T05:56:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haberler",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnpjX0VYNDlfeUlhVWp6X1hDSGlyTFZseXNWeHJhcjdsS2JVN3NDY3NUWDZVenRJV2c0WHRuZXRHTi1iMnk1UGVOWmRwaTV0cWpFZmJBRWpQdGl3X1pGS21INVBWVjE1cUNpLXRWSjNxaldpU2lBeTZmQ0ptbGZHcFVkRzZfa1pDVnRROTZFQ3F5VEk2ZEhLd9IBmAFBVV95cUxOVnpjX0VYNDlfeUlhVWp6X1hDSGlyTFZseXNWeHJhcjdsS2JVN3NDY3NUWDZVenRJV2c0WHRuZXRHTi1iMnk1UGVOWmRwaTV0cWpFZmJBRWpQdGl3X1pGS21INVBWVjE1cUNpLXRWSjNxaldpU2lBeTZmQ0ptbGZHcFVkRzZfa1pDVnRROTZFQ3F5VEk2ZEhLdw?oc=5",
+     "tarih": "2026-11-15T07:22:11+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Korkusuz Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRUxzTVBzajlpTk9LTW8xRlRsbks3MWJTR1VUZjVJNWM4Ry0wQnhneFFZcXpwZl92amYtRVQ4ei1EQ2djdHNfOUFNcFR6RmpfbmlOWWhZLUVvRjhSV0tLaHNQWWpUTmNzSE4xcWY0T0VoMEFjRHBBNE9FRklDZkNpNGYxUzlhRmhPTHFjZ1dRclFibWc?oc=5",
+     "tarih": "2026-11-15T08:38:54+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bursada Bugün",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUYzaTJuNGVSUVl6dzJDMVhMMjdnNHlFMnJCQ2VuTGNIQWRsNWZZWHJGTXZNQ2pPQUY5UFNmc3hWc3NmYnVYbG1oaTdPanBKbVVWRmVKVFBTeWRFRl9KR21EWWQ5THU1LXZkcXAxencxSWVVQUo3TGFoUDRLTVZXUFQ3WHlIenNVVElfajg0SjRrUmM1emw0T1c2OFJFUWVXVmcwUzk3UEFIZ3Y2LW1oVVNWbERRQnY5SmdvSXFR0gHAAUFVX3lxTE82NzBzU2x6bGpkWDZqNWRod0xwR2hUbVRtdFU0U1dLWmFzd25KUnkxckZhZlNVNzdzdnRHZXQtR3h4UnlYQkdRWE9ZWlNDVFl6NDFSVWJkVDBvNWhxYkhoV0FtSDdpQ3lCT2hkSElnS0RDbHFhalVKYVdScURfUWhDamJmWXFWVDRXbG1oMnBoZmNRM09IRFowQURnTHVjUHFsRHlvQ0xydlFlVzdtc0c4ZXdpa21wbmxhUDZLTlJfRA?oc=5",
+     "tarih": "2026-11-15T11:41:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yeni-proje-37jpg-xkKreh1rdEy5-qGHUPEISg.jpg?w=1270&h=675&mode=crop&scale=both",
+   "yorum": "Almanya merkezli Ceconomy'nin çatı şirketi MediaMarkt, Çinli e-ticaret devi JD.com tarafından satın alındı. JD.com, hisse başına 4,60 euro teklif vererek Ceconomy'nin %59,8 hissesini devraldı; Convergenta'nin %25,3 hissesiyle toplam %85,2 kontrol sağlandı. İşlem 1,34 milyar euro (yaklaşık 1,5 milyar dolar) bedelle tamamlandı. Bu devirle JD.com, Avrupa’da 1000’den fazla fiziksel mağazaya erişim elde etti ve MediaMarkt, Saturn ve MediaWorld gibi markaları da bünyesinde bulunduruyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "476a06bcae20",
    "baslik": "Asgari ücrette hesaplar değişti: Beş senaryoda maaşlar ne kadar olacak?",
@@ -148,6 +210,12 @@
      "ad": "ABC Haber",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDNXTzBVMk5UbWZmTWdGRmNMMTZFTGw1VXI2QmdrQUVSclR4TUR4NWRSYkZ4RTRTWFBFS01yWVhVQlp1M2NKZm9FVi1xUXNQLXl5NGpObVFiLVRWTldEcG0yZGgzRG1haGZGUkZxSTdJTTIzTkJHWEpNWTZyRi1NamNWOHV1Q3d2eDl6RzlyTHg5dVlwMUE2TDVjaHU?oc=5",
      "tarih": "2026-11-13T21:37:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Elmas 67",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hSFExWVc5SFJBMl9lazFGTEljWXhaZjB4bW9YUEpXOTVOVTRkQ2dYWkptRHRKWVBoaFZWMUpmMXNhdU1aaHlyRXVEb19sbWFzUXdPMFdOYVdHaTM0?oc=5",
+     "tarih": "2026-11-15T08:21:00+00:00",
      "guvenilir": false
     }
    ],
@@ -868,6 +936,12 @@
      "ad": "Doviz.com",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1h6bFd2eXh6RkhnSm9uTV8tUUVibVRIeFNaSzNoVG5KQVdXQ3V0OF9Lakx4SXc1cF9aNEZ0Y1BLZnZrd2Q3Rm5zNWVMYVNtWV9KR0tqOWlHYUtVWlc1NFFlN0w0QkNtVE5DZzlCYkp4VFhlWmZwXzdEN0hxek9Renl5SksyZkdobmh0TkxYSkgwN042X3lvOV9Iem1mTGdlazc4R3Zn0gGrAUFVX3lxTFBWTVVFeVpfakZKdVpoTVY5SWhwUUl1b1QzajlkaFlVNVFHcm5oMmhJTkZnM3FRSjFubEpMMUVoRnVobEtNR1YyLWV3MFhqWE01QnhZZnRVcDFJQWNyaXJmR0h4TWlfcHp5MGozVm9vczhfLWVYTUo4YV94UXl5YW43NFFGYm80OVFIRERZOThWcFJya0lneFE0aTVHTExwWVZMVXJRZF9TeG5yNA?oc=5",
      "tarih": "2026-11-11T07:15:36+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "MUDANYA Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2NrQWhWNnBwM3dnUGJETFNTekxpM3lOY3VsMlBBZlNvcUlzcmE4RHdodHZJN2xaOHJSd0t4YUIxc2s2SE9EckV5cHZLVEp0ZnNtU3ZKUFE4dmRiNVViNVBZZExTb0d1Yl9kNGxXN2NXZzhRTDFBRDhfbW1xQ2NwRGZlMk5ISi1aTFHSAYoBQVVfeXFMTlNja0FoVjZwcDN3Z1BiRExTU3pMaTN5TmN1bDJQQWZTb3FJc3JhOER3aHR2STdsWjhyUndLeGFCMXNrNkhPRHJFeXB2S1RKdGZzbVN2SlBROHZkYjVVYjVQWWRMU29HdWJfZDRsVzdjV2c4UUwxQUQ4X21tcUNjcERmZTJOSEotWkxR?oc=5",
+     "tarih": "2026-11-11T07:45:05+00:00",
      "guvenilir": false
     }
    ],
@@ -2344,6 +2418,268 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "36e77b0e5b3b",
+   "baslik": "Alarko Carrier, Gebze fabrikasını kapatıyor: 183 çalışan işten çıkarılacak",
+   "marka": "Alarko Carrier",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-11-05T08:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Gazete Oksijen",
+     "url": "https://gazeteoksijen.com/turkiye/alarko-carrier-gebze-fabrikasini-kapatiyor-183-calisan-isten-cikarilacak-295229",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Paratic Haber",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWh4RERLMXR6VVRFeEpMVUdCUkg3V0tsejFYYXBSSjRlSXlYdE5BeDZlWjhmeFltNTJXXzV4Q2Rja0t6QmFPWDJZME5tLUlyZjRXNWVJM3pKLXRNMFpiNUhwdkhXUGtRSTFsV3pFZDBka3dZbFpSOV9OWjd6Y2QtSEJfcFZtMFhIRXZ1Z0xoVjVRZGoycG05Rk1wb2N0Nnh5alE?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Patronlar Dünyası",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbGFmT2FiS1Jic2RSS0FFTF8xcWdsYUlsMUNYdi15NEp6Q0pjckpGV1BfdTlkdS1iOW9XWU5rVHFuOEMzYmozTnhnZ28yLUlFcWxqMVMtVDFlaDM3UFhKS0o2UE1ZeWtmNWswaEFPWGdRQU1GUjlQUlRiOVRtTmJBUnBJbUdqRGkxa210amFWdm5BNzIxZjZxeVV3M21OMkhjbGpqdVBfVXQxNG84eXctM2lGY1VaZ0FEZ2hTY1liSUVWVXI2V2VVV2Q1bE84SDc1b2F2NG1yWElHd1ZhS2dvcTZvLTl3Z05KSlZESw?oc=5",
+     "tarih": "2026-11-05T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsatek",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFVktjdlNlYWplSGRWbC14eDhVUzBpelppd2N4RTRIRTNOUlcwamQ4cV9fSDZJWGp6QWlCN2V1bVZBS2lpLXN4YmlhcmRHZEM5ekMwSF9RUjZTdDQxZDdOcFd3UjBGaGp5Tml3OXYza2NGaVJNVGFwaXllcFc?oc=5",
+     "tarih": "2026-11-06T05:03:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsa Gundem",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXAycDlBdXdiT3ROTFZRYWlHQ05iVmpPNVZXOEkxSzk1b0t1cXFsaXAtQXROSUljb0xhYV9YZUJtM1RJVHdrMGg2WE01eURWcDlqdGtLWDdLU1ZtWldDTkxFcW1hcVNzNTZMV281MnVHSGR0MmtJbktzYXNkdGRobDE2QmROUDJFT3Y5eUp2QQ?oc=5",
+     "tarih": "2026-11-06T05:06:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Foreks.com",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVXpxZGJvaVBNYWwwMFc4VVA0c0dXTmtSRkF6U1U3enA2YnQtWnNacTNSZGQ3YXhLaC1ZVElSSzZMbHhvVWtQOS1leFJqajh0SnpmQVprOV95TUpBdjh3VnpSbWExbGEwS2w3dlViR055M1ZpVFJhZkNoWHZtN0c5V1k5R1FtQ01wTUxqQTViVXpZVW43T0o0M2EtR2g5VTVweElrMGVxLVBxOWJGS183MHhidWZFeE9VdUZrcWNZYWI2djl5MnpPaDh0NHYyaXBoSXhnS2NQakYzazVFOHpLNjNacy15RTBL?oc=5",
+     "tarih": "2026-11-06T05:10:11+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "hibya.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjdWb2VwM05qTkZ5ZU92ZENKV042X3E4VUlBcUFpZjFRWWlmSzJXU3dlaTY0MGYwdG9jY0JBSE9JOUpjV2d2SmZnUUpnUFNzSzNEdThyUERUTnBHWDlmWEY2ZXllWFZObmc4WHI0dGZpMUJxbkQ4Rndob0tpUEVuc2pEVzlyblFwYlAtN0hRMlNETkU0cXVrQnJicGVWLXc5bk43SUJuOVI0QQ?oc=5",
+     "tarih": "2026-11-06T05:15:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Borsanın Gündemi",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFF5am1PcEg5ZGktQ3VrcFgxVE1qNnM0b0FESnMxMFNCY2k0MzEwTzdIV3paTC15OGJPQmdzNng3cFkzMkl5OUNPdklfU3NUU2dmVDE1WEhwdkFRazRHZ1JacHlFUGFKS0hteVFyNkVXZVJBX2M1a2c3OERUaVQ4LTVzMldVbUw3OVlkTHJHUnN4d0VhbzU2U0hyVi1UWE4wcy1NWUdsVXkwVDNqbXNoUjNQZUs0Ry1hakxCcQ?oc=5",
+     "tarih": "2026-11-06T05:32:53+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV1l1aTlaa1lIN0cydGs5RnIyd1I2UDdEemtVOGU2ZWRiY2tvWTZ3T0ZiaHdiaUFXbW5FM04ydVNQUURuSllMZi13VFlNWmZEX1lBRHE0bDRPTGhlekVVMWx4VVd6dXpVMlJKcXVmNVRyQjVLdGctWDVnRThYRE9hS3NKbnNYUVJMQngxY3FOYUk?oc=5",
+     "tarih": "2026-11-06T05:33:15+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "KARAR",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFNuUXNvSXRPZjFwcVFQNE40MWxrdDZjaDJGeUVwRE1SRDIydFdDc0FWdHJid3l1ek1vLUZuMVNLeG4xVGRRUjNwSktkZjFOaFh5czY2ZmdQTWJMV1lHU29YR0FqbVU1ZExNd3U5RDBiYnFUeUV6cVZMM0hLaHJyWkNUdHc0UkhYZzdrODlCUzhLODZteTAzbW5xWmtPY1dfa0hycll2UC1CeEFwZGpheGhYVFc?oc=5",
+     "tarih": "2026-11-06T06:57:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "YatırımX",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGZ1MmRkZ0Ryei1uMnNsVzVHRzB4WWcxT0o0d0JRMDJCM1JkSHJseGFMazZ6aHBFZEtteEVXaHpTMGRpYURoYzNEa3k2cGhwUk5rZGhLdVFSR2p4dDhOSWFzRm9HampBOGROM1NwS3U2elZTdnFyN2RXUW9vRnNia0o5ZW80Sy00R0FOWWRoTHhFR19jc3QybExyd3RjVmZOOUVsYzRpQlh0Q1dHeHlkV2tMTWI1UEU?oc=5",
+     "tarih": "2026-11-06T07:03:23+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Investing.com Türkiye",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3laeTFRcHpfX1hzS3VJSWhBaWZpUmozV1NuZ0FvaUdqUjdfMERIeG11R2ZWbmFZUjF5bkZKYnVGX3RlYjVYa1hRMUoxeTN1R0J1SFpZU2YxYmk4TzUycGlVLS1ZOUpnNVVkcjY3X0JVejVyb1hmS0stTjZoUmhsZnhmN05oenFCaWdTV1FKeTBLR1pRTFBpXy1JNFdwalNGQ0dCdVQyUFNPY1RKdDZxUWNpVUdyMk0wMmNr?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Manşet Haber",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEFVZXdWSzV2WHFxOVpnaGV4WFNuS3BvdVdyamdaUFpGbFdYaUtpOGhKZi1EU2Z4NGpjX1AwWXJPQ3RZWS1BXzlpMnpIbzlrZjNIdWl2UHZrd3hGTWU5bVpac3NRX3ExRllWZ1JjLVowalhuLS1VdWZLQW1obTlLSmphMHlwdWJVbGl4ZnVjSXBWZ0Jh?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ege Alternatif",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjEybGpvdDY4S0ZOLWFXMGRIRHVDMTM3ZVJjSi10ZzRQMWdFalVrYW5Za3ZJMFFMV0VsTjBrMXdJYVZ5XzFhbHBtQlVuSmZmd0hGdEdBZzdyMTN5VWJFV0NITXo5WC1saFpOYXo1dGtLUHpHdUduUUp5WGNjd3hQVkZRLXN0MkRVM3RabjF3TQ?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Sanayi Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUxNcnNpeWZZMHpHcUJ5WHVlWnBfc01TTEdZdEF3SEdOVjdsMW5XSmk2c0tkbF9pd0FibHJTMmZtbWJGQ1c5MkxIN1JnblE5aFFyWkZqd1QwQTduUndYSFMyOVU2bzQyVjNCOXRvQmFMOWtxSjRoZ3BLa19DVUQyWDhmODkzeFoxQ0s5UmR2MEc2b0ZD?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWRjSzRpbjBvTnJmSG5ESkg1ODZEYkZ6LXQ4TGIzcTd4VzhGNUdWTnJfSHpmTWp5UTJKSGlUcEhkcHVneUZKWGZ4ODAxRnRjUHdZWUk1eEtTQUk3Z2V2NFoyVmFrZU9rUXpaR3E2OTVBUWdVYzRIcklxRnctZ2ktYmZHSEpzQTRyUy13Qg?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "24 Saat Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUoyQ0RtNEliTEtLU0E5VzJCN1AyZkFoaXQ2M3RpaGFDaUpYYXpheEZVbkI0NzQ2bWxGblpJMHJzbDYxOHpuS0tTUWk0S21rdGxXV0k1dTdyWDhpUmtmZ3k2dW1qZU1RR1NSTVNzWkZGQ1FycWVabFEzMXBKakV4V3pOeE84ajVSVWV4cGdiNWZDaTVmUlRJb1RPeUlLTVgwT0VoZXAzeklodw?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Alanya",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWVFNEU4c3J1MS1LY3pUUi1ZbTdZV0JJYjJHTWZDQ1U3WkF0NF9MM2ZKOTZxdlFBaEh6X256Z0U3dS1rdHVjVVJqU01RNnBSN1dGenVUQkx6UEhOeks2YkFpSlF2cjczaGlTc1o5blVuNjI0dG1UWURLMllhWllHZXBGc2FnMFdTQVNRcEYtbUpzVm5Zemc4?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Timeturk",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0FSSGtPSFFrTVpEUEM1ZElQUlZjYXZwRkN2ZklvcjVOcy0zUDVvcDViZ1A3N2NWOUZWZXMwX29URmFhbzlDUUh1SVQ5czVfckExeDRUMC1UazdnWVV0cDFVc3VMZVhtOTdPTW1yeGV3QUx0QTFLVmxCV1Y1ZmE1ZHNNdHlKVlBFVkpDUXNBZDJBNFk?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Milli Gazete",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUW0xY3JyQTF3UURDNmdXLTNWY0x3U3FmY045SklVaGxIOEVUV2NtUzR5NUpNSnRzdmVDLW51UlQxSGhWLUFyLWZ0VWc1Sl9YUDRIWFlGMi0yYzFJckwxc2hkUVdWZERkc01WZ1NwcTV0aWtfeXVTd0FvdkRkUmFXYWo4RDZydnEzRWM1bnJiQmJrdw?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "haberkocaeli.com",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkR6UjQ3ajdrZExlNndwRnN3TG9nTHRPR2R5TTVjMVVSTVE5X05hUUlwcHFLYUtxN2RCTjJ2WVFYYnV3SnQzX3V1M2NJMzlFT2FOWHlvVWx6cHNaMnBHclVIN3UyY3JfQ1k2VWxQRklSV05ETExmS1NWUHI4cDRFUldqRFZJRnRGQXdxRnljZU5wNGY4Z2w0R0tUWFo?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İşte Kocaeli Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX21SdXRnNUZVYTdCZHNfZC1xVTY5OVVMQ1V3aHA5anh1YTROWnhjSGxFYnNTRjFVMUVJN0t2TS1lSGJ5cUNfUloyd1dseWl3YjhYc1R0VTM0TzhwSjhiODZyZ083cW1LdDF4ZDNrZFh1dWdSbnA0cEgycDhrYXY3OHZRRmRPdHVDTTBXX3JWa0ZkeDRNZmMyR0JTc3VDQdIBpgFBVV95cUxQVnZ3OXB4eExiQmZqX3pDWUdpRTcyYTlyLUkwMno2Rk9XWlZ2SFhnc3lRcVcyMG9KVDFKTVA5THZmLXNFZkg0VlZOS2laR3V3MGZRelUxVWxUQ2syVW1BRkJOT1RJeHpmQlIyeVZwdTFXbkJpVUtfQ3Z5cklKUE9peFZnU01MX185dElBSlpQd3o3TU1IU3hoRkhQQkVTTEZJdU5HdGZ3?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Mynet Finans",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnc1Q0taVENGX0pVNUhqRnFnOTA1TmFiTDVaQnNYRnMyejZVUXM4bnVaYVdBNXcyOG5tcWJzZGxKVXhWRG15RUVkczhJMTdLMUZ4eF9OUi1ta0c5bmF5YldnZUt1YjJNai1tUFh3WjhwMlJCa1ZFUnAzRWl1LVZjZENHenlTNUVtZ1MyUlphNW9BQk0xY0s0Q2JPOEVMUl9WNTV2NVZIVGlLSmxxRUFOT3hBTElmdlVBbG14MTln0gGsAUFVX3lxTE1NSl9ENUE5MDd1NERoejQ4aWdNRGJROUxnTWpnS1huaHNiS0hrR3B4ZzQ3MHFVdGtDX2p3bmtBaDBYME9uZkQ1MWlpajMyR2JKOWx4VzV4aTNRaXR2dHZ1aUFycV81Si1DVEZYQzR1STQ2WHFHT3FIblBHRlNKclZmdXktMU5HWjY0LXd3S004QktIdWNpYVh2aklXUmV6Q0hSalEwMlEzR2hfdVI?oc=5",
+     "tarih": "2026-11-06T08:00:24+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber TR",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUdnSi12S3BSV3dROHZ4NWZlWnZyZ3BQQXY4TGgwcTZ0Z2RhSl95Zm9YOVdhTkN5a2MyRGxNUnZXWWlKS1dhNVNjVmxSNE1FdV8ycnJjQVZVQzlLVW5PTDZ3QS1UZmN3QzRvendPWEtYMmNOSmNDWUt4SUxPYmM5R05hTE9HT09Jc0pvb1RkOA?oc=5",
+     "tarih": "2026-11-06T08:00:24+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber3",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3dkdFNxSHpqaVNSRG9wU3pnSERWbTBuWS1kS1FET0xGNUs1TnhHeE1EeEhKbFJET2FMZ21DbU8tM0xnaGRiMGFRc3U1cnV2ZXdnQnZoUThKbVU2OGRJQkk0cXJoeThiUWV3azhHdFh5cXlNNmVSMER6M0R6TDNia3BhamRKN3hpWVhCUFM4U3hJbkd4eXNubnZwNEQ5OUZfZzFBcFM3RQ?oc=5",
+     "tarih": "2026-11-06T08:04:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bursa Hakimiyet",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa2J0SHpyaU51cFJrRFhtU0lyQU13OGNzY2lZenFLSmVES3gwb01FSmFOMWgydi1pNjhaWDNsYjJxNWRHTVpwazFwc3pfeWhSank2S0M0c19DdHdadnYteUFQenhhSGU5bE5pOG5UZm1hU3Rfc2E4aFFxWVlSQjZJa2xKOFBpUXFxdkl3MktaYThtN3E1bFBXQWstUEYxZ2R0ZDFKMDFGanl2SzVjbjFSdDRMLXVLSEFxYXc?oc=5",
+     "tarih": "2026-11-06T08:14:29+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bağımsız Kocaeli Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT1lSaWxEQU1EcDVrc0hSZXJ0QzdGemRWWW90TmprZ0VkdXk1VlpQYlFuUUEtdUNrWVJLT1hfaW15bnhwWDJaTjE4OHlCazZzMlA4cTkwYndNdzlfSWZYb3BTX0pnVUxKb1hxMkFiUFAyOEJWNEszSGhwSmZGaUdxWVdGeE5zUVhZWFZzazRmcXhFc1BwT1pJcXdSbldCaHJWVGlWc053MEtGVzM1dnNMR3dvMDBkejVURzBON3h4SmVXUlk?oc=5",
+     "tarih": "2026-11-06T08:16:08+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Para Analiz",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGdoM2lHSUFpYnYyTGR0dFNxcmpYSVpCY2dyVWhLcWlhSEpJVm54NDY0ZkhXaXR3SVptVUhFdkU5U3kwM3NkalJqY056NWZaVGFaeEZOMy1OLXRRa0xFWEt0eXUwRG02TW96THpCbm5pVzN2WUk4ZG81SjdHRDZIWWNwT245MHlUcHBjUmVMYzNOR25tYUlTbEVJem1GUjE0dHdKYzBXbw?oc=5",
+     "tarih": "2026-11-06T09:52:15+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İnternet Haber",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTjZZVTFtaXdBX3dkaTVITDJEd0Mxb0RJSXU0S0Nab2V2Tkc1bXViWG1FOW5DLTM0R0lwZ0xLcmthbEZLdC1kNUh1NFhSbE1laEJfbmVFNUlURWZ3X2NJVVBzdTA4bzJLQW1DUUo1OEdpVXRVRkNjRWpCV1BSaXJfLVd4SDAtNWNnS2h4MzZuMUpVNUNHTFg0Ym1rWlU1QUJUZlNVMGpZMEF0WWVhc091amF3YjFEc1U?oc=5",
+     "tarih": "2026-11-06T09:55:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kronos Haber",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90X1JDSlNLNXRqdFpkbHo3ZnZ2eGR3Um9mTWh1b1VnVm1zdzBGUUpKbnplYnZheEFkWnUyeUVkWDVNdFUyS3BUNHd5Z2xxWDFDcHVGb2lMMG1mV1hqZ3Rub093ZWFzUHFXYkl2bG9GdmphYnNJZV9ueg?oc=5",
+     "tarih": "2026-11-06T10:03:59+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeniçağ Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTdQZUpTbk50XzV3amUzZnItSXZ4MEVjaWNLR2ViMHVFVk5Ud1ZyZGluclNNdUNSWHRVd1kwajBFUDBWLS1GZ28wNHNscGF0UUtPeDdhR2dwVDFzZXpwMldsWUNoUDlfN0hQaU51R2c5M0hWeERVUnRUVWhtaDVDdm9NWXpTa3JIbFBlTWp4dHRpU0kwa2xVWlZqeURUV3M2bXdWZ3g0YTVjZGJNbG9uXzhiSFAxLXhLblAwNQ?oc=5",
+     "tarih": "2026-11-06T10:37:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Okur Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVk4dHJ2V2w0NWxPdl9JU01ZMXR6YVlfWkpTdG9vbFhIaERSRFJFaWd1VGZVWWVRc2s4S01uSndjZFAybkdCak1hWEg5VjRHRFNfZ0s2cmZXLUM3TV8tU1dGd2FMUk9ocWRKRkxiNGFyTmswaC1jNHNyekZvVUVDUWRuS0l0OVMtRU13RGNHQW55UTVt?oc=5",
+     "tarih": "2026-11-06T11:08:29+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kocatepe Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ERlRsSm9wbFVWeHQ4UVNFSWVLU2xnMldaV3hLMUNRRXRVMmprRzRfbzZJcmJfSklNeE5od0hWa25vaTVvVlM2RW9zQXR6WnF4Mk9xRnk3a1ZFQUp0akRXMW1HdGJhaDZzSC1PR1YtZVhGakdCOFJ0Qw?oc=5",
+     "tarih": "2026-11-06T11:25:26+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Evrensel.net",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUhSWVc5YzZ6Z19TX3Frc1VxRG10eEI1bHo0SDQ5VnZYOHlPbUtvNmNibEJ5T1RXRWdGNEhicnMzc2hXemJoWWhlZGlsTVk1bW52UVF1MEFMY194SjFpWnZIN0FvM25tRDhla1FUY1NMWmNmS1czVXlOc1RScjNUMkFmWVBCcTFVMzhya3pfeDdyQ3NxdjZoN2FRNEpHQklXRVBxQXNZWmlaRmRf?oc=5",
+     "tarih": "2026-11-06T11:52:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "KGRT Haber",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVBqRWJYdmc5SXlzQWJPWExGS3ZRNFNzY3Z2cmVnNlZNa2UySkpHLW9ZS01SNDVGR01adl9LZHVhZzRScU9mTmExXzVZTS1Ed2ZlMldhRjBZUlBXMFdLN2hDNk8xVEZ2aEp6ckxEMjJUN1poUXFHTVBBcTJNbXNjSHI5RThCRFpr?oc=5",
+     "tarih": "2026-11-06T12:24:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kanal 46",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORExzRFh4YUJhdUpPc1pDcTNZbEdDbFo2Q1JrWXoxdmhZSDhaa2MxWjlOTWtRZHIyeWhiZ2dJOGtEUG5nYnBmYk1ORmRERVRnRzk0c2dHcXdXZXVQbmFjQkFJQzNmOUpVY1dadE00T3RPV0VkR1o3SG5TQUIwM2tYZ3U2V25Ud0FFR1FxekhIRXA?oc=5",
+     "tarih": "2026-11-06T13:51:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Herbir Emlak",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0gtY1pIbndndDducWFHd3lyY1ZCWjZYY2toR3BGMnRrRG85azJQdTd6WXJzUjhyc0tIWERGWmp0Z2FfeV9HQTkzc3FISlJIREZRYzhpWmJIYnNTNXhWUjBYbk9iV19VeHItYzBseWJHZXlQX1hMSlZMS09FNFM0NVZjOTk4Y2pId1Y0NVJLVXUxbGFka1ZMV3BGX3lUeUNIblNnNHUyOA?oc=5",
+     "tarih": "2026-11-06T23:32:35+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İş'te Gündem",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzhsRzdQRlZIZTA4dlBhVVRVV0ZkLVdiclZrV01aRTVHLTUzLWpEMnBIaTlHTWotdG1NTDFYMkptWHIyVzFycENMTnBqcFNSM2h6M3kzTk9RbUt6dGZQMVN4a2hRRk55STJXT18xRlp4b190cjdrTTZvVWxrU2JUT1pKdEhObUFaZ0hSZUgxWWptNEpwTFI0?oc=5",
+     "tarih": "2026-11-07T07:06:15+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Odatv",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUlpGX0hKRWVadEtVMFU1VzNRSTdjRVVJQ1hVcGU2UWxvQjVmOXFJNG51Tmt2UGdFcDJpV2NmTHJhRUh2WGFGU2stMVMteXItQUlNRHdrakJJakdad2xCeFI3QTZRdDVhcUxZdWYwbTBWOVFtMFQ5aDN2bFhueVpSVW1QeUd0bndKdVlrZXNuMmVYazctMG4wRTBHWHB3QVRWdll6cFVseGhnQm5RTFNhMmh5OGpOQQ?oc=5",
+     "tarih": "2026-11-07T07:15:11+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Notbir",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWhGOWZ4R0NSaFplYVZTbGczUkkwbS13dlRrN0Vtcno1eE1xaFllSmFDYl9sb2s2MnNYQzVzenhLTHBNUFNfQmJXUFVMaHdtX3Q4V3VYU0xzcDhTN1JueTFEY0hsMXRIblBPTVZ4UXZBbmRhOUc1YklXRVNWQUlFOFRIMFB1UTFnellsdmFmUQ?oc=5",
+     "tarih": "2026-11-07T09:22:55+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kocaeli TV",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjhaWHJOa3JoNzIxYl81Zm50Y181b2VQNWJfbkFCSm45NnZucWJUTU1ObHJrcW1xWVlPeHFiNDNBYzB5WWJjREc1SnVYYUFrOFM0Nk1qQVE4b3JpQTVqQVRYQkVwdlZoNjF5TEN6eUJvYVRuX2lRQXliaXAyVHBUc2FQOXE4UHp1WUx5d3dnNDlEOUtzNzFqTk9PbzdPRS1RR0pTbDJXNlNZajg?oc=5",
+     "tarih": "2026-11-08T10:21:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Alarko Carrier, Gebze’deki fabrikasını kapatacağını duyurdu.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -3997,202 +4333,6 @@
    ],
    "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/10/26/thumbs_b_c_c0997609eae7afafa4c931a20a8943ab.jpg",
    "yorum": "Koleksiyon Mobilya, 2026’nın ilk dokuz ayında 1,9 milyar TL hasılat elde etti ve 134,8 milyon TL EBITDA kaydetti. Üçüncü çeyrek hasılatı bir önceki yılın aynı dönemine göre yüzde 31 artarken, brüt karı yüzde 22 yükselerek 326 milyon TL oldu. Net kar 8,8 milyon TL olarak gerçekleşti ve esas faaliyet zararı yüzde 64 azaldı. Şirket, yurt içi satış kanallarını güçlendirme, proje bazlı iş hacmini artırma ve uluslararası pazarlarda varlığını genişletme stratejileriyle büyümeyi sürdüreceğini belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "a3c74de6ef71",
-   "baslik": "Mahfi Eğilmez: TÜİK'in enflasyonu yüzde 31,51, kredi kartlarınınki yüzde 42,2!",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-26T08:53:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/gundem/mahfi-egilmez-tuikin-enflasyonu-yuzde-3151-kredi-kartlarininki-yuzde-422-haberi-927080",
-     "tarih": "2026-10-26T08:53:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/21/mahfi-egilmez-uyardi-tehlike-canlari-caliyor-9o7y_cover.jpg",
-   "yorum": "Ekonomim haberine göre, ekonomist Mahfi Eğilmez, Bankalararası Kart Merkezi verilerine dayanarak kredi kartı harcamalarından türetilen enflasyonun %42,2 olduğunu, resmi TÜİK enflasyonunun %31,51 ve diğer kaynakların %34,96 ile %49,03 arasında değiştiğini açıkladı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "9d4520f7d898",
-   "baslik": "e-Ticaret siteleri kışlık alışverişlerle hareketlendi",
-   "marka": "Gündem",
-   "kategori": "ev",
-   "oncelik": 2,
-   "tarih": "2026-10-26T08:12:12+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/e-ticaret-siteleri-kislik-alisverislerle-hareketlendi/4100821",
-     "tarih": "2026-10-26T08:12:12+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/26/thumbs_b_c_48b1db8dded2da503822220d61463a3b.jpg",
-   "yorum": "Anadolu Ajansı, e‑ticaret sitelerinin kışlık alışveriş döneminde hareketlendiğini bildirdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "9ed2dd93b7cf",
-   "baslik": "Kasım indirimleriyle aylık e-ticaret hacminin 600 milyar liraya ulaşması bekleniyor",
-   "marka": "Gündem",
-   "kategori": "ev",
-   "oncelik": 2,
-   "tarih": "2026-10-26T08:07:11+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/kasim-indirimleriyle-aylik-e-ticaret-hacminin-600-milyar-liraya-ulasmasi-bekleniyor/4100812",
-     "tarih": "2026-10-26T08:07:11+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/kasim-indirimlerinde-rekor-bekleniyor-haberi-845290",
-     "tarih": "2026-10-26T08:24:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/26/thumbs_b_c_0f7508843fddc5b49518289ccd59473f.jpg",
-   "yorum": "Kasım ayındaki indirimlerin etkisiyle aylık e‑ticaret hacminin 600 milyar TL’ye ulaşması bekleniyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "a01ca43bc39e",
-   "baslik": "SALONİ Mobilya 52.’ci mağazasını Kahramanmaraş’ta açtı",
-   "marka": "Sektör: mobilya",
-   "kategori": "mobilya",
-   "oncelik": 3,
-   "tarih": "2026-10-26T07:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/sehirler/saloni-mobilya-52ci-magazasini-kahramanmarasta-acti-haberi-927243",
-     "tarih": "2026-10-27T07:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Yıldırım Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakNZTk5adXE0Zk92a1djYTQ2bm9ESUtLYXZ6ZUd4Z3ZGdmFNYzM4X1NWYWFCdm5vUnNpRFJpUTBPeFlQdmdlM0FkbS1kci1FU2Nsa0laSl9HLUhTSVdEbnFKWFpMejU5SWFRVzU3ZGZ2ZHY0ZTFSSjFiTFMxVFZ5UW0wbDRlZ3BLY3ZkMlJR?oc=5",
-     "tarih": "2026-10-26T07:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "SALONİ Mobilya, Kahramanmaraş’ta 52. mağazasını açarak bölgedeki mağaza sayısını artırdı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b915bceb4596",
-   "baslik": "Sektörel güven hizmette geriledi, perakende ve inşaatta arttı",
-   "marka": "Gündem",
-   "kategori": "ev",
-   "oncelik": 2,
-   "tarih": "2026-10-26T06:50:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/sektorel-guven-hizmette-geriledi-perakende-ve-insaatta-artti-3792499",
-     "tarih": "2026-10-26T06:50:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/guven-endeksi-ekimde-hizmet-sektorunde-azalirken-insaat-ve-perakende-ticarette-artti/4100700",
-     "tarih": "2026-10-26T07:16:20+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/perakende-ve-insaatta-guven-yukseldi-3922580",
-     "tarih": "2026-10-26T08:07:01+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/26/ver1792997432/3792499/jpg/1280x720",
-   "yorum": "Ekim ayında hizmet sektörü güven endeksi %2,4 düşerek 109,2 seviyesine gerilerken, perakende ticaret güven endeksi %1,1 artışla 112,5, inşaat güven endeksi ise %0,4 yükselerek 83,3 puana ulaştı. Perakende sektöründe iş hacmi‑satışlar üç aylık dönemde %6,2 artmış, stok seviyesi %1,2 yükselmiş, ancak gelecek üç ay için beklenti %3,4 düşüş gösteriyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "55d769dadd96",
-   "baslik": "Merkez Bankası'ndan TL kredileri için yeni karar",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-26T06:37:48+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/tcmb-den-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim-3922542",
-     "tarih": "2026-10-26T06:37:48+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-endiseleri-artarken-dikkatler-fedin-bu-haftaki-faiz-kararina-cevrildi/4100814",
-     "tarih": "2026-10-26T08:07:47+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/pakistan-merkez-bankasi-ndan-nisan-dan-beri-ilk-faiz-artirimi-3792543",
-     "tarih": "2026-10-26T11:41:12+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/10/26/ver1792996614/3922542/jpg/1920x1080",
-   "yorum": "TCMB, bankalara gönderdiği yazıda, yurt içinde Türk lirası cinsinden ihraç ettikleri borçlanma araçlarından yıl sonuna kadar itfa eden özel sektör kuruluşlarına verilecek TL kredilerinin kredi büyüme sınırından istisna edileceğini duyurdu. Bu düzenleme, kredi değerliliği yüksek ihraççıların banka finansmanına erişimini kolaylaştırarak likidite yönetimini desteklemeyi hedefliyor.",
-   "neden": "",
-   "gundem": true,
-   "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "457566527183",
-   "baslik": "BBVA, özel sektör tahvillerinde temkinli duruşunu sürdürüyor",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-26T06:04:57+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/bbva-ozel-sektor-tahvillerinde-temkinli-durusunu-surduruyor-3792488",
-     "tarih": "2026-10-26T06:04:57+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614",
-     "tarih": "2026-10-26T06:06:24+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/26/ver1792994861/3792488/jpg/1280x720",
-   "yorum": "BBVA, Türkiye özel sektör tahvillerine temkinli bir yaklaşım sürdüğünü ve Vestel Elektronik’in yapılandırma sürecinin risk değerlendirmesini etkilediğini belirtti.",
    "neden": "",
    "gundem": false,
    "onem": 3,
