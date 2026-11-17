@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-17T13:48:18.725118+00:00",
+ "guncelleme": "2026-11-17T22:37:22.230194+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "4a6fb7b31eea",
+   "baslik": "JCR Eurasia’dan Yataş değerlendirmesi: Kredi notu değişmedi",
+   "marka": "Yataş",
+   "kategori": "mobilya",
+   "oncelik": 3,
+   "tarih": "2026-11-17T15:42:23+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Paratic Haber",
+     "url": "https://paratic.com/jcr-eurasiadan-yatas-degerlendirmesi-kredi-notu-degismedi/",
+     "tarih": "2026-11-17T15:42:23+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.paratic.com/dosya/2026/11/jcr-eurasiadan-yatas-degerlendirmesi-kredi-notu-degismedi.jpg",
+   "yorum": "JCR Eurasia, 17 Kasım 2026 tarihinde Yataş'ın uzun vadeli ulusal kurum kredi notunu A+ (tr) seviyesinde teyit etti. Not görünümünün ise önceki değerlendirmede olduğu gibi durağan bırakıldığı bildirildi. Değerlendirme, Yataş'ın kredi risk profilinin değişmediğini gösteriyor. Şirket, yatak ve ev tekstili sektöründe faaliyet gösteren köklü bir marka olarak bu kredi notunu koruyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "08e7e85188a2",
    "baslik": "Arçelik'ten SPK'ya başvuru: 40 milyar TL'lik borçlanma hamlesi",
