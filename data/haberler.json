@@ -1,7 +1,63 @@
 {
- "guncelleme": "2026-11-17T22:37:22.230194+00:00",
+ "guncelleme": "2026-11-18T13:23:21.905391+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "27b8914f17a9",
+   "baslik": "Finansal İstikrar Komitesi'nde kredi ve kredi kartı gündemi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-18T12:37:43+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/finansal-istikrar-komitesi-toplantisinda-kredi-ve-kredi-kartlari-gundemi-3795007",
+     "tarih": "2026-11-18T12:37:43+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/18/ver1795005514/3795007/jpg/1280x720",
+   "yorum": "Finansal İstikrar Komitesi, Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında 18 Kasım 2026 tarihinde bir araya geldi. Toplantıda dünya ve Türkiye makroekonomik görünümü, finansal piyasa gelişmeleri ve sermaye piyasası adımları ele alındı. Özellikle bireysel krediler ve kredi kartı politikaları değerlendirildi. Komite, sürdürülebilir büyüme için finansal istikrarın korunması gerektiğini vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d6eec569b637",
+   "baslik": "Arçelik ve Beko’dan Öğretmenler Günü’ne Özel İndirimler",
+   "marka": "Arçelik",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-18T09:26:03+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Mall Report",
+     "url": "https://mallreport.com.tr/arcelik-ve-bekodan-ogretmenler-gunune-ozel-indirimler/",
+     "tarih": "2026-11-18T09:26:03+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlZlU2NiUHJVSGdkbDF0akJ4bU5rYkQ5N2RHaHpFZm9fVDJGaks4U0RyeV9EbGVRWFpTQXg3LUhNWDRfdWNmdkxLVWhMWFFaZGFvc3BHYU1lSmszUllyRWpqRTJESjhILTcteWJOTzcxemZ2Qi10dlRlTnB2ZW9OQU03S1lVZVdTS0pIbGlpMGlTaGpfdFhmczh1MFBObVg3czNIQnhB?oc=5",
+     "tarih": "2026-11-18T10:09:39+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Medya Gazete",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWNkMWJsWWE5WWlxRkd5LWR0eVZuQkZxOHdfNG5Zb2g3cWhCN0ZmOGQ1Y1BPdUcxRUdmSWJXMTdZWnRfYnFjNXRrTElvd3gwY3FURmNVQWpmTWdfZVhDbkRNWGZPMnRwcW9WUjZVWjdXSnNPMTJlalVMME9pNEJyUlhuN0djRVlsQjY3N1Z3OTB0WG8?oc=5",
+     "tarih": "2026-11-18T11:04:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://mallreport.com.tr/wp-content/uploads/2026/11/1794990782_Beko-scaled-e1794993866848.jpg",
+   "yorum": "Arçelik ve Beko, Millî Eğitim Bakanlığı iş birliğiyle 24 Kasım Öğretmenler Günü için özel indirim kampanyası başlattı. Kampanya kapsamında 30 Kasım tarihine kadar öğretmenler ve bakanlık personeline seçili beyaz eşya, ankastre, televizyon, iklimlendirme ve küçük ev aletlerinde %10‑%25 arasında indirim sunuluyor. Katılım hakkı, bakanlığa bağlı resmi okullarda ve kurumlarda çalışan öğretmenler ile idari personellere veriliyor. Şirket yetkilileri, kampanyanın öğretmenlerin ev yaşamını teknolojiyle kolaylaştırmayı hedeflediğini belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "4a6fb7b31eea",
    "baslik": "JCR Eurasia’dan Yataş değerlendirmesi: Kredi notu değişmedi",
@@ -1198,6 +1254,18 @@
      "ad": "Ekonomi Ankara",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXBMNFk3UThGY3hNa0pyLTBfaXZEUU5jV091dWlnVHBQeTgyZTZmTVB4bzFyY010b1d1U2J1czU3MjFzdEhJUUU0cWk4bWVoZTNfLUNIUml2c0FOd24xRGwxcWZqeDR0Z3JGMUFRWmFzRXNPbW83eDdnUTgyaGNpeXhDMA?oc=5",
      "tarih": "2026-11-11T14:40:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "GazeteKalem",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONkg2bURoU21jVkhGNUh6eUJLQXlaaS02aWpSVmstazBhamQ0N2U2RjV4STJxenZ3S3I0TGREdW9Oc3k0NTVtY0VnVmtBQmhDeTV0TXkzYlpaZ1YzNzdsX1Q1VDZFclI3V1hjRzBYcG1STFNOSmFVTzEwcFNabVlMYldGVXdEQnBUQ25zb3ZGOW0xWTJ1NjdXMUpRdG15NFJPazJrOGMtZUgzSWtlZ3dIM1QtV1BTQ1Y3U0V4VzBvZ29YZG9TcjBNanRGVHk?oc=5",
+     "tarih": "2026-11-11T07:28:04+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hisse.net",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmRhSUhlQWZSZXBSZU9EWjA5YTM3WWlzWW85aFk1a09VWUxBTzg4aGRDM2Mxdy0zV2xNYWlHN1BUMy1SZ0V5ZDdzTEZpeUd2VnlGRnV0Yk1IcXhlZFQ1Q2RLV2hzbHRKclJzM2dmcnprX3FOVDhIN2hXWFJQM042VlNoZ2d6NGRLNFM4WnZfUU1xMklDb3fSAZYBQVVfeXFMUHZkYUlIZUFmUmVwUmVPRFowOWEzN1lpc1lvOWhZNWtPVVlMQU84OGhkQzNjMXctM1dsTWFpRzdQVDMtUmdFeWQ3c0xGaXlHdlZ5RkZ1dGJNSHF4ZWRUNUNkS1doc2x0SnJSczNnZnJ6a19xTlQ4SDdoV1hSUDNONlZTaGdnejRkSzRTOFp2X1FNcTJJQ293?oc=5",
+     "tarih": "2026-11-11T08:07:54+00:00",
      "guvenilir": false
     }
    ],
@@ -2947,6 +3015,12 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTVvWmZxenlhQmNOMGNCMDRfWnA1bUxkblJSSHdDWnhUVVJWWGpVei10VDRpTmNmMmxSRjhZM0F2UHFHNU9oYW8xZFJEQi1oUzFlRnMtXzhKdVl2YUItYmVxY1R2ZzVaQm1UNDhuMm5Qal9tdUN6TGVyVmtzTEFJWjZXVkxBNWt1NDJ3aFBrUERnaWU3cWxUUFdScUJpX19IdzVkd2NhVTZ0VnptaTJieEtB?oc=5",
      "tarih": "2026-11-06T08:00:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "SteelRadar",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVndncGZVbm1Mb1FQOXRUYzRUZ0c0cGg3NW5DUkstSHdRek80QThwdlJyNWtNemJKQXNLYnFYZHRubFNURndpQXVxYW5JdlI5ZHdNRmd2NXVJRnBvN0xWNXZRTWFMREtVRklackhGNkFqVld5LTF0VXV3OEZTU0xTSkVvT2VwbVpVamowTk80VlZfemVYeGhSLWRFYVhraGRzR3dGTmExeDVybVRWTTd3?oc=5",
+     "tarih": "2026-11-06T14:30:53+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -4091,34 +4165,6 @@
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/29/hakan-kara-fon-krizi-ve-piyasa-kayiplari-servetin-yuzde-10unu-yuttu-je0r_cover.jpg",
    "yorum": "Prof. Dr. Hakan Kara, fon krizi ve piyasa kayıplarının hane halkı servetinde yaklaşık yüzde 10’luk erimeye yol açtığını belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "fbe8feba1712",
-   "baslik": "AMB Ekim toplantısını pas geçti",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-29T13:04:56+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/amb-ekim-toplantisini-pas-gecti-3792802",
-     "tarih": "2026-10-29T13:04:56+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/ekonomi/ecb-yuksek-enflasyona-ragmen-faizleri-sabit-tuttu/4105014",
-     "tarih": "2026-10-29T13:19:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/10/29/ver1793279179/3792802/jpg/1280x720",
-   "yorum": "Avrupa Merkez Bankası (ECB) Ekim toplantısında ana refinansman faizini %2,65, marjinal fonlama faizini ise %2,90 seviyelerinde sabit tuttu. Karar metninde enerji fiyatlarındaki artışın enflasyon üzerindeki yukarı yönlü etkisi ve büyüme üzerindeki aşağı yönlü riski vurgulandı. Enflasyonun çekirdek kısmının istikrarlı seyrine dikkat edildiği ve ücretlerde belirgin bir tepkinin gözlenmediği bildirildi. Banka, para politikasının veri odaklı ve esnek bir yaklaşım çerçevesinde yürütüleceğini belirtti.",
    "neden": "",
    "gundem": false,
    "onem": 3,
