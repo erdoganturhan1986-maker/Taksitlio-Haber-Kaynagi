@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-18T13:23:21.905391+00:00",
+ "guncelleme": "2026-11-18T21:33:54.226783+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -452,6 +452,12 @@
      "ad": "Son Dakika",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbG5sTFJsY21ONHJlTWVmcjM0ak1LY1k2bjlBaGJIeUZZN1NibFNtUnpjSXhJd1NuQU8yZkxuQ1JxRFhXMFc2NWFDa3dnOHZsYXNSSUd6Zk41YXRhSEpmOWluLVNvVzNrRDdNLU1LdlFadkd0b0tTczVQM3NjbWtfcGdNcHpIX3Q2RUxRcS1XSXd6VmVSXzFGenhMUGllN2lQaUHSAZwBQVVfeXFMTW52b3ZpYS1qZURUUUhWTVoxRl96VUV3TkgyLVNFeGQxLTRpb0EtUFVWeW1CdmZxaG1DWVQwNGJ0X0pyY0pGejA3ZGVLblB3WGlXbGhRNG5TZDhZMjdPRjRoME4wVVFOWjRqTk9qenplQjVXSUc4Z242Z0ZqTFg2eE14MFZTUl9CdXdPbEEyZ1ZSeGZBNDJGTnNGZE96?oc=5",
      "tarih": "2026-11-13T07:00:55+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Personel Sağlık Net",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXJrUFVFakZfZnc3dkRfdWsyVmt6WVY2NnN4RW9PRTRYMG5kb01PWlhpRU5PWXlaUmdPbUwtNEtQS0dMcWptSEhpSF9FSVVkbEUxWjVyLUVNekhhVFlIeEhvRWgtQlZRcjZER3BMWHF6SmVUMGJPWmZtcFFmN2phVGpwTC04ZlFkNHNFYkhieF9TaVotNlluaA?oc=5",
+     "tarih": "2026-11-13T09:30:00+00:00",
      "guvenilir": false
     }
    ],
@@ -913,6 +919,12 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlRoMm90QmpncWdoVlN1N2JZOWRkcmM5T2ZVWXRlM25FOGVSUWVMeWhUb0Ewa3cwXzdIUVdIampReU9TdTBNSllzUE92bndQRjFzX1ZCUXBBVzU0ZnJuc1F0dUlsZUJsUDFtZzNmQVpRcHdCb1VPUFFrUmV3X29GNjBSbml4cFNpS2s3Mk91NkZ0VGhtb1o2VmlOWFZOaVZFYlowYi1uMl9XRzhoNFhVdjY0Ny1sUdIBtgFBVV95cUxPQlRoMm90QmpncWdoVlN1N2JZOWRkcmM5T2ZVWXRlM25FOGVSUWVMeWhUb0Ewa3cwXzdIUVdIampReU9TdTBNSllzUE92bndQRjFzX1ZCUXBBVzU0ZnJuc1F0dUlsZUJsUDFtZzNmQVpRcHdCb1VPUFFrUmV3X29GNjBSbml4cFNpS2s3Mk91NkZ0VGhtb1o2VmlOWFZOaVZFYlowYi1uMl9XRzhoNFhVdjY0Ny1sUQ?oc=5",
      "tarih": "2026-11-12T07:04:26+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSWdqWlMtZU5zZG5sRWh5NGEyM090bmM1VzNERkRWOGRIZDV2TF9HU2h5Q1VqOWJDM1hXYldObGprNWxCeFVzZ29Pc1h5V3VXam45OUJHb0c3YW53Y19YRTUtOGI1VWt3YnJZZ0lRWDFXX2Q3cTRjS0l5X2RWeUFNSkVpdWZqZ3hYeTY4X0JkQ0dETkZFS1owcWtRSTdRYUdLVWowYjFBSml1NkJMQmdCbnJxM0d4Z1R5dGM5SUxQZVFid0h2S1RwY2J3X000Z1RiOW9CYVItZzFFOWtUd1BzSA?oc=5",
+     "tarih": "2026-11-12T09:45:39+00:00",
+     "guvenilir": true
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/11/11/ver1794386275/3926509/jpg/1200x628",
@@ -4124,50 +4136,6 @@
    "neden": "",
    "gundem": false,
    "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "fa75a5a870b6",
-   "baslik": "ABD'den Çin'e yeni kısıtlama: Akıllı telefon ve bilgisayarları da kapsıyor",
-   "marka": "Sektör: cep telefonu",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-10-29T20:35:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "CNBC-e",
-     "url": "https://www.cnbce.com/teknoloji/abdden-cine-yeni-kisitlama-akilli-telefon-ve-bilgisayarlari-da-kapsiyor-h40589",
-     "tarih": "2026-10-29T20:35:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/05/13/abd-cin-stok-istock-idpv.jpg",
-   "yorum": "ABD Federal İletişim Komisyonu, iki yıl sonra yürürlüğe girecek yeni bir düzenleme ile ABD ile karşılıklı tanıma anlaşması olmayan ülkelerdeki laboratuvarların test faaliyetlerini dışlayacak. Bu karar, ABD pazarına sunulacak akıllı telefon ve bilgisayarların yalnızca ABD’de veya tanınan ülkelerdeki laboratuvarlarda test edilmesini zorunlu kılıyor. FCC Başkanı Brendan Carr, testlerin %3,6’sının ABD’de, %82,3’ünün ise Çin’de yapıldığını ve yeni düzenlemenin tedarik zinciri risklerini azaltmayı amaçladığını belirtti. Düzenleme, Huawei gibi Çinli şirketlerin laboratuvar onaylarının iptal edilmesi ve 2025’te 32 laboratuvarın sistemden çıkarılması gibi adımları da içeriyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "842858f8ba3f",
-   "baslik": "Ekonomist Hakan Kara: Fon krizi ve piyasa kayıpları servetin yüzde 10’unu yuttu!",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-10-29T13:29:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/hakan-kara-fon-krizi-ve-piyasa-kayiplari-servetin-yuzde-10unu-yuttu-haberi-927837",
-     "tarih": "2026-10-29T13:29:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/29/hakan-kara-fon-krizi-ve-piyasa-kayiplari-servetin-yuzde-10unu-yuttu-je0r_cover.jpg",
-   "yorum": "Prof. Dr. Hakan Kara, fon krizi ve piyasa kayıplarının hane halkı servetinde yaklaşık yüzde 10’luk erimeye yol açtığını belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
