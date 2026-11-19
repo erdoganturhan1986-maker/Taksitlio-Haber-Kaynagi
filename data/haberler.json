@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-19T13:50:53.131685+00:00",
+ "guncelleme": "2026-11-19T22:24:37.423193+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -111,6 +111,24 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXJ6ZHpvdmFmRzdfaWFFeGxPWHIwUWhSX000WnlLMV9PXzl0MlNub3c2MllSeGpQLThfWEZEWnRWTTJIWHdaMGpxR3hqVlVVUDRlWjd1WE5IVjhZeFFXOXFLemw5UTlxZUd5VDZoREl0MkMxYTFOOXE3NU9seHQxZnE5OFowbXlYaVJzWjlRLU1SM25UaDB4Ym9hd1l0aTlxaVlEdmZvUVE4cnVZSmc?oc=5",
      "tarih": "2026-11-19T09:47:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Son Mühür Haber",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXFWUFVLVXVxWUNyUVNwZ0lYM3pIdWNZTE90RDludk5yNFY0Z1lHYjMxS0xUX0psUC1vMWJwdW13cG54TnJYUnBvWjhud2Rodk9VQjFQWmJnVXNKaTdEV2xIMlNOTXVGZmVmdnVNcTFaeWEzeDA3c29NU2MxaXB2aGRjUXJLd1plSFpmT1puTzlpQQ?oc=5",
+     "tarih": "2026-11-19T08:34:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "724ege.com",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEVENDFtOXVFeTZqYmQ3SEFsRERMeUJSUW42eVg2NjlNbWR3d283b1RWRFJuMnpiMUdOaDk5U25ZWjBwNGFra0pLUlV2dHNGUkZvUWtEOGpieUNhLVBRTlFTU3JSRFFYM2lfdVB6LVpZdnZraW13S2NiS0dDOHdnU1lSSGduOXprUVBMdmZCVTdndmI2ZUE?oc=5",
+     "tarih": "2026-11-19T08:34:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Milli Gazete",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNlJxYTA4cl85TG4yRExRZkFDR2Y5dDhLbVdKNXF6VWl1ZTRlSWtVU3dIdXhFdzJOaktUMUsySzVvQXJYcUpSN1Nwdlc3aEgxSWJ4c0ZSYk95MHRiRXIxa2VKSlRUSVlLeElUbjdYdFA3QmVvZW9sbHVOa3Zmcnppa1EwZl9ZWEpVdDJqNFlKSjh1ZEtHT3FhTlJMc0psc1pVb29fMGNrdEFDSWNCeUFVX1NPOWFGWE9NOFB6LVlKUXVoQU5hb2ow?oc=5",
+     "tarih": "2026-11-19T15:13:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://mallreport.com.tr/wp-content/uploads/2026/11/1794990782_Beko-scaled-e1794993866848.jpg",
@@ -191,6 +209,12 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNFc3VWxxXzJBRDFRV0EwTURNVmY0Qnk1aGZqMEM1WGNpRmdwRWtpSG0yLTg1Yy01azNHS3FYUS13Y0NRcG5EcUtqaDJLRlJwNXQ4dWoxcXB0My0wRGMtcFRXTTRUTTZac3RfMlpsb0k2N0RQY0FiV3EyOHR6aU5OT1VCWXdFWWFHYzhOZ2x1WDBydWc?oc=5",
      "tarih": "2026-11-17T10:32:28+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Manisa Kulis Haber",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVplUkotT1NZczZCOFdoT0JVS3U2djdESUZ2bmpURXNpQ3dVTmMyZHdBWGZyZ1ZvZGtNdWw5VVBpclhFNVpxdEk4UUFMWUxPLUJLNFl3cGZkXzN4d0tBOXgxYWlEYUZ4N3UyRGljRjNKV0dBUVhGel81dFNvVWxpeGRWQ25LeWk5?oc=5",
+     "tarih": "2026-11-19T17:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/06/10/arcelik-stok-istock-1-kn09.jpg",
@@ -264,6 +288,12 @@
      "ad": "Yıldırım Gazetesi",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjBwR0lhaWVfZGUybGViV0duQkxUV1cyS1RMdnZtYWVkeFRzT3VxZjN4UkpoQVh4S0haRkR1RmpQMm5HSG4wSGVmNmZQZFB6Y0VfVllROXQ4eGxYV1pLNDd3Xzcxc3JqTUlQb3liLVNUeVludm8wZExTZjJMNm5odXV6bEt0bmlsbW15N3hTcWFiWVZ4?oc=5",
      "tarih": "2026-11-15T16:23:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Finans Gündem",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUY4VlpGMXgyN2lka2JId2FVclpXMzUtdGIyaDBmRzl1dmNWN0pqcE5OWWdtYXItUVdjQ2ZFU0UxM1ZNeU05UFJZQkFtQ3NXRWFNRm1hQm0zSGlKcms5dUVLQ0RVQ09hYlFMWG5pZE5KNVZKWnN1LW9JbEZVaTE1ZTU4SQ?oc=5",
+     "tarih": "2026-11-15T15:32:02+00:00",
      "guvenilir": false
     }
    ],
@@ -1061,6 +1091,40 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "f6d07ac118ff",
+   "baslik": "Arçelik'ten COP31'de sürdürülebilir dönüşüme teknoloji ve işbirlikleriyle katkı",
+   "marka": "Arçelik",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-11T08:22:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/sirketler/arcelikten-cop31de-surdurulebilir-donusume-teknoloji-ve-isbirlikleriyle-katki/705493",
+     "tarih": "2026-11-11T10:17:22+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haber Ege",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ052ZV9GRUtaNkRBWFRDVWVVTEpKN09USFhNT2hpYkcyUHV5bklOQVhaMk9jRVVDSnlYZlBud2tPTklicWNsV2FIeUZfV3VDZ0VzekRRZEpLUFI5c1FQTnl5MHZCOHNPQV9JX0xCRHA0UEFJclNCcFhVVTBSMzVxNHNWaEhNTV9QRGU3c2FYN1V4RFpiczYta20zc0ZoTlI5NEhrU1VuWTM2SlVxT3l2R21RWU0zMVpOQUQtR3NqYTM3b09kb0FMa1Rn?oc=5",
+     "tarih": "2026-11-11T08:22:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Fuar Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUVOcWpCcU1Ea1ExZjB2QzBrTDNyUGZSWlpaNjZjQ0xISGpIS0duYlhYekN0di14NEVwTkcxUnN5eXRlU1RLWVNOaGN6cFZHYlNRZTV6RVluR1NtUHBMODlSX1Y1eHdvdkxYVG9JZXVyc1F2VUdVUm1EOGIzQlpEMFo3YVVwY19sVGh5ZTNFTDV5MDJkNDNaaXFsWm83M2FfR2ZackNKMWw5Q2V3SkloQklnT3J3QQ?oc=5",
+     "tarih": "2026-11-11T08:46:22+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/11/thumbs_b_c_996a53347175485ec9c31c6a2c4f887c.jpg",
+   "yorum": "Arçelik, COP31 kapsamında sürdürülebilir dönüşüm projelerini ve işbirliklerini tanıttı. Şirket, Türkiye Voleybol Federasyonu ile ortaklaşa 4 MW kapasiteli bir güneş enerjisi santrali kurarak yıllık 5,5 GWh yenilenebilir elektrik üretmeyi ve TVF’nin elektrik giderlerini %100 karşılamayı hedefliyor. Bu enerji üretiminin 1 500’den fazla hanenin yıllık ihtiyacına eşdeğer olacağı belirtildi. Ayrıca Arçelik, enerji verimli ev teknolojileri ve beyaz eşya sektörünün enerji dönüşümündeki rolü üzerine uluslararası bir oturumda sunum yaptı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "c8ee0c14eca1",
    "baslik": "BDDK Başkanı Kavcıoğlu istifa etti",
    "marka": "Gündem",
@@ -1698,6 +1762,64 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "eaaa28ba9faf",
+   "baslik": "Albaraka Türk'ten 5,8 milyar TL net kâr",
+   "marka": "Albaraka Türk",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-10T04:13:03+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/albaraka-turk-ten-5-8-milyar-tl-net-kr-3926232",
+     "tarih": "2026-11-10T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzFVQ2xyMU1FRTE0ZE5qNkpSWnNrNEpCMVplZmN3NVNoZklsc3Y1MmUwX0FQd295U18tNThON0N6UlJBdkQ5aUJMZlRCZVNta1ZHNnYzWndTWElmSkMzNnE3RUNBWEJ1RzNBZmhxVzhDb3BuSWVZQzRoSjB5dGdQVHA1azFSVk9seEdEOUdoal9DQXR1bnJ6R3AxVVN2eFdtRjZ4bzkyaENwblhNY1RGbklR?oc=5",
+     "tarih": "2026-11-10T04:13:03+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Fuar Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVHBENHRyTHpSZHVpVHlqa1pFWGRxSkpBOV8yVlJBRFZpTVFndHhfVTFaRW82ejlQaU5XYkhMRm43bXQxaVpFSUI0a2Y1RENMRHJuUnltWDVFWi1yZElHbE5rUjFrVnJXZTVpaFotZVpyVkFsZ29CM2c0dDE0RGxnTXM3cl9zSW1hSnpObW9qOUpWbEt6NUhxcW1YaWZVN0FnMjViazFVNmFEXzl0UXR0YUhtd3RDLVc5MkhrRm16TVhJV1ZVRFAyLTFvYUNzSU9QeDdRaURGMkREYkhRZkNsNQ?oc=5",
+     "tarih": "2026-11-10T11:05:58+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "FintekWins",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1VyS0o0ZXBvNzNrRWpCWk5PbXo4YmF0UFpPaTQ0eG1uZmttazVZZ0h4NjY1TVlSUkw3QTBsMGFLM1VuRktWRURWTG55ZmZIQVRIQ1V0MEdiUi1sVHZucGM0WG94b0Ytd0RIZGFPYmtNdDg1Q3NwYUV1dUhvQnltRDgxM2xRcWd6YmhV?oc=5",
+     "tarih": "2026-11-10T17:17:09+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Banka Dünyası",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RRWxPNmRsLXB3d1hpbGJpbjZpaGpjMEk2QTZUbi1RYVpLT0NNMkpqRF9zQnlvb1gyZTJBY0VZMTkzNmZCWjZNaW1IV0x5OWFGckFDNkJMVERTb3BDZjNTX3F5OA?oc=5",
+     "tarih": "2026-11-10T19:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yorumla",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcE0xbEtkZE1WMkFUckoxMzRxQ1B5dnY4NTJUM1pzXzVVNXltSFNvamNpTVc3T05iOUNNWG9PeHhyUzVMXzBBZjdJUWlpR0c3dzd1SXdNWnlDVkVPbXN3bXZPS2pDY0JGTDNYN2xJTUk5ZkRHSWNxdm9GR0dzYW5xYjQ4ck9sVVNwSW0tUlplaGNIa1hpSHg1WG9OMUVBQ0RZRnNUUDVyVmJkTWV4eGtJ?oc=5",
+     "tarih": "2026-11-11T02:23:01+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Investing.com Türkiye",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjZZcHIydnBfSG9XRHdvTXVTNFpUVEs2bHhreXlpTU1fUW9uLUNvdWh2OEg1MWdvUUFtRWp2Q0NnV3hjMzZTZFpYY1RvYXFUR1JnSEJrWFJlMEJyUTNMX09oV2luMmMwUGxlTUFLeHlwZ24zOWVKeUxGM1hEdEZBanotdmRfVW83V1NzUzM2NV84TG5KaktiRWNEVGJkOWItc2o4QXJma01EMWZsa2E1Y3VEam96VEQ2RFE?oc=5",
+     "tarih": "2026-11-11T15:05:52+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/10/ver1794300686/3926232/jpg/1200x628",
+   "yorum": "Albaraka Türk, 2026 yılının ilk dokuz ayında konsolide net kârını 5,8 milyar TL olarak açıkladı. Banka, aynı dönemde ekonomiye 398,6 milyar TL nakdi ve gayri nakdi finansman desteği sağladığını bildirdi. Aktif büyüklüğü 589 milyar TL’ye ulaşmış ve takipteki alacaklar oranı %2,2 olarak sektör ortalamalarının altında seyrediyor. Sermaye yeterlilik oranı %17,6, katılım fonları ise %41 artışla 392 milyar TL’ye yükselmiş. Genel Müdür Malek K. Temsah, büyüme stratejisinin katılım fonları ve teknolojik yatırımlarla desteklendiğini vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -2348,6 +2470,12 @@
      "ad": "FintekWins",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0ZGVEhhdTZHSEw5Wm0yYzJEU2h6MTNPWEZidVpNNlBEd1M1MGRoZUp2aEstWVAtRURfbHcwZTlsdnJKck5qLVlWOHQ2UHc4UDB1X2FsX2IyektKcWpsNmVUWnl2TzFPQktrRVRHdERIbjBxYzVvbjFJUWx3ajhGMWNXYXpoZVhFUnc?oc=5",
      "tarih": "2026-11-06T08:09:26+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomi Manşet",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZlI4UGJuc2oyb1VqbEljeTl5Tm9RSDJyOUpPSDVKam1oclpiZHJrMWQtTkNhQ3JQUHRjUEVHR0tNSlRVanpFQkhjMjBLVnNDb0hOWXF6MHVrbGVyZmtFR2N1Nng2a3Yyell2blRnblYxazYwWHZoOGQtekJlQUVXWWQ4VVRMZmpVR1RmbjFYYzhReDZIeEdUU0lNUndaQQ?oc=5",
+     "tarih": "2026-11-05T08:00:00+00:00",
      "guvenilir": false
     }
    ],
