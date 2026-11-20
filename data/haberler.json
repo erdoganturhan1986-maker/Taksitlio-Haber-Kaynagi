@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-20T13:32:15.052367+00:00",
+ "guncelleme": "2026-11-20T21:30:04.958514+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "ee794248f9b9",
+   "baslik": "Kredi kartlarında asgari ödeme oranlarında değişiklik",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-20T13:03:57+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/son-dakika-kredi-kartlarinda-asgari-odeme-oranlarinda-degisiklik-3928831",
+     "tarih": "2026-11-20T13:03:57+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/20/ver1795178940/3928831/jpg/1920x1080",
+   "yorum": "BDDK, 19 Kasım’da kredi kartı asgari ödeme tutarlarını yeniden belirledi. 100 bin TL ve altında limitli kartlarda asgari ödeme, dönem borcunun %20’si olarak belirlendi. 100‑200 bin TL arası limitli kartlarda oran %30, 200 bin TL üzerindeki kartlarda ise %40 olarak uygulanacak.",
+   "neden": "",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "f25d5f5dbb75",
    "baslik": "GTA 6 e-ticareti hareketlendirdi: PlayStation 5 satışları yüzde 88 arttı",
@@ -61,6 +83,12 @@
      "url": "https://www.haberturk.com/ekonomi/son-dakika-kredi-kartlarinda-asgari-odeme-oranlarinda-degisiklik-3928831",
      "tarih": "2026-11-20T13:03:57+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/bddkden-kredi-kartlarina-ve-konut-kredilerine-iliskin-duzenleme/4132248",
+     "tarih": "2026-11-20T13:45:44+00:00",
+     "guvenilir": true
     }
    ],
    "gorsel": "https://geoim.bloomberght.com/l/2026/11/20/ver1795178435/3795310/jpg/1280x720",
@@ -90,6 +118,28 @@
    "neden": "",
    "gundem": true,
    "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d6293defad96",
+   "baslik": "Arçelik’ten oyun performansıyla öne çıkan yapay zekâ destekli Imperium Mini LED serisi",
+   "marka": "Arçelik",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-11-20T09:56:23+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/arcelikten-oyun-performansiyla-one-cikan-yapay-zek-imperium-mini-led-serisi-3928772",
+     "tarih": "2026-11-20T09:56:23+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/20/ver1795168483/3928772/jpg/1200x628",
+   "yorum": "Arçelik, Imperium Mini LED adlı yeni televizyon serisini tanıttı. Seri, 65 ve 75 inç boyutlarda 4K 144 Hz yenileme hızı, VRR, ALLM ve yapay zekâ destekli Oyun Modu gibi oyun odaklı özellikler sunuyor. Görüntü kalitesi, Mini LED arka aydınlatma ve Quantum Dot teknolojisiyle yüksek parlaklık (75 inç modelde 2.000 nit) ve geniş renk yelpazesi sağlıyor. Ses tarafında 30 W çıkış gücü ve Dolby Atmos desteği bulunuyor. 20 Kasım’a kadar lansmana özel 5.000 TL indirim uygulanacak.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
