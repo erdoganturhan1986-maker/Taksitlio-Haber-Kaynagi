@@ -1,7 +1,141 @@
 {
- "guncelleme": "2026-11-19T22:24:37.423193+00:00",
+ "guncelleme": "2026-11-20T13:32:15.052367+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "f25d5f5dbb75",
+   "baslik": "GTA 6 e-ticareti hareketlendirdi: PlayStation 5 satışları yüzde 88 arttı",
+   "marka": "Gündem",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-11-20T12:43:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/sirketler/gta-6-e-ticareti-hareketlendirdi-playstation-5-satislari-yuzde-88-artti-haberi-848319",
+     "tarih": "2026-11-20T12:43:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/gta-6-heyecani-e-ticarete-yansidi-ps5-satislari-yuzde-88-artti-haberi-932472",
+     "tarih": "2026-11-20T13:08:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/20/gta-vi-oyun-kurulumunda-aksam-isigi-8pp2_cover.jpg",
+   "yorum": "Dünya ve Ekonomim kaynaklarına göre, GTA 6’nın piyasaya çıkışı oyun konsollarının satışlarını artırdı. Hepsiburada verilerine göre 9‑18 Kasım tarihleri arasında konsol satışları %67, PlayStation 5 satışları ise %88 oranında yükseldi. Aynı dönemde GTA 6 arama hacmi %654 artış gösterdi. Bu artış, tüketicilerin yeni oyun ve konsol taleplerinin yükseldiğini gösteriyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "60e6b1812497",
+   "baslik": "BDDK'dan kredi kartları ve konut kredileriyle ilgili yeni düzenleme",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-20T12:40:10+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/bddk-dan-kredi-kartlari-ve-konut-kredileriyle-ilgili-yeni-duzenleme-3795310",
+     "tarih": "2026-11-20T12:40:10+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/son-dakika-kredi-kartlarinda-asgari-odeme-oranlari-degisti-iste-yeni-oranlar-haberi-932464",
+     "tarih": "2026-11-20T12:44:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/kredi-karti-asgari-odeme-tutarlari-degisti-bddk-yeni-oranlari-acikladi-haberi-848320",
+     "tarih": "2026-11-20T12:47:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/son-dakika-kredi-kartlarinda-asgari-odeme-oranlarinda-degisiklik-3928831",
+     "tarih": "2026-11-20T13:03:57+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/20/ver1795178435/3795310/jpg/1280x720",
+   "yorum": "BDDK, 19 Kasım tarihli kurul kararıyla kredi kartı asgari ödeme tutarlarına yeni limit dilimleri getirdi. 100 bin TL ve altında limitli kartların asgari ödemesi dönem borcunun %20'si, 100‑200 bin TL arası kartların %30'u, 200 bin TL üzerindekilerin ise %40'ı olarak belirlendi. Aynı karar, konut kredileri için kredi değer oranlarında yeni kısıtlamalar içeriyor; iki veya daha fazla konut sahibi olan tüketicilerin LTV oranı %75 azaltılıyor. Ayrıca hisseli konut malikliği ve riskli yapıların değerlendirilmesiyle ilgili ek düzenlemeler de yer alıyor.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "e267f7196bd1",
+   "baslik": "Kredi kartı ve ihtiyaç kredisi borçlarına yeni yapılandırma hazırlığı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-20T12:18:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/kredi-karti-ve-ihtiyac-kredisi-borclarina-yeni-yapilandirma-hazirligi-haberi-932457",
+     "tarih": "2026-11-20T12:18:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/02/borc-yapilandirma-ihtiyaci-buyuyor-jq6z_cover.jpg",
+   "yorum": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK), kredi kartı ve ihtiyaç kredisi borçları için yeni bir yapılandırma seçeneği üzerinde çalıştığını duyurdu. Yeni düzenleme kapsamında borçların 48 ila 60 ay arasında taksitlendirilmesi ve daha düşük faiz oranlarıyla ödenmesi planlanıyor. Bu yapılandırmanın kimlere uygulanacağı ve faiz borçlarının tamamen silinip silinmeyeceği henüz netleşmedi. Haberde, milyonlarca vatandaşın bu adımı yakından takip edeceği vurgulandı.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "697bfa517185",
+   "baslik": "TÜİK: Çocukların yüzde 80,1'i cep telefonu kullanıyor",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-11-20T08:33:31+00:00",
+   "kaynaklar": [
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://www.dha.com.tr/yerel-haberler/ankara/tuik-cocuklarin-yuzde-80-1i-cep-telefonu-kull-2985337",
+     "tarih": "2026-11-20T08:33:31+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6b0006a40c5a423519a97cfc.jpg",
+   "yorum": "TÜİK’in 2026 yılı verilerine göre, 6‑17 yaş arasındaki çocukların %80,1’i cep telefonu ya da akıllı telefon kullanıyor. Çalışma Ankara’da yapılmış ve 20 Kasım 2026’da yayımlanmıştır.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "c0a6d377fc5d",
+   "baslik": "Arçelik'ten yapay zeka destekli yeni Imperium Mini LED televizyon serisi",
+   "marka": "Arçelik",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-11-19T17:38:51+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/arcelikten-yapay-zeka-destekli-yeni-imperium-mini-led-televizyon-serisi/705711",
+     "tarih": "2026-11-19T17:38:51+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/19/thumbs_b_c_7ba018e30c0630c16f7a03142441c38d.jpg",
+   "yorum": "Arçelik, 65 ve 75 inç boyutlarında yapay zeka destekli Imperium Mini LED televizyon serisini tanıttı. Yeni modeller, yüksek parlaklık, gelişmiş kontrast ve 4K 144 Hz yenileme hızı gibi özelliklerle oyun performansını artırıyor. Yapay zeka, görüntü ve ses ayarlarını içeriğe göre otomatik olarak optimize ediyor. Dolby Atmos ses desteği ve HDR10+ Adaptive gibi teknolojiler de seride bulunuyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "2694c6e6dd99",
    "baslik": "Bonus Kredi Kartı Programı DenizBank iş birliğine ilişkin bilgilendirme",
@@ -294,6 +428,12 @@
      "ad": "Finans Gündem",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUY4VlpGMXgyN2lka2JId2FVclpXMzUtdGIyaDBmRzl1dmNWN0pqcE5OWWdtYXItUVdjQ2ZFU0UxM1ZNeU05UFJZQkFtQ3NXRWFNRm1hQm0zSGlKcms5dUVLQ0RVQ09hYlFMWG5pZE5KNVZKWnN1LW9JbEZVaTE1ZTU4SQ?oc=5",
      "tarih": "2026-11-15T15:32:02+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Son Dakika",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGZFR1llWkU5ZXRuTUlyRWttSmZrQXMySXB2Z0hsOEc3bWhMZldZeWpObElCNGZObTh1MWVQUmgwNXBkalRpdUhMZDRqUTRoZEhWakkycWJFcUJhVjBUQ0J2eEN1alBkSDZUeDUwNDRHWDNKTUxQWVFzOGlZTjd1UkF3b3M5NndsWlR3eUw5QkR1SkpqMmZPdXJCVzlRWXl20gGYAUFVX3lxTE14UDYyTW94UjRmcmFFVWNwcS1MSUhDM2wzcnZ4Z0NQbl9Sb2FXY2t4bGszbWpDcGE5ajd1VGJNSmJqNG1vZ1Ewem1nWTdRQTlLczlkWlE4cmY3Y2prRXI5XzdGY2poeWlfY1NDMVZWN25WcUxrVnJpMzM2TFN1ZnM3Y21xc0xwY3B0UTA2YVJnTnB3eUZ0TVNk?oc=5",
+     "tarih": "2026-11-15T07:22:11+00:00",
      "guvenilir": false
     }
    ],
@@ -1122,6 +1262,82 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "18ee1a09b5ee",
+   "baslik": "Daikin, sürdürülebilir iklimlendirmeye geçişi hızlandırmak için Akbank’la güçlerini birleştirdi",
+   "marka": "Daikin",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-11-11T08:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sirketler/daikin-surdurulebilir-iklimlendirmeye-gecisi-hizlandirmak-icin-akbankla-guclerini-birlestirdi-haberi-930675",
+     "tarih": "2026-11-11T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPbjlwMWlINUV1bmExZXd2eDZGaUFWN2N6ZktJMmJGMzBMV045cFJiZEpJcXZGc1N5bVpIMC1yN3UtRTVISEFZUEU4bTByZXNWX2JROFYzRmtfSjBsR05wOGZ4WlBjT29tNXYtcEJtbjA3UDl0a1hnRnFoZ3hOUQ?oc=5",
+     "tarih": "2026-11-11T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSWdqWlMtZU5zZG5sRWh5NGEyM090bmM1VzNERkRWOGRIZDV2TF9HU2h5Q1VqOWJDM1hXYldObGprNWxCeFVzZ29Pc1h5V3VXam45OUJHb0c3YW53Y19YRTUtOGI1VWt3YnJZZ0lRWDFXX2Q3cTRjS0l5X2RWeUFNSkVpdWZqZ3hYeTY4X0JkQ0dETkZFS1owcWtRSTdRYUdLVWowYjFBSml1NkJMQmdCbnJxM0d4Z1R5dGM5SUxQZVFid0h2S1RwY2J3X000Z1RiOW9CYVItZzFFOWtUd1BzSA?oc=5",
+     "tarih": "2026-11-12T09:45:39+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "ParaMedya",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGQzUlJlTlY3Z3lJOXRvU1BLT3ZOVWt1NEhNaERFaWg2ejBjLXkyS3VRem5IcVVac2VNX2lVUmxiZ1laVzZFUFBybDk3VC16azNpMmRTSm5pVzlmUzRvelZobzhjU0E2NVMtbjdwYVBIQ2tVaXRLLWQwMDR1Y1podFpJY1dBWXdTR3lPRFM2ZUtWeF9QVnhreWc2RFB2MHl2bGdzYzBjY25CSmt1MmdhQm5XRHBnck3SAbwBQVVfeXFMTTFXLVN6eUQxVkJkRnVLclhLS3Y4VVB6aEJiT3Z2RW1vQVdZeWVTdDV3R0RNVHhwTk10RWJhMU9aQXpaNk1KVndBZVlRd2ZTSmRNWENpa1pFMW1kVXZfS1d6R1dZOTBiNFlUdExwRmZHcU9RaGEzZ19qbjhaYy12WkZEVDZOU0xjYkZMdHc1bEtlTFcxVGtTWTJwbklTRXdvYnlZWUNia3UtU3ZBeldoZ2VtMUlRYi1laWFkUFI?oc=5",
+     "tarih": "2026-11-11T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Cumhuriyet",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZXJwVHRWNnhFSFUweDV0WVNWeFJ4aURfT1JTaDRtbDNYbjZVVlVZTmlrVUJYMFJGOHVDTWcwOUJNbzV1cWRUSlptY2NpUS1tV0VkLU96d183VTNXdGpkc2NtVnpEVXhvZG80NjBZa2pGV1NZeUV3NUZ1MjJxcVBra2twamloYnlsczhOZ2h2Z2FvVm9aZjBvWnB4bUo1RzlReVJQRWxxeU1LLW85bllwa1NPaEhOWU9ERHFmNlJQaENjY1lWZmpQczJYelN4YWRGQjNpaUlicF8zcFU?oc=5",
+     "tarih": "2026-11-11T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Aksiyon.com.TR",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVNCSy1TMG1kMVFvMVhXX1U1TGVfR3p0OWdHb2x4Q29lLTlMNGloTG1IUEdzODJ3QnpoQmRydENIVEdGai1sbnJIU3oxRi1IQlZ0aW9PRkJoajRSMVI4MXVldTdTS2hsQXN4d3oxN3Y1NWpLMENjczh3WkVrY0IxVVl5YnAtbXJZemhlLWpOcFFrZk1OY0Fsa3J0YUdLbzdSQlhCem9GaDdTRmgtRFHSAbMBQVVfeXFMTkR0dTcyNmF2YTVOc1lnRXJxU3NPVmRnNWNILWg4d0lLcjdCdy1iX25sWFQxdjRUSnN3QnM3bjBrMTVpOVdSamhyNnlLVUxBNHl0UGVZcUxNbUp5UlU2VmVqWV9YT2tCSzAzRmtvTUVoU0REcmFfQ05KR1RRZXBGQWNGSmRyRmN2djRpMjRhNk51Yi16dWFHY3NfazJsUDJ6SDFpYkZsaXJKS1RQUVBPQ05MMkE?oc=5",
+     "tarih": "2026-11-11T08:30:40+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Saray Medya",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFA3V0NLdldJeVNQMGVMdk1fNTc2X1E2TmpfMWh1NV9sMkkzMkFtbDlvM2lmNEwxakVWLU1CTmJWbEJvaEo4YWNhZDFnLWdON3pZQWFfZ2VNWnUzak1KZUg5RHJzMHNSYzBROFZHMjgweUk2UC1tVjdMRVE3aENWdDMxVjRZX1VTZlV3eFZuVTFXN29WLW5TMnByVkFmN1BuWm8yT2tpVHVfVDVD?oc=5",
+     "tarih": "2026-11-11T08:38:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "FintekWins",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUElEaDZXS05meVpjWlhCRG1XRTdVbE5qdHI0eGJrQUN5cEVRdzR0am5rM0thY1hTVEhCSGVZSG9LSlgzRHF0WkIweFl2X2hlZ3pVTm5KYTdSX0Rsc2FRRDdySmEybW1kOWFmdWVwSGVIZE1fUTJoOWplbmhiMEFzcnZwX2xXWGd2RnNNak5yd0VKWmZ5a2xOLW56QQ?oc=5",
+     "tarih": "2026-11-11T08:51:56+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Dosya Haber",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUpBbmRCN1l0b2d4cmczaGprY2ptSlBDZHJYbnlXWVBZUHZqaVRzMWNyaC1RRnJRRTVlWldneE12emRLYXF1M0Ffam91b1RSdjRqVnhpd2NaeklTUVZ0dHFQbnFuRkVZUFVTYTNMTEVqU0ZRa3o2Snlma2ZnNXVPX1dfTzN4bGFkMHFiT19PSUVfSHJrelhDdXktSnRqdnl4?oc=5",
+     "tarih": "2026-11-11T11:35:27+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Başak Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVV1UW93SGUxcEN2TnBCSzN5T2xXclcyZDVvT1Y1VzJLdFpZakExb3cwcVVwVzJqYlB0dTRvdDM4QjNpN2Z3ZlkxcThIUmUyZDNkTTdZT2RfamtvT0ZsTm8xQnVGcmFSeFZNMEhjbUF5WWlpYlZidkRNZUR0aTg1bUZoRFBtbkxtTUtjSV9WU3NVOFdlNmdyVE5rQ0VoVHRnZklQbHRmN2ZWbEh1TFhuM9IBtgFBVV95cUxPQlRoMm90QmpncWdoVlN1N2JZOWRkcmM5T2ZVWXRlM25FOGVSUWVMeWhUb0Ewa3cwXzdIUVdIampReU9TdTBNSllzUE92bndQRjFzX1ZCUXBBVzU0ZnJuc1F0dUlsZUJsUDFtZzNmQVpRcHdCb1VPUFFrUmV3X29GNjBSbml4cFNpS2s3Mk91NkZ0VGhtb1o2VmlOWFZOaVZFYlowYi1uMl9XRzhoNFhVdjY0Ny1sUQ?oc=5",
+     "tarih": "2026-11-12T07:04:26+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Daikin, sürdürülebilir iklimlendirme çözümlerini hızlandırmak amacıyla Akbank ile iş birliği yapacağını duyurdu.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
