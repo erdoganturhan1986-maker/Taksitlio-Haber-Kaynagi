@@ -1,7 +1,41 @@
 {
- "guncelleme": "2026-11-21T12:57:58.977101+00:00",
+ "guncelleme": "2026-11-21T20:13:29.605122+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "c6abb1a53e4c",
+   "baslik": "Fed ve yapay zeka kaynaklı satış dalgası değerli metalleri vurdu",
+   "marka": "Gündem",
+   "kategori": "kuyum",
+   "oncelik": 2,
+   "tarih": "2026-11-21T10:50:32+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/fed-ve-yapay-zeka-kaynakli-satis-dalgasi-degerli-metalleri-vurdu/4132852",
+     "tarih": "2026-11-21T10:50:32+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/fed-ve-yapay-zeka-kaynakli-satis-dalgasi-degerli-metalleri-vurdu-3929021",
+     "tarih": "2026-11-21T11:27:22+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/altin-gumus-ve-platinde-sert-dusus-34-haftanin-en-buyuk-kaybi-haberi-932609",
+     "tarih": "2026-11-21T13:37:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/21/thumbs_b_c_69a3fcc7d34db0468c1142bf98857765.jpg",
+   "yorum": "Fed'in faiz politikaları ve yapay zekanın tetiklediği satış artışı, değerli metallere olumsuz yansıdı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "ee794248f9b9",
    "baslik": "Kredi kartlarında asgari ödeme oranlarında değişiklik",
@@ -1305,6 +1339,12 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUVOcWpCcU1Ea1ExZjB2QzBrTDNyUGZSWlpaNjZjQ0xISGpIS0duYlhYekN0di14NEVwTkcxUnN5eXRlU1RLWVNOaGN6cFZHYlNRZTV6RVluR1NtUHBMODlSX1Y1eHdvdkxYVG9JZXVyc1F2VUdVUm1EOGIzQlpEMFo3YVVwY19sVGh5ZTNFTDV5MDJkNDNaaXFsWm83M2FfR2ZackNKMWw5Q2V3SkloQklnT3J3QQ?oc=5",
      "tarih": "2026-11-11T08:46:22+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVVnekd0YW5SQmQ0bnBrbExnSFM0MW9GS2xpZzVNM25peTYwX1I3S3RuaU5mbWFMTWNlTnlOS0hYV21CZ1dGeTFyU1JaSW54U28tSG16NFotNlNRVW41QTRuOUVDVHBQOHJsMmVIY3Nya0luQ1Y2Njc5M0tMR3lZdHBGbDR0bE5LY0piUUhNUlNaOTZfTFJUWWpYSXhRSFEtMmkyOTgwOFhTZkdqTWQxdEFOQQ?oc=5",
+     "tarih": "2026-11-12T04:23:48+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/11/thumbs_b_c_996a53347175485ec9c31c6a2c4f887c.jpg",
@@ -1670,6 +1710,12 @@
      "ad": "Hisse.net",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmRhSUhlQWZSZXBSZU9EWjA5YTM3WWlzWW85aFk1a09VWUxBTzg4aGRDM2Mxdy0zV2xNYWlHN1BUMy1SZ0V5ZDdzTEZpeUd2VnlGRnV0Yk1IcXhlZFQ1Q2RLV2hzbHRKclJzM2dmcnprX3FOVDhIN2hXWFJQM042VlNoZ2d6NGRLNFM4WnZfUU1xMklDb3fSAZYBQVVfeXFMUHZkYUlIZUFmUmVwUmVPRFowOWEzN1lpc1lvOWhZNWtPVVlMQU84OGhkQzNjMXctM1dsTWFpRzdQVDMtUmdFeWQ3c0xGaXlHdlZ5RkZ1dGJNSHF4ZWRUNUNkS1doc2x0SnJSczNnZnJ6a19xTlQ4SDdoV1hSUDNONlZTaGdnejRkSzRTOFp2X1FNcTJJQ293?oc=5",
      "tarih": "2026-11-11T08:07:54+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber 500",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa2gtT3Rva3ZadmtDNW9pVV9rZTFkREI4MzFJaUV5TDJfdGU3RndiLUZZV0Z1YzkyLVZJdUFhX3U5RFVqVmNXbnMtX3dId2RXUlU2UmtMNVFLbzZXUFFpNklqdlAwZ3dKZ0ZwTFdVX0xPRWtKcWhmVlJUUGh2MHRGZHpaWlhPUDJfaVdEc3JURURKOUExRENNb3pyRWtrYUxPREhXcEVBcGZaakxLV1NwMW9QZ0x0aDhiSEQyUWk0Ui1OU3hwdU1TMA?oc=5",
+     "tarih": "2026-11-11T07:16:13+00:00",
      "guvenilir": false
     }
    ],
