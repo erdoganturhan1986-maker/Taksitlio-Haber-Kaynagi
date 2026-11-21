@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-20T21:30:04.958514+00:00",
+ "guncelleme": "2026-11-21T12:57:58.977101+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -3495,6 +3495,12 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclBrb1MyWW1UY0RRS3NsRkFGLXdldTlPSXlGR1Q5V2dNT29zMl81ZWZFTElaTFVVanZaSEpMcjRnejZ4NnJmaDFIS2tYd1BnakFOaWY5eUd5cEFyZEZzbXBDcU1BR3lnNDFKeFNTTnB1cGlKcUpVT1JCSkk1QlZLeUw2SkZwaUR5TXB4Q0N4TEM0dnIzNFZvUQ?oc=5",
      "tarih": "2026-11-05T08:00:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "İşte Kocaeli",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX21SdXRnNUZVYTdCZHNfZC1xVTY5OVVMQ1V3aHA5anh1YTROWnhjSGxFYnNTRjFVMUVJN0t2TS1lSGJ5cUNfUloyd1dseWl3YjhYc1R0VTM0TzhwSjhiODZyZ083cW1LdDF4ZDNrZFh1dWdSbnA0cEgycDhrYXY3OHZRRmRPdHVDTTBXX3JWa0ZkeDRNZmMyR0JTc3VDQdIBpgFBVV95cUxQVnZ3OXB4eExiQmZqX3pDWUdpRTcyYTlyLUkwMno2Rk9XWlZ2SFhnc3lRcVcyMG9KVDFKTVA5THZmLXNFZkg0VlZOS2laR3V3MGZRelUxVWxUQ2syVW1BRkJOT1RJeHpmQlIyeVZwdTFXbkJpVUtfQ3Z5cklKUE9peFZnU01MX185dElBSlpQd3o3TU1IU3hoRkhQQkVTTEZJdU5HdGZ3?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -4134,56 +4140,6 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "535b96d6a439",
-   "baslik": "İstanbul'da aylık enflasyon Ekim'de hızlandı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-01T10:27:02+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/istanbulda-aylik-enflasyon-ekim-de-hizlandi-3793000",
-     "tarih": "2026-11-01T10:27:02+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/11/01/ver1793528968/3793000/jpg/1280x720",
-   "yorum": "İstanbul Tüketici Fiyat İndeksi (İTO) Ekim ayında bir önceki aya göre %2,47, yıllık bazda ise %32,47 artış gösterdi. Toptan Eşya Fiyatları İndeksi ise %1,20 aylık ve %25,51 yıllık artış kaydetti. En yüksek aylık artış %10,60 ile giyim ve ayakkabı harcama grubunda gerçekleşti; diğer gruplarda %5,32 (eğlence ve kültür), %5,05 (haberleşme) gibi artışlar görüldü. Toptan fiyatlarda en çok artış %3,44 ile kimyevi maddelerde oldu. Bu veriler, tüketici harcamaları ve kredi talebi üzerinde etkili olabilecek enflasyonist baskıları yansıtıyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "5f521a221699",
-   "baslik": "İstanbul'un ekim ayı enflasyonu açıklandı: En yüksek artış hangi grupta?",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-01T09:07:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/istanbulun-ekim-ayi-enflasyonu-aciklandi-en-yuksek-artis-hangi-grupta-haberi-928355",
-     "tarih": "2026-11-01T09:07:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/istanbulda-aylik-enflasyon-ekim-de-hizlandi-3793000",
-     "tarih": "2026-11-01T10:27:02+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/10/03/milyonlarin-gozu-bu-veride-eylul-ayi-enflasyonu-pazartesi-gunu-aciklanacak-mby1_cover.jpg",
-   "yorum": "İstanbul Ticaret Odası (İTO) verilerine göre, İstanbul’da perakende fiyatları ekimde aylık yüzde 2,47, yıllık yüzde 32,47 oranında artış gösterdi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
