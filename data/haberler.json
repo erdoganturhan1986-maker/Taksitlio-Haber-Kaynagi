@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-21T20:13:29.605122+00:00",
+ "guncelleme": "2026-11-22T00:38:31.712351+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -346,6 +346,12 @@
      "ad": "Milli Gazete",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNlJxYTA4cl85TG4yRExRZkFDR2Y5dDhLbVdKNXF6VWl1ZTRlSWtVU3dIdXhFdzJOaktUMUsySzVvQXJYcUpSN1Nwdlc3aEgxSWJ4c0ZSYk95MHRiRXIxa2VKSlRUSVlLeElUbjdYdFA3QmVvZW9sbHVOa3Zmcnppa1EwZl9ZWEpVdDJqNFlKSjh1ZEtHT3FhTlJMc0psc1pVb29fMGNrdEFDSWNCeUFVX1NPOWFGWE9NOFB6LVlKUXVoQU5hb2ow?oc=5",
      "tarih": "2026-11-19T15:13:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Mebpersonel.Com",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0M1ckdGQXFLQnJRdU9yTGpEUlNYYmJac1NEdDY0TmRxTDloTmI2MTQyWGwzNldMdl9nbklsYVdNcVNUT0ZscXNlYU1NMllBS2VjRlJJMVNoQVRkdWVfZTVKaFczRW1JYkthQUZ3TklhdzJLenRpRXVmSzg1WlZsRlg0RnpaMjJOWFgwamFJYzNMbWg0aktGYzRJeUw?oc=5",
+     "tarih": "2026-11-15T19:32:00+00:00",
      "guvenilir": false
     }
    ],
@@ -1344,6 +1350,18 @@
      "ad": "Haber Gündemim",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVVnekd0YW5SQmQ0bnBrbExnSFM0MW9GS2xpZzVNM25peTYwX1I3S3RuaU5mbWFMTWNlTnlOS0hYV21CZ1dGeTFyU1JaSW54U28tSG16NFotNlNRVW41QTRuOUVDVHBQOHJsMmVIY3Nya0luQ1Y2Njc5M0tMR3lZdHBGbDR0bE5LY0piUUhNUlNaOTZfTFJUWWpYSXhRSFEtMmkyOTgwOFhTZkdqTWQxdEFOQQ?oc=5",
      "tarih": "2026-11-12T04:23:48+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaTVmVHF3aFZQRTloVU00WjFXLWtSQ3k4aG40VDJlbEQ4LVduajlZZEZTTFZaUEdaV2lNX1ViS3djVG9kaEk1bV95WDhtdkxIODJRa1Y2RHFJQmFKQTVKb1hDTzhGSkIybE81YVppUUtOb29PQzRGV0liT3JZT0RFclQwa2xaa05kYTZj?oc=5",
+     "tarih": "2026-11-11T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "https://www.bursa.news/",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUU5nTUoxajhmbnZPUVdCSjZNXzVNb2NUQXdTTHMwRk5QNjhwaXFfcnk1UHpkLXNoancwODFINS1xdmQ3eVM2RXJJTWw4aFRZN1JoTGNvZy0yZnM3TUg5T3dIdUdSS3FmR0RWU2ZfUndtZU9idVkxTWFtSWxsWTRsRk1paHV2YTZCTUNtRWlmYWZPVUk5UE5Ib1BDZlZwR2I4QklLcjF6UkdkbXRIYkRFNjhiV2swZUtUR0FKQ0ZR?oc=5",
+     "tarih": "2026-11-11T08:00:00+00:00",
      "guvenilir": false
     }
    ],
