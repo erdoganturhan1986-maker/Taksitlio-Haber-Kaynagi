@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-22T00:38:31.712351+00:00",
+ "guncelleme": "2026-11-22T12:49:27.945827+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
   {
@@ -34,6 +34,34 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "62d81a3d9b9c",
+   "baslik": "BDDK'nin yeni düzenlemesi ikinci konut alımında finansmana erişimi kolaylaştıracak",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-21T08:04:49+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/bddknin-yeni-duzenlemesi-ikinci-konut-aliminda-finansmana-erisimi-kolaylastiracak/4132733",
+     "tarih": "2026-11-21T08:04:49+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/bddk-nin-yeni-duzenlemesi-ikinci-konut-aliminda-finansmana-erisimi-kolaylastiracak-3928972",
+     "tarih": "2026-11-21T11:18:24+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/21/thumbs_b_c_42c611bd1d893178efa1a67883145268.jpg",
+   "yorum": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK), ikinci konut alımlarına yönelik kredi sınırlamasını değiştirerek finansmana erişimi kolaylaştıracak yeni bir düzenleme yayımladı. Yeni düzenlemenin konut talebini desteklemesi ve alıcıların ikinci ev satın alırken kredi koşullarının yumuşatılması bekleniyor. Açıklamayı Uğur Aslanhan yaptı ve haber 21 Kasım 2026 tarihinde yayımlandı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -130,6 +158,46 @@
    "neden": "",
    "gundem": true,
    "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "68712a5b9081",
+   "baslik": "GG Arena by Teknosa'da büyük final heyecanı başlıyor",
+   "marka": "Teknosa",
+   "kategori": "elektronik",
+   "oncelik": 1,
+   "tarih": "2026-11-20T12:21:12+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/sirketler/gg-arena-by-teknosada-buyuk-final-heyecani-basliyor/705739",
+     "tarih": "2026-11-20T12:39:21+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Fuar Dergisi",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzBVMWJiUE5rMl9QM1Vta3p5YjdoZ0pzMk0tdkxzNUxBR2p2MTFiRGZvclNVbWRLc3M1Ymp0Y3FMVTJTdmVaX1NoZHhyS3lTMDZNc3lMc1FXTnNJOGZVUEhfR1hDTVVMWG9mdnpjWEFmdFBkTjhmN0NXckdRNEpROWlvU2VSbl9MRXc?oc=5",
+     "tarih": "2026-11-20T12:21:12+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Olsun",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZF9FbEF3S1d0NllEaGkyTFRwS1hnc2tYWWJ4M01OaEJDLTlnakVMREY2YzlkcG5DUW04ZndENmR5bXdkem9KRkNhMnZQa25nb0x6ejhNMGhHZjVkMDExeF9tU3h2ZWFrWmJ0eWVtTHpBcjRIb3k4cTd3MDNQaFk4eHg2Uk9oWjFTS2hDemRFbjlvX3lhYW95NVIwbGp1ejg?oc=5",
+     "tarih": "2026-11-20T16:06:10+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Birlik",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQenlLOTZwcGJlMXVXQkxqODdVS0hoOXo4OHlJbFJyRVBRVks2SDBoODl4OWgzTnFzZXVlMm5uNFE1Z3BSWjRmU0diNGVBT3BfbEVWT3hvVERFSVkyRDFxVFhxUjVoOVByS1BKSnBhcGhmYWhudmJZMHFCMFowbFd0R0ZpX3Z0aU9iV241eFRMeHgyUlBsRFl2Z00xY1hqNTdQUS1nWi13?oc=5",
+     "tarih": "2026-11-20T19:45:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/20/thumbs_b_c_15ded629db72635e50609984dd561b2c.jpg",
+   "yorum": "Sabancı Holding iştiraki Teknosa, ESA Esports & Media iş birliğiyle düzenlenen GG Arena etkinliğinin büyük finaline hazırlık yapıyor. Finalde şampiyon takım 250 bin lira değerinde Teknosa hediye çeki kazanacak; toplam ödül havuzu 665 bin lira. Etkinlik 28 Kasım’da ESA Espor Arena’da gerçekleşecek ve katılımcılar ücretsiz olarak giriş yapabilecek.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
@@ -4138,72 +4206,6 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "f7d9fb313143",
-   "baslik": "Bankacılık sektöründe mevduat geriledi: Kredilerde yükseliş sürdü",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-02T12:10:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/bankacilik-sektorunde-mevduat-geriledi-kredilerde-yukselis-surdu-haberi-846133",
-     "tarih": "2026-11-02T12:10:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/02/yeni-proje-8-6mlr_cover.jpg",
-   "yorum": "23 Ekim haftasında bankacılık sektörünün toplam mevduatı 203,1 milyar lira azalarak 34,2 trilyon liraya düştü.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "81577db06ec7",
-   "baslik": "Kuveyt Türk'te üst düzey atama",
-   "marka": "Kuveyt Türk",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-02T10:18:48+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/isdunyasi/finans/kuveyt-turkte-ust-duzey-atama/705280",
-     "tarih": "2026-11-02T10:18:48+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/02/thumbs_b_c_01341be2496c1bd60ddce072239fcc46.jpg",
-   "yorum": "Kuveyt Türk, ödeme sistemleri ve finansal teknolojiler alanındaki iştiraki SağlamPay'in genel müdürlük görevine Mürsel Topuz'u atadı. Topuz, 2007'den bu yana bankada çeşitli görevlerde bulunmuş ve dijital ödeme çözümlerine yön verecek. Atama, SağlamPay'in büyüme ve gelişme sürecine liderlik etmesi amaçlanıyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "6bef77465897",
-   "baslik": "Telefon kayıt harcı 2027'de 70 bin liraya yaklaşabilir",
-   "marka": "Gündem",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-11-02T09:48:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/telefon-kayit-harci-2027de-70-bin-liraya-yaklasabilir-haberi-846110",
-     "tarih": "2026-11-02T09:48:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/02/01-telefon-kayit-harci-2027de-70-bi-d39l_cover.jpg",
-   "yorum": "Yurt dışından getirilen cep telefonları için ödenen kayıt harcının 2027 yılında yaklaşık 15 bin lira artarak 70 bin liraya yaklaşacağı belirtiliyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
