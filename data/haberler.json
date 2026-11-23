@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-11-22T20:27:33.740235+00:00",
+ "guncelleme": "2026-11-23T01:06:49.746634+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "8d38b12aab70",
+   "baslik": "Mobilde üretim ağı genişliyor",
+   "marka": "Gündem",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-11-22T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/mobilde-uretim-agi-genisliyor-haberi-848479",
+     "tarih": "2026-11-22T21:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/22/r1-j63u_cover.jpg",
+   "yorum": "Türkiye'de cep telefonu aboneleri 102,2 milyona ulaştı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "c6abb1a53e4c",
    "baslik": "Fed ve yapay zeka kaynaklı satış dalgası değerli metalleri vurdu",
