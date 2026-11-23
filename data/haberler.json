@@ -1,7 +1,153 @@
 {
- "guncelleme": "2026-11-23T01:06:49.746634+00:00",
+ "guncelleme": "2026-11-23T15:17:14.126128+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "0ede4ec9a25d",
+   "baslik": "Piyasa beş ay sonra likidite açığına geçti",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-23T11:32:02+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/piyasa-bes-ay-sonra-likidite-acigina-gecti-3795445",
+     "tarih": "2026-11-23T11:32:02+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/23/ver1795433545/3795445/jpg/1280x720",
+   "yorum": "TCMB, Haziran ayından bu yana ilk kez net fonlamada pozitif 184 milyar TL net borç verici pozisyonuna geçerek piyasa likidite açığına işaret etti; Karahan, likidite yönetimi ve rezerv araçlarıyla müdahale edilebileceğini vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "5ad2e5559af0",
+   "baslik": "Merkez Bankası Başkanı Karahan'dan para politikası ve enflasyon mesajları",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-23T10:05:35+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-baskani-karahandan-para-politikasi-ve-enflasyon-mesajlari/4134258",
+     "tarih": "2026-11-23T10:05:35+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/23/thumbs_b_c_48df93caf5857bb91ad0f8676e7c27d3.jpg",
+   "yorum": "TCMB Başkanı Karahan, para politikası ve enflasyonla ilgili açıklamalarda bulunarak, politika faizinin temel araç olduğu, gerektiğinde makroihtiyati ve likidite önlemlerinin devreye alınabileceğini belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "a3c9bde0972a",
+   "baslik": "Kartlı ödemeler ekimde 2,9 trilyon liraya ulaştı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-23T08:17:45+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/kartli-odemeler-ekimde-2-9-trilyon-liraya-ulasti/4134118",
+     "tarih": "2026-11-23T08:17:45+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/23/thumbs_b_c_7acc235b44b15fc43ca9e7bf85f66053.jpg",
+   "yorum": "İstanbul Bankalararası Kart Merkezi’nin verilerine göre, ekim ayında kartlı ödemelerin toplam tutarı %32 artarak 2,920,9 trilyon lira oldu; bu tutarın 2,471,4 trilyon lirası kredi kartlarıyla gerçekleştirildi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "27d6a753531d",
+   "baslik": "Piyasanın enflasyon beklentisi artarken, hanehalkının geriledi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-23T07:07:38+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/piyasanin-enflasyon-beklentisi-artarken-hanehalkinin-geriledi-3795408",
+     "tarih": "2026-11-23T07:07:38+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/23/ver1795417686/3795408/jpg/1280x720",
+   "yorum": "Kasım 2026'da 12 ay sonrası enflasyon beklentileri %24,04’e yükselirken, hanehalkı beklentisi %43,24’ten %16,06’ya geriledi. Katılımcılar, fiyat artışını en çok yakıt‑enerji ve gıda gruplarında gördüklerini belirtti. Konut fiyatı beklentisi %30,10, dolar kuru beklentisi ise 58,18 TL olarak kaydedildi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d7b3250b19c9",
+   "baslik": "DenizBank kredi kartları Maximum ekosistemine katılıyor",
+   "marka": "İş Bankası",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-23T06:58:23+00:00",
+   "kaynaklar": [
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOG13YzV6UWw1T19MYUtNYUh3Ri1uenJlbFBfNGVwMllsakQ1bG12S3FnTF9BT2ZqVU16YU13ZnJfVndrMWN4MFFfa0JrUnNObXFpQWVkOUF4aEtoeGgyc0d1REhwSVBqRC1sN0hyUmlPd01KbjdyVDg4aE5pMnJnOGh3U25kRUhGTFo2SFB3anZ2MkFNd3JGb3d5RTBmVVlMUlE?oc=5",
+     "tarih": "2026-11-23T06:58:23+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/denizbank-kredi-kartlari-maximum-ekosistemine-katiliyor-3929359",
+     "tarih": "2026-11-23T07:36:20+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Banka Dünyası",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85NlpYdnBYWUF5eTlnN3RtR3l2UkpjUzhlc0ozRmpaNkFnc1FUWDVvajlOT0RWZFpDZURxSVoyODNFS1o3ZFI3aEVBN1doZE0yNFR1MG5hT01Ld3VTUUt3cVdubWtSQldJWkJMMXZNSQ?oc=5",
+     "tarih": "2026-11-23T07:20:56+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Urfa Değişim",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZXhwUXNWTG16YUpteHAxZ0NhOWxHVWd0eERYdzhOd0VFTm8zMEJUOW9KaDNSVks3ZUJNQVRoTmhNMDFhYy00eDBsa2RvV3dCaEZKRTNjRWozdVdxQUlVSXpzdGl2VUJidXRyUWVwWHJDRmtnRWx4cURHM1lVcTN0R0E0WGhnd3J1amZ0czRlUW5GS0lrZVJLX2h3aVppdw?oc=5",
+     "tarih": "2026-11-23T07:40:46+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Hisse.net",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWlvcENVdlJ0dUJuMWJTR3kwclp1QUhtcjFVOW5MenlEMFJ5RXUtTExRbzcyYWg5UXRnMVl5YVgwZ0ZPanZ4NlZyS1U1ampLMWhMNlg1TXZ2bGRPZm5RRUZNVXFoRHJnQ0lmM2VDd1dvcW9LNmFxdFBtV0FIRmhmTnVYczlMZ2ZTLTZjeVdYNVBFZ0N4Vm9nRmhtRdIBoAFBVV95cUxOamRlTVV1Z0RmUlllVmZIeTdUSll2YUNOQzU4ejV5RGotczB5WEpEOG15YkJDa0E5ZVFEUmpwdWM2WXRmVHhRdEtyV09RVWx3OVVNd3RQRzA3eWw2NjZDSnBqUW1RZmhuRmtYUUxxQ1hPdGJvSmFGZnR6YkpuNGlJeWhHV2R6YkJjb1k5R0tlMzR5cGlacUh2UmJ3ZWV4aENJ?oc=5",
+     "tarih": "2026-11-23T12:12:57+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Pusula Haber",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUlXcml6ajRSeWZmRU1fT0hnZHNmbWMxN2tNakFfeE9McktDV0Z6Vm92Q2dlMkFhcXJTRkZZRzFiREo4dHpONUJZWFBMTHJSaEJjSS1RT2Y4WXVYSWEyamIwbHBQRnJUaW9MMnRUck1EZmFVY25XQ0JTWWlBSjBBNy1OX3ppaVA5RXA5dVd5WUNnclM1aHFTY19EQnZORGdYeWQ0MVFmSXd5c1BPc0c0X1BSTWpzZW9NYXNkYw?oc=5",
+     "tarih": "2026-11-23T12:32:06+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Genç Gazete",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXBqMTRxeHI0aHpxUnV3TkFJelZ5RTc4SW9FQUZBSlFaOHRyT25aX2M3cmRhbldWb0NWWlQ5VkVTLVo3TjZFUTdEYUJRN1FRVE1UdF8xNWl6NkxTUkdTVlRCTFhyVUJ2cHh2SFQ0WEYwVnEzNU9FMXRTYWJ2eFlqTWh2NnZESk5zV2c?oc=5",
+     "tarih": "2026-11-23T13:27:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/23/ver1795419371/3929359/jpg/1920x1080",
+   "yorum": "İş Bankası Genel Müdürü H. Cahit Çınar ve DenizBank Genel Müdürü Recep Baştuğ, DenizBank kredi kartlarının 6 Aralık 2026 itibarıyla Maximum ekosistemine katılmasını sağlayan bir anlaşma imzaladılar. Bu sayede DenizBank kart sahipleri, Maximum’un 500 bini aşkın iş yeri ağında taksitli alışveriş yapabilecek, MaxiPuan kazanıp kullanabilecek ve özel kampanyalardan yararlanabilecek. İş Bankası da bu iş birliğiyle kendi kart kullanıcılarına daha geniş bir iş yeri ağı sunacak.",
+   "neden": "",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "8d38b12aab70",
    "baslik": "Mobilde üretim ağı genişliyor",
@@ -2265,6 +2411,28 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "13e8a2f86468",
+   "baslik": "Daikin Türkiye 11 yıllık liderliğini üç ödülle taçlandırdı",
+   "marka": "Daikin",
+   "kategori": "iklim",
+   "oncelik": 3,
+   "tarih": "2026-11-09T08:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/sirketler/daikin-turkiye-11-yillik-liderligini-uc-odulle-taclandirdi-haberi-930142",
+     "tarih": "2026-11-09T08:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Daikin Türkiye, 11 yıllık liderliğini üç ödülle taçlandırdığını duyurdu.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "d58e5c3bb1ff",
    "baslik": "İnternetten alışverişte Türkiye'ye soğuk duş! Dünya devlerinin arasındaki yeri belli oldu",
    "marka": "Gündem",
@@ -3655,6 +3823,12 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX21SdXRnNUZVYTdCZHNfZC1xVTY5OVVMQ1V3aHA5anh1YTROWnhjSGxFYnNTRjFVMUVJN0t2TS1lSGJ5cUNfUloyd1dseWl3YjhYc1R0VTM0TzhwSjhiODZyZ083cW1LdDF4ZDNrZFh1dWdSbnA0cEgycDhrYXY3OHZRRmRPdHVDTTBXX3JWa0ZkeDRNZmMyR0JTc3VDQdIBpgFBVV95cUxQVnZ3OXB4eExiQmZqX3pDWUdpRTcyYTlyLUkwMno2Rk9XWlZ2SFhnc3lRcVcyMG9KVDFKTVA5THZmLXNFZkg0VlZOS2laR3V3MGZRelUxVWxUQ2syVW1BRkJOT1RJeHpmQlIyeVZwdTFXbkJpVUtfQ3Z5cklKUE9peFZnU01MX185dElBSlpQd3o3TU1IU3hoRkhQQkVTTEZJdU5HdGZ3?oc=5",
      "tarih": "2026-11-06T08:00:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "24 Saat Gazetesi Ankara",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUoyQ0RtNEliTEtLU0E5VzJCN1AyZkFoaXQ2M3RpaGFDaUpYYXpheEZVbkI0NzQ2bWxGblpJMHJzbDYxOHpuS0tTUWk0S21rdGxXV0k1dTdyWDhpUmtmZ3k2dW1qZU1RR1NSTVNzWkZGQ1FycWVabFEzMXBKakV4V3pOeE84ajVSVWV4cGdiNWZDaTVmUlRJb1RPeUlLTVgwT0VoZXAzeklodw?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -4059,172 +4233,6 @@
    ],
    "gorsel": "https://im.haberturk.com/l/2026/11/04/ver1793793891/3924899/jpg/1200x628",
    "yorum": "Arçelik, Koç Holding’in küresel iş ortağı olduğu COP31 öncesinde sürdürülebilir yaşamı destekleyen bir kampanya başlattı. Kampanya kapsamında Arçelik ve Beko markalarının seçili ürünlerinde %40’a varan indirim sunuluyor ve beyaz eşya, ankastre, klima ve küçük ev aletlerini kapsıyor. İndirimler Kasım ayı boyunca geçerli olacak ve enerji ve su tasarrufu sağlayan teknolojilere erişimi kolaylaştırmayı hedefliyor. Arçelik Türkiye Genel Müdürü Cem Kural, kampanyanın kaynak verimliliği ve ev bütçelerine katkı sağladığını belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "d8ffe0e9ffd2",
-   "baslik": "Barclays: TCMB TL'deki değer kaybı hızında 'teknik ayarlama' yaptı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-03T12:14:38+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/barclays-tcmb-tl-deki-deger-kaybi-hizinda-teknik-ayarlama-yapti-3793296",
-     "tarih": "2026-11-03T12:14:38+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/11/03/ver1793708327/3793296/jpg/1280x720",
-   "yorum": "Barclays ekonomisti Ercan Ergüzel, 3 Kasım tarihli notunda Türkiye Cumhuriyet Merkez Bankası’nın Ekim ayında liranın dolar karşısındaki değer kaybı hızını %1,6’dan %1,8’e yükselttiğini belirtti. Küresel enerji fiyatlarında bir düzeltme olmaması durumunda bankanın bu hızlanmayı yavaşlatmayacağını ifade etti. Daha hızlı değer kaybının dolarizasyon baskısını artırabileceği ve rezervler üzerinde baskı oluşturabileceği görüşünü paylaştı. Ergüzel, cari açık finansman endişeleri artarsa yetkililerin lira mevduatlarına uygulanan stopaj oranını düşürerek dolarizasyonu sınırlamayı düşünebileceğini söyledi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "05837ec95725",
-   "baslik": "Gedik Yatırım'dan enflasyon sonrası faiz tahmini: Aralık için 100 baz puan beklentisi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-03T11:30:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomik-veriler/gedik-yatirimdan-enflasyon-sonrasi-faiz-tahmini-aralik-icin-100-baz-puan-beklentisi-haberi-928852",
-     "tarih": "2026-11-03T11:30:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/09/11/merkez-bankasi-faizi-indirmedi-ama-indirim-icin-yesil-isigi-yakti-ntuo_cover.jpg",
-   "yorum": "Gedik Yatırım, Ekim ayında enflasyonun %2,58 ile beklentileri aşmasının ardından, TCMB’nin Aralık ayında faiz oranını 100 baz puan düşürme ihtimalini değerlendirdi. Ancak Kasım enflasyonu yüksek gelirse, bu indirimin daha sınırlı kalabileceği uyarısında bulundu.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "bf7117a7584e",
-   "baslik": "\"Bankacılıkta yeni normal daha az masraf\"",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-03T10:35:12+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/bankacilikta-yeni-normal-daha-az-masraf-3793261",
-     "tarih": "2026-11-03T10:35:12+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/11/03/ver1793702145/3793261/jpg/1280x720",
-   "yorum": "ING Türkiye’nin “Eskiyen Normaller Araştırması”, tüketicilerin banka hizmetlerinde yıllık kart aidatı, FAST/Havale/EFT ve SWIFT ücretleri gibi masrafları artık normal bulmadığını ortaya koydu. Katılımcıların büyük bir çoğunluğu bu ücretlerin önümüzdeki beş yıl içinde kaldırılmasını istiyor. Araştırma, 31 Temmuz‑9 Ağustos 2026 tarihleri arasında 500 kişiyle online anket yöntemiyle gerçekleştirildi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "0cd23b458d47",
-   "baslik": "İşPay yenilendi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-03T09:06:04+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/ispay-yenilendi-3924552",
-     "tarih": "2026-11-03T09:06:04+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/11/03/ver1793696707/3924552/jpg/1920x1080",
-   "yorum": "İş Bankası, İşPay uygulamasını yeni özelliklerle yeniledi. Müşteriler, İşCep üzerinden ihtiyaç kredisi ve taksitli ek hesap limitlerini görüntüleyip, belirledikleri tutar ve vadeye göre bakiyelerini yükleyebiliyor. Yüklenen bakiye ile alışveriş yapılabiliyor ve bakiye takibi aynı menüden sağlanıyor. Kasım ayı boyunca yapılan kampanyada, İşPay’e bu yollarla bakiye yükleyen kullanıcılar, belirli sektörlerde harcama yaptıklarında 25.000 TL’ye kadar nakit iade alabiliyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "07509e09402b",
-   "baslik": "İş Bankası İşPay’i yeniledi",
-   "marka": "İş Bankası",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-03T08:57:47+00:00",
-   "kaynaklar": [
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://www.dha.com.tr/yerel-haberler/istanbul/is-bankasi-ispayi-yeniledi-2974328",
-     "tarih": "2026-11-03T08:57:47+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6ae9a35e737688bad7769a07.jpg",
-   "yorum": "İş Bankası, İşPay uygulamasını yenilediğini duyurdu. Yenilenen sürümde kullanıcılar, limitlerini İşCep üzerinden görüntüleyebilecek ve ihtiyaçlarına uygun tutar ve vadeyi belirleyerek İşPay bakiyelerini doldurabilecek.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b97f4da8e751",
-   "baslik": "Yumurta viyollerinden ilham alınan projeyle mobilya üretiminde 100 yerine 60 ağaç kesilecek",
-   "marka": "Sektör: mobilya",
-   "kategori": "mobilya",
-   "oncelik": 3,
-   "tarih": "2026-11-03T07:58:14+00:00",
-   "kaynaklar": [
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://www.dha.com.tr/amp/foto-galeri/yumurta-viyollerinden-ilham-alinan-projeyle-mobilya-uretiminde-100-yerine-60-agac-kesilecek-2974248",
-     "tarih": "2026-11-03T07:58:14+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkhlN3gwT0xPLWRrbk5xNHJaMmNtVUh5enJkTWplZkNyamltR1RybTF2N0tXTU56TXBORlU4R0VlMHpZWW1QcjRNU3RwRTc3WmNDMFBFQU0tRWRHRXhDUWN4bkwyTHdQekJqbFVwdDVQVm9TM3gyV2szZFl3VHFWd0JfZlhmYy1PSmVuSFlHTE9jZjM2eWF5SUlUOGpOV0Zzc1hWQk5NMGxWbGlzWjJRdnJpMDItNXoxWTdnSTB6bTAtM0lkaUJMQ29BTnRVcXM1Y3FPU0c3a1ZrRGVx?oc=5",
-     "tarih": "2026-11-03T08:31:02+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Bursa Teknik Üniversitesi Orman Fakültesi, TÜBİTAK 1001 desteğiyle \"Yarı piramidal çekirdekli sandviç levha üretimi\" projesini 24 ay sürecek şekilde hayata geçirdi. Proje, mobilya üretiminde kullanılan ağaç miktarını 100 yerine 60'a düşürmeyi hedefliyor. Projede Prof. Dr. Ergün Güntekin ve Doç. Dr. İbrahim Halil Başboğa, Doç. Dr. Çağatay Taşdemir, Doç. Dr. Mesut Uysal gibi akademisyenler görev alıyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "d81e079643d2",
-   "baslik": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-03T02:53:51+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/togg-da-anadolu-grubu-ve-vestel-in-paylari-tvf-ve-turkcell-e-geciyor-3793139",
-     "tarih": "2026-11-03T02:53:51+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/togg-da-hisse-devri-icin-sozlesmeler-imzalandi-iste-yeni-ortaklik-yapisi-3924462",
-     "tarih": "2026-11-03T05:54:39+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/11/03/ver1793674490/3793139/jpg/1280x720",
-   "yorum": "AG Anadolu Grubu Holding, TOGG'daki %23'lük hissesinin %11'ini Turkcell'e, %12'sini ise Türkiye Varlık Fonu'na 184 milyon euro karşılığında devretmek üzere sözleşme imzaladı. Vestel de aynı oranda TOGG hissesini 184 milyon euro bedelle TVF'ye satma kararı aldı. İşlemlerin tamamlanmasıyla Turkcell'in TOGG'daki toplam payı %34'e yükselecek. Turkcell, bu yatırımı teknoloji altyapısı ve dijital hizmetler stratejisiyle uyumlu olarak nitelendiriyor. Vestel'in satıştan elde edeceği fonun %90'ı, nakdi banka kredilerine ilişkin vadesi gelmiş borçların ödenmesinde kullanılacak.",
    "neden": "",
    "gundem": false,
    "onem": 3,
