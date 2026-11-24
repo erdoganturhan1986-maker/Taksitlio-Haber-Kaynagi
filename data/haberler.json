@@ -1,7 +1,73 @@
 {
- "guncelleme": "2026-11-23T15:17:14.126128+00:00",
+ "guncelleme": "2026-11-24T02:32:34.276325+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "2a5260036164",
+   "baslik": "KOBİ'ler için de yeniden yapılandırma gündemde",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-23T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/kobiler-icin-de-yeniden-yapilandirma-gundemde-haberi-932932",
+     "tarih": "2026-11-23T21:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/23/kobiler-icin-de-yeniden-yapilandirma-gundemde-j1n1_cover.jpg",
+   "yorum": "Ekonomim haberine göre, bireysel kredi kartları ve ihtiyaç kredilerinde TGA (tahsilatı gecikmiş alacak) oranlarının tarihsel ortalamaların üzerine çıkması üzerine hükümet yeniden yapılandırma gündemine aldı. BDDK ise aynı durumun KOBİ kredilerinde de alarm verdiğini ve yapılandırma ihtiyacı olduğunu vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "35593e09a0a6",
+   "baslik": "TCMB Başkanı Karahan: TL’ye talep zayıflarsa stopaj hamlesi gelebilir",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-23T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/tcmb-baskani-karahan-tlye-talep-zayiflarsa-stopaj-hamlesi-gelebilir-haberi-932933",
+     "tarih": "2026-11-23T21:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/23/tcmb-baskani-karahan-tlye-talep-zayiflarsa-stopaj-hamlesi-gelebilir-k26s_cover.jpg",
+   "yorum": "TCMB Başkanı Fatih Karahan, Türk lirası talebinde zayıflama görülürse stopaj gibi tasarruf destekleyici adımların değerlendirilebileceğini söyledi. Politika faizinin temel araç olduğu, gerektiğinde makroihtiyati ve likidite araçlarının da devreye alınabileceği vurgulandı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "da0a1349ebc4",
+   "baslik": "ABD'de yüksek gelirli tüketiciler de taksitli ödemeye yöneldi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-23T18:57:09+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/abd-de-yuksek-gelirli-tuketiciler-de-taksitli-odemeye-yoneldi-3795491",
+     "tarih": "2026-11-23T18:57:09+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/23/ver1795460313/3795491/jpg/1280x720",
+   "yorum": "ABD'de ödeme şirketi Block, yüksek gelirli tüketicilerin de BNPL (şimdi al, sonra öde) hizmetlerini tercih ettiğini gösteren veriler yayımladı. Araştırma, yıllık geliri 100 bin doların üzerinde olan hanehalklarının %69'unun bu hizmeti kullandığını ortaya koydu. BNPL, tüketicilere alışveriş tutarını daha küçük taksitlere bölme imkanı sunarak peşin ödeme ve kredi kartı kullanımına alternatif sağlıyor. Block'un Kredi ve Risk Değerlendirme Başkanı Juan Hernandez, tatil döneminde harcamaların birkaç maaşa yayılmasıyla borç yükünün hafiflediğini belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "0ede4ec9a25d",
    "baslik": "Piyasa beş ay sonra likidite açığına geçti",
@@ -138,6 +204,18 @@
      "ad": "Genç Gazete",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXBqMTRxeHI0aHpxUnV3TkFJelZ5RTc4SW9FQUZBSlFaOHRyT25aX2M3cmRhbldWb0NWWlQ5VkVTLVo3TjZFUTdEYUJRN1FRVE1UdF8xNWl6NkxTUkdTVlRCTFhyVUJ2cHh2SFQ0WEYwVnEzNU9FMXRTYWJ2eFlqTWh2NnZESk5zV2c?oc=5",
      "tarih": "2026-11-23T13:27:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yozgat Çamlık Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm5YTHVYMkU5QUdVRmxnd1ZYbl9NSnF1eVd6Z0dEMy1aTjUtVHhCMHZkM3c4RHZmOW90TlZRdllQZk1qTmd5WlpRWVVVeDBncHRRWV9DSFRyd1JOT2k5RDFQTVk3bTJOdFhJWmlvcFgtY2RqeTc5OEFic0xCNnp6TDFSYkdSbmwybWF0NVRCZGZIVE4wOU9QV3JGUERzMGY3OWtPcHJBbFJnMWlfUDdwaVVUd0otYy0wNkpLeFEyaw?oc=5",
+     "tarih": "2026-11-23T15:13:12+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Ege",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGhWQ3JMcG9EaEk1OXc4dzlIX3hsOERqMjRUS19UcHZBeV9yc3BhazU1Mmx0MFd5UFhRdnVxTlpFOEJGTklSMHNJVjJTNzlpNjdRanFoUTY5amtYYlkybmJ6VHFsbmltOVM1VjNyRWIzTE9lMmlCMlc3OVNGZjQyclJkQkt5M0RnWEtVV3dCajNYOWRmdmJzUFg3NGd4R1NTaktyOVVieUxkeUU?oc=5",
+     "tarih": "2026-11-23T20:43:24+00:00",
      "guvenilir": false
     }
    ],
@@ -425,6 +503,12 @@
      "url": "https://www.dha.com.tr/yerel-haberler/ankara/tuik-cocuklarin-yuzde-80-1i-cep-telefonu-kull-2985337",
      "tarih": "2026-11-20T08:33:31+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Doviz.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2t4LUV4bHR0RXEtTTFBSkY5Z2pwcnNNSVJyQUdHNW5FYzkyamllZTVTUEVyd3BWdk5US21CeXFsZDltRHpoT0dfSE1KVHlLOWRhRVgwN19qRkQ3MDZmUjAxSWJieXQ3elFBUDhxbG9KN3FISUdob05xaUhEcTgyblhWS2Nlc2VuaklmSm5wVUdsNUxiVFlUR3lWSWl4ZlN1VnJrYThkX1YtZHM1WXRYVXAtWlV0Qmpua3FXTWp30gHGAUFVX3lxTFBSV0NWV0lVQnFYcXlJZ0NlTklYenA5UmlqR0RHczVlRV9iWnRZOHZmMFJnOWt3cHg3bjRwXzdwRnY1X2dERzJsV1AyNHBfZTFCdkRsNksxVlZIaTZWYmtKdTNnQmdXQzdxRFZUVkxpV0xMaDRqT0Z5Uno4T0FfbVNTX2RXV2lTTzhkeld1VlNmNGFfSnh6VnFUeEtVanIwbWlYMDJFcjhhczNscXl0eFlmVkp4U1p1cEtfbjRPcjh4ZXpSY2o4QQ?oc=5",
+     "tarih": "2026-11-20T08:42:07+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6b0006a40c5a423519a97cfc.jpg",
@@ -1483,6 +1567,12 @@
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSWdqWlMtZU5zZG5sRWh5NGEyM090bmM1VzNERkRWOGRIZDV2TF9HU2h5Q1VqOWJDM1hXYldObGprNWxCeFVzZ29Pc1h5V3VXam45OUJHb0c3YW53Y19YRTUtOGI1VWt3YnJZZ0lRWDFXX2Q3cTRjS0l5X2RWeUFNSkVpdWZqZ3hYeTY4X0JkQ0dETkZFS1owcWtRSTdRYUdLVWowYjFBSml1NkJMQmdCbnJxM0d4Z1R5dGM5SUxQZVFid0h2S1RwY2J3X000Z1RiOW9CYVItZzFFOWtUd1BzSA?oc=5",
      "tarih": "2026-11-12T09:45:39+00:00",
      "guvenilir": true
+    },
+    {
+     "ad": "Sabır Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDAyUW1USDBmVUpISEZmRzkzMFpiTlJwOUF6b2poaUlFRXF4bHRBcFVuaTNhbE0zaFJJNFRKQ3VTMGZJQnFZelQ3Nk9xOUg3WWx3QXZ0dnlxTlFnZk1WbU0wSGdBY1pNb0pSNUZhdkN1czN0LU5XR2dxdUhEWmViX09lZmxjSWtKR3VrQzlKNnZVN0NQQ3c1bHFXaGs5RnhDbE9EWmNHRkZ6X0FjWEZjWXpWeHh3d0tqZEk1VXZFN0VBTnc?oc=5",
+     "tarih": "2026-11-12T06:13:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/11/11/ver1794386275/3926509/jpg/1200x628",
@@ -3829,6 +3919,12 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUoyQ0RtNEliTEtLU0E5VzJCN1AyZkFoaXQ2M3RpaGFDaUpYYXpheEZVbkI0NzQ2bWxGblpJMHJzbDYxOHpuS0tTUWk0S21rdGxXV0k1dTdyWDhpUmtmZ3k2dW1qZU1RR1NSTVNzWkZGQ1FycWVabFEzMXBKakV4V3pOeE84ajVSVWV4cGdiNWZDaTVmUlRJb1RPeUlLTVgwT0VoZXAzeklodw?oc=5",
      "tarih": "2026-11-06T08:00:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "İşçi Haber",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM01TMWswaHJoZmgtNWdpWDY5ZFI4MGF0Yy1JVzY0anA1cUQ5MVNZWTdicDhqUGdKNWtlRElwT2ZjcFNNWFYxMVNoWHZHaUhqTTYyQkxJdmxWRGJvOFBSbEpuSlphdXJCNy1xRGktN243SHZCMGw4VFBqQjlpVHNqODBNS3Y0UTR2d3I2dmVQWGhrcTA4UnBPYg?oc=5",
+     "tarih": "2026-11-06T12:16:43+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -3836,6 +3932,52 @@
    "neden": "",
    "gundem": false,
    "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "bf36d986fa10",
+   "baslik": "Akıllı telefon pazarı 14 yılın dibinde: Çip devinin gelirleri yüzde 26 eridi",
+   "marka": "Sektör: cep telefonu",
+   "kategori": "telefon",
+   "oncelik": 2,
+   "tarih": "2026-11-05T08:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Sabah",
+     "url": "https://www.sabah.com.tr/teknokulis/haberler/2026/11/05/akilli-telefon-pazari-14-yilin-dibinde-cip-devinin-gelirleri-yuzde-26-eridi",
+     "tarih": "2026-11-05T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Dünya Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFZUMGt0RFBkaXM2WGdoNWt5WG5WLVprZ3VYMFRfRmlhWlB5OVR5Z0ZWTC1yS1kzMFpzWFZCUzFNNkVuUnJGQVFJdHlZSEczM01LTWhDcC1ZcWFueHhJLUhldE4xd2FkVTBrb29XaWJrdzc2WU9qc3NiZlhPWm02OGRtZGtOVE1mSW45TDZvNFJOUTd1dU43NVdxVW55UEU1dVctWEh1RVRhRG9FU1JDYlRvUFRWSWJOOF91djBLMWpRZWlZMmc?oc=5",
+     "tarih": "2026-11-05T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdS1MZXZ4UDBWVjFqQWFXN2t4M3RCSmE0N2tsWjYzVXd2WHQxWEt4UDZpTFlXMFBnbTltbVZfZFpqZXRqYTlZUjA0OWhieFRMbVgxbVpzaGNhcVNiTDgwLTZna1hqdFBzSHpTM3MxRUw1TkFtV29la0R1WTU3ZEVfcm5fUEhaRVloSVQwN1JXc3MydldLNEc4OWRDamVZQXlPRm81b3pDQjBGalotZGRmLXd1UkFNd3U0akUzU1FiMzFzcy1uMmhzVlh3?oc=5",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "PC Hocası",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2xjdHN4bXVISWM2WHRoQ2RQcDBsMG5ERmFqQVI1T3RhRjdkMFJELWpZQVd6WTBaSEg4RTRabVN5VTVzLVNsN0RBZzI2ZVVwMUV5ZV9kWnEybE1Wa2lSb0NXem5FSFZXWTRfUnJ0cGFpOEtxY19qeVlDMlZqWTllUnVxYU5wMWtyTDNVZGI0YjQzVWlfV2xQNUF1V1VoeGpxc2ZPQ0tUcnJ5c2JB?oc=5",
+     "tarih": "2026-11-05T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Teknoloji haberleri - LOG",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFJBRlR2Vk9UZlFOSHdfSzZUYzV1aUJLM2VJeUR5bmJ0Y3k4NWc3Mi1TOEhoS2M1b0RiTmFHbVFDUU5MZ3FUZGlrdEdVaEtuTEdKZFhaaE8tRmdwV1BycWNtc0lFUUt6Um1YSGdxcGRCcmtDZmxTS3lmbU9xMVRPcWVLMnYyamlPeXFoaWNfMUdHNkpDeEFYX3lfakZmdFBiQzFVbW5OaE9YNGlvR1RLQmRqUDYyaTdQVlIzb2xn?oc=5",
+     "tarih": "2026-11-05T08:00:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://iasbh.tmgrup.com.tr/024750/1200/675/0/130/1254/835?u=https://isbh.tmgrup.com.tr/sbh/2026/11/05/akilli-telefon-pazari-14-yilin-dibinde-cip-devinin-gelirleri-yuzde-26-eridi-1793866188169.jpg",
+   "yorum": "Counterpoint Research verilerine göre, 2023 üçüncü çeyreğinde küresel akıllı telefon sevkiyatları yüzde 20 azalarak 2012'den bu yana en düşük seviyeye geriledi. Bu düşüşün başlıca nedeni, tüketicilerin yeni cihaz alımlarını ertelemeleri ve mevcut telefonlarını daha uzun süre kullanmaları. Aynı zamanda yapay zeka yatırımlarının artmasıyla bellek çiplerine talep yükselerek üreticilerin maliyetlerini artırdı ve perakende fiyatları yüzde 20 civarında yükseldi. Qualcomm, telefon çiplerinde kayıp yaşarken otomotiv sektöründeki satışlarını yüzde 89 artırarak 1,99 milyar dolara çıkardı ve gelecekte çip maliyetlerinin yeni zam riskleri doğurabileceği belirtiliyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
