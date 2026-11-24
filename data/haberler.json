@@ -1,7 +1,75 @@
 {
- "guncelleme": "2026-11-24T02:32:34.276325+00:00",
+ "guncelleme": "2026-11-24T15:13:49.165367+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "4871311e39c0",
+   "baslik": "TCMB kredi kartı faizlerinde kullanılan referans oranı düşürdü",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-24T08:28:01+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-kredi-karti-faizlerinde-kullanilan-referans-orani-dusurdu-3795528",
+     "tarih": "2026-11-24T08:28:01+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/kredi-kartlarinda-yeni-donem-kredi-karti-faizlerinde-3-yil-sonra-ilk-indirim-3929688",
+     "tarih": "2026-11-24T09:03:52+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/24/ver1795508921/3795528/jpg/1280x720",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası, kredi kartı işlemlerinde uygulanabilecek azami faiz oranlarının hesaplanmasında kullanılan referans oranını 2023'ten bu yana ilk kez düşürdü. Kasım 2023'te yüzde 3,11 seviyesinde olan referans oran, 1 Aralık 2026 itibarıyla yüzde 2,94'e indirilecek. Bu değişiklikle, 30 000 TL altında bakiye olan kartların azami akdi faiz oranı yüzde 3,25'ten yüzde 3,08'e, 30 000‑180 000 TL arası kartların ise yüzde 3,75'ten yüzde 3,58'e düşüyor. Düzenleme, kredi kartı kullanıcılarının faiz yükünü hafifletmeyi hedefliyor.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "fd678630f7ef",
+   "baslik": "Hizmet ve perakendede güven arttı, inşaatta azaldı",
+   "marka": "Sektör: perakende",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-24T07:04:37+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/perakende-ve-hizmette-guven-artti-insaatta-azaldi-3795523",
+     "tarih": "2026-11-24T07:04:37+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/guven-endeksi-kasimda-insaat-sektorunde-azaldi-hizmet-ve-perakende-ticarette-artti/4135341",
+     "tarih": "2026-11-24T07:29:55+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2Z6U3NVLUxIRExzODk1NjU4ODAyQWNycmRDdDhpTFlBSk9wTDVXNDcwcmp0SmJWQUlJT1pFd2tBd1BhSjBTSVBJcThNZUdXSzZrdHhTa0U5RkdqMmZhLXE2RENkbllIN1Rzbm1wVGJyRjZqRXBVOFF1dGZKdk5oYnZ0RjVDM0tOWWpmU2NFaW5hNXUyRVFLdTJJTW45WGRteUE?oc=5",
+     "tarih": "2026-11-24T09:01:13+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "EKOTÜRK",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkJ4ZS1jUUs5aEVoZ2Y5NWNJNU9nU1FXN1pEb0lla2xjNXM3dUVJVmI4TmJvVlJiMVRjanVydDRZbk1KajctY0E3TFVOV0xoSzNaanRpS216aWZ4akJYLW5ublhCRVhoY2JGZEdjelBrYXN6THlNQk1WM19VNGNCMk1iQkNkdEVwand5VVF4ZEM0T01USXFn?oc=5",
+     "tarih": "2026-11-24T13:08:02+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/24/ver1795504093/3795523/jpg/1280x720",
+   "yorum": "Türkiye İstatistik Kurumu, Kasım ayına ilişkin hizmet, perakende ticaret ve inşaat güven endekslerini açıkladı. Perakende ticaret güven endeksi yüzde 0,9 artarak 113,6 seviyesine yükseldi, hizmet sektörü yüzde 0,6 artışla 109,9, inşaat sektörü ise yüzde 3,8 düşüşle 80,2 oldu. Perakende sektöründe son üç aylık dönemde iş hacmi‑satışlar yüzde 0,7 artarken, mevcut mal stok seviyesi yüzde 0,2 azaldı ve gelecek üç aylık dönemde iş hacmi‑satış beklentisi yüzde 3,5 artış gösterdi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "2a5260036164",
    "baslik": "KOBİ'ler için de yeniden yapılandırma gündemde",
@@ -2061,6 +2129,12 @@
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa2gtT3Rva3ZadmtDNW9pVV9rZTFkREI4MzFJaUV5TDJfdGU3RndiLUZZV0Z1YzkyLVZJdUFhX3U5RFVqVmNXbnMtX3dId2RXUlU2UmtMNVFLbzZXUFFpNklqdlAwZ3dKZ0ZwTFdVX0xPRWtKcWhmVlJUUGh2MHRGZHpaWlhPUDJfaVdEc3JURURKOUExRENNb3pyRWtrYUxPREhXcEVBcGZaakxLV1NwMW9QZ0x0aDhiSEQyUWk0Ui1OU3hwdU1TMA?oc=5",
      "tarih": "2026-11-11T07:16:13+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Yeni Bakış Gazetesi İzmir",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2NsSVBza3NwM3cydDV1WkNHNlNFa2tGYnIxRmtoRENSanlLMzhhY0RoaEk5NUpoa3pGNGI0VFFLZm9xaGNvS1lLNzFGZUtyV1lJdnJaaVRvVThfV2lZLXI2Z3JMV3RyYWd5dVJraHNqaXQzWGQ1T0s0YjNneHdNNXVYcU1Ec1At?oc=5",
+     "tarih": "2026-11-11T08:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -3925,6 +3999,12 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM01TMWswaHJoZmgtNWdpWDY5ZFI4MGF0Yy1JVzY0anA1cUQ5MVNZWTdicDhqUGdKNWtlRElwT2ZjcFNNWFYxMVNoWHZHaUhqTTYyQkxJdmxWRGJvOFBSbEpuSlphdXJCNy1xRGktN243SHZCMGw4VFBqQjlpVHNqODBNS3Y0UTR2d3I2dmVQWGhrcTA4UnBPYg?oc=5",
      "tarih": "2026-11-06T12:16:43+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Eskisehir.Net",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclBrb1MyWW1UY0RRS3NsRkFGLXdldTlPSXlGR1Q5V2dNT29zMl81ZWZFTElaTFVVanZaSEpMcjRnejZ4NnJmaDFIS2tYd1BnakFOaWY5eUd5cEFyZEZzbXBDcU1BR3lnNDFKeFNTTnB1cGlKcUpVT1JCSkk1QlZLeUw2SkZwaUR5TXB4Q0N4TEM0dnIzNFZvUQ?oc=5",
+     "tarih": "2026-11-05T08:00:00+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -4136,248 +4216,6 @@
    "neden": "",
    "gundem": true,
    "onem": 5,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "a8b16843d2ae",
-   "baslik": "Teknosa ve Hopi arasında teknoloji alışverişinde işbirliği",
-   "marka": "Teknosa",
-   "kategori": "elektronik",
-   "oncelik": 1,
-   "tarih": "2026-11-04T11:46:38+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/isdunyasi/e-ticaret/teknosa-ve-hopi-arasinda-teknoloji-alisverisinde-isbirligi/705352",
-     "tarih": "2026-11-04T11:46:38+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Yeşil Afşin Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGVNZFp5R3FGam9hZW9qcy1wQzVoaU83ZWJTWjRaWXRSaEk2UnZ1ZmJzVFBmTkNaRHp6eWNzZi1QUXR4YzgtTjJCV1h2ZlRVS2lYRVlkR2V3VE5YemhPQ2pQS0FJazVvR2NUbW90aHJvaTR6RFBaM2hXaEtIOGxIMGJhcVZxcEVM?oc=5",
-     "tarih": "2026-11-04T10:54:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Finans Hattı",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTEpNZXItbjV1OTNYTmQ5UkRFamkwNUlrTXl5MlYyZTlBbkVFWGRZQWVsMWpOa3dTQmFDNm5peHg1aDhWdFZRYVUzT1FieHAwTlRBUjJNNU13eG5jWkJLREMyQ25ybjhjeThYcDc0a21FcXZnOE80WThKS0EwU3ZBdmc4WWt5NWhtY3BRRC1HT2I?oc=5",
-     "tarih": "2026-11-04T11:52:37+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Haber Olsun",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lTzR6OUtEaDlzZURYdFRscFF5OTR3Q3pWWlVRcllhR3VPV3FaSXYzbUZRR3gwUExYRzN4U1g4S215MkFGWHAteklhRFdHV0Rmb3plOUR5dURBNXNhYlZGMXJtUkxUNmpK?oc=5",
-     "tarih": "2026-11-04T12:22:50+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Medya Gazete",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFN6enpVLUFpOVlfWEk5Mm4wcm8tVGdxTzI5SVVMMTFFdHZzdlJvZDFORjFhNDFuRE90XzRkeWY1RTFxWTcwTDl6dHhWQlFJUWxseEVsU0ZtSlR1UlpvWTd2QVJtZWlfYUR1aDhGUm91a1VVRk1mQTdZWS1zUHZYOU82LWsyUG0xTjI1emJ1WmhlRzA3aTR3?oc=5",
-     "tarih": "2026-11-04T13:49:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Ekonomist",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQanNrWkl5SENlTjRaNFktQThpZFdvcnBEQWI5VW1XNVBYZ1lSTm11Qko3X2dxcDZCU0p5TUNENjZvWXZFYmdoVmp3TWlDMWdPRm5sOHFHbWFITi1iNG5DcXRGU3d3QjdpN0FialBDSXdaSW1Ia3kwZU1BejNqajA4eg?oc=5",
-     "tarih": "2026-11-05T08:58:36+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fcWhIOWtvTnFlSTYzd3ZHNkNCaWt1QngtU0NJWFV3NzFKaFptUjJtT1hnNl9aS19ldm1nY0dYMEh6ME45ck0xSldnVXB5a3NfXzg0LWFYTEd1cTVKVTlwMHdyakttdWdwMHpDcHg3MHQzR1E1ZnVQV3l0SUI?oc=5",
-     "tarih": "2026-11-04T11:36:05+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/04/thumbs_b_c_0974c76845d3a14f3aafceb5d63c5f7f.jpg",
-   "yorum": "Teknosa, Hopi ile yeni bir işbirliği başlattığını duyurdu. Şirket, geniş mağaza ağı ve ürün yelpazesini Hopi'nin 21 milyon kullanıcıya sahip alışveriş platformu ile birleştirerek müşterilerine ek fırsatlar sunmayı hedefliyor. İşbirliği kapsamında müşteriler, mağazalarda geniş ürün seçeneklerine ulaşırken Hopi üzerinden özel avantajlar ve uygun koşullarla alışveriş yapabilecek. Teknosa ve Hopi yöneticileri, bu ortaklığın kullanıcı deneyimini iyileştireceğini ve her iki tarafın da büyümesine katkı sağlayacağını belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "9fd1c910c8f9",
-   "baslik": "Merkez Bankası açıkladı: Reel efektif döviz kuru ekimde 2,66 puan yükseldi",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-04T11:37:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya",
-     "url": "https://www.dunya.com/ekonomi/merkez-bankasi-acikladi-reel-efektif-doviz-kuru-ekimde-266-puan-yukseldi-haberi-846418",
-     "tarih": "2026-11-04T11:37:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/04/para-zlmg_cover.jpg",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB) verilerine göre, TÜFE bazlı Reel Efektif Döviz Kuru (REK) ekim ayında 2,66 puan artarak 107,76 seviyesine yükseldi.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "911ff8beb043",
-   "baslik": "Arçelik'ten sürdürülebilir yaşam teknolojilerine erişimi kolaylaştıran kampanya",
-   "marka": "Arçelik",
-   "kategori": "elektronik",
-   "oncelik": 2,
-   "tarih": "2026-11-04T11:34:29+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/isdunyasi/sirketler/arcelikten-surdurulebilir-yasam-teknolojilerine-erisimi-kolaylastiran-kampanya/705351",
-     "tarih": "2026-11-04T11:36:02+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmxtTmVLTXdkVW5ZSVlXTkdYc19jUGVoMk9QdUFOU3Q3aExGR1RyaUlJN2ZCTGkwTGJBZnNvV0RsWlJGUTZhYzY4RWNmdVc0d3ZtZVA3VW10OXNfUU0yaks2d1BRX2ZtVDVPTm1oVXFrN2FKQTk5VmhHeXhGaW5VMC0zZlk?oc=5",
-     "tarih": "2026-11-04T12:04:51+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "insaatyatirim.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTk1mWjQtRHBHUThmalNKN0tJdmRLVjNYNG85X0oyaW1fbjRVOTlCZDlrSnR4eUkyMHNaaG9IQTZYLTFOSTlWdjJ2RklPd3JPUEpmb2phaFhIUmR4aDJIZ3Y2OVR0N3lnS3V5SnBDM0ZYcV9GRFJSVEUtTHhQM0Q5QUlzMlNkU2Z5QmhtYjI2NXJZNy1LTmloZ2Fyd0dWNlRRZmhOXzZCd2VLRlFDaWtfYk52SVBZb3VnNnFzWQ?oc=5",
-     "tarih": "2026-11-04T11:34:29+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Enerji Ekonomisi",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVRjNEZPOThYbDlxbFNYMDhIM0Y1U1g3dkVCb3l4ZGdyYUFTdzBmZWN4cllXV0RzNWZYd2ZLbjVacjY5VXY1S0RicnpXYUhzT1NkN3Y2YUNEWWR3aXdPdEFYanE4X01VNThucFBTc1ZOazVpNE5vSTRtbHlqSXpEQ1ZOSVZkYXZHcGJFeDMyckI4YzFYcEhwY0JhcENZQ0FoWUE?oc=5",
-     "tarih": "2026-11-05T06:10:12+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/04/thumbs_b_c_385ec581ce4458d659c96b3606493d1f.jpg",
-   "yorum": "Arçelik, COP31 öncesinde seçili Arçelik ve Beko ürünlerinde yüzde 40’a varan indirim kampanyası başlattı. Kampanya, beyaz eşya, ankastre ürünler, klima ve küçük ev aletlerini kapsıyor. Bazı modellerde yapay zeka destekli teknolojiler sayesinde enerji tüketiminde yüzde 20’ye, su tüketiminde ise yüzde 50’ye varan tasarruf sağlanıyor. Kampanya, Kasım ayı boyunca geçerli olacak ve sürdürülebilir yaşam teknolojilerine erişimi kolaylaştırmayı hedefliyor. İndirimler, enerji verimliliği ve ev bütçelerine katkı sunarak tüketicilerin daha tasarruflu ürünlere yönelmesini amaçlıyor.",
-   "neden": "",
-   "gundem": true,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "0e8431407e10",
-   "baslik": "Teknosa ve Hopi'den iş birliği",
-   "marka": "Teknosa",
-   "kategori": "elektronik",
-   "oncelik": 1,
-   "tarih": "2026-11-04T11:21:51+00:00",
-   "kaynaklar": [
-    {
-     "ad": "DHA | Demirören Haber Ajansı",
-     "url": "https://www.dha.com.tr/yerel-haberler/istanbul/teknosa-ve-hopiden-is-birligi-2975137",
-     "tarih": "2026-11-04T11:21:51+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Finans Hattı",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTEpNZXItbjV1OTNYTmQ5UkRFamkwNUlrTXl5MlYyZTlBbkVFWGRZQWVsMWpOa3dTQmFDNm5peHg1aDhWdFZRYVUzT1FieHAwTlRBUjJNNU13eG5jWkJLREMyQ25ybjhjeThYcDc0a21FcXZnOE80WThKS0EwU3ZBdmc4WWt5NWhtY3BRRC1HT2I?oc=5",
-     "tarih": "2026-11-04T11:52:37+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeklucGpnZUYtVEZDdjdfWk1KOVdXRUNGX29yN0NTNTEwWE01MmxyTXgxazQybFJRZDRfV0NTZ1FZR2F5aWFyaXAtdHVvSGRDUW94SU1lSmtRTE51Wkh4NFIwVUhnOUZqUTZfcGFHVDJCVDBvQUw1YVl0Z1d2NENLWkYySFc4STlvMUVRRXd5amJBTzBBaGFOamMybWhza3BYSGZua0hibldNLTRtT0FB?oc=5",
-     "tarih": "2026-11-04T12:43:57+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Haber Olsun",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lTzR6OUtEaDlzZURYdFRscFF5OTR3Q3pWWlVRcllhR3VPV3FaSXYzbUZRR3gwUExYRzN4U1g4S215MkFGWHAteklhRFdHV0Rmb3plOUR5dURBNXNhYlZGMXJtUkxUNmpK?oc=5",
-     "tarih": "2026-11-04T12:22:50+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Medya Gazete",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFN6enpVLUFpOVlfWEk5Mm4wcm8tVGdxTzI5SVVMMTFFdHZzdlJvZDFORjFhNDFuRE90XzRkeWY1RTFxWTcwTDl6dHhWQlFJUWxseEVsU0ZtSlR1UlpvWTd2QVJtZWlfYUR1aDhGUm91a1VVRk1mQTdZWS1zUHZYOU82LWsyUG0xTjI1emJ1WmhlRzA3aTR3?oc=5",
-     "tarih": "2026-11-04T13:49:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "N Gazete",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRG5BRi1XdHY3TGlCVmltb1dmUl9qWXJmdjZEVS1hZkt1VGY1Q1RZWlg5SnR1VHZ2NFRkRzJBRk94YW5aMXhrYkJXcWNhaVQ5dFRRZ3JieTNzMjBSY013Vl9PQUJiYzRoNHk3UFR6a2pIempEX0IxeVRhWjB4WGc2OFFZTWJDTW0zcEFTV3JhZkpXNC1OLXcxVXIzazlXSF9LTEVRLXFWX05tZ9IBqgFBVV95cUxPRG5BRi1XdHY3TGlCVmltb1dmUl9qWXJmdjZEVS1hZkt1VGY1Q1RZWlg5SnR1VHZ2NFRkRzJBRk94YW5aMXhrYkJXcWNhaVQ5dFRRZ3JieTNzMjBSY013Vl9PQUJiYzRoNHk3UFR6a2pIempEX0IxeVRhWjB4WGc2OFFZTWJDTW0zcEFTV3JhZkpXNC1OLXcxVXIzazlXSF9LTEVRLXFWX05tZw?oc=5",
-     "tarih": "2026-11-04T11:30:26+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Yorumla",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTlidEMzdXdtZWF6ME9MQTV5QlJNZzJleFE0cVFTa01WV1VIUXBXb1RwS1VDVXlqdUhXZV94SjZaTmJEU1E5ekZLbk1KcWtfUTNmRTdRRmhEc0pTODhqT3dKTDhYT3g5dXJxVmltcE1DR1h1S3hhZnQ5clp1NXhXQjYtUGFxOHF5MFMwTjdseFJneFZvMjRyYnhGTzVDbEo3eTJfXw?oc=5",
-     "tarih": "2026-11-05T09:06:47+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6aeb16a74f2797b8606a0574.jpg",
-   "yorum": "Teknosa, müşteri teknolojileri şirketi Hopi ile yeni bir iş birliği gerçekleştirdiğini duyurdu. Bu ortaklık sayesinde Teknosa, Hopi’nin 21 milyon kullanıcı tabanına ürün yelpazesini sunacak. Müşterilere teknoloji alışverişlerinde yeni avantajlar sağlanacak. İş birliği 04.11.2026 tarihinde açıklanmıştır.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "4ae22ae54f99",
-   "baslik": "Arçelik'ten COP31'e özel kampanyalar",
-   "marka": "Arçelik",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-11-04T10:14:36+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/arcelik-ten-cop31-e-ozel-kampanyalar-3924899",
-     "tarih": "2026-11-04T12:04:51+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "insaatyatirim.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTk1mWjQtRHBHUThmalNKN0tJdmRLVjNYNG85X0oyaW1fbjRVOTlCZDlrSnR4eUkyMHNaaG9IQTZYLTFOSTlWdjJ2RklPd3JPUEpmb2phaFhIUmR4aDJIZ3Y2OVR0N3lnS3V5SnBDM0ZYcV9GRFJSVEUtTHhQM0Q5QUlzMlNkU2Z5QmhtYjI2NXJZNy1LTmloZ2Fyd0dWNlRRZmhOXzZCd2VLRlFDaWtfYk52SVBZb3VnNnFzWQ?oc=5",
-     "tarih": "2026-11-04T10:14:36+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "İndigo Dergisi",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkRRanVkQVM4V1dFc0hSTTc0cmNtTUJrVUNwMkNCdHFtVm1UaUVPX3dIQjdPMkZmQUx2Ry01NWNublQzMnBHd1ZneHhlaVlEd0MzVHduUk5sLTFiRWptMVFWRnhYRkdXZy1od2c0YWlaWlNNZS14Rl9zZlR1NWRzVHlHaEg?oc=5",
-     "tarih": "2026-11-04T03:30:10+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Enerji Ekonomisi",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVRjNEZPOThYbDlxbFNYMDhIM0Y1U1g3dkVCb3l4ZGdyYUFTdzBmZWN4cllXV0RzNWZYd2ZLbjVacjY5VXY1S0RicnpXYUhzT1NkN3Y2YUNEWWR3aXdPdEFYanE4X01VNThucFBTc1ZOazVpNE5vSTRtbHlqSXpEQ1ZOSVZkYXZHcGJFeDMyckI4YzFYcEhwY0JhcENZQ0FoWUE?oc=5",
-     "tarih": "2026-11-05T06:10:12+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Mebpersonel.Com",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFhFaWR1VFktbkpiSkg0aFMtN2Y3d1pvb0l2RFJhWlR3MUJXWmlsX0NnZ1NPb1VaazkzX2JnZ1BCdzlvLTJlNUVaSzl5aUM5ZTFzcU1BX09DVDJpUm1aZHg5VVZzUktWRnozcHAtcTRkMHV3UjhJSVNjTm01S0FNRWtjSUk1d3BfRUZlRlZjenRNWmwtaTdlQXhHOEp6M2pZc0lsQnZtcDBYXy1uYmxMN29xSVpLSWdLWHc?oc=5",
-     "tarih": "2026-11-06T05:33:37+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Haber Aktüel",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXlCZk5vN09rMFdFM1I4cWpCWVJzX2xCWmZ6eHF3WV9FY1RvVmtTSTZfWU5vYWdfeHp5LVlKeHdySVF1NW85Uk1td014V0VOOVByeDdUUDFPODYzSzFJdTB6bHFJQUJFaXJQNVJ5ekVOeW9Zc0t5eGJIOTMwXzYwNkxQVTU3VW1ob1o2ZzdIbw?oc=5",
-     "tarih": "2026-11-06T06:33:40+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Öğretmenler Sitesi",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTjR4R1pDa251MGVHZDlNMzl2UEFrdUpRemtDX1R4cHNzeFprTmlNSDJ4dFJtMkY5eXBWZWxaS3dmNklSZ1V5MjRLRUFlYVN6TlNiMi1GUERGblNKVFJnUzVjUExTSGROTjMwa180aHRkM21DQkRGbmJBZjZ0Q184dklFc25wRTFpVUNJbzZ5WGduLW1QOXJwd1BaZTFwemRlYmstbGZlQkJrYXg4ZUN4SDZrbnp1Sk91WXVJQUc2Vnc0alAyRzJBWE1GdFVtbGp4MnZwYThnaW4weFA4YmpB0gHkAUFVX3lxTFAxOVptbmhyQjJVeUkxMFlDX05SeWJnbXlXXzRHa3B0SGl3V0duWUxhdmY2U29RLWRncVRMVm1GYkROSlE3bjhyc2pGVXNkZ2E4NVo0QmtjUm1wTllfVWJqLU9ncjZrV0d3WExrbHBBWnNIbTFpZDRKT0tjSDhzSVZvalpRb0lJQnBHb0JHV1JaY2RSUXdsQXRxUHdSYXRHUVVwUjE1bFFhUkFJY1ZLMFFlOVI0U1RybG4wTGVKeGxoOFlfVXl4QXd4a3pmODJWU3BCYzVERkg4ckNjOFItV3lrSlctTw?oc=5",
-     "tarih": "2026-11-07T09:33:11+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Elbistan Olay",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnRMSmphSFJubnNLbnpEbS1rWjNUZzB1MFFSTzJweDdKX20wRzRXVGkxazVvNnNwaFhXbEZVVEcyUkNtNGViUkx0TnNaVDF5S3BDOVBXTGlKenRQUzlMOGZjOTg3aUZTQmY3b0t3aDcxZ0JFM2owMHpEWmtudzdvVThUM0tWVmpqbkFyNkJMSUZ0NTh5bVB1QXJ0cVFhRW13eU9kWWRrblQwREXSAbABQVVfeXFMTzhVUFV1WGdxZWlzYUpUeV80VmNBdHpaaWZORGdmTkc0Sjh1R3BzYkFncXdmM1lNSmdtZVo5VlhVM0tfbXhUQnJTUkZSaEhaMmxkU29uWlFLUHBjUTRkZjhMUkhBSlN4a2VEbUoySkZzNVNoOFZLdFRfbGE4aXg4WXB4aFdscllkeTZRZUJTcmpOd3ZpS1lwR0xuZXo3eU1ueERUYWZvYXlRaExPTk9iMDE?oc=5",
-     "tarih": "2026-11-06T08:48:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/11/04/ver1793793891/3924899/jpg/1200x628",
-   "yorum": "Arçelik, Koç Holding’in küresel iş ortağı olduğu COP31 öncesinde sürdürülebilir yaşamı destekleyen bir kampanya başlattı. Kampanya kapsamında Arçelik ve Beko markalarının seçili ürünlerinde %40’a varan indirim sunuluyor ve beyaz eşya, ankastre, klima ve küçük ev aletlerini kapsıyor. İndirimler Kasım ayı boyunca geçerli olacak ve enerji ve su tasarrufu sağlayan teknolojilere erişimi kolaylaştırmayı hedefliyor. Arçelik Türkiye Genel Müdürü Cem Kural, kampanyanın kaynak verimliliği ve ev bütçelerine katkı sağladığını belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
