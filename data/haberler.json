@@ -1,7 +1,87 @@
 {
- "guncelleme": "2026-11-25T14:53:02.189302+00:00",
+ "guncelleme": "2026-11-25T23:46:18.076102+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "c55b22cbb57a",
+   "baslik": "Kayseri Ticaret Odası Başkanı Ömer Gülsoy: Finansman sıkışıklığı üretimi zorluyor",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-25T21:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/kayseri-ticaret-odasi-baskani-omer-gulsoy-finansman-sikisikligi-uretimi-zorluyor-haberi-848881",
+     "tarih": "2026-11-25T21:00:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/25/g1-vzsr_cover.jpg",
+   "yorum": "Kayseri Ticaret Odası Başkanı Ömer Gülsoy, enflasyonla mücadele sürecinde üreticilerin finansmana erişiminin zorlaştığını ve kredi maliyetlerinin düşürülmesi gerektiğini vurguladı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "1486078a3284",
+   "baslik": "Arçelik (ARCLK) Beko B.V.’nin sermaye artırımına katılacak",
+   "marka": "Arçelik",
+   "kategori": "elektronik",
+   "oncelik": 2,
+   "tarih": "2026-11-25T15:18:20+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Paratic Haber",
+     "url": "https://paratic.com/arcelik-arclk-beko-b-v-nin-sermaye-artirimina-katilacak/",
+     "tarih": "2026-11-25T15:50:19+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Borsatek",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qTlB1U1lfSWdKV1RyWkxpTFExcV96bjFkMTVTV0NhRWhMdEYzOTczdTdRaHlvdlFsVFpuVVJ2bjY5Wl9PSmRDZ1FyeXptVHNkX1hpUGFWR0ZJQzhxYUMtcXdCWWRvQy1ubjNhcFN4Z3VpeVVvYk9j?oc=5",
+     "tarih": "2026-11-25T15:18:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Rota Borsa",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanZZaUZpajNPOHFPTGlfOEpwQng2MlFSeTlOMkEtUHFlZk1adVdlX19wdDR1cVhzYjMzdG1nemZJTzNxRXR6QS1ia044LWRtUzc1eHAydWQ3VEFTQkdnZlZ1TmZ4N2h3aHBZSkFEQnFPcW1vTk5KVGNNRVh1eWdyS01pbUVxN0FZeVhjOFMxcjR2cVJleE80?oc=5",
+     "tarih": "2026-11-25T15:26:32+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Finans Hattı",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWZELUtTbzE4OU5zLUtTS01XRDZvZnNtMm1kc1FSYVdQM1FMRVJoS2I4eFZ5SkZ4Z042TWRPVklYYUVHY3VzejNzcGRKNllVMmFsb08tQnVST0I5ZVU1UHNBd3ZLTFhiTWtsSEhWdkNWTG8xQVc1bTQxam0wRmxEdGtnN056clhLYXMtRGhn?oc=5",
+     "tarih": "2026-11-25T15:30:37+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "hibya.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTctU2RlLTdMZHcwbEc3VUk4Q2xiamxnaWF3c09lcHg2a0ZhUzdwdGZiVFdRSFRWUDJNUXRjVHhXYzRnamFtQTBMd0pIYkJOR0dOZW9qWTdvSFZnaHdhRjFXdHI2XzF0OVoyc01HTlZtTDJzNmtoaS1iYlZfVHNGUFJ1LS1RWk8zRjhPZkhwT21ZSnlUUGxrMVdiZzExQQ?oc=5",
+     "tarih": "2026-11-25T15:40:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Patronlar Dünyası",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYkhkUHhhVFctNFh4c0pWU0hNWTRRVmpwQjNhcWdiV25kOU5HWU9WRFFJdGYyUlNhNE8tRFB0WmNaal91MGR6OUlfcmFIdEdWX0RsSGJvWWVfNmlmdUJUYzVkWlRsN0N0aW9QZWxEcGE1bzRzMXhucllmUjgtRFQyOXZZRV9uTjNZTVZaV2RIMzczYUxFTnpJXzRnYTY3SXg0dXRkUk4tM3RkbVYtZDJxNTRMQkU1VzgxbTR0dGxEcWNWaFR5WV84NDFBMA?oc=5",
+     "tarih": "2026-11-25T18:26:51+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "EKOTÜRK",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMjFQT1U5X2NPbmotbDJwTEQ5OURpcTdkcGxQckFQRGY2VGdGRlpSR1JsYno2M1FHcXpNT3piRWxrVFAxaHJ5T0dpSEdueTdNTEJITTQyUF9SaEY5bGVpamlyNU9JcmtVRWMweGpPdW5oeV9uOXVmcTJDVmFCTHlzSzh3ME5HVXVYU0E?oc=5",
+     "tarih": "2026-11-25T19:05:13+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://img.paratic.com/dosya/2026/11/arcelik-arclk-beko-b-v-nin-sermaye-artirimina-katilacak.jpg",
+   "yorum": "Arçelik, Hollanda’da bulunan bağlı ortaklığı Beko B.V.’nin sermaye artırımı için 273,1 milyon Euro tutarında nakdi taahhütte bulundu. Şirket, bu tutarı 2026 içinde nakit olarak ödeyecek. Sermaye artırımı, Beko’nun finansman ihtiyacını karşılamayı amaçlıyor. Açıklama, Kamuyu Aydınlatma Platformu (KAP) üzerinden yapıldı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "b7f5da7614b6",
    "baslik": "Akıllı telefon almak daha da zorlaşabilir! Fiyatlar yükseliyor, seçenekler azalıyor",
@@ -112,6 +192,36 @@
      "ad": "Türkinform",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHZRTW9NNXFfMW5QWkRBdVJwbzRyWmFVQWE4bVNjSmpMSVMtN0FmZXBFbThKemY1S2NZdWxxZHYzVERtdE9ybFFvQ0tsbkg4aEltTVlyNEN1RmJzMlYxZ2hoOHA1Q3UzUDdlN0ZBTDdhM05rcHh2dUUyY3hjcjRqZHhQZlBULVJGeWZNVg?oc=5",
      "tarih": "2026-11-25T13:17:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yorumla",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTZvNEFnMjUxRlJCOUNsVldhRl9zN01tTlRkY2dqdmstMk41cmdJenZNdkF1elZVbGp0Z3p4d0tiNnUwUDJObThJSldCZDhWcHhDTVo4QXNjeXJvSnN4dkdXMUdsTURZWnFhRmwzNldqTHVuOFpONjltMmt3Z2xrSXliclRsV0NEb0dmak9ONk1LbnVTNXdUVG9na2VCWXdHYlJTamUzRkxtUQ?oc=5",
+     "tarih": "2026-11-25T14:42:42+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "www.baskenthaber06.com",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVW1sdkxRMV9JTDZrbW9PdWtTUHNHS0g0MTRDTjItcDFXTE1WY2pOUFpNZjVUcllQak5RU2oxd2xEUkRndWV4X1NTdXpDWjB2Mm5rRkZYT0Y2N1ktcWhVbUtkeGpidnhyY3RUVWNxMG90Ukk1eHdPRzVtRDcxbTJYNDA1WGc2UmRNRXVKcUUxRi1rOHJaRlJlbEhqY0pfLUxobGNGUg?oc=5",
+     "tarih": "2026-11-25T15:22:30+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Ege",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHF3TGtSandRYjBidk1icGYzYi1HMVhrZERPQWhUQVhJRHI5Q3NXXy1YQVh0S0x5SnVBcDBkaVc3YXM0Y0dCNHZvSEM5TWxNaU9hdE1xRkdvN0ZwcWZfZUprZ2NfNktUaW9oQ2dhb0FnMWxpYmVZdUg0UTBfMllmeXh2cTlMOVhxMFM0c04wMnVrTjJNYmdLNWgwaklPZVVjRkNiZDVZV0pGQWlJajZYTnlFWkJiajdr?oc=5",
+     "tarih": "2026-11-25T17:43:36+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Saray Medya",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQazVPckVvUmdYQnF6T3BkbVUzM1FicE51d0RpWG1LcWp3cll5dTIwWVhHZlowRDBMaEZKWVdmQ2ZKdllmRzJwZGVJMXZRd0ROVVgtMFhhRnBUaUttYXF4Y3FfV3dfa3ZGZWFjNHVScHBkUjBHNXNyUVoxNWZZa0lzc0JXanRtOWcydWxoOGRwRldmUQ?oc=5",
+     "tarih": "2026-11-25T18:02:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Alparslan Diyarı",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeS1TbDlydTdtQlJNZW1tb18zdTJydGw0Q19Ib0M1dFlQaW1ueERRd09KajI2RXpMNEJfNEl6SmVNdmQ2YmFiTlhETThxc0dCUmNjNmp1N0lWall6Znd2UU1Pa1ppaW5yMVRXbFZGVGJycTNvYTE3VUg3bF9INl9jUXNyR3ZNME1mbEVRUE1IdlNhWlE4cFNjUnhR?oc=5",
+     "tarih": "2026-11-25T22:27:00+00:00",
      "guvenilir": false
     }
    ],
@@ -874,6 +984,12 @@
      "ad": "Anadolu Ajansı",
      "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/arcelikten-yapay-zeka-destekli-yeni-imperium-mini-led-televizyon-serisi/705711",
      "tarih": "2026-11-19T17:38:51+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQall2SE1iSUs2dUhMZUh6dFhuaDJjdUlsT0ZTdkMtZWhncU03SU9zZXh1MFBpQm1VLUpxNWY3Rl9yb3pZR2l5aU81WWo3YjNXY0duVEN0b1NCWEVoN2lKbUFjTjRHSllQaWJ0Nk52aDJUd1hsYkY5eThmc21vend1REVqMy1EMTJETU1iQVNPaGc4QUZpc19JRXptR3ZRd3dCejFqc2JkWkNRZUZwT2JxLUtfZXI3VF9Q?oc=5",
+     "tarih": "2026-11-20T09:56:23+00:00",
      "guvenilir": true
     }
    ],
@@ -2115,6 +2231,12 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDAyUW1USDBmVUpISEZmRzkzMFpiTlJwOUF6b2poaUlFRXF4bHRBcFVuaTNhbE0zaFJJNFRKQ3VTMGZJQnFZelQ3Nk9xOUg3WWx3QXZ0dnlxTlFnZk1WbU0wSGdBY1pNb0pSNUZhdkN1czN0LU5XR2dxdUhEWmViX09lZmxjSWtKR3VrQzlKNnZVN0NQQ3c1bHFXaGs5RnhDbE9EWmNHRkZ6X0FjWEZjWXpWeHh3d0tqZEk1VXZFN0VBTnc?oc=5",
      "tarih": "2026-11-12T06:13:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Haber 1",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUkxnRkpuWWNDOHhYUGJSZmZHUHJRYWluWllQeVR6RnBFNG1zMW9yMXk5Uk95aG43Ulo0MGk0c192T01YbnU2V0oyblBWckVvc0swbEZOMHZnZlZBVkZIT2tZUkoxSHJGV0ppZFNyeXdwMk1OcFFUM204WEZ0SGhPaDR5RVJreE05OU1sUjJyOUJYcjFIRW1sUTE1Yk9JMDczd2pScWg1aTljWEpuMmprNXdJaWhIRTdoLTFlU3JOWGpGSlI2cVE?oc=5",
+     "tarih": "2026-11-12T06:30:38+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": null,
@@ -3293,6 +3415,40 @@
    "model": "Groq (openai/gpt-oss-120b)"
   },
   {
+   "id": "c01913641380",
+   "baslik": "Albaraka Türk'ün 9 aylık kârı 5,8 milyar TL oldu",
+   "marka": "Albaraka Türk",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-06T07:27:12+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/albaraka-turk-un-9-aylik-kri-5-8-milyar-tl-oldu-3925275",
+     "tarih": "2026-11-06T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Fintechtime",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRk01VExBcnc5YVRjb3U4eGo5NWhWZmpvZWdLYnBiaGFEX3VLQU5waTdTNGNubTBYOGl3Rml0Q3lHNnV3UU9KSUxYS0pRczdUSzREbEZMUjR0aTZvSlEyc1FUYTMzaEdtWkcyUHJjTkU1bDhQVFRuZGx3dE5wR3l1VjA1bkF0Zw?oc=5",
+     "tarih": "2026-11-06T07:27:12+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "FintekWins",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0ZGVEhhdTZHSEw5Wm0yYzJEU2h6MTNPWEZidVpNNlBEd1M1MGRoZUp2aEstWVAtRURfbHcwZTlsdnJKck5qLVlWOHQ2UHc4UDB1X2FsX2IyektKcWpsNmVUWnl2TzFPQktrRVRHdERIbjBxYzVvbjFJUWx3ajhGMWNXYXpoZVhFUnc?oc=5",
+     "tarih": "2026-11-06T08:09:26+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793916641/3925275/jpg/1200x628",
+   "yorum": "Albaraka Türk, 2026 yılının ilk dokuz ayında 5,8 milyar TL net kâr elde etti ve 398,6 milyar TL nakdi ve gayrinakdi finansman desteği sağladı. Bankanın aktif büyüklüğü 589 milyar TL, özkaynak kârlılığı %32,5 seviyesinde. Katılım fonları %41 artarak 400 milyar TL seviyesine yaklaştı. Yönetim, teknoloji yatırımları ve KOBİ finansmanına odaklandığını belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
    "id": "28205bfdf2f4",
    "baslik": "25 yılda ekonomiye 441,8 milyar dolar etki",
    "marka": "Sektör: beyaz eşya",
@@ -3488,86 +3644,6 @@
    "neden": "",
    "gundem": false,
    "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "3f5a76a98108",
-   "baslik": "BDDK, Golden Global Yatırım Bankası'nın faaliyet iznini kaldırdı",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-05T21:05:33+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/bddk-golden-global-yatirim-bankasi-nin-faaliyet-iznini-kaldirdi-3793715",
-     "tarih": "2026-11-05T21:05:33+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/bddk-golden-global-yatirim-bankasi-nin-faaliyet-iznini-kaldirdi-3925269",
-     "tarih": "2026-11-05T21:34:55+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/11/06/ver1793912881/3793715/jpg/1280x720",
-   "yorum": "Bankacılık Düzenleme ve Denetleme Kurulu (BDDK), Golden Global Yatırım Bankası A.Ş.'nin faaliyet izninin kaldırılmasına karar verdi. Karar, 4 Kasım 2026 tarihli BDDK toplantısında alındı ve Resmi Gazete'de 6 Kasım 2026'da yayımlandı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c01913641380",
-   "baslik": "Albaraka Türk'ün 9 aylık kârı 5,8 milyar TL oldu",
-   "marka": "Albaraka Türk",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-05T20:20:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/albaraka-turk-un-9-aylik-kri-5-8-milyar-tl-oldu-3925275",
-     "tarih": "2026-11-05T22:10:51+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "turkhaber.com",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGZxVktHTjF4V0VEMzBjeW43WGVzNUVjMDdGbjhRcmxaTFBnRzBKWlduaVZ0OE1Eb2puR1VQc2tIczB5b3JIUldncHlSYWkweFJwT3lIZm45MXF3MzRReWFaREdmeHhqczlSWUc4c0JNV2NtWHJiWE9kTHg2dks4Y2VzTDh0R1ladDRMRzNNMHA4MU9kRjVaUEdUYTJET0lWZkJjNXpsQWVjNjA?oc=5",
-     "tarih": "2026-11-05T20:20:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Fintechtime",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRk01VExBcnc5YVRjb3U4eGo5NWhWZmpvZWdLYnBiaGFEX3VLQU5waTdTNGNubTBYOGl3Rml0Q3lHNnV3UU9KSUxYS0pRczdUSzREbEZMUjR0aTZvSlEyc1FUYTMzaEdtWkcyUHJjTkU1bDhQVFRuZGx3dE5wR3l1VjA1bkF0Zw?oc=5",
-     "tarih": "2026-11-06T07:27:12+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "FintekWins",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0ZGVEhhdTZHSEw5Wm0yYzJEU2h6MTNPWEZidVpNNlBEd1M1MGRoZUp2aEstWVAtRURfbHcwZTlsdnJKck5qLVlWOHQ2UHc4UDB1X2FsX2IyektKcWpsNmVUWnl2TzFPQktrRVRHdERIbjBxYzVvbjFJUWx3ajhGMWNXYXpoZVhFUnc?oc=5",
-     "tarih": "2026-11-06T08:09:26+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Ekonomi Manşet",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZlI4UGJuc2oyb1VqbEljeTl5Tm9RSDJyOUpPSDVKam1oclpiZHJrMWQtTkNhQ3JQUHRjUEVHR0tNSlRVanpFQkhjMjBLVnNDb0hOWXF6MHVrbGVyZmtFR2N1Nng2a3Yyell2blRnblYxazYwWHZoOGQtekJlQUVXWWQ4VVRMZmpVR1RmbjFYYzhReDZIeEdUU0lNUndaQQ?oc=5",
-     "tarih": "2026-11-05T08:00:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "https://www.bursa.news/",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMl9yc0NiNGhNWWExUzVaNS1FNVJobFM4ZlYtdzNhOWU2OFU3WllwNkl0T25idm1NQ2R4N1lyVEhOSXNlYnF4UFVfOGtCcFdTRjk1aE5OM19lZldxOUR3VFgtZHZNNGNUc2Qwb0JCRzlhdVdYNHFGZGF3bmNOcTRHVGFzR0pKQTVXeV9WTzUtVXgxVFZXR3FIYjhVMkFtNTY0aVE?oc=5",
-     "tarih": "2026-11-05T08:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793916641/3925275/jpg/1200x628",
-   "yorum": "Albaraka Türk, 2026 yılının ilk dokuz ayında 5,8 milyar TL net kâr elde ettiğini Kamuyu Aydınlatma Platformu’na bildirdi. Banka, aynı dönemde ekonomiye 398,6 milyar TL nakdi ve gayrinakdi finansman desteği sağladı ve aktif büyüklüğünü 589 milyar TL’ye çıkardı. Erdeme yeterlilik oranı %17,6 olarak gerçekleşti, katılım fonları %41 artarak 400 milyar TL seviyesine ulaştı. Yönetim kurulu üyesi Malek K. Temsah, küresel jeopolitik ve piyasa dalgalanmalarına rağmen büyüme stratejisini sürdürdüklerini vurguladı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
    "model": "Groq (openai/gpt-oss-120b)"
   }
  ]
