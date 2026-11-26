@@ -1,7 +1,69 @@
 {
- "guncelleme": "2026-11-26T14:22:13.836376+00:00",
+ "guncelleme": "2026-11-26T23:15:02.605694+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "c61c19d2f1f0",
+   "baslik": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-26T22:40:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/bddk-baskanligina-yusuf-kenan-bagir-atandi-haberi-933725",
+     "tarih": "2026-11-26T22:40:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://www.haberturk.com/ekonomi/son-dakika-bddk-baskanligina-yusuf-kenan-bagir-atandi-3930465",
+     "tarih": "2026-11-26T22:53:24+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/25/son-dakika-besiktasi-batuma-goturen-ucak-inis-yapamadi-qgo9_cover.jpg",
+   "yorum": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan karara göre, Bankacılık Düzenleme ve Denetleme Kurulu (BDDK) Başkanlığına Yusuf Kenan Bağır atandı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "9e70a68cc493",
+   "baslik": "Merkez Bankası'ndan iki yeni karar: Repo ihalelerine ara verildi, zorunlu karşılık oranı yükseldi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-26T19:21:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/merkez-bankasindan-iki-yeni-karar-repo-ihalelerine-ara-verildi-zorunlu-karsilik-orani-yukseldi-haberi-849018",
+     "tarih": "2026-11-26T19:21:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-bir-hafta-vadeli-repo-ihalelerine-gecici-ara-verdi-3795855",
+     "tarih": "2026-11-26T19:21:46+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/tcmbden-turk-lirasi-likidite-yonetimi-ve-zorunlu-karsiliklara-iliskin-yeni-adimlar/4139619",
+     "tarih": "2026-11-26T19:27:26+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/26/tcmb-om6g_cover.jpg",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB), zorunlu karşılık oranını yüzde 86'dan yüzde 90'a yükseltti.",
+   "neden": "",
+   "gundem": true,
+   "onem": 5,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "f7efb8c01314",
    "baslik": "Merkez Bankası anketi ortaya koydu, vatandaşın önceliği değişmedi",
@@ -240,6 +302,12 @@
      "ad": "YatırımX",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEM3aHYwWFZwYTByc1dfbFhjWWV6eURMY2VOLS1sUUxGNEpnT1gyblZDMW5nLVhOVjdxOUI5ZUxFcGVIeGtJblNXV0UwWlB5ak45eWNyUDFEQk9XaU0yR2QwUEx3a1lwY3ozeS1yNnNSeHNvQTBLZUxlT05GVVJoYlBfNlRfamFvLWpDbndHX1NkNWFCbndzLUxSMUN0cDMyMTFxRzdEOWdIQQ?oc=5",
      "tarih": "2026-11-26T09:03:16+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "urfadabugun",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3Y3WWhwc2hzUE9nOERJTmdfRy1aUXFVQUtEVEd2bEFCZG5WZVRFeU01bnE1dFBLbUNaa3VjMmFvb2d2dEhXX2xhRWZUSXh5ZGhiTUNyWWZzNU10TDZJTjdEelprdkIwc0ppOFpEOWFHYjdlT3ByX0g4LWk5YWV1c0xQMG95emFxeGJpNlA5SHI0NkNNa0gyLTgwYmJQTDlUZHVwd1ZPSGdMOHNvSzM5LXBscG4wc0c0?oc=5",
+     "tarih": "2026-11-25T15:40:20+00:00",
      "guvenilir": false
     }
    ],
@@ -3391,96 +3459,6 @@
    ],
    "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/07/jysk-2027-yilinda-12-yeni-magaza-ile-henuz-bulunmadigi-sehirlere-girecek-87fg_cover.gif",
    "yorum": "Danimarka merkezli perakende zinciri JYSK, Türkiye’deki mağaza sayısını artırıyor. Mall of İstanbul’da açılan yeni mağaza, şirketin ülkedeki 18. mağazası ve İstanbul’daki dokuzuncu şubesini oluşturuyor. Ülke Direktörü Fatih Tezcan, 2027 yılına kadar 12 yeni mağaza açarak henüz bulunmadığı şehir ve bölgelere ulaşmayı hedeflediklerini belirtti. Bu strateji, JYSK’in Türkiye pazarındaki varlığını güçlendirmeyi ve daha fazla tüketiciye ulaşmayı amaçlıyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "b855446c17c4",
-   "baslik": "Yataş'ın (YATAS) 3. çeyrek bilançosu beklenti altında kaldı: İşte detaylar!",
-   "marka": "Yataş",
-   "kategori": "mobilya",
-   "oncelik": 3,
-   "tarih": "2026-11-06T18:08:54+00:00",
-   "kaynaklar": [
-    {
-     "ad": "CNBC-e",
-     "url": "https://www.cnbce.com/sirket-bilancolari/yatasin-yatas-3-ceyrek-bilancosu-beklenti-altinda-kaldi-iste-detaylar-h41239",
-     "tarih": "2026-11-06T19:38:19+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Rota Borsa",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1dLWG1rakxORThsbWNLU3dqakxhOGtFbElRZ2lUb0ZFaEVOT0tUM0s3M1JpZUdEbXdSUkEzNWVyaWYwaEpISHoyUk1DWHlva3dfOHpNZDJHYlBrcEpYTjhuMEZKRGFXLTZVcWk3TzNROHNNanZLaDl5WDJtYWR6cnlmYldPMk9IN1E?oc=5",
-     "tarih": "2026-11-06T18:08:54+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "YatırımX",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1V3el90dEQ5WldjZ1laaXVFeWhjSUo0ZDMya2d4NnpCNUpKT18ydS1YOU5WVkxnUUd0aTlobTV2dklTWHAtNEoweVY5anB5aHhkLVFNTjVTYUc3d3RZSTgtaWEwd0ZqTTZPcEN0cjN1LThGMFFXTW02RXRFRE83M216bmtOR2JkbnZLTU80Y0c0cWo5cEtjMFNmT3JQUmNBR0lQZS1BODlZWE5KQW9uTl9UWXVjeE1F?oc=5",
-     "tarih": "2026-11-07T06:34:52+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://img.cnbce.com/2/1280/720/storage/files/images/2026/11/06/yatasin-yatas-3-ceyrek-bilancosu-beklenti-altinda-kaldi-iste-detaylar-co7x.png",
-   "yorum": "Yataş Yatak ve Yorgan Sanayi ve Ticaret A.Ş., 2026 yılının üçüncü çeyreğinde 366,272 milyon TL net zarar açıkladı. Analistlerin ortalama 130,8 milyon TL net kâr beklentisi ve medyan beklentisi 133,5 milyon TL iken, şirketin önceki dokuz ayda 240,825 milyon TL net kâr elde ettiği belirtiliyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "bbc59ccd78c9",
-   "baslik": "TCMB Başkanı Karahan'dan 'fon' açıklaması",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-06T17:28:38+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/tcmb-baskani-karahan-dan-fon-aciklamasi-3925487",
-     "tarih": "2026-11-06T17:28:38+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/tcmb-baskani-karahandan-fon-aciklamasi-haberi-929682",
-     "tarih": "2026-11-06T17:33:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793986122/3925487/jpg/1920x1080",
-   "yorum": "TCMB Başkanı Fatih Karahan, TÜGİAD'ın düzenlediği ekonomi buluşmasında para politikasının enflasyon üzerindeki etkilerini değerlendirdi. Sıkı para politikasının iç talebi yavaşlatarak dezenflasyonu desteklediğini ve enerji fiyatlarındaki dalgalanmaların enflasyon riskini artırdığını vurguladı. Petrol ve doğal gaz fiyatlarının yüksek seviyelerde seyrettiğini, ancak bazı enerji kalemlerinde maliyet baskılarının hafiflediğini belirtti. Karahan, enflasyonun ana eğiliminin gerilediğini ve Mayıs ayından itibaren düşüş trendine devam ettiğini ifade etti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "ddb8d711b9a8",
-   "baslik": "Vestel Elektronik FAVÖK'te pozitife geçti",
-   "marka": "Gündem",
-   "kategori": "elektronik",
-   "oncelik": 2,
-   "tarih": "2026-11-06T16:32:17+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/vestel-favok-te-pozitife-gecti-3925476",
-     "tarih": "2026-11-06T16:32:17+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/vestel-den-ucuncu-ceyrekte-6-5-milyar-tl-net-zarar-3793849",
-     "tarih": "2026-11-06T17:07:42+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793982751/3925476/jpg/1920x1080",
-   "yorum": "Vestel Elektronik, 2026 yılının üçüncü çeyreğine ilişkin finansal sonuçlarını Kamuyu Aydınlatma Platformu'nda (KAP) açıkladı. Satış gelirleri bir önceki çeyreğe göre %3,3 azalarak 24,9 milyar TL oldu, ancak brüt kâr %52,8 artarak 5,4 milyar TL'ye yükseldi. FAVÖK, ikinci çeyrekteki -1,4 milyar TL eksi seviyesinden 908 milyon TL pozitif seviyeye geçti. Brüt kâr marjı %21,8, FAVÖK marjı ise %3,6 olarak gerçekleşti. Şirket, maliyet disiplini ve verimli büyüme odaklı çalışmalarını sürdüreceğini belirtti.",
    "neden": "",
    "gundem": false,
    "onem": 3,
