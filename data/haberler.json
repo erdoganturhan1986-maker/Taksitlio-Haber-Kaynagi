@@ -1,7 +1,157 @@
 {
- "guncelleme": "2026-11-25T23:46:18.076102+00:00",
+ "guncelleme": "2026-11-26T14:22:13.836376+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "f7efb8c01314",
+   "baslik": "Merkez Bankası anketi ortaya koydu, vatandaşın önceliği değişmedi",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-26T13:02:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/foto-galeri/ekonomi/merkez-bankasi-anketi-ortaya-koydu-vatandasin-onceligi-degismedi-galeri-933640",
+     "tarih": "2026-11-26T13:02:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/26/merkez-bankasi-anketi-ortaya-koydu-vatandasin-onceligi-degismedi-dohc_cover.jpg",
+   "yorum": "TCMB’nin Kasım 2026 Hanehalkı Beklenti Anketi, önümüzdeki 12 ay için enflasyon beklentisinin %43,24 olduğunu gösterdi. Katılımcıların %37,7’si gıda, %38,3’ü ise yakıt ve enerjiyi en çok fiyat artışı yaşayan kalemler olarak işaretledi.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "75d57e4b59c3",
+   "baslik": "Scope Ratings'ten Türkiye için yeni tahminler! 2027'de faiz ve enflasyon ne olacak?",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-26T12:38:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/ekonomi/scope-ratingsten-turkiye-icin-yeni-tahminler-2027de-faiz-ve-enflasyon-ne-olacak-haberi-848980",
+     "tarih": "2026-11-26T12:38:00+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/26/turkiye-ekonomisi-hpqb_cover.jpg",
+   "yorum": "Scope Ratings, Türkiye ekonomisi için 2027 yılında %3,5 büyüme, ortalama %25,1 enflasyon ve yıl sonu politika faizinin %30 olacağını öngördü. Raporda enflasyon düşüş beklentisi ve bütçe açığındaki artış tahmini de yer aldı.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "d33b4de15ec3",
+   "baslik": "İş Bankası, Maximum Mobil uygulamasını yeniledi",
+   "marka": "İş Bankası",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-26T12:29:45+00:00",
+   "kaynaklar": [
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "https://www.dha.com.tr/yerel-haberler/istanbul/is-bankasi-maximum-mobil-uygulamasini-yeniledi-2989160",
+     "tarih": "2026-11-26T12:29:45+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Fintechtime",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTEwcFBWaFpDdnA5VnlkT0kyemoxY3dJRGR0bG44SWpsRzZydFpfV295SGNaVURPUno2cHlmMy1fUWx0ZmFnT3lkUkpvcFNnY2Y3bHRfcnRqekNLeGJGNDd0WWNuTTNQbDJUOFlWMk9fMXlDWW5aZ2h0VDhlcUEwZFE2a2VuSUZQT0FCOWt2enVfNWJxa1JFTUppc3NHVFJTVzRXVWRWOA?oc=5",
+     "tarih": "2026-11-26T12:54:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "FintekWins",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1veUd3bnF2ajYxQ2RhS2RQbHEzQ2JtOUR4RU9TcDdmUXY5RFkzdVFuQU0wYktxcGw2N2NOVHpqUERud2t1ZmV1MWZZYjFJc1pNNzJ4eFgzb21oRzRHTmxGU1hOQjBvckpVM2hrMlM1cw?oc=5",
+     "tarih": "2026-11-26T14:02:57+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://image.dha.com.tr/i/dha/75/0x0/6b08272eb7098878eb0c39d9.jpg",
+   "yorum": "İş Bankası, kart ve kampanya yönetimi uygulaması Maximum Mobil’i yeniledi. Yeni sürümde kullanıcı arayüzü değiştirildi ve kişiselleştirilmiş özellikler eklendi. Uygulama, kart yönetimi ve ödeme işlemlerinin daha kolay yapılmasını sağlıyor. Yenilik, 26 Kasım 2026 tarihinde duyuruldu.",
+   "neden": "",
+   "gundem": false,
+   "onem": 2,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "9f25aa1a4d37",
+   "baslik": "Kartlı harcamalarda zayıf seyir sürüyor",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-26T12:11:43+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/kartli-harcamalarda-zayif-seyir-suruyor-3795759",
+     "tarih": "2026-11-26T12:11:43+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/26/ver1795695353/3795759/jpg/1280x720",
+   "yorum": "TCMB verilerine göre kartlı harcamaların yıllık artış hızı 20 Kasım haftasında %32,2’ye geriledi. En yüksek seviye 2022’de %155,3 iken 2023 %151,4, 2024 %135 olarak gerçekleşti. 2025 yılı için hareketli ortalamalar üzerinden %34,6’ya kadar düşüş öngörülüyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "bbedcf7fa3a1",
+   "baslik": "TCMB'den yeni dolar/TL swap ihaleleri",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-26T08:09:01+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-den-yeni-dolartl-swap-ihaleleri-3795732",
+     "tarih": "2026-11-26T08:09:01+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/tcmb-doviz-karsiligi-tl-swap-ihaleleri-acti/4138385",
+     "tarih": "2026-11-26T09:00:44+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/26/ver1795680573/3795732/jpg/1280x720",
+   "yorum": "TCMB, 26 Kasım tarihinde bir hafta, iki hafta ve bir ay vadeli üç ayrı dolar/TL swap ihalesi düzenledi ve her bir ihale için 2 milyar dolar tutarı belirlendi. Bir gün önce, 25 Kasım’da da aynı vadelerde üç ihale açılmış ve bu ihalelerin toplam tutarı 1 milyar dolar olarak gerçekleşmişti. İhaleler, rezervlerdeki erimeye yanıt olarak devam ediyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "5822b56eae61",
+   "baslik": "TCMB'den faiz indirim beklentisi terse döndü",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-26T07:23:32+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-den-faiz-indirim-beklentisi-terse-dondu-3795727",
+     "tarih": "2026-11-26T07:23:32+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/26/ver1795677926/3795727/jpg/1280x720",
+   "yorum": "Bloomberg HT'nin haberine göre, son günlerde Türk varlıklarındaki hareketler TCMB faiz beklentilerini tersine çevirdi. Önümüzdeki iki toplantı arasındaki ortalama TLREF swapları yüzde 36'nın altından yüzde 37'ye yaklaştı ve 1 ay vadeli TL faiz swapı yüzde 36,67 seviyesinde kaydedildi. Merkez Bankası rezervlerinde son 10 günde yaklaşık 23 milyar dolarlık bir azalma yaşandı. Ayrıca 5‑yıllık CDS 290 baz puana ulaştı ve Borsa İstanbul 25 Kasım’da yüzde 3 civarında değer kaybetti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "c55b22cbb57a",
    "baslik": "Kayseri Ticaret Odası Başkanı Ömer Gülsoy: Finansman sıkışıklığı üretimi zorluyor",
@@ -72,6 +222,24 @@
      "ad": "EKOTÜRK",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMjFQT1U5X2NPbmotbDJwTEQ5OURpcTdkcGxQckFQRGY2VGdGRlpSR1JsYno2M1FHcXpNT3piRWxrVFAxaHJ5T0dpSEdueTdNTEJITTQyUF9SaEY5bGVpamlyNU9JcmtVRWMweGpPdW5oeV9uOXVmcTJDVmFCTHlzSzh3ME5HVXVYU0E?oc=5",
      "tarih": "2026-11-25T19:05:13+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM0NhX2xiZG1tSThseDFuQ1hRTXdURndhUVM3NzZEX0tPcTlpUi1PQnRYdDQ3UHIzN211dVc3WjM4THdUbFpCc1NkWUhsbV9xQTBMVGJ5X1MyY2taNDF3aGg4NERpOXdYRXphbEpiOXdmemxVa0dfLUM3VnpPd1oydUxOTHoza2tSWExZamtpbVhvYWduOGxzSlFDak5PRmRCb1lkWDh1REVUZWZWaGVBWEoyTFRHWHdEaFgzMTFGeEgyOUY3V1lOTw?oc=5",
+     "tarih": "2026-11-26T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Investing.com Türkiye",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbF9Hb3kzOGo3bjhUUkNTV0VNRGRFc0pHUU83RGxLaWtjbWhIaG5adUhrN1g5TDVERUt6bVBFRVhBUENSdkdhUl9NUF9aU3paSTVUNFFNMGkteEZkZm9vR1NoVFA3V3JSd3NkOXZYUm5PdlZvRmFSRlN4MW9yZ25rSDJ2bkRNSkk4VHNIeVM4ekxkNElHcU5SSUxFRk0xMTRELVo3ZXZYajVSUmVw?oc=5",
+     "tarih": "2026-11-26T08:10:30+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "YatırımX",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEM3aHYwWFZwYTByc1dfbFhjWWV6eURMY2VOLS1sUUxGNEpnT1gyblZDMW5nLVhOVjdxOUI5ZUxFcGVIeGtJblNXV0UwWlB5ak45eWNyUDFEQk9XaU0yR2QwUEx3a1lwY3ozeS1yNnNSeHNvQTBLZUxlT05GVVJoYlBfNlRfamFvLWpDbndHX1NkNWFCbndzLUxSMUN0cDMyMTFxRzdEOWdIQQ?oc=5",
+     "tarih": "2026-11-26T09:03:16+00:00",
      "guvenilir": false
     }
    ],
@@ -222,6 +390,42 @@
      "ad": "Alparslan Diyarı",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeS1TbDlydTdtQlJNZW1tb18zdTJydGw0Q19Ib0M1dFlQaW1ueERRd09KajI2RXpMNEJfNEl6SmVNdmQ2YmFiTlhETThxc0dCUmNjNmp1N0lWall6Znd2UU1Pa1ppaW5yMVRXbFZGVGJycTNvYTE3VUg3bF9INl9jUXNyR3ZNME1mbEVRUE1IdlNhWlE4cFNjUnhR?oc=5",
      "tarih": "2026-11-25T22:27:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "HaberXR",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2NETXhDckgwTVUtNXp4N2VyQ1NIbGRuWFRwcEJUd2Y3a2lWRFV4Rko2VjRjQ1JGMEdpOThOQW1zdE5zcXlPZm1jTGhOQmg3MU5TcWxTeDBqbU5PdGNzNERCc1dkNHdQNGcyalBnenVXQXhYTllKNzdHWjN4c3R5MzlKQ1Y3SEZKZkxFNW1HdHpOY1pvSmYzY3BubF9NQ1JpOTBRQ1RfLWVaWTg?oc=5",
+     "tarih": "2026-11-25T11:34:55+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Mersin Haber",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlVPdktfSlZTYTNKV2NveUJLdDJ5OWZDZVUyTm0xdnNiRDRNYUQ0OTdRSTFhMlNTdUxwem93ODJzRXpGcDlMLVVuY3dfSGdwZHpaclFreWczQmdmSmZ3YTVKM1pQTDNOUm43U0d1M2JHcUxpMV9nRC1TTXVRTWFJQTAwa3pTd2JOQU5WVGVTVzVYd20zSjc2UGNPdDFpc0hsV0dkRFRDaGk5OG11Sy1vMFVB0gFXQVVfeXFMT0lXUWktNzlNaU1aMnJxQ0s0QldiZVFqbjdweXJyVEtLaXByaXkwZHZYQUhSejdnOFVkaWdSN24tTDUzWW1UeUozMjFuODVpSFhDeFkzeXQ0?oc=5",
+     "tarih": "2026-11-25T11:48:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Olay Gazetesi Bursa",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDlQcWNyNDc4QktSU3RVVWJFVDdBelB2LTZBREFCcWZxdHVTdmw0RWN6a3g2RDQtZV9CZG1ycGpaQ0p0U2ZtT3JmZHNjRGpJX2VVYUxTcTY5aWREWmExY21DczNNaHZwQ2ZWYlNLMk9mdk9UZ08taTJkdHBBRVlJa2RRaUJzWjJJa3lVMUt1RVZwMFBBTWZITTBMVGhOMXhXQzNUONIBpAFBVV95cUxOeDlQcWNyNDc4QktSU3RVVWJFVDdBelB2LTZBREFCcWZxdHVTdmw0RWN6a3g2RDQtZV9CZG1ycGpaQ0p0U2ZtT3JmZHNjRGpJX2VVYUxTcTY5aWREWmExY21DczNNaHZwQ2ZWYlNLMk9mdk9UZ08taTJkdHBBRVlJa2RRaUJzWjJJa3lVMUt1RVZwMFBBTWZITTBMVGhOMXhXQzNUOA?oc=5",
+     "tarih": "2026-11-25T11:48:15+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Adıyaman Güne Bakış Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQW5qbVNHQWNINDBzUUdkX3hXMzYwT1dzYnh4N0FOemJmUVdYWjRRVnB3X0lrZmN2YXdoNzhyX1RPYnJWR3lYMmR3N2FPb1pzd3B0aXZ1N3N6eDd2V0lJdjl1RDFRcmFjSmNSUTcwbUlDLURqdVE1U0h2cEZia1lGQkxVUkRWQ3NQLTUyNGxqUHhpZkZ4WHBSSV9tR05DbnBpZ2JnTjZwUmNuQnJldEFsMTFRUjRvdEZV0gG4AUFVX3lxTFBBbmptU0dBY0g0MHNRR2RfeFczNjBPV3NieHg3QU56YmZRV1haNFFWcHdfSWtmY3Zhd2g3OHJfVE9iclZHeVgyZHc3YU9vWnN3cHRpdnU3c3p4N3ZXSUl2OXVEMVFyYWNKY1JRNzBtSUMtRGp1UTVTSHZwRmJrWUZCTFVSRFZDc1AtNTI0bGpQeGlmRnhYcFJJX21HTkNucGlnYmdONnBSY25CcmV0QWwxMVFSNG90RlU?oc=5",
+     "tarih": "2026-11-25T11:58:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Dosya Haber",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWThOZmJWY040MkVEZFdnTjU1SWo4eE9wLVkwNk95QVVSQ09fd3diOHl6OGM4RjJjNUd6VVF3dU4tVFhScnZyZ09FcVVHRHZsZmRXcm9Ecm1vLXpmWEpqZWZwTFlUd19weWhnWjlJU29KS0NhMUVaSkNiVGZCMkc4SGtXU3YyYkN2RW1SWlNhdzBSMUtfTWhaU1dUVXBYQkVSXzVPVG93?oc=5",
+     "tarih": "2026-11-26T02:18:12+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Gündemim",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVklCTldyVkVITEdyaWF6aE5WWTlWWlI2ZHdob1phbGV4QmR1aWZmT21ZdEUyNGFHTUthQUNQbjBmRnUxQldIdXk5ZS1yZkVsNy15Sk5ZeF9RTTRhOG5HbUM0WXpoanNqZlNRVHJwd3VubzQzVkdwb2k0NzhYQWpBaWFNbjhxQXVrNHhDZ0xwYURHRFJ2MWZqTkJLZW40MVVLU25sZG10VTRzV2hhUVM1RHQ3QnBHTFY4MGhjMzd0M2Q?oc=5",
+     "tarih": "2026-11-26T04:02:54+00:00",
      "guvenilir": false
     }
    ],
@@ -664,6 +868,12 @@
      "ad": "YatırımX",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk5qTldHUkFyU3Z2YUprVHBvRjJseWExQXBoODJTRGd5VUZaSjB3bG1uNm9xSHNaSTFiQnM5dnczY1BOV1FxVFlQTWx1Yk4teGVLR2VmVUlhNXg1ZE9RUjdvdGZBWFc2aHZNRDhibWtiT1RyUUFSaWdMbzM0amlfbEpMTHVNdlBHQlZYRFBRVkZta3k3aHpPVmxTeXAtcmtzN3JVNlB5Mm0zbXFUZk1UVg?oc=5",
      "tarih": "2026-11-24T14:09:05+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Bloomberght",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDN0YnlmeE1SUVYwMjVXY2R3TE05YUI0ZlctNTFwcXpodHhiaHRINmNfUWRaUzJiREF4VFJzcy1vdW1jLUNNemNTd3BsZ3NCVzVhaHFnaUxoSldESkwzN1pieGlVdldqX1YxQ3U0b3FLQm5Tc2E5Y0dWcFIyekRwazRPWVNINkpIMTJRdkpJSzgya2hoX2otbw?oc=5",
+     "tarih": "2026-11-24T13:47:13+00:00",
      "guvenilir": false
     }
    ],
@@ -1137,6 +1347,58 @@
    ],
    "gorsel": "https://mallreport.com.tr/wp-content/uploads/2026/11/1794990782_Beko-scaled-e1794993866848.jpg",
    "yorum": "Arçelik ve Beko, Millî Eğitim Bakanlığı iş birliğiyle 24 Kasım Öğretmenler Günü için özel indirim kampanyası başlattı. Kampanya kapsamında 30 Kasım tarihine kadar öğretmenler ve bakanlık personeline seçili beyaz eşya, ankastre, televizyon, iklimlendirme ve küçük ev aletlerinde %10‑%25 arasında indirim sunuluyor. Katılım hakkı, bakanlığa bağlı resmi okullarda ve kurumlarda çalışan öğretmenler ile idari personellere veriliyor. Şirket yetkilileri, kampanyanın öğretmenlerin ev yaşamını teknolojiyle kolaylaştırmayı hedeflediğini belirtti.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "4b7a28f0d38b",
+   "baslik": "Arçelik ve Beko'dan Öğretmenler Günü'ne özel kampanya",
+   "marka": "Arçelik",
+   "kategori": "beyaz",
+   "oncelik": 2,
+   "tarih": "2026-11-18T08:00:00+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/arcelik-ve-bekodan-ogretmenler-gunune-ozel-kampanya/705675",
+     "tarih": "2026-11-18T08:00:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Mall Report",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeTNpMjF3SjN3ZjNDUlZPYVhTNlpSM2R5NzN5ZGlBWURKNlZ6UGtUTWF2N1FfZXV4a0ZnYnNXeS02bC1xX2I3YzIxbEF1cDd4amJvUEVoV21aenBQRDJrMXg3dG5VUW5UdkxIUjRDOXV6YmJ1VzZDdmlmb0Job2s0SmhrTzllekE?oc=5",
+     "tarih": "2026-11-18T09:26:03+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Medya Gazete",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWNkMWJsWWE5WWlxRkd5LWR0eVZuQkZxOHdfNG5Zb2g3cWhCN0ZmOGQ1Y1BPdUcxRUdmSWJXMTdZWnRfYnFjNXRrTElvd3gwY3FURmNVQWpmTWdfZVhDbkRNWGZPMnRwcW9WUjZVWjdXSnNPMTJlalVMME9pNEJyUlhuN0djRVlsQjY3N1Z3OTB0WG8?oc=5",
+     "tarih": "2026-11-18T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Son Mühür Haber",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXFWUFVLVXVxWUNyUVNwZ0lYM3pIdWNZTE90RDludk5yNFY0Z1lHYjMxS0xUX0psUC1vMWJwdW13cG54TnJYUnBvWjhud2Rodk9VQjFQWmJnVXNKaTdEV2xIMlNOTXVGZmVmdnVNcTFaeWEzeDA3c29NU2MxaXB2aGRjUXJLd1plSFpmT1puTzlpQQ?oc=5",
+     "tarih": "2026-11-19T08:34:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Kanal 46",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXJ6ZHpvdmFmRzdfaWFFeGxPWHIwUWhSX000WnlLMV9PXzl0MlNub3c2MllSeGpQLThfWEZEWnRWTTJIWHdaMGpxR3hqVlVVUDRlWjd1WE5IVjhZeFFXOXFLemw5UTlxZUd5VDZoREl0MkMxYTFOOXE3NU9seHQxZnE5OFowbXlYaVJzWjlRLU1SM25UaDB4Ym9hd1l0aTlxaVlEdmZvUVE4cnVZSmc?oc=5",
+     "tarih": "2026-11-19T09:47:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Milli Gazete",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNlJxYTA4cl85TG4yRExRZkFDR2Y5dDhLbVdKNXF6VWl1ZTRlSWtVU3dIdXhFdzJOaktUMUsySzVvQXJYcUpSN1Nwdlc3aEgxSWJ4c0ZSYk95MHRiRXIxa2VKSlRUSVlLeElUbjdYdFA3QmVvZW9sbHVOa3Zmcnppa1EwZl9ZWEpVdDJqNFlKSjh1ZEtHT3FhTlJMc0psc1pVb29fMGNrdEFDSWNCeUFVX1NPOWFGWE9NOFB6LVlKUXVoQU5hb2ow?oc=5",
+     "tarih": "2026-11-19T15:13:00+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/18/thumbs_b_c_af838edff81013df76bf75ffb9c4d568.jpg",
+   "yorum": "Arçelik ve Beko, Milli Eğitim Bakanlığı’nın “Eğitim Neferlerine Minnet” kampanyası kapsamında öğretmenler ve bakanlık personeline seçili ürünlerde yüzde 25’e varan indirim sundu. Kampanya, beyaz eşya, ankastre, televizyon, su sebili, iklimlendirme, klima ve havalandırma gibi ürünlerde yüzde 10, küçük ev aletlerinde ise yüzde 25 indirim sağlıyor ve 30 Kasım’a kadar geçerli. İndirimden yararlanmak isteyen öğretmenler, MEBBİS üzerinden doğrulama kodu alarak Arçelik ve Beko’nun belirttiği internet adreslerine kayıt formunu doldurmalı. İndirimler, markaların Türkiye genelindeki yetkili satıcıları ve online satış kanallarında uygulanacak. Milli Eğitim Bakanlığı Destek Hizmetleri Genel Müdürü Ömür Fatih Karakullukçu, kampanyanın öğretmenlerin emeklerine duyulan minneti göstermek amacıyla düzenlendiğini belirtti.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -2033,6 +2295,18 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDAyUW1USDBmVUpISEZmRzkzMFpiTlJwOUF6b2poaUlFRXF4bHRBcFVuaTNhbE0zaFJJNFRKQ3VTMGZJQnFZelQ3Nk9xOUg3WWx3QXZ0dnlxTlFnZk1WbU0wSGdBY1pNb0pSNUZhdkN1czN0LU5XR2dxdUhEWmViX09lZmxjSWtKR3VrQzlKNnZVN0NQQ3c1bHFXaGs5RnhDbE9EWmNHRkZ6X0FjWEZjWXpWeHh3d0tqZEk1VXZFN0VBTnc?oc=5",
      "tarih": "2026-11-12T06:13:00+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Haber 500",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFdpaWFuUExCV0NYX2dpQjMzS2Q3aENoUGs5dDJOcXl1RzFRQUl6SGtKVzAyNE1LaEpKRnI4UWFZakVlS3M5YkNZZVNpaElrWGxxNTF5VlBpVnJCTGJGb0tPUXE5SXZ0bGxXOVRxS0lCSnZhUmRsanRBNFlMT3J6SEp5VUtuQV92UlFWSjN1Q2RiRS1PaTFQbEhJd2ZwbHhsXzY1a2FONUFnVWY0RTJQa3BoZ3RReFRaT2c?oc=5",
+     "tarih": "2026-11-10T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber 1",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUkxnRkpuWWNDOHhYUGJSZmZHUHJRYWluWllQeVR6RnBFNG1zMW9yMXk5Uk95aG43Ulo0MGk0c192T01YbnU2V0oyblBWckVvc0swbEZOMHZnZlZBVkZIT2tZUkoxSHJGV0ppZFNyeXdwMk1OcFFUM204WEZ0SGhPaDR5RVJreE05OU1sUjJyOUJYcjFIRW1sUTE1Yk9JMDczd2pScWg1aTljWEpuMmprNXdJaWhIRTdoLTFlU3JOWGpGSlI2cVE?oc=5",
+     "tarih": "2026-11-12T06:30:38+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://im.haberturk.com/l/2026/11/11/ver1794386275/3926509/jpg/1200x628",
@@ -2537,6 +2811,12 @@
     {
      "ad": "Yeni Bakış Gazetesi İzmir",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2NsSVBza3NwM3cydDV1WkNHNlNFa2tGYnIxRmtoRENSanlLMzhhY0RoaEk5NUpoa3pGNGI0VFFLZm9xaGNvS1lLNzFGZUtyV1lJdnJaaVRvVThfV2lZLXI2Z3JMV3RyYWd5dVJraHNqaXQzWGQ1T0s0YjNneHdNNXVYcU1Ec1At?oc=5",
+     "tarih": "2026-11-11T08:00:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Para Analiz",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHpNeDYxbjZOMUFSdXk2ajlOS1RLQXV4eWFLSDRJeXFZLWVtLVJUVlRZaUtpdU9INHBQWW5pOTR2NkRNdjBUTEZlT1Bydl9tcE5LNjV3Y1RrSnhneGp0Z29FaWMyRHBOaHZESWxBeGdHNXlJUk03Mmt5NG1tc1NvZDFDX1E5dm5aa052dmlCZzFBdHVmakd0R1psSmE0Y2hMQ2ZFdzRTVFY1c25xWWp6UHFB?oc=5",
      "tarih": "2026-11-11T08:00:00+00:00",
      "guvenilir": false
     }
@@ -3201,446 +3481,6 @@
    ],
    "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793982751/3925476/jpg/1920x1080",
    "yorum": "Vestel Elektronik, 2026 yılının üçüncü çeyreğine ilişkin finansal sonuçlarını Kamuyu Aydınlatma Platformu'nda (KAP) açıkladı. Satış gelirleri bir önceki çeyreğe göre %3,3 azalarak 24,9 milyar TL oldu, ancak brüt kâr %52,8 artarak 5,4 milyar TL'ye yükseldi. FAVÖK, ikinci çeyrekteki -1,4 milyar TL eksi seviyesinden 908 milyon TL pozitif seviyeye geçti. Brüt kâr marjı %21,8, FAVÖK marjı ise %3,6 olarak gerçekleşti. Şirket, maliyet disiplini ve verimli büyüme odaklı çalışmalarını sürdüreceğini belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "2624be7637c1",
-   "baslik": "Kartlı harcamalarda artış hızı 5 yılın en düşük seviyesinde",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-06T14:11:33+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/kartli-harcamalarda-artis-hizi-5-yilin-en-dusuk-seviyesinde-3793823",
-     "tarih": "2026-11-06T14:11:33+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/11/06/ver1793974323/3793823/jpg/1280x720",
-   "yorum": "30 Ekim 2026 haftasında kartlı harcamaların yıllık artış hızı yüzde 32,9’a gerileyerek son beş yılın en düşük seviyesine indi. 2022 yılında yüzde 155,3 ile zirveye ulaşan bu oran, 2023‑2025 yıllarında da yüksek seviyelerde seyredip 2025’te yüzde 34,6’ya düşmüştü. 2024 ilk yarısında yüzde 135,0 seviyesinde olan artış hızı, 2026’da da yavaşlamasını sürdürdü. Veriler, harcamaların nominal olarak artmaya devam ettiğini ancak büyüme hızının önemli ölçüde yavaşladığını gösteriyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "ae9864f65223",
-   "baslik": "Karahan: Fon piyasasında yaşanan gelişmeleri gözlemliyoruz",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-06T13:41:46+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/karahan-fon-piyasasinda-yasanan-gelismeleri-gozlemliyoruz-3793820",
-     "tarih": "2026-11-06T13:41:46+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/11/06/ver1793972549/3793820/jpg/1280x720",
-   "yorum": "TCMB Başkanı Fatih Karahan, fon piyasasındaki gelişmeleri izlediklerini ve sıkı para politikasının iç talepteki yavaşlamayı hızlandırarak enflasyonun ana eğiliminde gerilemeye yol açtığını belirtti. Karahan, bu durumun fiyat istikrarı ve finansal istikrarı desteklediğini, yatırım ve üretim ortamını iyileştireceğini ifade etti. Ayrıca, dış ticaret açığının enerji ve altın dışındaki kalemlerde daha ılımlı seyre girdiğini ve turizm gelirlerinin ziyaretçi sayısındaki düşüşten etkilenmediğini sözlerine ekledi. Açıklamalar, KAP üzerinden yayımlanan resmi bir bildiri kapsamında yer aldı.",
-   "neden": "",
-   "gundem": true,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "11e81f5d3946",
-   "baslik": "Arçelik beyaz eşya kategorisinde 18'inci kez üst üste \"Lovemark\" seçildi",
-   "marka": "Arçelik",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-11-06T11:01:45+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/isdunyasi/teknoloji/arcelik-beyaz-esya-kategorisinde-18inci-kez-ust-uste-lovemark-secildi/705401",
-     "tarih": "2026-11-06T11:25:33+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Başak Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWmpsTmZLY0pua29YZlA1T29EWl9FcGRtMTZaai04dnRrYnVoajFJY3hvdzhDWEctcDJhalJRb3h4NWR4QUFoSm9rWmdHZDlXVUdKd0QzR09yaGJsbTZVNmJ2cUF0QXlxRkVmQ2NMajZaQnR5S0JLNnJTQmhJYVJQMndqTTZLRHp0VHJxYmNXZEozLU1XTm4zbjRPZkFLbUJsZWhkY3lRY9IBrAFBVV95cUxNU0tjSnhJcC1aSDhfSDZ0UFJ5c0xlOTVKQUpZSllQNk00ZVFJVEdBNldJMGhFWXJCVFgyc0N2ZzlralA0LS15TFlrV2prd3FldnkzQjhYdGhVaHRJM0EydVZTeUZvbVFwbEFvNGZSZERiMG82c0pWYXNvMlo4STVxeEoxZFdpZ2tobzBMMWhhbng0ZC1ER25uSHRPZFJaNl9tVmxSZElzeFh5Qkd0?oc=5",
-     "tarih": "2026-11-06T11:01:45+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/06/thumbs_b_c_2cac9253ab7a03250741bb471e61134d.jpg",
-   "yorum": "Arçelik, MediaCat ve Ipsos iş birliğiyle gerçekleştirilen 'Türkiye'nin Lovemark'ları araştırmasında beyaz eşya kategorisinde 18. kez üst üste birinci seçildi. Araştırma, 15‑55 yaş aralığındaki 2 000 katılımcı üzerinden marka sevgi ve sadakatini ölçtü. Arçelik Pazarlamadan Sorumlu Genel Müdür Yardımcısı Ragıp Balcıoğlu, bu başarının marka güveni ve tüketici bağını güçlendirdiğini vurguladı. Şirket, 1 500 bayi ve 600 yetkili servis ağıyla ürünlerini Türkiye genelinde sunmaya devam ediyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "fca770d7deaa",
-   "baslik": "Beyaz eşyada Avrupa'nın üretim lideri Türkiye: Ekonomiye 441,8 milyar dolarlık katkı",
-   "marka": "Sektör: beyaz eşya",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-11-06T08:15:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya Gazetesi",
-     "url": "https://www.dunya.com/ekonomi/beyaz-esyada-avrupanin-uretim-lideri-turkiye-ekonomiye-4418-milyar-dolarlik-katki-haberi-846676",
-     "tarih": "2026-11-06T08:15:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Pembe Pusula",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmRFWkN4QzVEREZmWVp6VXp5a29VMVpRa1NDY2dzdDEydDNVVld2bnNYdWpaemNRY1YxeUZqWU9XVmJ2OTk4SnlfUHNhV2dRZk5Jb2dBdkFwcTRfY0ZwRXEwejNTTXVPTUY3TG94SV9uX093SjZvQWx1T2VpdnBQd1ptYjZuMjl3ZzhYOEJ5eURYRC05akNpU2t5Zno1ZW5Qb2dqLUVTOXZ4MjZhMlHSAbsBQVVfeXFMTVV1MEU5NTNqRmZZenRTOFlBVXAwMXRzeDJLS2QzQ2owVnhGSkJWV3A3cW9qSWw3Q2RoaHVVSS1kTFhUTk9wRXRGN0RjeEk3YTdBVDMxLUQtcDlZcURKVGlTYWt2djFwZXNlck50a29pWEpBX2V4ZDRFa190OWpnYmlfVm1MWEpMQmRuU0JLejZyUndNMlFERXp4WWxLWk1oQnFScndaRm9qWTNxT01pc1Z2RnBobkxVQUg0VQ?oc=5",
-     "tarih": "2026-11-06T11:00:07+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Marmara Yaşam",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVRvM2FRVkx2RzBTQjNWS3BHV1dscmZpOVY0MlRFdlJ0LXBQQTNqZmxHUHdKMTBka0gtQkgzc09DYnpiSi1fbFNVcUxxRnZhMkdicGtsemZ1TkgzT0JlVUk2NExZcHQ5Z3JibnQ4RDVFbTl1U3RCMHpfU0VrOXJSMDRDYWNRS3JreE1GeG8tejZEVDlwTldjV0d3c2RPR3otaUVuakh1S0plVl8ybWNmbUYtSDBSd2pPMFFJQ3hMUlk?oc=5",
-     "tarih": "2026-11-06T11:11:43+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Kanal 46",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjRvVnEyYzBQRnVmWFYzcWNjMG1BdlhGMElNNUpLWXdkUGdCZ2VFdHIybUlvVDNaTE9TLU14bU02RHpmeU80VTM5TTdLQmVCN2hEYzNuM0NtX1ktUTVEcU93Y2pKTFJRVGNodnFSQW1jdWxsVl9QQmZMamZWZnFNR0pMa3ByU3NpRFNsLTF3UC1xVlhWYUVucExsR3RKM1BudVIxQTJwUkk?oc=5",
-     "tarih": "2026-11-06T12:45:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "SteelRadar",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjNNM25CTktDQm1iSmtNdHo1em5nNWxxNXl1U1VZd1VjV25tUFdOc25HUXpTZjBpWHJURnAxb0J4ZzZFQXpnY2FTay0zSTlHMGYybkJmcXkyX0RmblhKc3p2QkRadVlpb3RkT1QzVVMtOFhQNHp4Qk0xellQZnZyakxtSVYySWU5VXFqZXJPV3hHcVdOLVN2LV9nTzdRMkh0VVVfODRCc0FBbHMt?oc=5",
-     "tarih": "2026-11-06T14:00:47+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Haber Gündemim",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNElkX05DOE56WURMSGwxazFwTjZEMzZEWE5oNFM4NGNfN2lZUUM1X1A4U2VubUdsRWlTeUxvUlZzYi14WmxXdVlUYXNFcnFwUENmeTJ4dFdOWXMtSFREdVpYYWZtT2ZGeThFcC1yUS1aODZPQlJRemh2RTdQNzFkUGZ5dVpCei1Pd0hPdjV2SU9OX0RadmNMNW92eVlsNTZOSG5IUnREaXlKMi1rZEpOQW50X2JMd0oyc3Rr?oc=5",
-     "tarih": "2026-11-07T04:33:49+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Anayurt Gazetesi",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFdOMFVIMy00U2o4Mnc0SEdEWGlVN29uQmNkX2FnYmk5NEphUTBIUXp6elBxd3RfTHJWUEdPYTc1RjRHdUc1cloxRGxjdDhGc25lYVJPVXdnQ19lTHYwSjJUbTYyMW9lUEtwQjFBNVM2RWZyUWk5MzZnQ1ZPLTF5VlZwc2lzVV9aRXVSLU9xQVNsNTdmS0FNT1hvd9IBoAFBVV95cUxON25PZ0RibHZnV2gxMzVjUGs5bXliSENoQnlEYWFkbTdJZEdzYTViQ0lXcC0tSW1RWkwxN0cxQTg5QThzbE5rSXE4YllRZjRaQVA4VlVCOVNDS1BZbXBEazVVZGNmQ1g2NnFtR1llUFlyeldSUGFiQ1ZqV3oyV2FsdzlMWHNEMGpfeEFEdzlPVDEwM2RZODFob01VeTE3bG13?oc=5",
-     "tarih": "2026-11-09T07:14:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Türkiye, Avrupa'da beyaz eşya üretiminde lider konumda olduğunu ve bu sektörün ekonomiye 441,8 milyar dolar katkı sağladığını belirtiyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c34badc1124a",
-   "baslik": "Mitsubishi Electric Klima'dan ikinci klimaya yüzde 50 indirim kampanyası",
-   "marka": "Sektör: ısıtma ve soğutma",
-   "kategori": "iklim",
-   "oncelik": 3,
-   "tarih": "2026-11-06T08:12:19+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/isdunyasi/enerji/mitsubishi-electric-klimadan-ikinci-klimaya-yuzde-50-indirim-kampanyasi/705396",
-     "tarih": "2026-11-06T08:12:19+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "NNC Haber",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXNTcS16Qll4OWJkRTdJaUpaekdrTUs4eUZ2akdsOXhpQmF5dEdCWUVwRjJ4M3JwSVF3YTRxazFwdGhKQWV5RnFZdXlWMkVMZUFzNGJZdnl2WjdJQzNMM1VjbDdSMThweVNPeDF5N2ZxWHhDcnhEdTA2MTlUTDN3N3RxX0RuQkVudWhTaEFMbk9iOENJ0gGaAUFVX3lxTFBqMmVhTnAwaXIyeGN6VDBsa2ZSckhUZW9ITnQ1X2xxVDlzQ3JPMHR0dlVjSzhFRXhJbVlRZFFJNE1VckFhUzl2SmkwZlZidzRZNDNNRHgtdDZ3SXBEaC1ibV83VllHVXhhQ0ZIUGVzSjQxS3Y2Y3UtYjctY2xwdVA0eW5YN0xUU0hjUHVtTnBOTnJISEtvZngyNEE?oc=5",
-     "tarih": "2026-11-06T11:21:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Şantiye Dergisi",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeDFBazJ0TUVTY2FiQllRM0lvamx0aGVfRnpfa3E5clkzd0pXWGZQMkw1MXdXR29zXzlsYkppck9MN3NBQjYwd0lYRVNmSkRvS25iOTFvMmdTUHFhOWdfSFdQNlNRS1F4LUs1bkktUFFPQXNuQ19KV2thQ1dqV1hoWmRTZFB3Wlk1MUZmaVRDMGZVTEw0QjRYdURQWV81ZmVzdC11VExvbHBQeDdOOU5zS094THdUa3EyaGpyNnVGUlA?oc=5",
-     "tarih": "2026-11-06T18:20:36+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2026/11/06/thumbs_b_c_f5bbd88b491304651635dfa12cc98688.jpg",
-   "yorum": "Mitsubishi Electric Klima Sistemleri, seçili modellerde ikinci klima satın alana yüzde 50 indirim ve 10 yıla kadar garanti sunduğunu duyurdu. Kampanya 31 Aralık’a kadar anlaşmalı yetkili bayilerde geçerli ve MeClub üyeleri için ek taksit avantajları sağlıyor; 6 taksitli fiyat üzerinden 7 taksite, ayrıca uygun kart ve ürünlerde 12 aya varan taksit seçenekleri mevcut. İndirim, Hare, Enviro, Noviro, Kirigamine Zen ve Legendera gibi serilerde uygulanıyor, DW serisi hariç. Garanti süresi ürün bazında 6 yıl ile 10 yıl arasında değişiyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c76ee06ada84",
-   "baslik": "Birol Sülük: “Beş yıl içinde Türkiye akıllı telefon pazarında anlamlı bir pay hedefliyoruz”",
-   "marka": "Sektör: cep telefonu",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-11-06T08:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/birol-suluk-bes-yil-icinde-turkiye-akilli-telefon-pazarinda-anlamli-bir-pay-hedefliyoruz-3925356",
-     "tarih": "2026-11-06T08:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793953632/3925356/jpg/1200x628",
-   "yorum": "ZEED, 3 Kasım’da The Peninsula İstanbul’da düzenlenen basın toplantısıyla Türkiye pazarına giriş yaptı. Akıllı telefon, tablet, akıllı saat ve kablosuz kulaklık gibi ürünleri tanıtan marka, üç yıl garanti ve erişilebilir fiyatlarla beş yıl içinde pazar payı elde etmeyi hedefliyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "7f90c354e44a",
-   "baslik": "Akıllı telefon pazarı 13 yılın dibinde: Hangi markalar ayakta kaldı?",
-   "marka": "Sektör: cep telefonu",
-   "kategori": "telefon",
-   "oncelik": 2,
-   "tarih": "2026-11-06T08:00:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Dünya Gazetesi",
-     "url": "https://www.dunya.com/foto-galeri/ekonomi/akilli-telefon-pazari-13-yilin-dibinde-hangi-markalar-ayakta-kaldi-galeri-846684",
-     "tarih": "2026-11-06T08:00:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": null,
-   "yorum": "Haberde, 13 yıllık akıllı telefon pazarının durumu incelenerek hangi markaların ayakta kaldığı değerlendiriliyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 2,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c01913641380",
-   "baslik": "Albaraka Türk'ün 9 aylık kârı 5,8 milyar TL oldu",
-   "marka": "Albaraka Türk",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-06T07:27:12+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/albaraka-turk-un-9-aylik-kri-5-8-milyar-tl-oldu-3925275",
-     "tarih": "2026-11-06T08:00:00+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Fintechtime",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRk01VExBcnc5YVRjb3U4eGo5NWhWZmpvZWdLYnBiaGFEX3VLQU5waTdTNGNubTBYOGl3Rml0Q3lHNnV3UU9KSUxYS0pRczdUSzREbEZMUjR0aTZvSlEyc1FUYTMzaEdtWkcyUHJjTkU1bDhQVFRuZGx3dE5wR3l1VjA1bkF0Zw?oc=5",
-     "tarih": "2026-11-06T07:27:12+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "FintekWins",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0ZGVEhhdTZHSEw5Wm0yYzJEU2h6MTNPWEZidVpNNlBEd1M1MGRoZUp2aEstWVAtRURfbHcwZTlsdnJKck5qLVlWOHQ2UHc4UDB1X2FsX2IyektKcWpsNmVUWnl2TzFPQktrRVRHdERIbjBxYzVvbjFJUWx3ajhGMWNXYXpoZVhFUnc?oc=5",
-     "tarih": "2026-11-06T08:09:26+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793916641/3925275/jpg/1200x628",
-   "yorum": "Albaraka Türk, 2026 yılının ilk dokuz ayında 5,8 milyar TL net kâr elde etti ve 398,6 milyar TL nakdi ve gayrinakdi finansman desteği sağladı. Bankanın aktif büyüklüğü 589 milyar TL, özkaynak kârlılığı %32,5 seviyesinde. Katılım fonları %41 artarak 400 milyar TL seviyesine yaklaştı. Yönetim, teknoloji yatırımları ve KOBİ finansmanına odaklandığını belirtti.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "28205bfdf2f4",
-   "baslik": "25 yılda ekonomiye 441,8 milyar dolar etki",
-   "marka": "Sektör: beyaz eşya",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-11-06T07:03:43+00:00",
-   "kaynaklar": [
-    {
-     "ad": "CNBC-e",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN2FJQlYxTTdfRUV5bkQ5YXlMQU1fUll0WkdVRVQ5RkpFUmZwYXMycnlFM01DRXczdzVJS01sTU1xcm5nbVdMSTR5RXYtRTJ6V2x0eFhGcXBfV0RITGVfNkxPZnpPdWpKMlRHbVRaelVkOGdfWWExU0dGTWd1RmdoSE5lS2x5d0pWQWJDaFh5RnBsR3RteEhGN3RUQ1R2M1p4SU1hNXBSeEJRRnQ2WkdFYkVpVGVXc0RSQWlvRkhn?oc=5",
-     "tarih": "2026-11-06T07:27:36+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/beyaz-esya-sektorunden-25-yilda-ekonomiye-441-8-milyar-dolar-etki-3925362",
-     "tarih": "2026-11-06T08:33:18+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Foreks.com",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEVtd1lVdWFhUF9GQWNqOWl5dkJ1d2FnZ3RwNUVsXzNCV3RuNmFnSnJYQVlsOXRQTFdrX2JIdW8xdU1kLUc2anU2X09ua1ZTMW1aMUtHZldqM0ZkcFdFdHp6aWh2cFgzY1VSM19QLWVqR2VMMEprVlFPSUQybE56SnZQYjF6UDFZcjdWRmxiNFFrNkhweUtIOVplYUR1aU43c2RIT1d2RDlCUGtNNVc3RXVzTDJwSy1ocWJmZTRQVGU2ZWc3VXpKZHVNdWlGTWFuN3NYaTFyLU9zVE96UU50Ykh0NFhYdGxsQ3lXXzR4UHQ?oc=5",
-     "tarih": "2026-11-06T07:03:43+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Finans Hattı",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0hPdGN2R2ZKdU8weFZBUGlWcnU0VVdyNzd3M0VsSHdiTTBCVU50UTZyelZFNXlSVDhMSHNBc0JmMlphbzJHVmNjU2NuN0NQVkNfT2RPX2RUdWlkRFR1R2lSeGJCZVJSVm9QbGlWVjBEVlJiOHdJUy1kcTBoZHhya0ZDRVR5V3FqRHc?oc=5",
-     "tarih": "2026-11-06T07:37:38+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "TRHaber",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmVuX1gtMTg3U2RjaG9kUEkxeFE2SjhLTjM5eWMtcGFjclJkSVBKQ0U3ZUFZQTBVWGFKUWdtT003RnFXcl9IMFVKWHEwRFlfT2piT3hWeFZWVC0zdHRacXNBY1FsMmFVY3QxZklMc2hJQnBuXzl5NFV4RHNvVm5WV041Q3JFR3YwcHV6UnZIQ1BCbTRvbnpsMUljc2ludDU4d0xPRXFxNW8zdw?oc=5",
-     "tarih": "2026-11-06T07:40:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "gazetegundem.tr",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFpRQlNGaFA0T0xFMW1MODU5OFowdVBGN0RCRV84YTVOQTVFSGNCMEUxNi0xT2hueDhGUzhIZHZPWE1lSDlBYzVRTEFvbXIwTTBKbmg1ZktNa2labzJ5cURKMzNFbkVSZ0pKSzVtR29zQURJNHdFYXBsOWEwTHQ0QmRoeTVnY0ZWOUxpaFdPTFpsMS1PQV9WWWxJYkx1X0dpemRpUW5SUmnSAa4BQVVfeXFMUGhSbDNueU5NNXpETzU0YVJ4MUpkc1hPamRrNEtfX0FBSW4wTkJrZTVIbE5jVXBUMnVoVGc1Q294VEFuVy1iZ25Lb3ZZb1pTVzk3QWdGaTFtT2M5VnpoTzRRR0FXdEtWOXBhN1ByVjctaTcxVC1aUDU2RHBJVXRhZkptVk9fR0MtUy0waWVYUzhOYXI1NzRUb1hPeTVHbDdTVHd6c2liS2RhdldNMnZR?oc=5",
-     "tarih": "2026-11-06T11:02:06+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "yeniufuk.com.tr",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXY3OUZXVVVDVGFpMmdtOW1QTjVUM3ZlMnQ4Um5pVW90ZHRvOUF0ZVBQZE1aZjZpYUN3SkRMNGhOcGE4Y3lJX0tRRHpxTXJ5bUo3QXhFOVZTeW1ySERWc3JMVEQ4TDUzWGRZMUEyaG1sOXdfeUExbEVqTjJBUERCUi1TNGZXMU5HUHhjNUotQVluMGRZVWVYVHhxQVJnQlQ3NjR1a0NWU3VtV1lJOExNVWhRTnNtS0Z2?oc=5",
-     "tarih": "2026-11-06T11:04:44+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Haber Gündemim",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDYtV05OX0tCZTdfTEI2SlYzNVJFVk5vbmI3X3dVMDg1WFdvdzRlVXpxOXpzVGRyNWNhaHk2R0hyWVhIRWxzX2E4UnpKbzhsNE9tb0dqZ21EaXotbGc4dGJNSk1Cd1hyT25rRmxhVW9ueTgxRzZCSENqXy1CYWo5aERJbUV3bjJmY1kySWdCN09BeE5GV3lMYS0ySXFxVkpvNHk2VjRoZVZqUlplRVgtSUFB?oc=5",
-     "tarih": "2026-11-06T11:13:20+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Alparslan Diyarı",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUJlTzBsMTVfcC1RdzVvUW1IRTF1Q0o5TC1DRmNYVW5YQ20xVlM4VTVRWHlmTTVpYk9YZElyUzBXUkEtM0t4N3BqdkthS1NCb1pJTmJuWVdZOVV0YlFlVzlOcDFHOFhDSUgwR0Q1MW95YXBlSGxhTzBUOU1vVFc3QmUzR190cy1VQ3lQaHlPVkptb1oyVlFrNWN0V3dpMDJiVHlDUTNjZzh2ajNKUUlxd1RyMnJ4dw?oc=5",
-     "tarih": "2026-11-06T11:20:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Kanal 46",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjRvVnEyYzBQRnVmWFYzcWNjMG1BdlhGMElNNUpLWXdkUGdCZ2VFdHIybUlvVDNaTE9TLU14bU02RHpmeU80VTM5TTdLQmVCN2hEYzNuM0NtX1ktUTVEcU93Y2pKTFJRVGNodnFSQW1jdWxsVl9QQmZMamZWZnFNR0pMa3ByU3NpRFNsLTF3UC1xVlhWYUVucExsR3RKM1BudVIxQTJwUkk?oc=5",
-     "tarih": "2026-11-06T12:45:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "SteelRadar",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjNNM25CTktDQm1iSmtNdHo1em5nNWxxNXl1U1VZd1VjV25tUFdOc25HUXpTZjBpWHJURnAxb0J4ZzZFQXpnY2FTay0zSTlHMGYybkJmcXkyX0RmblhKc3p2QkRadVlpb3RkT1QzVVMtOFhQNHp4Qk0xellQZnZyakxtSVYySWU5VXFqZXJPV3hHcVdOLVN2LV9nTzdRMkh0VVVfODRCc0FBbHMt?oc=5",
-     "tarih": "2026-11-06T14:00:47+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Hey Haber",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa19xak1JbVJKT2p1dkhEY2doaV92bE0zOV9acFYzWmdsZm1fa2tGS3FsY3Rid05FNzJpYkZqc3QwTWRjemp3RFZSRTJTamtKeWpnN3lZSWdkWndpVWpXYkhCQWRhUkJrMlh2QlQ1cXRIa0s5WU5rcGNtVmpTUTBLSVVZdlVmZS03cHc3NzRaQ3ZqNW1OUFZtUw?oc=5",
-     "tarih": "2026-11-06T08:00:00+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://im.haberturk.com/l/2026/11/06/ver1793953998/3925362/jpg/1920x1080",
-   "yorum": "Türkiye Beyaz Eşya Sanayicileri Derneği, 40. yıl dönümünde sektörün 1986‑2025 dönemini kapsayan Etki Analizi Raporu’nu yayımladı. Rapora göre, beyaz eşya üretimi 1986’da 1,2 milyon adetten 2025’de 29,1 milyon adede yükselmiş ve 2021’de 34,1 milyon adetle tarihsel zirveye ulaşmış. Sektör, 2000‑2025 yılları arasında toplam 441,8 milyar dolar ekonomik katkı sağlamış; üretimin her bir birimi ekonomiye 4,4 birim değer katıyor. İhracat 395 milyon adetle toplam üretimin üçte birini oluşturmuş ve net dış ticaret fazlası 63 milyar dolar olarak kaydedilmiş. Sektör, doğrudan 141 bin, dolaylı olarak ise 633 bin kişiye istihdam sağlıyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 4,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "060d79f0d286",
-   "baslik": "Beyaz eşya sektöründen 25 yılda ekonomiye 441,8 milyar dolar etki",
-   "marka": "Sektör: beyaz eşya",
-   "kategori": "beyaz",
-   "oncelik": 2,
-   "tarih": "2026-11-06T06:57:52+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/beyaz-esya-sektorunden-25-yilda-ekonomiye-441-8-milyar-dolar-etki-3793758",
-     "tarih": "2026-11-06T06:57:52+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Habertürk",
-     "url": "https://www.haberturk.com/ekonomi/beyaz-esya-sektorunden-25-yilda-ekonomiye-441-8-milyar-dolar-etki-3925362",
-     "tarih": "2026-11-06T08:33:18+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Foreks.com",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEVtd1lVdWFhUF9GQWNqOWl5dkJ1d2FnZ3RwNUVsXzNCV3RuNmFnSnJYQVlsOXRQTFdrX2JIdW8xdU1kLUc2anU2X09ua1ZTMW1aMUtHZldqM0ZkcFdFdHp6aWh2cFgzY1VSM19QLWVqR2VMMEprVlFPSUQybE56SnZQYjF6UDFZcjdWRmxiNFFrNkhweUtIOVplYUR1aU43c2RIT1d2RDlCUGtNNVc3RXVzTDJwSy1ocWJmZTRQVGU2ZWc3VXpKZHVNdWlGTWFuN3NYaTFyLU9zVE96UU50Ykh0NFhYdGxsQ3lXXzR4UHQ?oc=5",
-     "tarih": "2026-11-06T07:03:43+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "gazetegundem.tr",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelVGekp1b1l5WHNyWHZmVEh0T0l1bmZVcjQtakVlcFNYaWVoWExwSmR2QktrZVh5U0dxQXVKUE8yU00zUTFVQmRDTFh5VG1hekdZdF9ReWRqdDdobGVxUFZQbDk1VjM0QUVrTjRpRFVsbnk1WlBNYTlkckVuT2YzTWs1WDNoUTlhRTZQQ2Nyb2RSTHBKU0hnUGJfbEFtVXQ1c1lCMnVvSlVWdkZSakHSAa4BQVVfeXFMUGhSbDNueU5NNXpETzU0YVJ4MUpkc1hPamRrNEtfX0FBSW4wTkJrZTVIbE5jVXBUMnVoVGc1Q294VEFuVy1iZ25Lb3ZZb1pTVzk3QWdGaTFtT2M5VnpoTzRRR0FXdEtWOXBhN1ByVjctaTcxVC1aUDU2RHBJVXRhZkptVk9fR0MtUy0waWVYUzhOYXI1NzRUb1hPeTVHbDdTVHd6c2liS2RhdldNMnZR?oc=5",
-     "tarih": "2026-11-06T11:02:06+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "yeniufuk.com.tr",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXY3OUZXVVVDVGFpMmdtOW1QTjVUM3ZlMnQ4Um5pVW90ZHRvOUF0ZVBQZE1aZjZpYUN3SkRMNGhOcGE4Y3lJX0tRRHpxTXJ5bUo3QXhFOVZTeW1ySERWc3JMVEQ4TDUzWGRZMUEyaG1sOXdfeUExbEVqTjJBUERCUi1TNGZXMU5HUHhjNUotQVluMGRZVWVYVHhxQVJnQlQ3NjR1a0NWU3VtV1lJOExNVWhRTnNtS0Z2?oc=5",
-     "tarih": "2026-11-06T11:04:44+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Haber Gündemim",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDYtV05OX0tCZTdfTEI2SlYzNVJFVk5vbmI3X3dVMDg1WFdvdzRlVXpxOXpzVGRyNWNhaHk2R0hyWVhIRWxzX2E4UnpKbzhsNE9tb0dqZ21EaXotbGc4dGJNSk1Cd1hyT25rRmxhVW9ueTgxRzZCSENqXy1CYWo5aERJbUV3bjJmY1kySWdCN09BeE5GV3lMYS0ySXFxVkpvNHk2VjRoZVZqUlplRVgtSUFB?oc=5",
-     "tarih": "2026-11-06T11:13:20+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Alparslan Diyarı",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUJlTzBsMTVfcC1RdzVvUW1IRTF1Q0o5TC1DRmNYVW5YQ20xVlM4VTVRWHlmTTVpYk9YZElyUzBXUkEtM0t4N3BqdkthS1NCb1pJTmJuWVdZOVV0YlFlVzlOcDFHOFhDSUgwR0Q1MW95YXBlSGxhTzBUOU1vVFc3QmUzR190cy1VQ3lQaHlPVkptb1oyVlFrNWN0V3dpMDJiVHlDUTNjZzh2ajNKUUlxd1RyMnJ4dw?oc=5",
-     "tarih": "2026-11-06T11:20:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "CNBC-e",
-     "url": "https://www.cnbce.com/haberler/turkiye-beyaz-esyada-dunya-devlerini-geride-birakti-avrupada-birinci-dunyada-ikinci-h41171",
-     "tarih": "2026-11-06T07:27:36+00:00",
-     "guvenilir": true
-    },
-    {
-     "ad": "Finans Hattı",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0hPdGN2R2ZKdU8weFZBUGlWcnU0VVdyNzd3M0VsSHdiTTBCVU50UTZyelZFNXlSVDhMSHNBc0JmMlphbzJHVmNjU2NuN0NQVkNfT2RPX2RUdWlkRFR1R2lSeGJCZVJSVm9QbGlWVjBEVlJiOHdJUy1kcTBoZHhya0ZDRVR5V3FqRHc?oc=5",
-     "tarih": "2026-11-06T07:37:38+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "TRHaber",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmVuX1gtMTg3U2RjaG9kUEkxeFE2SjhLTjM5eWMtcGFjclJkSVBKQ0U3ZUFZQTBVWGFKUWdtT003RnFXcl9IMFVKWHEwRFlfT2piT3hWeFZWVC0zdHRacXNBY1FsMmFVY3QxZklMc2hJQnBuXzl5NFV4RHNvVm5WV041Q3JFR3YwcHV6UnZIQ1BCbTRvbnpsMUljc2ludDU4d0xPRXFxNW8zdw?oc=5",
-     "tarih": "2026-11-06T07:40:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "Kanal 46",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjRvVnEyYzBQRnVmWFYzcWNjMG1BdlhGMElNNUpLWXdkUGdCZ2VFdHIybUlvVDNaTE9TLU14bU02RHpmeU80VTM5TTdLQmVCN2hEYzNuM0NtX1ktUTVEcU93Y2pKTFJRVGNodnFSQW1jdWxsVl9QQmZMamZWZnFNR0pMa3ByU3NpRFNsLTF3UC1xVlhWYUVucExsR3RKM1BudVIxQTJwUkk?oc=5",
-     "tarih": "2026-11-06T12:45:00+00:00",
-     "guvenilir": false
-    },
-    {
-     "ad": "SteelRadar",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjNNM25CTktDQm1iSmtNdHo1em5nNWxxNXl1U1VZd1VjV25tUFdOc25HUXpTZjBpWHJURnAxb0J4ZzZFQXpnY2FTay0zSTlHMGYybkJmcXkyX0RmblhKc3p2QkRadVlpb3RkT1QzVVMtOFhQNHp4Qk0xellQZnZyakxtSVYySWU5VXFqZXJPV3hHcVdOLVN2LV9nTzdRMkh0VVVfODRCc0FBbHMt?oc=5",
-     "tarih": "2026-11-06T14:00:47+00:00",
-     "guvenilir": false
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/11/06/ver1793948312/3793758/jpg/1280x720",
-   "yorum": "Türkiye Beyaz Eşya Sanayicileri Derneği (TÜRKBESD) 40. yılı kapsamında hazırladığı raporda, 2000‑2025 dönemi boyunca sektörün ekonomiye 441,8 milyar dolar katkı sağladığı ve net dış ticaret fazlasının 63 milyar dolar olduğu belirtildi. Üretim 1986’da 1,2 milyon adetten 29,1 milyon adede yükselmiş, bu da Türkiye’yi küresel beyaz eşya üretiminde %7 payla, Avrupa’nın en büyük ve dünyanın ikinci büyük üretim merkezi konumuna getirmiş. Toplam yatırım etkisi 156 milyar dolar olarak hesaplanmış; bunun 115,6 milyar doları bağlantılı sektörlerde gerçekleşmiş. İstihdam açısından doğrudan 141 bin kişi, tedarik zinciri ve hizmetlerle birlikte 633 bin kişiye ulaşmış. Rapor, rekabet gücünün korunması için maliyet düşürme, Gümrük Birliği güncellemesi ve teknoloji yatırımlarının desteklenmesi gibi önlemler öneriyor.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "92320f322ad4",
-   "baslik": "TCMB yılın son Enflasyon Raporu'nu 12 Kasım'da sunacak",
-   "marka": "Gündem",
-   "kategori": "finans",
-   "oncelik": 2,
-   "tarih": "2026-11-06T06:27:18+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Bloomberg HT",
-     "url": "https://www.bloomberght.com/tcmb-yilin-son-enflasyon-raporunu-12-kasimda-sunacak-3793745",
-     "tarih": "2026-11-06T06:27:18+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://geoim.bloomberght.com/l/2026/11/06/ver1793946932/3793745/jpg/1280x720",
-   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, yılın dördüncü ve son Enflasyon Raporu'nu 12 Kasım 2026 Perşembe günü saat 10:30'da İstanbul Finans Merkezi Yerleşkesi'nde sunacağını duyurdu.",
    "neden": "",
    "gundem": false,
    "onem": 3,
