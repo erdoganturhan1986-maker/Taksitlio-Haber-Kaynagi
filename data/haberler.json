@@ -1,7 +1,41 @@
 {
- "guncelleme": "2026-11-27T14:15:38.666015+00:00",
+ "guncelleme": "2026-11-27T22:54:19.779667+00:00",
  "saglayici": "Groq / Google Gemini",
  "haberler": [
+  {
+   "id": "db4a82357fe3",
+   "baslik": "TCMB, bir elektronik para kuruluşunun faaliyet iznini iptal etti",
+   "marka": "Gündem",
+   "kategori": "finans",
+   "oncelik": 2,
+   "tarih": "2026-11-27T21:08:48+00:00",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tcmb-bir-elektronik-para-kurulusunun-faaliyet-iznini-iptal-etti-3795988",
+     "tarih": "2026-11-27T21:08:48+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://www.ekonomim.com/ekonomi/tcmb-bir-odeme-kurulusunun-faaliyet-iznini-iptal-etti-haberi-933931",
+     "tarih": "2026-11-27T21:14:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-fintlixin-faaliyet-iznini-iptal-etti/4141068",
+     "tarih": "2026-11-27T21:40:23+00:00",
+     "guvenilir": true
+    }
+   ],
+   "gorsel": "https://geoim.bloomberght.com/l/2026/11/28/ver1795813754/3795988/jpg/1280x720",
+   "yorum": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Fintlix Elektronik ve Para Ödeme Hizmetleri A.Ş.'nin faaliyet iznini iptal etti. İptal kararı, Resmi Gazete'de yayımlanan tebliğde 20/6/2013 tarih ve 6493 sayılı kanun kapsamında, 17/10/2024 tarih ve 11727/21326 sayılı kararına dayanılarak verildi. Karar, kanunun 16. maddesinin birinci fıkrasının (b) bendine ve 19. maddesine göre alındı. TCMB, elektronik para kuruluşunun faaliyet izninin iptaline ilişkin bu adımı açıkladı.",
+   "neden": "",
+   "gundem": true,
+   "onem": 4,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
   {
    "id": "2fea2b243c2f",
    "baslik": "Reeder yüzde 300 bedelsiz sermaye artırımından vazgeçti",
@@ -307,10 +341,92 @@
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd28tTjd5SkhUbExDS2tKVHJXV3JJVnRTOFNMQWFQNU04TE9wcEhVZnRMWTdyWFZDWXNMejB5WFhEa2J0THlUY3VWSXFyNlpNVTg2MGFORnB1aC14UUxRUUhhOGY4a1M0cmNLeHphZWc2LTZFX1dfMW45MjE1Z2x3MVJEeDAyLUtYNEkwcHFRczdndmZGUURXTUo0RQ?oc=5",
      "tarih": "2026-11-27T13:34:13+00:00",
      "guvenilir": false
+    },
+    {
+     "ad": "Ekonomim",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlJRdk1ucE1wbE9uem4yQ05TUjhRei1UdWNuV0tMaGZUTm1rXzZsNzhUa1A0bFFyeHd1d1p2T0hDRjVmanNJZ1NmbE9mUlNmeUNVY3p3ZFc5NFRRcndIUVpwUklUX1g4dHV3VGlGN0RJaHRDOGdyUHVQYlB4SFFfT21OYXlqY3c1NUVRRFRCRFJpS2ZOaUl0NnlLWFZsVkpUdXhEbHlxWGRENzZWQzg1UkZocTd5UWxFcmZGUUlR?oc=5",
+     "tarih": "2026-11-27T07:48:00+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjR4dDJtOFlzVUlxeEtxTFRpcDJLVDFvSE9wMmlYZFZWamUtbEJ5d2lUdVlnWk1KU1QwaGZBN1N5RkUxSWNlT0lLTnRQQ0pPc3NwbkdxdHZOQ3ByQl9VRVcwV1hSclRwLXF3T3NvYVBaUEp4R09Bd0J4YXFKWmlPd2FJdmcxUFhVSHVBa0J6Ny1VNTZMT1ppeS1makljVXhDeHR0UzRyeWp0R0pTd2VWN29sd2pJckpIdUNNNUtEcklnYkhBWkdGU1RvczgzVFp3ZnhCOE1JVQ?oc=5",
+     "tarih": "2026-11-27T08:37:32+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "ShiftDelete.Net",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUxsc21rMnd0UzQxUHZZR09JTXJvVS1TUVB3czBuRGNNY2EyLVoydHQySVJQQU51SjBGbVVrVXIzVHdja0poT20yYVpkOWcxN1M2d2NSbVc2eEt4MW1CVFZFWTZwZzd6dk5XZm1aZGpwaHFJblg0NVhlVUw3aVFKQ08yUmJ3MmM?oc=5",
+     "tarih": "2026-11-27T08:15:47+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Nefes Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZUE2TjFkTTM3Wm5vaFJucGp0SnJ0WW9TaGNIQkhBNk9MOFpmQ2NKNzA1UEc3WlFzZEFnM3h0ZS11eGFId3BkTmJLR3hrTUU5MHNlOE53NF9YM00tckF0RWxGUWd6djZEdXJxS0ZsWVB6cG9GT3V0QUFueWJGQ3lKRjdxZ2F3Y3VpbzY2V2Iyd21McjUyUWVBMjN0ZU1lWFhXUFN6RlpZd1d2d2Nwa21BTTE0SUwzTUdNWGlFb1NHY2duZlk?oc=5",
+     "tarih": "2026-11-27T09:21:29+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "İlke Kocaeli",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX1FPZzk0UVdXaGc1UWZabU8zNDV3S00zX2hBbTBnVmhtZzl5bFNjVVZIaGI0SFFpLVRVN0tVSDJrYWNqSnMyWjZ0RHZqem9oay1aYV9tRFkxX0FpTVUxZU1pZ3pCU0NrckhtelhRbENWemZPcVVwWDJQdm11UW03aW1qU3BYWFJFM3o4UFlVZTJoRmJwYlZlcnhlVU1SZXpKNVIyZQ?oc=5",
+     "tarih": "2026-11-27T12:45:43+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Haber Gazetesi",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWNYYXR2bnR2amNYcFprazc1VWh5ZkVTWXVISFZNNS1WSG1MTi1IMllwXzlFX1hTbGd3N2VhSWtudTNVRkthZFhoLTNiNmM1OGFRRlV4eGtDYzRObFpBUVVXbUZXUXlQQmlTWS10cXk1S0JZaVloQWxZMnpLbnJmd1dIa2Jvc00tTGczOXMyTE1pSWJjN3RuRW9DWHdBNUQ3bzJCODFEUQ?oc=5",
+     "tarih": "2026-11-27T14:10:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Yeni Alanya",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3AwcmFQYV9fMVF6YlV6anNtTkM5Qk1KN2stY3BzdGZobWt3QVNCTWdzalpWTVBYcVRRWWVVVzJZMDM1VTVkVlhMQmEtbEx1S0p4V0FLbUpHaDlSUW1TMU05ZjFsaThESVNfVWw3SGozR1FWV3NlTHBTalRzbDBQUkxGbkYxdlRrX3JHTQ?oc=5",
+     "tarih": "2026-11-27T15:29:00+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "Teknoblog",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUVqcEw5MjNJM1ZXWm1WT2Q3RGxwVHBxQ2l0QWhUdHZFd1RvMEZEQXRIbDd6VzZ4bVJLeFpxejBWMV9BTTBsTG12UlE1aUd3NFFzeW85UEFINHdqeE5wYkttRzJuU3EyVTl5VEtId3AyVjVFT3RiMG1ORGZWdVM0WjZYVFBNLUs4N0NKMg?oc=5",
+     "tarih": "2026-11-27T18:31:23+00:00",
+     "guvenilir": false
     }
    ],
    "gorsel": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/27/thumbs_b_c_72eb4ba3533ef53a3fac96f7e5978086.jpg",
    "yorum": "Rekabet Kurulu, iki cep telefonu şirketi ve üç teknoloji şirketi hakkında soruşturma başlattı; bu şirketler arasında Xiaomi de yer alıyor.",
+   "neden": "",
+   "gundem": false,
+   "onem": 3,
+   "model": "Groq (openai/gpt-oss-120b)"
+  },
+  {
+   "id": "720db45c619e",
+   "baslik": "Teknosa, iş ortaklarıyla ‘Birlikte Güçlü’ mottosuyla buluştu",
+   "marka": "Teknosa",
+   "kategori": "elektronik",
+   "oncelik": 1,
+   "tarih": "2026-11-27T07:38:23+00:00",
+   "kaynaklar": [
+    {
+     "ad": "DHA | Demirören Haber Ajansı",
+     "url": "http://www.dha.com.tr/amp/ekonomi/teknosa-is-ortaklariyla-birlikte-guclu-mottosuyla-bulustu-2989559",
+     "tarih": "2026-11-27T07:38:23+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habertürk",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zdWhEaDQycUYzU3ljNThKZFBXMWlGQnZxY2ZkaG92Vm56SUJsNTB6ci1kenR2Wi1BVW91VEU4cVpmY2tUZ3dJcjlwcEJraENOejhDcVMwVFBrQ0FsbTRNRjBSb0lScXRyZ0J2UXg1OXZ3N3VaX2x5ejZDNjBDdw?oc=5",
+     "tarih": "2026-11-27T13:44:51+00:00",
+     "guvenilir": true
+    },
+    {
+     "ad": "Habername.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTk9wVHF2N215Y2VaNmw0SGJVcDRDVm9NOGJra2tHMm5rQ2owVnBsSzQtY3lLTG9wNmNEc2FZQkEyZkJPbTJoZlVDTUZzMDRGTHlHbl9uZkNIanFETnBKZDhWUHlPQnpoX0VXV0FUQ243UkxFa2MwMVF4M2JmeEJQRWFwWk8wMlhjNjhpRW9xdFhsV2FFRU9DeXZ2VHJvOUVycnlaYjVvQXlUeHhwR01obk5R0gGyAUFVX3lxTE1OT3BUcXY3bXljZVo2bDRIYlVwNENWb004Ymtra0cybmtDajBWcGxLNC1jeUtMb3A2Y0RzYVlCQTJmQk9tMmhmVUNNRnMwNEZMeUduX25mQ0hqcUROcEpkOFZQeU9CemhfRVdXQVRDbjdSTEVrYzAxUXgzYmZ4QlBFYXBaTzAyWGM2OGlFb3F0WGxXYUVFT0N5dnZUcm85RXJyeVpiNW9BeVR4eHBHTWhuTlE?oc=5",
+     "tarih": "2026-11-27T08:41:26+00:00",
+     "guvenilir": false
+    }
+   ],
+   "gorsel": null,
+   "yorum": "Sabancı Holding iştiraki Teknosa, İstanbul Feriye'de İş Ortakları Buluşması düzenledi. Etkinlikte teknoloji markaları, finans kuruluşları, distribütörler ve gayrimenkul yatırımcıları bir araya geldi. Teknosa, yeni Teknosa Partner Programı'nı tanıtarak iş ortaklarıyla birlikte değer yaratma ve büyüme fırsatları sunmayı hedefledi. Program, müşterinin ürünle ilk temasından satın alma kararına kadar bütüncül bir deneyim oluşturmayı ve iletişim‑satış etkinliğinin ölçülebilir hâle getirilmesini amaçlıyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
@@ -650,6 +766,12 @@
      "ad": "urfadabugun",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3Y3WWhwc2hzUE9nOERJTmdfRy1aUXFVQUtEVEd2bEFCZG5WZVRFeU01bnE1dFBLbUNaa3VjMmFvb2d2dEhXX2xhRWZUSXh5ZGhiTUNyWWZzNU10TDZJTjdEelprdkIwc0ppOFpEOWFHYjdlT3ByX0g4LWk5YWV1c0xQMG95emFxeGJpNlA5SHI0NkNNa0gyLTgwYmJQTDlUZHVwd1ZPSGdMOHNvSzM5LXBscG4wc0c0?oc=5",
      "tarih": "2026-11-25T15:40:20+00:00",
+     "guvenilir": false
+    },
+    {
+     "ad": "ParaMedya",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbW5KbXU3cWZLcmRMZUNQOExtS05qNHU2LUxySGRFY1dra2tCdjFBMW1uOXpwaWJHenFKSldvaEtPN3c3TWlVamJDemtJbnNQUTVIaW5YSkhSRWcyVHcyMktPS1JUZXJBVVlmSkc5bWYyR1ZwQ0tTdklkd28zRDk0V1hKWVpKbG5PTFZZd2FJcHBSbFFMYUlObFpR0gGfAUFVX3lxTE1qSllQN3hqRlFXaUtNSy1td0RWdDU4WE5RVW5NLUVfSHhRVG1Xbm5RQ0hfei1xVnlfNHRla0swQWxLcExkUEpJcnlnVDdPXzVPbkNJWjRnZG5aNFhYQ09aLU1GR19SdU11MU1DVmJUUmptajZKQm5CYTNZYkNESW9sSjBsV3pUVTVLSFpXSnQ3Y3o1UG1Rdmp4SmxZTGptSQ?oc=5",
+     "tarih": "2026-11-27T20:09:17+00:00",
      "guvenilir": false
     }
    ],
@@ -3799,28 +3921,6 @@
    ],
    "gorsel": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/11/08/esnaf-c3pj_cover.jpg",
    "yorum": "Türkiye Esnaf ve Sanatkarları Konfederasyonu (TESK) Genel Başkanı Mehmet Yiğiner, kasım ayı indirimlerinin perakende esnafının satış beklentilerini artırdığını belirtti. Özellikle kampanyaların müşteri trafiği ve cirolara olumlu yansıyacağı vurgulandı.",
-   "neden": "",
-   "gundem": false,
-   "onem": 3,
-   "model": "Groq (openai/gpt-oss-120b)"
-  },
-  {
-   "id": "c241d6c48b53",
-   "baslik": "Türkiye'de online alışverişte dikkat çeken sonuç, tüketicinin yüzde 69'u bunu yapmıyor",
-   "marka": "Gündem",
-   "kategori": "ev",
-   "oncelik": 2,
-   "tarih": "2026-11-07T14:56:00+00:00",
-   "kaynaklar": [
-    {
-     "ad": "Ekonomim",
-     "url": "https://www.ekonomim.com/ekonomi/turkiyede-online-alisveriste-dikkat-ceken-sonuc-tuketicinin-yuzde-69u-bunu-yapmiyor-haberi-929830",
-     "tarih": "2026-11-07T14:56:00+00:00",
-     "guvenilir": true
-    }
-   ],
-   "gorsel": "https://img.ekonomim.com/storage/files/images/2026/11/07/turkiyede-online-alisveriste-dikkat-ceken-sonuc-tuketicinin-yuzde-69u-bunu-yapmiyor-8mqm_cover.jpg",
-   "yorum": "Ekonomim'in araştırmasına göre, 2025'te Türkiye'de e‑ticaret hacmi %52,2 artarak 4,57 trilyon TL'yi aşacak. Ancak tüketicilerin %69'u, aynı ürün %10 daha ucuz olsa bile tanımadıkları bir platformdan alışveriş yapmayı tercih etmiyor. Bu durum, fiyat avantajı yerine güven unsurunun ön planda olduğunu gösteriyor.",
    "neden": "",
    "gundem": false,
    "onem": 3,
